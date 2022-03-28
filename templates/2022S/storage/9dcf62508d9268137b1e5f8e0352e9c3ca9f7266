@@ -1,0 +1,1416 @@
+﻿<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://innopolis.com/local/styles/img/socimage.jpg">
+<meta property="og:image:width" content="Innopolis">
+<meta property="og:image:height" content="Innopolis">
+<link rel="image_src" href="https://innopolis.com/local/styles/img/socimage.jpg">
+<meta property="og:title" content="Innopolis">
+<meta property="og:description" content="Иннополис — город высоких технологий, расположенный в Республике Татарстан. Первый российский город, построенный так, как мечтают ИТ-специалисты.">
+<meta property="pageDescription" content="Иннополис — город высоких технологий, расположенный в Республике Татарстан. Первый российский город, построенный так, как мечтают ИТ-специалисты.">
+<meta property="twitterDescription" content="Иннополис — город высоких технологий, расположенный в Республике Татарстан. Первый российский город, построенный так, как мечтают ИТ-специалисты.">
+<meta name="description" content="Иннополис — город высоких технологий, расположенный в Республике Татарстан. Первый российский город, построенный так, как мечтают ИТ-специалисты."/>
+<link rel="apple-touch-icon" sizes="180x180" href="/local/styles/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/local/styles/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/local/styles/img/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/local/styles/img/manifest.json">
+<link rel="mask-icon" href="/local/styles/img/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+<title>Innopolis</title>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1240044163011400');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1240044163011400&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Иннополис — город высоких технологий, расположенный в Республике Татарстан. Первый российский город, построенный так, как мечтают ИТ-специалисты." />
+<link href="/local/styles/css/styles.css?1601113421261744" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/styles/css/backend.css?1601113421332" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script src="https://www.google.com/recaptcha/api.js?onload=initRecaptha&render=explicit&hl=en"></script><script>var recapthaInitAr = {};var recapthaInitArOB = {};function initRecaptha() {for(var key in recapthaInitAr){recapthaInitArOB['recaptha'+recapthaInitAr[key].id] = grecaptcha.render("recaptha"+recapthaInitAr[key].id, {"sitekey" : "6LdbpDkUAAAAAN_yMP21X5VjI9Y7i0dJZfItVTEo", "theme":recapthaInitAr[key].theme});}console.log(recapthaInitAr);console.log(recapthaInitArOB);}</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=initRecaptha&render=explicit&hl=ru"></script><script>var recapthaInitAr = {};var recapthaInitArOB = {};function initRecaptha() {for(var key in recapthaInitAr){recapthaInitArOB['recaptha'+recapthaInitAr[key].id] = grecaptcha.render("recaptha"+recapthaInitAr[key].id, {"sitekey" : "6LdbpDkUAAAAAN_yMP21X5VjI9Y7i0dJZfItVTEo", "theme":recapthaInitAr[key].theme});}console.log(recapthaInitAr);console.log(recapthaInitArOB);}</script>
+
+
+
+<script type="text/javascript" src="/local/styles/js/scripts.js?1601113421284003"></script>
+<script type="text/javascript" src="/local/styles/js/backend.js?16011134218605"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "c8da0d88c5c62f53243e84c166088c07"]); _ba.push(["host", "innopolis.com"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+</head>
+<body class="inner pageBot">
+<div class="cookie-warning">
+    We use cookies to analyze traffic and provide you with better content. Continuing to use our site, you agree to the use of cookie technology.
+    <div class="cookie-warning__close">×</div>
+</div>
+<header>
+        <div class="logo">
+        <a href="/" class="current">
+            <img src="/local/styles/img/logo.svg" alt="Иннополис" width="113" height="22">
+        </a>
+        <span class="icon-beta" href="#bagreport_modal" data-fancybox></span>
+    </div>
+</header>
+<div class="burger js-menushow"></div>
+<div class="bodywrapper">
+    <div class="content">
+        <div class="wrapper">
+            <aside class="colLeft sticky">
+                <nav class="menuLeft">
+                    <ul>
+                        <li><a href="#en-about" class="js-pagego">About</a></li>
+                        <li><a href="#en-history" class="js-pagego">History</a></li>
+                        <li><a href="#en-infrastructure" class="js-pagego">Infrastructure</a></li>
+                        <li><a href="#en-sez" class="js-pagego">Sez</a></li>
+                        <li><a href="#en-university" class="js-pagego">University</a></li>
+                        <li><a href="#en-business" class="js-pagego">Business</a></li>
+                        <li><a href="#en-jobs" class="js-pagego">Jobs</a></li>
+                        <li><a href="#en-photos" class="js-pagego">Photo gallery</a></li>
+                        <li><a href="#en-mayor" class="js-pagego">Mayor’s office</a></li>
+                        <li><h6><a href="#en-form" class="js-pagego">Become resident</a></h6></li>
+                    </ul>
+                </nav>
+            </aside>
+            <article class="colCenter">
+                <div class="colCenterBlock">
+<div class="pageIn">
+	<div class="picHead picHead2">
+		<div class="overflow">
+			<div class="picHeadImg">
+ <a href="https://www.youtube.com/watch?v=0u9OHxSSTvY" class="picHeadVideo picHeadVideo2 js-fancy-video">
+				<div data-parallax="{&quot;y&quot;: 300,&quot;smoothness&quot;: 0}">
+ <img width="1500" alt="Innopolis Special Economic Zone" src="/local/styles/img/enhead.jpg" height="650">
+				</div>
+ <span class="videoName">
+				2:16 <small>Innopolis Special Economic Zone</small> </span> </a>
+			</div>
+		</div>
+	</div>
+	<div class="picName">
+	</div>
+</div>
+<h1 class="h1Big pageIn" id="en-about">High Tech City</h1>
+<div class="col50 left pageIn">
+	<p class="blue">
+		 Innopolis is&nbsp;a&nbsp;new Russian city, located in&nbsp;the Republic of&nbsp;Tatarstan. The city’s economy is&nbsp;based on&nbsp;high-tech industries. In&nbsp;Innopolis, a&nbsp;unique environment has been created that combines a&nbsp;modern residential infrastructure in&nbsp;harmony with the nature, safe environment, and broad opportunities for education and professional development.
+	</p>
+	<div class="h50">
+	</div>
+	<h2 id="en-history">History of&nbsp;Innopolis</h2>
+</div>
+<div class="clear">
+</div>
+<div class="col50 left pageIn">
+	<p>
+		 On&nbsp;June 9, 2012 Dmitry Medvedev, the Chairman of&nbsp;the Government of&nbsp;the Russian Federation, together with Rustam Minnikhanov, the President of&nbsp;the Republic of&nbsp;Tatarstan, and Nikolay Nikiforov, Minister of&nbsp;Communications and Mass Media of&nbsp;the Russian Federation, laid a&nbsp;capsule with a&nbsp;message to&nbsp;future residents at&nbsp;the ground-breaking site of&nbsp;the construction.
+	</p>
+	<p>
+ <strong>Three years later, on&nbsp;June 9, 2015, Innopolis held its foundation ceremony: a&nbsp;new city’s life was officially launched.</strong>
+	</p>
+</div>
+<div class="col30_2 right pageIn">
+	<div class="blueBlock">
+		<h6>The total area of&nbsp;Innopolis to&nbsp;be&nbsp;developed over various phases of&nbsp;settlement</h6>
+		<div class="cost">
+			 118,72 hectares
+		</div>
+	</div>
+</div>
+<div class="h50">
+</div>
+<div class="histItem">
+	<div class="z5 pageIn">
+ <img width="1500" src="/local/styles/img/24.jpg" height="600" alt="" class="picw100 m0 pageIn">
+		<p class="picName pageIn">
+		</p>
+	</div>
+	<div class="col60 z5 left pageIn">
+		<div class="histText">
+			<h3 class="histBull">2013 December</h3>
+			<p>
+				 City constructions begins in&nbsp;accordance with the master plan of&nbsp;Dr. Liu Thai Ker, Chief Architect of&nbsp;Singapore
+			</p>
+		</div>
+	</div>
+	<div class="clear">
+	</div>
+</div>
+<div class="histItem">
+	<div class="col60 z5 left pageIn">
+ <img width="903" src="/local/styles/img/51.jpg" height="600" alt="" class="picw100 m0 pageIn">
+		<p class="picName pageIn">
+		</p>
+	</div>
+	<div class="clear">
+	</div>
+	<div class="col60 z5 left pageIn">
+		<div class="histText">
+			<h3 class="histBull">2013 June</h3>
+			<p>
+				 First students start their studies at&nbsp;Innopolis University
+			</p>
+		</div>
+	</div>
+	<div class="clear">
+	</div>
+</div>
+<div class="histItem">
+	<div class="col60 z5 left pageIn">
+ <img width="914" src="/local/styles/img/52.jpg" height="440" alt="" class="picw100 m0 pageIn">
+		<p class="picName pageIn">
+		</p>
+	</div>
+	<div class="clear">
+	</div>
+	<div class="col60 z5 left pageIn">
+		<div class="histText">
+			<h3 class="histBull">2014 December</h3>
+			<p>
+				 City constructions begins in&nbsp;accordance with the master plan of&nbsp;Dr. Liu Thai Ker, Chief Architect of&nbsp;Singapore
+			</p>
+		</div>
+	</div>
+	<div class="clear">
+	</div>
+</div>
+<div class="histItem last">
+	<div class="col60 z5 left pageIn">
+ <img width="900" src="/local/styles/img/15.jpg" height="440" alt="" class="picw100 m0 pageIn">
+		<p class="picName pageIn">
+		</p>
+	</div>
+	<div class="clear">
+	</div>
+	<div class="col60 z5 left pageIn">
+		<div class="histText">
+			<h3 class="histBull">2015 June</h3>
+			<p>
+				 The official openning of&nbsp;the city of&nbsp;Innopolis
+			</p>
+		</div>
+	</div>
+	<div class="clear">
+	</div>
+</div>
+<div class="clear">
+</div>
+<div class="col50 pageIn" id="en-infrastructure">
+	<h2>Infrastructure</h2>
+	<p>
+		 All the necessary infrastructure is&nbsp;already built in&nbsp;the city, while active development continues. In&nbsp;keeping to&nbsp;the urban development plan, the Infrastructure will be&nbsp;continually expanded. At&nbsp;present, Innopolis provides its residents with the following amenities
+	</p>
+</div>
+<div class="h30">
+</div>
+<div class="col50 left pageIn">
+	<h3>Multifamily houses and townhouses</h3>
+	<p>
+		 Modern, high-quality residential infrastructure is&nbsp;another competitive advantage of&nbsp;Innopolis. The majority of&nbsp;the apartments are leased to&nbsp;residents and include all necessary furniture and household appliances. Special attention is&nbsp;paid to&nbsp;development of&nbsp;social infrastructure of&nbsp;the city.
+	</p>
+</div>
+<div class="textRight50 tCenter pageIn">
+	<div class="numbBlock">
+		<div class="numbCont">
+			 5000 people <small>the city can accommodate by&nbsp;the end of&nbsp;the first phase of&nbsp;development</small>
+		</div>
+	</div>
+</div>
+<div class="h30">
+</div>
+     <div class="slider js-slider pageIn">
+        <ul>
+                                                            <li>
+                    <a href="/upload/iblock/476/faa2d8ead753edcde7b844a880ab918b.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/476/900_400_1/faa2d8ead753edcde7b844a880ab918b.jpg" alt=""
+                             width="646" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/867/1500_900_1/pol_5193.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/867/900_400_1/pol_5193.jpg" alt=""
+                             width="601" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/iblock/f9e/150807_dsc_9229_platonov.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/f9e/900_400_1/150807_dsc_9229_platonov.jpg" alt=""
+                             width="900" height="390">
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <p class="picName pageIn"></p>
+<div class="h30">
+</div>
+<div class="col50 left pageIn">
+	<h3>Sports complex</h3>
+	<p>
+		 The total complex area is&nbsp;9,000 square meters. It&nbsp;offers residents and city guests a&nbsp;universal sports hall for team sports, gym and swimming pool. In&nbsp;the city’s immediate vicinity, the Kazan Ski Sports Complex houses restaurants, hotels, a&nbsp;recreational center, and a&nbsp;golf course.
+	</p>
+</div>
+<div class="h30">
+</div>
+     <div class="slider js-slider pageIn">
+        <ul>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/01c/1500_900_1/IMG_0667.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/01c/900_400_1/IMG_0667.jpg" alt=""
+                             width="600" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/6c4/1500_900_1/IMG_0513.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/6c4/900_400_1/IMG_0513.jpg" alt=""
+                             width="600" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/65c/1500_900_1/fooq3nj_tjw.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/65c/900_400_1/fooq3nj_tjw.jpg" alt=""
+                             width="599" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/62e/1500_900_1/1ljhowmqdd8.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/62e/900_400_1/1ljhowmqdd8.jpg" alt=""
+                             width="599" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/861/1500_900_1/krzr3fmkvbu.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/861/900_400_1/krzr3fmkvbu.jpg" alt=""
+                             width="599" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/iblock/bc6/gnwigrpuioy.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/bc6/900_400_1/gnwigrpuioy.jpg" alt=""
+                             width="601" height="400">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/ff5/1500_900_1/nfeblagdfh0.jpg" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/ff5/900_400_1/nfeblagdfh0.jpg" alt=""
+                             width="601" height="400">
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <p class="picName pageIn"></p>
+<h3 class="pageIn">Innopolis&nbsp;School</h3>
+<div class="col50 left pageIn">
+	<p>
+		 Education includes primary school for 2—11 years old young residents of the city of Innopolis, designed for 225 children. Teachers are engaged in both physical and artistic-aesthetic education of children: swimming, painting, mental arithmetic, robotics etc.
+	</p>
+	<p>
+		 Basic and secondary education program for 5—11 grades: the school sets an ambitious aim of fusing the best practices of the Russian and foreign education systems, while combining advanced teaching methods, innovative technologies, and teachers capable of delivering educational material in an interesting and comprehensible way.
+	</p>
+</div>
+<div class="h30">
+</div>
+     <div class="slider js-slider pageIn">
+        <ul>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/3c7/1500_900_1/POL_9312.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/3c7/900_400_1/POL_9312.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/649/1500_900_1/POL_9348.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/649/900_400_1/POL_9348.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/68a/1500_900_1/POL_2622.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/68a/900_400_1/POL_2622.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/c91/1500_900_1/POL_2613.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/c91/900_400_1/POL_2613.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/b96/1500_900_1/POL_2563.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/b96/900_400_1/POL_2563.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/697/1500_900_1/POL_2528.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/697/900_400_1/POL_2528.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <p class="picName pageIn"></p>
+<h3 class="pageIn">Kindergarten</h3>
+<div class="col50 left pageIn">
+	<p>
+		 It&nbsp;is&nbsp;an&nbsp;educational center for 2—7 years old young residents of&nbsp;the city of&nbsp;Innopolis, designed for 225 children. The training was organized by&nbsp;British standards of&nbsp;international pre-school education. English-speaking and Russian-speaking teachers are engaged in&nbsp;both physical and artistic-aesthetic education of&nbsp;children.
+	</p>
+</div>
+<div class="h30">
+</div>
+     <div class="slider js-slider pageIn">
+        <ul>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/e0d/1500_900_1/POL_9312.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/e0d/900_400_1/POL_9312.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/e50/1500_900_1/4.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/e50/900_400_1/4.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/f7d/1500_900_1/POL_9348.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/f7d/900_400_1/POL_9348.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/bb8/1500_900_1/POL_3352.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/bb8/900_400_1/POL_3352.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/684/1500_900_1/5.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/684/900_400_1/5.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <p class="picName pageIn"></p>
+<div class="h30">
+</div>
+<h1 class="pageIn" id="en-sez">Special economic zone</h1>
+<div class="h20">
+</div>
+<div class="picLeft50 pageIn">
+ <img width="800" src="/local/styles/img/48.jpg" height="600" alt="">
+</div>
+<div class="textRight50 pageIn">
+	<div class="mw400">
+		<p class="s24">
+			 The Innopolis Special Economic Zone (SEZ) was established on&nbsp;the territory of&nbsp;the city in&nbsp;order to&nbsp;bring to&nbsp;Innopolis the largest and promising technology companies from all over the world.
+		</p>
+		<p>
+			 Accommodation in&nbsp;Innopolis SEZ gives a&nbsp;set of&nbsp;advantages to&nbsp;companies. A&nbsp;key infrastructure facility of&nbsp;the SEZ is&nbsp;the Technopark. It&nbsp;is&nbsp;a&nbsp;complex of&nbsp;modern buildings, in&nbsp;which all conditions for residents’ comfortable work are created.
+		</p>
+		<p>
+			 At&nbsp;the moment, A. S. Popov Administrative and Business Center designed for 2,500 specialists is&nbsp;ready for operation.
+		</p>
+	</div>
+</div>
+<div class="h50">
+</div>
+<div class="col40 left pageIn pageIn" id="en-university">
+	<h2>University</h2>
+	<p class="s24">
+		 Specializing in&nbsp;the field of&nbsp;modern information technologies, Innopolis University is&nbsp;not only one of&nbsp;Russia’s youngest universities, but also the new city’s intellectual center.
+	</p>
+	<p>
+		 The teaching staff consists of&nbsp;leading Russian and foreign IT&nbsp;specialists and robotic science.
+	</p>
+	<p>
+		 Driven by&nbsp;the demands of&nbsp;both business and industry, the educational programs are committed to&nbsp;producing a&nbsp;high-quality stream of&nbsp;professionals for companies located in&nbsp;Innopolis.
+	</p>
+ <br>
+	<p class="blue s36">
+		 — 771 students
+	</p>
+	<p>
+		study at&nbsp;Innopolis University in&nbsp;September 2019
+	</p>
+</div>
+<div class="col50 right pageIn">
+ <img width="678" src="/local/styles/img/49.jpg" height="588" alt="" class="picw100">
+</div>
+<div class="h50">
+</div>
+<div class="picLeft50 pageIn">
+ <img width="830" src="/local/styles/img/50.jpg" height="500" alt="">
+</div>
+<div class="textRight50 pageIn" id="en-business">
+	<div class="mw400">
+		<h2>Business Opportunities</h2>
+		<p class="s24">
+			 For companies, individuals, and investors, Innopolis offers a&nbsp;wide profile of&nbsp;business opportunities in&nbsp;the high-tech, retail, service, and entertainment industries.
+		</p>
+		<p>
+			 Interested parties can leave their contact information, and the city’s administration will be&nbsp;in&nbsp;touch shortly to&nbsp;discuss the opportunities for business in&nbsp;Innopolis.
+		</p>
+	</div>
+</div>
+<div class="h30">
+</div>
+<div class="pageText">
+	<div class="overflow colText pageIn" id="en-jobs">
+		<h2 class="pageIn">Work in&nbsp;Innopolis</h2>
+		<p>
+			 Our «ideal resident» is&nbsp;inspired by&nbsp;new ideas and technologies, appreciates a&nbsp;comfortable urban environment, enjoys the challenge of&nbsp;innovation, and actively pursues continuous professional development.
+		</p>
+		<p>
+			 If&nbsp;you fit this description and you want to&nbsp;work in&nbsp;Innopolis, please, send your CV&nbsp;to&nbsp;the following e-mail address: <a href="mailto:challenge@innopolis.ru">challenge@innopolis.ru</a>
+		</p>
+		<p>
+ <a href="https://tatarstan.hh.ru/employer/1740229" target="_blank" class="btn">View jobs &nbsp;<span class="icon-blank"></span> </a>
+		</p>
+	</div>
+</div>
+<div class="h30">
+</div>
+     <div class="slider js-slider pageIn">
+        <ul>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/b58/1500_900_1/POL_3055.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/b58/900_400_1/POL_3055.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/iblock/dbe/1-2.JPG" data-fancybox="photos1">
+                        <img src="/upload/iblock/dbe/1-2.JPG" alt=""
+                             width="400" height="266">
+                    </a>
+                </li>
+                                                            <li>
+                    <a href="/upload/resize_cache/iblock/9f7/1500_900_1/5.JPG" data-fancybox="photos1">
+                        <img src="/upload/resize_cache/iblock/9f7/900_400_1/5.JPG" alt=""
+                             width="601" height="399">
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <p class="picName pageIn"></p>
+<div class="h30">
+</div>
+<div class="pageIn" id="en-mayor">
+	<h1>Mayor’s office</h1>
+	<p class="s24">
+ <img width="11" src="/local/styles/img/pin.svg" height="14" alt=""> Innopolis city, University street, Building 1
+	</p>
+</div>
+<div class="pageText">
+	<div class="overflow colText left pageIn">
+		<p>
+			 The activity of&nbsp;the Mayor’s Office of&nbsp;the city of&nbsp;Innopolis is&nbsp;focused on&nbsp;creating a&nbsp;unique ecosystem with modern residential infrastructure, a&nbsp;safe environment for living and working, and ample opportunities for education and professional development. Ultimately, the key performance indicator of&nbsp;the Mayor’s Office work is&nbsp;«the happiness of&nbsp;its residents».
+		</p>
+	</div>
+	<div class="col30_2 right pageIn">
+		<div class="blueBlock">
+			<p>
+ <strong>Phone:</strong> <a href="tel:+78432122724" class="linktel2">+7&nbsp;(843)&nbsp;212-27-24</a> <br>
+ <strong>E-mail:</strong> <a href="mailto:city@innopolis.ru" class="linktel2">city@innopolis.ru</a>
+			</p>
+		</div>
+	</div>
+</div>
+<div class="h30">
+</div>
+<h3 class="pageIn" id="en-form">Contact us</h3>
+<div class="col30_2 right pageIn">
+	<div class="blueBlock">
+		<p>
+ <strong>Concierge service 24/7</strong><br>
+		</p>
+		<p>
+ <strong>Email</strong> <a href="mailto:helpme@innopolis.ru">helpme@innopolis.ru</a><br>
+ <strong>Phone</strong> 8 800 222-22-87
+		</p>
+	</div>
+</div>
+<div class="col60_2 colText left pageIn">
+	 <div class="form_block">
+    <form action="/en/" id="form61293"
+          method="post"
+          enctype="multipart/form-data" novalidate="novalidate" class="form formPage">
+                                                                                                                    <input name="IBLOCK_ID" type="hidden"
+                       value="49">
+                                                <input name="FORM_ID" type="hidden"
+                       value="61293">
+                                                <input name="FORM_AJAX_MODE" type="hidden"
+                       value="Y">
+                            <p></p>
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_FIO"
+                   id="PROP_FIO" required>
+            <label for="PROP_FIO">Name</label>
+        </div>
+        <div class="lineForm left">
+            <input type="email" class="inpText" name="PROP_EMAIL"
+                   id="PROP_EMAIL" required>
+            <label for="PROP_EMAIL">Email</label>
+        </div>
+        <div class="lineForm right">
+            <input type="tel" class="inpText js-phone" name="PROP_PHONE"
+                   id="PROP_PHONE">
+            <label for="PROP_PHONE">Phone</label>
+        </div>
+        <div class="lineForm">
+            <textarea class="inpText js-textarea" name="PROP_MESSAGE"
+                      id="PROP_MESSAGE" cols="40"
+                      rows="1" required></textarea>
+            <label for="PROP_MESSAGE">Your message</label>
+        </div>
+        <div class="captchaLine">
+                            <div class="reCaptcha">
+                    <div id="recaptha61293" class="recaptha-widget"></div><input type="hidden" name="recaptha_ip" value="188.130.155.148"><input type="hidden" name="recaptha_id" value="61293">                </div>
+                        <div class="overflow">
+                By clicking on the button «Send message» you consent to the processing of your personal data in <a
+                        href="/upload/medialibrary/921/921a3ea68ffea07ce8c91d13c4a268a6.pdf" target="_blank">accordance</a> with Article 9 of the Federal Law of July 27, 2006 N 152-FZ «On Personal Data»
+            </div>
+        </div>
+        <div class="sbmLine">
+            <input type="submit" value="Send message" class="btn btn5">
+            <!-- просто анимация появления formOk -->
+        </div>
+    </form>
+
+    <div class="formOk">
+        <div class="bPic"><img src="/local/styles/img/ok.svg" alt="" width="" height=""></div>
+        <h3>Thank you</h3>
+        <p>Your message has been sent</p>
+    </div>
+            <script>recapthaInitAr[61293] = {"id":61293, "theme": "light"}</script>                <script>
+            $(document).ready(function () {
+                $('#form61293').on('submit', function (e) {
+                    e.preventDefault();
+                    var self = $(this);
+                    if (self.valid()) {
+                        var data = new FormData(self[0]);
+                        $.ajax({
+                            url: self.attr('action'),
+                            data: data,
+                            method: 'POST',
+                            dataType: 'JSON',
+                            contentType: false,
+                            processData: false,
+                            success: function (answ) {
+                                if (answ.status == true) {
+                                    //self.find("input[type!='hidden'], input[type!='submit'], textarea").val('');
+                                    self.find(".inpText,.js-file").val('');
+                                    $('.js-file').trigger('refresh');
+                                    filled();
+                                    setTimeout(function () {
+                                        self.closest('.modalform').find('.formOk').hide();
+                                        self.fadeIn(300);
+                                    },10000);
+
+                                    self.hide();
+                                    self.closest('.form_block').find('.formOk').fadeIn(300);
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61293']);                                                                    }
+                                else {
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61293']);                                                                    }
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
+</div>
+<div class="h50">
+</div>
+<br></div>
+</article>
+</div>
+<div class="menuModal">
+    <div class="mmTop">
+
+    </div>
+    <div class="menuModalCol left">
+        <div class="mmContent mobhide">
+            &nbsp;
+        </div>
+    </div>
+    <div class="menuModalCol right">
+        <div class="mmTop">
+            <div class="lang lang2 left">
+                <a href="/">Рус</a> / <a href="/en/" class="current">Eng</a>
+            </div>
+            <!--<div class="right">
+                <a href="#" class="btn">Войти</a>
+            </div> -->
+        </div>
+        <div class="mmContent">
+            <div class="mmTags">
+                <ul class="mMenu mMenuEN">
+                    <li>
+                        <a href="http://university.innopolis.ru/en/" target="_blank">University</a>
+                    </li>
+                    <li>
+                        <a href="https://university.innopolis.ru/education/pre/school/" target="_blank">School</a>
+                    </li>
+                    <li>
+                        <a href="https://tatarstan.hh.ru/employer/1740229" target="_blank">Jobs</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="mmColMob fFade">
+                <h6>Concierge service 24/7</h6>
+                <a href="tel:88002222287" class="linktel">8 800 222-22-87</a>
+                <p>
+                    The easiest way to obtain useful information about Innopolis
+                </p>
+                <a href="mailto:helpme@innopolis.ru">helpme@innopolis.ru</a>
+            </div>
+
+
+        </div>
+
+
+        <div class="mmFooter mmFooterEN fFade2">
+                <div class="left">
+                    <a href="https://www.facebook.com/innopolis.ru" target="_blank">Facebook</a>
+                    <a href="https://tatarstan.hh.ru/employer/1740229" target="_blank">HeadHunter</a>
+                    <a href="https://twitter.com/InnopolisRUS" target="_blank">Twitter</a>
+                    <a href="https://vk.com/innopolis" target="_blank">VK</a>
+                    <a href="https://www.instagram.com/innopolis/" target="_blank">Instagram</a>
+            </div>
+
+
+            <div class="right">
+                Made in&nbsp;<a href="//altovision.ru" target="_blank">Alto Vision</a>
+
+            </div>
+        </div>
+
+
+    </div>
+
+
+</div></div>
+<footer class="pageIn">
+    <div class="wrapper">
+    <div class="colCenter">
+        <div class="colCenterBlock">
+            <div class="footerTop">
+                <div class="left consBlock">
+                    <h6>CONCIERGE SERVICE 24/7</h6>
+                    <a href="tel:88002222287" class="linktel">8 800 222-22-87</a>
+                    <br>
+                    <a href="mailto:helpme@innopolis.ru">helpme@innopolis.ru</a>                </div>
+                <div class="right">
+                    © 2022 Innopolis<br>
+Innopolis Mayor’s Office<br>
+Innopolis city, Sports street, Building 114, 420500
+                </div>
+            </div>
+            <div class="mmFooter">
+                    <div class="left">
+                    <a href="https://www.facebook.com/innopolis.ru" target="_blank">Facebook</a>
+                    <a href="https://tatarstan.hh.ru/employer/1740229" target="_blank">HeadHunter</a>
+                    <a href="https://twitter.com/InnopolisRUS" target="_blank">Twitter</a>
+                    <a href="https://vk.com/innopolis" target="_blank">VK</a>
+                    <a href="https://www.instagram.com/innopolis/" target="_blank">Instagram</a>
+            </div>
+
+
+                <div class="right">
+                    Made in&nbsp;<a href="//altovision.ru" target="_blank">Alto Vision</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></footer>
+<div class="svghelp">
+    <svg viewBox="0 0 100 100">
+        <defs>
+            <path id="sqpath" fill="none" d="M49.8,0C13.6,0,0,22.6,0,50.2S13.8,100,50.2,100S100,77.4,100,49.8S86.2,0,49.8,0z"/>
+        </defs>
+        <clipPath id="sqpathclip">
+            <use xlink:href="#sqpath"/>
+        </clipPath>
+    </svg>
+</div><div class="modalform" id="issue_measure_modal">
+    <form action="/en/" id="form61102"
+          method="post"
+          enctype="multipart/form-data" novalidate="novalidate">
+                                                                                                                    <input name="IBLOCK_ID" type="hidden"
+                       value="40">
+                                                <input name="FORM_ID" type="hidden"
+                       value="61102">
+                                                <input name="FORM_AJAX_MODE" type="hidden"
+                       value="Y">
+                            <div class="bPic">
+            <img src="/local/styles/img/bpic1.svg" alt="" width="328" height="47">
+        </div>
+        <h3>Приемная мэра</h3>
+
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_FIO"
+                   id="PROP_FIO" required>
+            <label for="PROP_FIO">Фамилия, имя, отчество</label>
+        </div>
+        <div class="lineForm left">
+            <input type="email" class="inpText" name="PROP_EMAIL"
+                   id="PROP_EMAIL" required>
+            <label for="PROP_EMAIL">Электронная почта</label>
+        </div>
+        <div class="lineForm right">
+            <input type="tel" class="inpText js-phone" name="PROP_PHONE"
+                   id="PROP_PHONE">
+            <label for="PROP_PHONE">Телефон</label>
+        </div>
+        <div class="lineForm">
+            <textarea class="inpText js-textarea" name="PROP_MESSAGE"
+                      id="PROP_MESSAGE" cols="40"
+                      rows="1" required></textarea>
+            <label for="PROP_MESSAGE">Ваше сообщение</label>
+        </div>
+        <div class="captchaLine">
+                            <div class="reCaptcha">
+                    <div id="recaptha61102" class="recaptha-widget"></div><input type="hidden" name="recaptha_ip" value="188.130.155.148"><input type="hidden" name="recaptha_id" value="61102">                </div>
+                        <div class="overflow">
+                Нажимая на кнопку «Отправить заявку» Вы даете согласие на обработку своих
+                <a href="/upload/medialibrary/2e1/2e15568c9da123aa567956ed505e2e32.pdf" target="_blank">персональных данных</a> в соответствии со статьей 9 Федерального закона от 27 июля
+                2006 г. N 152-ФЗ «О персональных данных»
+            </div>
+        </div>
+        <div class="sbmLine">
+            <input type="submit" value="Отправить заявку" class="btn btn2">
+            <!-- просто анимация появления formOk -->
+        </div>
+    </form>
+
+    <div class="formOk">
+        <div class="bPic"><img src="/local/styles/img/ok.svg" alt="" width="" height=""></div>
+        <h3>Заявка успешно отправлена</h3>
+        <p>Цель Иннополиса — стать ИТ-столицей России, таким новым городом, где разрабатываются
+            и коммерциализируются лучшие инновационные решения.</p>
+    </div>
+            <script>recapthaInitAr[61102] = {"id":61102, "theme": "light"}</script>                <script>
+            $(document).ready(function () {
+                $('#form61102').on('submit', function (e) {
+                    e.preventDefault();
+                    var self = $(this);
+                    if (self.valid()) {
+                        console.log(123);
+
+                        var data = new FormData(self[0]);
+                        $.ajax({
+                            url: self.attr('action'),
+                            data: data,
+                            method: 'POST',
+                            dataType: 'JSON',
+                            contentType: false,
+                            processData: false,
+                            success: function (answ) {
+                                if (answ.status == true) {
+                                    //self.find("input[type!='hidden'], input[type!='submit'], textarea").val('');
+                                    self.find(".inpText,.js-file").val('');
+                                    $('.js-file').trigger('refresh');
+                                    filled();
+                                    setTimeout(function () {
+                                        self.closest('.modalform').find('.formOk').hide();
+                                        self.fadeIn(300);
+                                    },10000);
+
+                                    self.hide();
+                                    self.closest('.modalform').find('.formOk').fadeIn(300);
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61102']);                                                                    }
+                                else {
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61102']);                                                                    }
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
+<div class="modalform" id="business_resident">
+    <form action="/en/" id="form61125"
+          method="post"
+          enctype="multipart/form-data" novalidate="novalidate">
+                                                                                                                                                                                <input name="IBLOCK_ID" type="hidden"
+                       value="25">
+                                                <input name="FORM_ID" type="hidden"
+                       value="61125">
+                                                <input name="FORM_AJAX_MODE" type="hidden"
+                       value="Y">
+                            <div class="bPic">
+            <img src="/local/styles/img/bpic1.svg" alt="" width="328" height="47">
+        </div>
+        <h3>Станьте резидентом</h3>
+
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_FIO"
+                   id="PROP_FIO" required>
+            <label for="PROP_FIO">Фамилия, имя, отчество</label>
+        </div>
+        <div class="lineForm left">
+            <input type="text" class="inpText" name="PROP_NAME_ORGANIZATION"
+                   id="PROP_NAME_ORGANIZATION">
+            <label for="PROP_NAME_ORGANIZATION">Название организации</label>
+        </div>
+        <div class="lineForm right">
+            <input type="text" class="inpText" name="PROP_POSITION"
+                   id="PROP_POSITION">
+            <label for="PROP_POSITION">Должность</label>
+
+        </div>
+        <div class="lineForm left">
+            <input type="email" class="inpText" name="PROP_EMAIL"
+                   id="PROP_EMAIL" required>
+            <label for="PROP_EMAIL">Электронная почта</label>
+        </div>
+        <div class="lineForm right">
+            <input type="tel" class="inpText js-phone" name="PROP_PHONE"
+                   id="PROP_PHONE" required>
+            <label for="PROP_PHONE">Контактный телефон</label>
+        </div>
+        <div class="lineForm">
+            <textarea class="inpText js-textarea" name="PROP_MESSAGE"
+                      id="PROP_MESSAGE" cols="40"
+                      rows="1"></textarea>
+            <label for="PROP_MESSAGE">Ваше сообщение</label>
+        </div>
+        <div class="captchaLine">
+                            <div class="reCaptcha">
+                    <div id="recaptha61125" class="recaptha-widget"></div><input type="hidden" name="recaptha_ip" value="188.130.155.148"><input type="hidden" name="recaptha_id" value="61125">                </div>
+                        <div class="overflow">
+                Нажимая на кнопку «Отправить заявку» Вы даете согласие на обработку своих
+                <a href="/upload/medialibrary/2e1/2e15568c9da123aa567956ed505e2e32.pdf" target="_blank">персональных данных</a> в соответствии со статьей 9 Федерального закона от 27 июля
+                2006 г. N 152-ФЗ «О персональных данных»
+            </div>
+        </div>
+        <div class="sbmLine">
+            <input type="submit" value="Отправить заявку" class="btn btn2">
+            <!-- просто анимация появления formOk -->
+        </div>
+    </form>
+
+    <div class="formOk">
+        <div class="bPic"><img src="/local/styles/img/ok.svg" alt="" width="" height=""></div>
+        <h3>Заявка успешно отправлена</h3>
+        <p>Цель Иннополиса — стать ИТ-столицей России, таким новым городом, где разрабатываются
+            и коммерциализируются лучшие инновационные решения.</p>
+    </div>
+            <script>recapthaInitAr[61125] = {"id":61125, "theme": "light"}</script>                <script>
+            $(document).ready(function () {
+                $('#form61125').on('submit', function (e) {
+                    e.preventDefault();
+                    var self = $(this);
+                    if (self.valid()) {
+                        console.log(123);
+
+                        var data = new FormData(self[0]);
+                        $.ajax({
+                            url: self.attr('action'),
+                            data: data,
+                            method: 'POST',
+                            dataType: 'JSON',
+                            contentType: false,
+                            processData: false,
+                            success: function (answ) {
+                                if (answ.status == true) {
+                                    //self.find("input[type!='hidden'], input[type!='submit'], textarea").val('');
+                                    self.find(".inpText,.js-file").val('');
+                                    $('.js-file').trigger('refresh');
+                                    filled();
+                                    setTimeout(function () {
+                                        self.closest('.modalform').find('.formOk').hide();
+                                        self.fadeIn(300);
+                                    },10000);
+
+                                    self.hide();
+                                    self.closest('.modalform').find('.formOk').fadeIn(300);
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61125']);                                                                    }
+                                else {
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61125']);                                                                    }
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
+<div class="modalform" id="business_city_business">
+    <form action="/en/" id="form61126"
+          method="post"
+          enctype="multipart/form-data" novalidate="novalidate">
+                                                                                                                                                            <input name="IBLOCK_ID" type="hidden"
+                       value="26">
+                                                <input name="FORM_ID" type="hidden"
+                       value="61126">
+                                                <input name="FORM_AJAX_MODE" type="hidden"
+                       value="Y">
+                            <div class="bPic">
+            <img src="/local/styles/img/bpic2.svg" alt="" width="328" height="47">
+        </div>
+        <h3>Откройте городской бизнес</h3>
+
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_FIO"
+                   id="PROP_FIO" required>
+            <label for="PROP_FIO">Фамилия, имя, отчество</label>
+        </div>
+        <div class="lineForm left">
+            <input type="text" class="inpText" name="PROP_NAME_ORGANIZATION"
+                   id="PROP_NAME_ORGANIZATION" required>
+            <label for="PROP_NAME_ORGANIZATION">Название организации</label>
+        </div>
+        <div class="lineForm right">
+            <input type="text" class="inpText" name="PROP_POSITION"
+                   id="PROP_POSITION" required>
+            <label for="PROP_POSITION">Должность</label>
+
+        </div>
+        <div class="lineForm left">
+            <input type="email" class="inpText" name="PROP_EMAIL"
+                   id="PROP_EMAIL" required>
+            <label for="PROP_EMAIL">Электронная почта</label>
+        </div>
+        <div class="lineForm right">
+            <input type="tel" class="inpText js-phone" name="PROP_PHONE"
+                   id="PROP_PHONE" required>
+            <label for="PROP_PHONE">Контактный телефон</label>
+        </div>
+        <div class="lineForm">
+            <textarea class="inpText js-textarea" name="PROP_MESSAGE"
+                      id="PROP_MESSAGE" cols="40"
+                      rows="1"></textarea>
+            <label for="PROP_MESSAGE">Ваше сообщение</label>
+        </div>
+        <div class="captchaLine">
+                            <div class="reCaptcha">
+                    <div id="recaptha61126" class="recaptha-widget"></div><input type="hidden" name="recaptha_ip" value="188.130.155.148"><input type="hidden" name="recaptha_id" value="61126">                </div>
+                        <div class="overflow">
+                Нажимая на кнопку «Отправить заявку» Вы даете согласие на обработку своих
+                <a href="/upload/medialibrary/2e1/2e15568c9da123aa567956ed505e2e32.pdf" target="_blank">персональных данных</a> в соответствии со статьей 9 Федерального закона от 27 июля
+                2006 г. N 152-ФЗ «О персональных данных»
+            </div>
+        </div>
+        <div class="sbmLine">
+            <input type="submit" value="Отправить заявку" class="btn btn2">
+            <!-- просто анимация появления formOk -->
+        </div>
+    </form>
+
+    <div class="formOk">
+        <div class="bPic"><img src="/local/styles/img/ok.svg" alt="" width="" height=""></div>
+        <h3>Заявка успешно отправлена</h3>
+        <p>Цель Иннополиса — стать ИТ-столицей России, таким новым городом, где разрабатываются
+            и коммерциализируются лучшие инновационные решения.</p>
+    </div>
+            <script>recapthaInitAr[61126] = {"id":61126, "theme": "light"}</script>                <script>
+            $(document).ready(function () {
+                $('#form61126').on('submit', function (e) {
+                    e.preventDefault();
+                    var self = $(this);
+                    if (self.valid()) {
+                        console.log(123);
+
+                        var data = new FormData(self[0]);
+                        $.ajax({
+                            url: self.attr('action'),
+                            data: data,
+                            method: 'POST',
+                            dataType: 'JSON',
+                            contentType: false,
+                            processData: false,
+                            success: function (answ) {
+                                if (answ.status == true) {
+                                    //self.find("input[type!='hidden'], input[type!='submit'], textarea").val('');
+                                    self.find(".inpText,.js-file").val('');
+                                    $('.js-file').trigger('refresh');
+                                    filled();
+                                    setTimeout(function () {
+                                        self.closest('.modalform').find('.formOk').hide();
+                                        self.fadeIn(300);
+                                    },10000);
+
+                                    self.hide();
+                                    self.closest('.modalform').find('.formOk').fadeIn(300);
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61126']);                                                                    }
+                                else {
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha61126']);                                                                    }
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
+
+<div class="modalform" id="ask_question_modal">
+    <div class="mconsBlock">
+        <img src="/local/styles/img/faq.svg" alt="">
+        <h6>Контакты <span>консьерж-сервис</span></h6>
+        <div class="overflow">
+            <a href="tel:88002222287" class="linktel">8 800 222-22-87</a>
+            <p>
+                Квалифицированные сотрудники Консьерж-сервиса ответят на&nbsp;все ваши вопросы, помогут лучше узнать город и&nbsp;расскажут как стать его жителем.
+            </p>
+        </div>
+    </div>
+    <form action="/en/" id="form98033"
+          method="post"
+          enctype="multipart/form-data" novalidate="novalidate">
+                                                                                                                    <input name="IBLOCK_ID" type="hidden"
+                       value="45">
+                                                <input name="FORM_ID" type="hidden"
+                       value="98033">
+                                                <input name="FORM_AJAX_MODE" type="hidden"
+                       value="Y">
+                            <div class="bPic">
+            <img src="/local/styles/img/bpic1.svg" alt="" width="328" height="47">
+        </div>
+        <h3>Задать вопрос</h3>
+
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_FIO"
+                   id="PROP_FIO" required>
+            <label for="PROP_FIO">Фамилия, имя, отчество</label>
+        </div>
+        <div class="lineForm left">
+            <input type="email" class="inpText" name="PROP_EMAIL"
+                   id="PROP_EMAIL" required>
+            <label for="PROP_EMAIL">Электронная почта</label>
+        </div>
+        <div class="lineForm right">
+            <input type="tel" class="inpText js-phone" name="PROP_PHONE"
+                   id="PROP_PHONE">
+            <label for="PROP_PHONE">Телефон</label>
+        </div>
+        <div class="lineForm">
+            <textarea class="inpText js-textarea" name="PROP_MESSAGE"
+                      id="PROP_MESSAGE" cols="40"
+                      rows="1" required></textarea>
+            <label for="PROP_MESSAGE">Ваше сообщение</label>
+        </div>
+        <div class="captchaLine">
+                            <div class="reCaptcha">
+                    <div id="recaptha98033" class="recaptha-widget"></div><input type="hidden" name="recaptha_ip" value="188.130.155.148"><input type="hidden" name="recaptha_id" value="98033">                </div>
+                        <div class="overflow">
+                Нажимая на кнопку «Отправить заявку» Вы даете согласие на обработку своих
+                <a href="/upload/medialibrary/2e1/2e15568c9da123aa567956ed505e2e32.pdf" target="_blank">персональных данных</a> в соответствии со статьей 9 Федерального закона от 27 июля
+                2006 г. N 152-ФЗ «О персональных данных»
+            </div>
+        </div>
+        <div class="sbmLine">
+            <input type="submit" value="Отправить заявку" class="btn btn2">
+            <!-- просто анимация появления formOk -->
+        </div>
+    </form>
+
+    <div class="formOk">
+        <div class="bPic"><img src="/local/styles/img/ok.svg" alt="" width="" height=""></div>
+        <h3>Заявка успешно отправлена</h3>
+        <p>Цель Иннополиса — стать ИТ-столицей России, таким новым городом, где разрабатываются
+            и коммерциализируются лучшие инновационные решения.</p>
+    </div>
+            <script>recapthaInitAr[98033] = {"id":98033, "theme": "light"}</script>                <script>
+            $(document).ready(function () {
+                $('#form98033').on('submit', function (e) {
+                    e.preventDefault();
+                    var self = $(this);
+                    if (self.valid()) {
+
+                        var data = new FormData(self[0]);
+                        $.ajax({
+                            url: self.attr('action'),
+                            data: data,
+                            method: 'POST',
+                            dataType: 'JSON',
+                            contentType: false,
+                            processData: false,
+                            success: function (answ) {
+                                if (answ.status == true) {
+                                    //self.find("input[type!='hidden'], input[type!='submit'], textarea").val('');
+                                    self.find(".inpText,.js-file").val('');
+                                    $('.js-file').trigger('refresh');
+                                    filled();
+                                    setTimeout(function () {
+                                        self.closest('.modalform').find('.formOk').hide();
+                                        self.fadeIn(300);
+                                    },10000);
+
+                                    self.hide();
+                                    self.closest('.modalform').find('.formOk').fadeIn(300);
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha98033']);                                                                    }
+                                else {
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha98033']);                                                                    }
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
+
+<div class="modalform" id="bagreport_modal">
+    <form action="/en/" id="form45022"
+          method="post"
+          enctype="multipart/form-data" novalidate="novalidate">
+                                                                                                                                        <input name="IBLOCK_ID" type="hidden"
+                       value="46">
+                                                <input name="FORM_ID" type="hidden"
+                       value="45022">
+                                                <input name="FORM_AJAX_MODE" type="hidden"
+                       value="Y">
+                            <div class="bPic">
+            <img src="/local/styles/img/bpic1.svg" alt="" width="328" height="47">
+        </div>
+        <h3>Багтрекер</h3>
+
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_NAME"
+                   id="PROP_NAME" required>
+            <label for="PROP_NAME">ФИО</label>
+        </div>
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_LINK"
+                   id="PROP_LINK" required>
+            <label for="PROP_LINK">Ссылка</label>
+        </div>
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_BROWSER"
+                   id="PROP_BROWSER" required>
+            <label for="PROP_BROWSER">Устройство или браузер</label>
+        </div>
+        <div class="lineForm">
+            <textarea class="inpText js-textarea" name="PROP_COMMENT"
+                      id="PROP_COMMENT" cols="40"
+                      rows="1" required></textarea>
+            <label for="PROP_COMMENT">Комментарий</label>
+        </div>
+        <div class="captchaLine">
+                            <div class="reCaptcha">
+                    <div id="recaptha45022" class="recaptha-widget"></div><input type="hidden" name="recaptha_ip" value="188.130.155.148"><input type="hidden" name="recaptha_id" value="45022">                </div>
+                        <div class="overflow">
+                Нажимая на кнопку «Отправить» Вы даете согласие на обработку своих
+                <a href="/upload/medialibrary/2e1/2e15568c9da123aa567956ed505e2e32.pdf" target="_blank">персональных данных</a> в соответствии со статьей 9 Федерального закона от 27 июля
+                2006 г. N 152-ФЗ «О персональных данных»
+            </div>
+        </div>
+        <div class="sbmLine">
+            <div class="inpFile">
+                <input type="file" name="PROP_FILE" class="js-file"
+                       data-placeholder="Скриншот">
+            </div>
+            <input type="submit" value="Отправить" class="btn btn2">
+            <!-- просто анимация появления formOk -->
+        </div>
+    </form>
+
+    <div class="formOk">
+        <div class="bPic"><img src="/local/styles/img/ok.svg" alt="" width="" height=""></div>
+        <h3>Баг успешно отправлен</h3>
+    </div>
+            <script>recapthaInitAr[45022] = {"id":45022, "theme": "light"}</script>                <script>
+            $(document).ready(function () {
+                $('#form45022').on('submit', function (e) {
+                    e.preventDefault();
+                    var self = $(this);
+                    if (self.valid()) {
+                        var data = new FormData(self[0]);
+                        $.ajax({
+                            url: self.attr('action'),
+                            data: data,
+                            method: 'POST',
+                            dataType: 'JSON',
+                            contentType: false,
+                            processData: false,
+                            success: function (answ) {
+                                if (answ.status == true) {
+                                    //self.find("input[type!='hidden'], input[type!='submit'], textarea").val('');
+                                    self.find(".inpText,.js-file").val('');
+                                    $('.js-file').trigger('refresh');
+                                    filled();
+                                    setTimeout(function () {
+                                        self.closest('.modalform').find('.formOk').hide();
+                                        self.fadeIn(300);
+                                    },10000);
+
+                                    self.hide();
+                                    self.closest('.modalform').find('.formOk').fadeIn(300);
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha45022']);                                                                    }
+                                else {
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha45022']);                                                                    }
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
+
+<div class="modalform" id="test_new_technology_innopolis_modal">
+    <form action="/en/" id="form98092"
+          method="post"
+          enctype="multipart/form-data" novalidate="novalidate">
+                                                                                                                    <input name="IBLOCK_ID" type="hidden"
+                       value="47">
+                                                <input name="FORM_ID" type="hidden"
+                       value="98092">
+                                                <input name="FORM_AJAX_MODE" type="hidden"
+                       value="Y">
+                            <div class="bPic">
+            <img src="/local/styles/img/bpic1.svg" alt="" width="328" height="47">
+        </div>
+        <h3>Протестировать новую технологию в Иннополисе</h3>
+
+        <div class="lineForm">
+            <input type="text" class="inpText" name="PROP_FIO"
+                   id="PROP_FIO" required>
+            <label for="PROP_FIO">Фамилия, имя, отчество</label>
+        </div>
+        <div class="lineForm left">
+            <input type="email" class="inpText" name="PROP_EMAIL"
+                   id="PROP_EMAIL" required>
+            <label for="PROP_EMAIL">Электронная почта</label>
+        </div>
+        <div class="lineForm right">
+            <input type="tel" class="inpText js-phone" name="PROP_PHONE"
+                   id="PROP_PHONE">
+            <label for="PROP_PHONE">Телефон</label>
+        </div>
+        <div class="lineForm">
+            <textarea class="inpText js-textarea" name="PROP_MESSAGE"
+                      id="PROP_MESSAGE" cols="40"
+                      rows="1" required></textarea>
+            <label for="PROP_MESSAGE">Ваше сообщение</label>
+        </div>
+        <div class="captchaLine">
+                            <div class="reCaptcha">
+                    <div id="recaptha98092" class="recaptha-widget"></div><input type="hidden" name="recaptha_ip" value="188.130.155.148"><input type="hidden" name="recaptha_id" value="98092">                </div>
+                        <div class="overflow">
+                Нажимая на кнопку «Отправить заявку» Вы даете согласие на обработку своих
+                <a href="/upload/medialibrary/2e1/2e15568c9da123aa567956ed505e2e32.pdf" target="_blank">персональных данных</a> в соответствии со статьей 9 Федерального закона от 27 июля
+                2006 г. N 152-ФЗ «О персональных данных»
+            </div>
+        </div>
+        <div class="sbmLine">
+            <input type="submit" value="Отправить заявку" class="btn btn2">
+            <!-- просто анимация появления formOk -->
+        </div>
+    </form>
+
+    <div class="formOk">
+        <div class="bPic"><img src="/local/styles/img/ok.svg" alt="" width="" height=""></div>
+        <h3>Заявка успешно отправлена</h3>
+        <p>Цель Иннополиса — стать ИТ-столицей России, таким новым городом, где разрабатываются
+            и коммерциализируются лучшие инновационные решения.</p>
+    </div>
+            <script>recapthaInitAr[98092] = {"id":98092, "theme": "light"}</script>                <script>
+            $(document).ready(function () {
+                $('#form98092').on('submit', function (e) {
+                    e.preventDefault();
+                    var self = $(this);
+                    if (self.valid()) {
+                        var data = new FormData(self[0]);
+                        $.ajax({
+                            url: self.attr('action'),
+                            data: data,
+                            method: 'POST',
+                            dataType: 'JSON',
+                            contentType: false,
+                            processData: false,
+                            success: function (answ) {
+                                if (answ.status == true) {
+                                    //self.find("input[type!='hidden'], input[type!='submit'], textarea").val('');
+                                    self.find(".inpText,.js-file").val('');
+                                    $('.js-file').trigger('refresh');
+                                    filled();
+                                    setTimeout(function () {
+                                        self.closest('.modalform').find('.formOk').hide();
+                                        self.fadeIn(300);
+                                    },10000);
+
+                                    self.hide();
+                                    self.closest('.modalform').find('.formOk').fadeIn(300);
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha98092']);                                                                    }
+                                else {
+                                                                        grecaptcha.reset(recapthaInitArOB['recaptha98092']);                                                                    }
+                            }
+                        });
+                    }
+                });
+            });
+        </script>
+    </div>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-68881558-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function () {
+            try {
+                w.yaCounter33056358 = new Ya.Metrika({
+                    id: 33056358,
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true
+                });
+            } catch (e) {
+            }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () {
+                n.parentNode.insertBefore(s, n);
+            };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/33056358" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter --></div>
+</body>
+</html>

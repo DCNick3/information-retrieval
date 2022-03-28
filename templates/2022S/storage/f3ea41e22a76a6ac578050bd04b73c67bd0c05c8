@@ -1,0 +1,1077 @@
+<!doctype html>
+<html lang="ru">
+
+<head>
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m, e, t, r, i, k, a) {
+            m[i] = m[i] || function() {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(61110718, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/61110718" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161122461-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161122461-1');
+    </script>
+    <title>
+        Alumni Innopolis University    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.min.css?14568470452854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/e4/university24/kernel_landing_assets_0296773938e4a161482f99ee413de44a/kernel_landing_assets_0296773938e4a161482f99ee413de44a_v1.css?16425975884445" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/e4/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164250781437177" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/e4/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425078141359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582878014247888"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'e4','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643014073','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'6dcd6cfe2a7c51c8af8192f605e63ae8'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/kernel_main/kernel_main_v1.js?1642597362142325"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/kernel_landing_assets_0296773938e4a161482f99ee413de44a/kernel_landing_assets_0296773938e4a161482f99ee413de44a_v1.js?1642597588288270"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/components/university/contacts.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/local/blocks/university/slider-one-card-dark/style.css','/local/blocks/university/video-two-videos/style.css','/local/blocks/university/university-team/style.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="robots" content="all" />
+<script src=' https://www.google.com/recaptcha/api.js '></script>
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'Найденная Вами ошибка в тексте',
+	'footer':'<b>Послать сообщение об ошибке автору?</b><br/><span style="font-size:10px;color:#7d7d7d">(ваш браузер останется на той же странице)</span>',
+	'comment':'Комментарий для автора (необязательно)',
+	'TitleForm':'Сообщение об ошибке',
+	'ButtonSend':'Отправить',
+	'LongText':'Вы выбрали слишком большой объем текста.',
+	'LongText2':'Попробуйте ещё раз.',
+	'text_ok':'Ваше сообщение отправлено.',
+	'text_ok2':'Спасибо за внимание!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425078151076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/e4/university24/page_c9f2ccd2060ea2b7a85ed23e6f66cab7/page_c9f2ccd2060ea2b7a85ed23e6f66cab7_v1.js?16425078154196"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "alumni.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="Alumni Innopolis University" /><meta property="og:description" content="Join the club to stay in touch with your course mates, keep updated about upcoming opportunities, and remain part of Inno-community!" /><meta property="og:image" content="//alumni.innopolis.university/upload/landing/4d9/photo_2021-07-09_11-55-51@1x.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="587" /><meta property="og:type" content="website" /><meta property="twitter:title" content="Alumni Innopolis University" /><meta property="twitter:description" content="Join the club to stay in touch with your course mates, keep updated about upcoming opportunities, and remain part of Inno-community!" /><meta property="twitter:image" content="//alumni.innopolis.university/upload/landing/4d9/photo_2021-07-09_11-55-51@1x.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta name="og:url" content="https://alumni.innopolis.university/" />
+<link rel="canonical" href="https://alumni.innopolis.university/"/><link rel="icon" type="image/png" href="/upload/resize_cache/landing/f70/16_16_2/Frame_190.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/f70/32_32_2/Frame_190.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/f70/96_96_2/Frame_190.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/f70/120_120_2/Frame_190.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/f70/180_180_2/Frame_190.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/f70/152_152_2/Frame_190.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/f70/167_167_2/Frame_190.png" sizes="167x167"></head>
+<body class="">
+<div class="landing-header"><div id="block4551" class="block-wrapper block-university-header-default">
+<div class="uni-nav__wrap">
+        <div class="uni-nav__black-line"></div>
+    <div class="container">
+        <a href="https://innopolis.university/" class="uni-logo" target="_self">
+            <i class="icon-ic_logo"></i>
+        </a>
+        <div class="nav__links-wrap">
+            <div class="footer-container">
+                <div class="footer-top-wrap">
+                    <div class="container">
+                        <a href="" class="footer-top-link-dashed">Все медиа</a>
+                        <div class="footer-top-link-list "><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Facebook</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Вконтакте</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Youtube</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Twitter</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Instagram</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">habr</a></div></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="pre-nav__links">
+                                                            <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://apply.innopolis.university/">Абитуриентам</a></li>
+                                    <!--                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="http://www.campuslife.innopolis.ru/main">--><!--</a></li>-->
+                                    <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://corporate.innopolis.university/">Бизнесу</a></li>
+                                                    <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://media.innopolis.university/">Медиа</a></li>
+                                <li class="pre-nav__links-item desctop-link">
+                    <a href="https://innopolis.university/lk/" class="pre-nav__link personal__account personal__account-lk-link">Личный кабинет</a>
+                </li>
+            </ul>
+
+            <ul class="nav__links">
+                                <li class="nav__links-btns">
+                    <a class="nav__links-btns_optic" href="/?special=Y" itemprop="copy" title="Версия для слабовидящих"><i class="icon-ic_optic"></i></a>
+                    <a class="nav__links-btns_search" href="https://innopolis.university/search/" target="_self"><i class="icon-ic_search"></i></a>
+                    <a class="nav__links-btns_en" href="https://alumni.innopolis.university/" target="_self"><i class="icon-ic_lang_eng"></i></a>
+                </li>
+            </ul>
+            <div class="mobile-personal-area">
+                <a href="https://innopolis.university/lk/" class="mobile-personal-area-link">Личный кабинет</a>
+                <div class="mobile-personal-area-icons">
+                    <a href="https://innopolis.university/search/" class="mobile-personal-area-icons-link"><i class="icon-ic_search"></i></a>
+                    <a href="/en/" class="mobile-personal-area-icons-link mobile-personal-area-icons-link_en"><i class="icon-ic_lang_eng"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="menu-mobile__btn">
+            <i class="icon-menu"></i>
+            <i class="icon-ic_close"></i>
+        </div>
+    </div>
+</div></div></div> 
+								<div class="landing-main"><div id="block4480" class="block-wrapper block-project-stack-main"><!-- Шапка -->
+<div class="main-page__main-viewport projects-portfolio" style="background-image: url('/upload/landing/49c/IMG_8973@1x.jpg'); background-image: -webkit-image-set(url('/upload/landing/49c/IMG_8973@1x.jpg') 1x, url('/upload/landing/297/IMG_8973@2x.jpg') 2x); background-image: image-set(url('/upload/landing/49c/IMG_8973@1x.jpg') 1x, url('/upload/landing/297/IMG_8973@2x.jpg') 2x);" data-fileid="26587" data-fileid2x="26588" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
+    <div class="main-page__main-viewport-titles container ">
+        <div class="viewport__subtitle">
+            <i class="icon-ic_arrow"></i>
+            <h2><a href="https://innopolis.university/" target="_self">Innopolis University</a></h2>
+        </div>
+
+        <h1 class="viewport__title"><span style="color: rgb(33, 33, 33);">ALUMNI</span></h1>
+
+    </div>
+    <div class="main-page__main-viewport-bottom">
+        <div class="container">
+            <div class="main-viewport-bottom__wrap">
+                <div class="main-viewport-bottom__block">
+                    <h3 class="bottom__block-title"><span style="color: rgb(33, 33, 33);">850</span></h3>
+                    <p class="bottom__block-subtitle">students graduated</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Конец Шапка --></div><div id="block4476" class="block-wrapper block-career-relocation-question"><div class="career-relocation__about-inno container g-pl-auto g-pb-auto g-pt-2 g-bg-green-opacity-0_7">
+    <div class="career-relocation__about-inno-info">
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">8</h2>
+            <p class="about-inno-info__item__text">graduation ceremonies since IU foundation</p>
+        </div>
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">37</h2>
+            <p class="about-inno-info__item__text">countries that our alumni represent</p>
+        </div>
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">23</h2>
+            <p class="about-inno-info__item__text">startups opened by IU alumni</p>
+        </div>
+    </div>
+    <div class="career-relocation__about-inno-overview">
+        <h2 class="career-relocation__about-inno-overview__title">Alumni Club</h2>
+        <div class="career-relocation__description"><p class="career-relocation__about-inno-overview__text">Alumni Club was founded in December 2020, and it was first led by 10 members from 2015-2020 graduation years. We are now working to create special environment, where every member of the club is able to find a business partner, a colleague for a joint project or just like-minded people with shared interests. <br /><br />We want to ensure we are not only tied by similar views and ambitions, but do also encourage and help each other. Join the club to stay in touch with your course mates, keep updated about upcoming opportunities, and remain part of Inno-community!</p></div>
+        <a href="https://alumni.innopolis.university/registration/" class="career-relocation__about-inno-overview__btn btn-green btn-success icon-ic_arrow" target="_blank">Join IU Alumni Club</a>
+    </div>
+</div></div><div id="block4479" class="block-wrapper block-slider-three-card-slider"><div class="three-card-slider-description-container">
+    <h2 class="three-card-slider-description-title container"><span style="color: rgb(56, 142, 60);">Innopolis university ALUmni</span></h2>
+    <div class="three-card-slider-description-wrapper">
+        <div class="swiper-wrapper three-card-slider-description"><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/793/фото_607_@1x.jpg" alt="" srcset="/upload/landing/9c3/фото_607_@2x.jpg 2x" data-fileid="27737" data-fileid2x="27738" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://photos.google.com/share/AF1QipNCNcRazxip0BsOOMTO_xreHPz0VK_m4kArBVqd_TShiWEa_ad4oD5sRO6-M6PROQ?key=b2xBWWVDTUd4T1BTMnpXTWY4SXNQSWZEbHh3RmZ3&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">2021</h5>
+                    <p class="three-card-slider-description-item-text"> </p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/959/0410@1x.jpg" alt="" srcset="/upload/landing/ea2/0410@2x.jpg 2x" data-fileid="26664" data-fileid2x="26665" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://photos.google.com/share/AF1QipPpHgoX_nuO9zL-D9iwxsSbfGq0rNd4XNfIUdDR0Oj5kWMhaep6DsoDGDmlrbR7Ig?key=dnJkdXluMk5EdlVxZnZsVFVOOG1JMkI2RFlhSTdR&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title"><p>2020</p></h5>
+                    <p class="three-card-slider-description-item-text"> </p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/f97/2016_1_@1x.jpg" alt="2019" srcset="/upload/landing/371/2016_1_@2x.jpg 2x" data-fileid="26636" data-fileid2x="26637" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://photos.app.goo.gl/ZhLBsDaRhEKyQXs87&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">2019</h5>
+                    <p class="three-card-slider-description-item-text"> </p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/9ea/2018@1x.jpg" alt="" srcset="/upload/landing/9cf/2018@2x.jpg 2x" data-fileid="26638" data-fileid2x="26639" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://photos.app.goo.gl/1UmrFcMmPqvCG4CT8&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}" />
+
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">2018</h5>
+                    <p class="three-card-slider-description-item-text"> </p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/9c9/2017@1x.jpg" alt="" srcset="/upload/landing/8e5/2017@2x.jpg 2x" data-fileid="26640" data-fileid2x="26641" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://goo.gl/photos/hhA3XhMk2kkgE1YdA&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}" />
+
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">2017</h5>
+                    <p class="three-card-slider-description-item-text"> </p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/802/IMG_0018@1x.jpg" alt="" srcset="/upload/landing/827/IMG_0018@2x.jpg 2x" data-fileid="26644" data-fileid2x="26645" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://photos.app.goo.gl/ZV1sPuC4nnH1fwjq7&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">2016</h5>
+                    <p class="three-card-slider-description-item-text"> </p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/40d/фото_86_@1x.jpg" alt="" srcset="/upload/landing/7c1/фото_86_@2x.jpg 2x" data-fileid="26646" data-fileid2x="26647" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://photos.app.goo.gl/sKjtZ3Vv6Rqwqygr8&quot;,&quot;target&quot;:&quot;_blank&quot;,&quot;enabled&quot;:true}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">2014-2015</h5>
+                    <p class="three-card-slider-description-item-text"> </p>
+                </div>
+            </div></div>
+        <div class="three-card-slider-description-swiper-pagination"></div>
+        <div class="three-card-slider-description-slider-btn-wrap">
+            <div class="three-card-slider-description-swiper-button-prev">
+                <i class="icon-ic_arrow_small"></i>
+            </div>
+            <div class="three-card-slider-description-index-active">
+                <p class="three-card-slider-description-index">1/4</p>
+            </div>
+            <div class="three-card-slider-description-swiper-button-next">
+                <i class="icon-ic_arrow_small"></i>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block4472" class="block-wrapper block-infoblocks-two-column"><section class="events__container uni-student-life">
+    <div class="events__wrap">
+        <div class="events__event">
+            <div class="events__event-img">
+                <img src="/upload/landing/d25/клуб-выпускников@1x.png" alt="" srcset="/upload/landing/22e/клуб-выпускников@2x.png 2x" data-fileid="26498" data-fileid2x="26499" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="events__event-info">
+                <h2 class="events__event-info-title">IU Alumni Awards 2021</h2>
+
+                <div class="events__event-info-text">
+                    <div class="events__event-info__subtitle">IU Award for outstanding graduates and community leaders is given from 2021. This honorable recognition is awarded for special achievements in professional and other socially important areas, as well as for contribution to fostering relationships between Innopolis University and its graduates. <p><br /></p><p>Candidates for IU Awards are proposed by IU administration, professorship team, graduates and current students. Moreover, previous winners&#039; candidacy is not considered.<br /></p><p></p></div>
+                    <a class="button__green" href="https://alumni.innopolis.university/#block4478" target="_self">Click to see award winners</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="events__event reverse flex-row-reverse">
+            <div class="events__event-img">
+                <img src="/upload/landing/bf7/inno-253@1x.jpg" alt="" srcset="/upload/landing/739/inno-253@2x.jpg 2x" data-fileid="26500" data-fileid2x="26501" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="events__event-info">
+                <h2 class="events__event-info-title">IU Alumni Awards in 2021:</h2>
+
+                <div class="events__event-info-text">
+                    <ul class="events__event-info-text-ul"><li>Application Period 26.04.2021 - 06.05.2021 </li><li>Online Vote 11.05.2021 - 17.05.2021 </li><li>Awards Ceremony 22.05.2021 </li><li><br />The voting is carried out by IU alumni and faculty members.<br /></li></ul>
+                    <a class="button__green" href="https://alumni.innopolis.university/#block4481" target="_self">Click to see the video</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section></div><div id="block4478" class="block-wrapper block-slider-one-card-dark"><div class="history-of-success__slider-wrap">
+    <h2 class="history-of-success__title">IU Alumni Awards 2021 Winners</h2>
+    <div class="history-of-success-slider swiper-container history-of-success__carousel-container ">
+        <div class="swiper-wrapper"><div class="swiper-slide height-four-eight-zero">
+                <img src="/upload/landing/d30/Кевин_Ханда@1x.jpg" class="history__square-image" alt="" srcset="/upload/landing/763/Кевин_Ханда@2x.jpg 2x" data-fileid="26648" data-fileid2x="26649" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="history__info-wrap history__info-wrap-events">
+                    <h3 class="history-title">PRIVATE BUSINESS<p>for outstanding success in the enterpreneurship and business development<br /><br /></p></h3>
+
+                    <div class="history-main__info">
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-first">Kevin <p>Khanda</p></h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-first"> </p>
+                        </div>
+
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-second">Bachelors Program</h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-second">Innopolis University</p>
+                        </div>
+                    </div>
+                    <div class="history-main__paragraph"><p>
+                            KazanExpress co-founder. In 2021 this service is available in 48 cities and it continues to expand. Multibillion company has more than 2 millions of active users, and it&#039;s not just a start-up - AliExpress invested in the service! In 2020 company launched a social project StopCorona to help elderly people with doorstep food delivery. Kevin supports IU students and alumni via hiring them for KazanExpress.
+                        </p></div>
+
+                    <a href="https://kazanexpress.ru/" class="history__button-link" target="_blank">https://kazanexpress.ru/</a>
+
+                </div>
+            </div><div class="swiper-slide height-four-eight-zero">
+                <img src="/upload/landing/8f0/photo_2021-05-27_00-34-36@1x.jpg" class="history__square-image" alt="" srcset="/upload/landing/84a/photo_2021-05-27_00-34-36@2x.jpg 2x" data-fileid="26656" data-fileid2x="26657" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="history__info-wrap history__info-wrap-events">
+                    <h3 class="history-title">OPINION LEADER<p>for desire to share own noteworthy experience with others</p><p><br /></p></h3>
+
+                    <div class="history-main__info">
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-first">Vasilii <p>Artemev<br /></p></h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-first"> </p>
+                        </div>
+
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-second">Masters Program</h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-second">Innopolis University</p>
+                        </div>
+                    </div>
+                    <div class="history-main__paragraph"><p>
+                            Vasya is one of the key persons in Software Engeneering among all alumni, and students ask for his advice about different issues in this field. </p><p>He also hires many of the IU students and alumni for the startup Remy Robotics in Barcelona.   
+                        </p></div>
+
+                    <a href="https://www.remyrobotics.com/" class="history__button-link" target="_blank">https://www.remyrobotics.com/</a>
+
+                </div>
+            </div><div class="swiper-slide height-four-eight-zero">
+                <img src="/upload/landing/115/Антон_Трантин@1x.jpg" class="history__square-image" alt="" srcset="/upload/landing/a67/Антон_Трантин@2x.jpg 2x" data-fileid="26652" data-fileid2x="26653" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="history__info-wrap history__info-wrap-events">
+                    <h3 class="history-title">PRIVATE BUSINESS<p>for creation of the first startup in Innopolis and success at the international markets<br /></p></h3>
+
+                    <div class="history-main__info">
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-first"><p>Anton </p><p>Trantin </p></h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-first"> </p>
+                        </div>
+
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-second">Masters Program</h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-second">Innopolis University</p>
+                        </div>
+                    </div>
+                    <div class="history-main__paragraph"><p>
+                            Founder of the first IT-startup in Innopolis - Innosoft company. Brought tech-product YORSO to the international market - today it&#039;s at TOP-3 in the world in its&#039; field. Has 10 years of experience as developer, architect and tech-lead. Anton is also a frequent winner of blockchain hackathons, winner of the first Sberbank &amp; 500Startups acceleration program, winner of the Global Seafood Innovation in the Fish 2.0 program held at Stanford, USA.   
+                        </p></div>
+
+                    <a href="https://yorso.com/" class="history__button-link" target="_blank">https://yorso.com/</a>
+
+                </div>
+            </div><div class="swiper-slide height-four-eight-zero">
+                <img src="/upload/landing/662/Бобров_2@1x.jpg" class="history__square-image" alt="" srcset="/upload/landing/41f/Бобров_2@2x.jpg 2x" data-fileid="26650" data-fileid2x="26651" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="history__info-wrap history__info-wrap-events">
+                    <h3 class="history-title">QUICK CAREER DEVELOPMENT. LINCHPIN!<p>for promotion of the Innopolis University at the world educational map</p><p><br /></p></h3>
+
+                    <div class="history-main__info">
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-first">Evgenii <p>Bobrov</p></h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-first"> </p>
+                        </div>
+
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-second">Masters Program</h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-second">Innopolis University</p>
+                        </div>
+                    </div>
+                    <div class="history-main__paragraph"><p><br /></p><p>
+                            From IU Master&#039;s student to professor, program manager, department of educational programs chief and vice-rector - Eugeniy develops and promotes IU as the best IT University in Russia that is presented on the world educational map and included in the international ratings.  
+                        </p></div>
+
+                    <a href="https://innopolis.university/" class="history__button-link" target="_blank">https://innopolis.university/</a>
+
+                </div>
+            </div><div class="swiper-slide height-four-eight-zero">
+                <img src="/upload/landing/ff5/Стас_Литвинов@1x.jpg" class="history__square-image" alt="" srcset="/upload/landing/1cb/Стас_Литвинов@2x.jpg 2x" data-fileid="26659" data-fileid2x="26658" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="history__info-wrap history__info-wrap-events">
+                    <h3 class="history-title">SOCIAL MISSION <p>for contribution in society and peace development in non-commercial sector<br /><br /></p></h3>
+
+                    <div class="history-main__info">
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-first">Stas <p>Litvinöv</p></h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-first"> </p>
+                        </div>
+
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-second">Masters Program</h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-second">Innopolis University</p>
+                        </div>
+                    </div>
+                    <div class="history-main__paragraph"><p>Stas is the ambassador of Innopolis. Promotes eco-friendly attitude to everything around us. One of the first IU alumni, during performing his teaching duties he was chosen by the students as the best TA. <br /></p></div>
+
+                    <a href="https://innopolis.university/" class="history__button-link" target="_blank">https://innopolis.university/</a>
+
+                </div>
+            </div><div class="swiper-slide height-four-eight-zero">
+                <img src="/upload/landing/8f1/Эмиль_Магеррамов@1x.jpg" class="history__square-image" alt="" srcset="/upload/landing/aeb/Эмиль_Магеррамов@2x.jpg 2x" data-fileid="26703" data-fileid2x="26704" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="history__info-wrap history__info-wrap-events">
+                    <h3 class="history-title">EXPERT IN AI <p>for extraordinary knowledge and experience in artificial intelligence</p><p><br /></p><p><br /></p><p></p></h3>
+
+                    <div class="history-main__info">
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-first">Emil <p>Magerramov</p></h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-first"> </p>
+                        </div>
+
+                        <div class="history-main__info-elem">
+                            <h4 class="info-elem__title info-elem__title-second">Masters Program</h4>
+                            <p class="info-elem__subtitle info-elem__subtitle-second">Innopolis University</p>
+                        </div>
+                    </div>
+                    <div class="history-main__paragraph">Founder of the AI Community Innopolis, co-founder of the EORA.ai, head of the Biocad computational chemistry group.</div>
+
+                    <a href="https://innopolis.university/" class="history__button-link" target="_blank">https://innopolis.university/</a>
+
+                </div>
+            </div></div>
+        <div class="swiper-pagination"></div>
+        <div class="slider-btn-wrap">
+            <div class="swiper-button-prev history-of-success-slider-prev">
+                <i class="slider__btn-prev"></i>
+            </div>
+
+            <div class="swiper-button-next history-of-success-slider-next">
+                <i class="slider__btn-next"></i>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block4481" class="block-wrapper block-video-two-videos"><section class="uni-org-main__blocks">
+    <div class="container">
+        <div class="uni-org-main__blocks-wrap"><div class="uni-org-main__block uni-org-main__block_two-video">
+                <h3 class="block__title">IU Alumni Meeting&#039;21</h3>
+                <div class="uni-org-main__video">
+                    <iframe width="800" height="350" class="" src="https://www.youtube.com/embed/D-gWmrxQQuQ?autoplay=0&controls=1&loop=0&mute=0&rel=0&start=0&html5=1" data-source="https://youtu.be/D-gWmrxQQuQ">
+                    </iframe>
+                </div>
+                <div class="block__subtitle">The first and latest IU Alumni Meeting happened on 22-23 May, where graduates from all over Russia came to Innopolis University. For two days former and current students, teachers and administration of the University shared their news and experiences. At the round tables they developed a strategy for city development and an educational trajectory to meet the needs of IT industry. They also attended lectures on life balance, got rewarded at the IU Alumni Awards ceremony and rested in nature.
+⠀ </div>
+            </div><div class="uni-org-main__block uni-org-main__block_two-video">
+                <h3 class="block__title">Tutorship program</h3>
+                <div class="uni-org-main__video">
+                    <iframe width="800" height="350" class="" src="https://www.youtube.com/embed/Nf9cFU4Jdn8?autoplay=0&controls=1&loop=0&mute=0&rel=0&start=0&html5=1" data-source="https://youtu.be/Nf9cFU4Jdn8">
+                    </iframe>
+                </div>
+                <div class="block__subtitle">Tutorship program aims to help students to adapt to a new learning environment. IU graduates are welcome to join the program to increase freshers&#039; motivation for studying and personal development and share useful tips on successful being at Innopolis University. It&#039;s also a great opportunity to boost your social skills as a tutor, connect with current students and inspire them to succeed.</div>
+            </div></div>
+    </div>
+</section></div><div id="block4471" class="block-wrapper block-tabs-faq"><section class="block-with-menu">
+
+    <div class="menu">
+        <div class="container">
+            <ul class="menu__ul">
+                <li class="menu__ul-elem selected" title="бакалавриат" id="bachelor">common questions from IU alumni</li>
+                <li class="menu__ul-elem" title="магистратура" id="magistracy"> </li>
+                <li class="menu__ul-elem" title="аспирантура" id="postgraduate"> </li>
+                <li class="menu__ul-elem" title="грант" id="grant"> </li>
+            </ul>
+        </div>
+    </div>
+
+
+    <div class="menu__result">
+        <section class="faq-container uni-enrollee-faq" id="bachelor__result">
+            <div class="container"><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Can&#039;t remember my password from IU email. How can I solve this?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">If you have forgotten or lost your password for @innopolis domain, please request one from it@innopolis.ru, and they will send password recovery instructions to you. The alumni mailbox is not blocked, you can use it without expiration date.</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">I am IU graduate, how can I order an academic reference?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">You can order an academic reference on www.my.university.innopolis.ru. Just leave your request in References section and in it must be ready for collection within 7 days in office 319. You can also ask @StudentAffairs_bot for its scan in case you cannot pick it up in office 319.</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">My diploma is still in IU, how can I obtain it?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">You can get your diploma in office 319 on weekdays from 9am to 6pm. Before receiving it, you&#039;ll have to complete the checkout sheet to ensure you have returned all properties that belong to IU. If you are in another city or country, please write to @StudentAffairs_bot, and we&#039;ll try to find a way to send documents by mail.</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">How can I order European Diploma Supplement?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">The European Diploma Supplement is an additional educational document in English, that you can order by messaging @StudentAffairs_bot. Once your request is received we&#039;ll send you an application template and payment details for document processing services. The cost of the EDP is 2000 rubles, processing time: 1 month.</div>
+                </div></div>
+
+        </section>
+
+        <section class="faq-container uni-enrollee-faq" id="magistracy__result" style="display: none;">
+            <div class="container"><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Какие факультеты (направления подготовки) есть в Университете Иннополис? 2</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Кто может подать заявку на обучение на 1 курсе бакалавриата?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Сколько стоит учеба в Университете Иннополис?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Могу ли я обучаться за счет собственных средств?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Получают ли студенты Университета стипедию?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Нужно ли сдавать ЕГЭ по английскому языку для поступления на 1 курс бакалавриата?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div></div>
+        </section>
+
+        <section class="faq-container uni-enrollee-faq" id="postgraduate__result" style="display: none;">
+            <div class="container"><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Какие факультеты (направления подготовки) есть в Университете Иннополис? 2</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Кто может подать заявку на обучение на 1 курсе бакалавриата?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Сколько стоит учеба в Университете Иннополис?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Могу ли я обучаться за счет собственных средств?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Получают ли студенты Университета стипедию?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Нужно ли сдавать ЕГЭ по английскому языку для поступления на 1 курс бакалавриата?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div></div>
+        </section>
+
+        <section class="faq-container uni-enrollee-faq" id="grant__result" style="display: none;">
+            <div class="container"><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Какие факультеты (направления подготовки) есть в Университете Иннополис? 2</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Кто может подать заявку на обучение на 1 курсе бакалавриата?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Сколько стоит учеба в Университете Иннополис?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Могу ли я обучаться за счет собственных средств?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Получают ли студенты Университета стипедию?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div><div class="expand-panel">
+                    <a class="expand-panel__header collapsed">
+                        <span class="expand-panel__header-title">Нужно ли сдавать ЕГЭ по английскому языку для поступления на 1 курс бакалавриата?</span>
+                        <i class="faq-close-icon"></i>
+                    </a>
+                    <div class="expand-panel__body collapse">КОМФОРТ<br />
+                        Размещение в светлых, просторных и чистых комнатах кампуса Университета Иннополис<br />
+                        Сбалансированное 5-разовое питание, соответствующее СанПиН<br />
+                        Закрытый переход из корпусов в аудитории Университета<br />
+                        Трансфер по маршруту Казань — Иннополис — Казань<br />
+                        Аудитории, оснащенные всем необходимым оборудованием для полноценного обучения<br />
+                        ЗДОРОВЬЕ<br />
+                        Круглосуточный медпункт<br />
+                        Рядом с детьми постоянно находится дежурный врач<br />
+                        ДОСУГ<br />
+                        Увлекательные квесты<br />
+                        Веселые конкурсы<br />
+                        Интеллектуальные игры<br />
+                        Спортивные игры<br />
+                        Настольные игры</div>
+                </div></div>
+        </section>
+
+    </div>
+
+
+
+</section></div><div id="block4545" class="block-wrapper block-university-contacts-en"><div class="contacts">
+    <div class="container">
+        <div class="contacts__wrap">
+            <div class="contacts__requisites">
+                <h2 class="contacts__title">ALUMNI RELATIONS<p>DEPARTMENT</p></h2>
+                <div class="contacts__who">Dear Alumni! <p>You can contact us using the details below.</p></div>
+                <div class="contacts__phone">+7 (843) 203-92-53 (ext. 162)</div>
+                <a href="mailto:#" class="contacts__email" target="_self">319@innopolis.ru</a>
+                <hr />
+                <div class="contacts__address">Address <p>420500, Innopolis, Universitetskaya Street 1, room 503a<br />
+
+                </p></div>
+            </div>
+            <input type="hidden" class="js-contants-email-to" value="" />
+            <input type="hidden" class="js-contacts-title" value="" />
+            <input type="hidden" class="js-contacts-description" value="" />
+            <input type="hidden" class="js-analytics-event" value="" />
+            <form class="contacts__contact-us" id="contacts__form" action="" method="POST">
+    <input type="hidden" name="sessid" id="sessid" value="6dcd6cfe2a7c51c8af8192f605e63ae8" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="action" value="contact_with_us">
+    <input type="hidden" class="js-contants-email-to-input" name="email_to" value="">
+    <input type="hidden" name="from" value="https://alumni.innopolis.university/">
+    <h3 class="contact-us__title">
+                    Write to us
+            </h3>
+    <p class="contacts-us__text">
+                    If you have any questions, leave your contacts and we will contact you
+            </p>
+    <input type="text" name="name" placeholder="First name" id="contacts__name">
+            <input type="text" name="email" placeholder="Email">
+    
+    <div class="career-feedback__form-checkbox-wrap">
+        <label class="career-feedback__form-checkbox-label">
+            <input name="checkbox" type="checkbox" class="career-feedback__form-checkbox">
+            <p class="career-feedback__form-checkbox-text">
+                                    I agree with the processing of <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf">personal data</a>
+                            </p>
+        </label>
+    </div>
+
+    <button type="submit" class="contacts__button" id="contacts__button">
+                    Submit
+            </button>
+</form>        </div>
+    </div>
+</div></div><div id="block4477" class="block-wrapper block-university-team">
+<div class="team-tile container">
+    <h2 class="team-tile__title">Our team</h2>
+    <div class="team-tile__wrap"><div class="team-tile__item">
+
+            <div class="team-tile__item-img">
+                <img src="/upload/landing/dd1/Photo_V._Kondrateva_@1x.jpg" alt="" srcset="/upload/landing/7e1/Photo_V._Kondrateva_@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="team-tile__item-info">
+                <p class="team-tile__item-info__name">Victoria Kondratieva</p>
+                <p class="team-tile__item-info__position"><span style="font-weight: bold;">Alumni Relations Manager</span></p>
+                <p class="team-tile__item-info__email">v.kondratieva@innopolis.ru</p>
+            </div>
+
+        </div><div class="team-tile__item">
+
+            <div class="team-tile__item-img">
+                <img src="/upload/landing/acc/i-159@1x.jpg" alt="" srcset="/upload/landing/c24/i-159@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;mailto:i.shulga@innopolis.ru&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" />
+            </div>
+            <div class="team-tile__item-info">
+                <p class="team-tile__item-info__name">Yulia Shulga</p>
+                <p class="team-tile__item-info__position"><span style="font-weight: bold;">Senior Specialist</span></p>
+                <p class="team-tile__item-info__email">i.shulga@innopolis.ru</p>
+            </div>
+
+        </div><div class="team-tile__item">
+
+            <div class="team-tile__item-img">
+                <img src="/upload/landing/c47/Кузьмичева_Альбина_фото@1x.jpg" alt="" srcset="/upload/landing/24a/Кузьмичева_Альбина_фото@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;mailto:a.kuzmicheva@innopolis.ru&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" />
+            </div>
+            <div class="team-tile__item-info">
+                <p class="team-tile__item-info__name">Albina Kuzmicheva</p>
+                <p class="team-tile__item-info__position"><span style="font-weight: bold;">Senior Specialist</span></p>
+                <p class="team-tile__item-info__email">a.kuzmicheva@innopolis.ru</p>
+            </div>
+
+        </div></div>
+</div></div></div> 
+							<div class="landing-footer"><div id="block4553" class="block-wrapper block-footer-default"><div class="footer-container">
+    <div class="footer-top-wrap">
+        <div class="container">
+            <a href="#" class="footer-top-link-dashed">Все медиа</a>
+            <div class="footer-top-link-list ">
+                <div class="footer-top-link-list__item">
+                    <a href="https://www.facebook.com/innopolisU" class="footer-top-link" target="_popup" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FinnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
+                </div>
+                <div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">ВКонтакте</a>
+                </div>
+                <div class="footer-top-link-list__item">
+                    <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
+                </div>
+                
+                <div class="footer-top-link-list__item">
+                    <a href="https://www.instagram.com/innopolisu/" class="footer-top-link" target="_blank">Instagram</a>
+                </div>
+                <div class="footer-top-link-list__item">
+                    <a href="#" class="footer-top-link">habr</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom-wrap">
+        <div class="container">
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
+                <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
+                <ul class="footer-bottom-link__list">
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Абитуриентам</a></li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Студентам </a></li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Выпускникам</a></li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Бизнесу</a></li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Об университете</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Академическое сотрудничество</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Проектная деятельность</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Научная деятельность</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
+                <span class="footer-bottom-link__list-title">Контакты</span>
+                <ul class="footer-bottom-link__list">
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">+7 (843) 203-92-53</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">university@innopolis.ru</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">420500, г. Иннополис ул.Университетская, д.1</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Приемная комиссия</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Вакансии</a></li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Все контакты</a></li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Как добраться</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
+                <span class="footer-bottom-link__list-title">Пресс-служба</span>
+                <ul class="footer-bottom-link__list">
+                    
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">pr@innopolis.ru</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Новости</a></li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Мероприятия</a></li>
+                    <li class="footer-bottom-link__list-item"><a href="#" class="footer-bottom-link">Все медиа</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">
+                <span class="footer-bottom-link__list-title">Полезные ссылки</span>
+                <ul class="footer-bottom-link__list">
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Сведения об образовательной организации</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Министерство связи и массовых коммуникаций РФ</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Министерство образования и науки РФ</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Конкурс на замещение вакантных должностей ППС</a>
+                    </li>
+                    <li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link">Политика конфиденциальности</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div></div></div>
+
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+    <i class="icon-ic_arrow"></i>
+</button>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+        <button class="cookie-popup__close icon-ic_close"></button>
+        <h2 class="cookie-popup__title">Мы используем файлы cookies</h2>
+        <p class="cookie-popup__subtitle">
+            Они помогают улучшить работу сайта и сделать его удобнее. Посещая страницы сайта, вы соглашаетесь с 
+            <a target="_blank" href="/public/files/Согласие на обработку ПДн для УИ.pdf" class="cookie-popup__link">условиями использования</a> 
+            файлов cookie.        </p>
+        <button class="cookie-popup__button">
+            Согласен        </button>
+
+    </div>
+</section>
+</body>
+
+</html>

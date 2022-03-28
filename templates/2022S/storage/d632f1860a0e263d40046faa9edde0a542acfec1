@@ -1,0 +1,983 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+                <script type="text/javascript">
+                ! function() {
+                    var t = document.createElement("script");
+                    t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?168", t.onload = function() {
+                        VK.Retargeting.Init("VK-RTRG-504312-dvPFI"), VK.Retargeting.Hit()
+                    }, document.head.appendChild(t)
+                }();
+            </script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-504312-dvPFI" style="position:fixed; left:-999px;" alt="" /></noscript>
+
+
+            <!-- Facebook Pixel Code -->
+            <script>
+                ! function(f, b, e, v, n, t, s) {
+                    if (f.fbq) return;
+                    n = f.fbq = function() {
+                        n.callMethod ?
+                            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+                    };
+                    if (!f._fbq) f._fbq = n;
+                    n.push = n;
+                    n.loaded = !0;
+                    n.version = '2.0';
+                    n.queue = [];
+                    t = b.createElement(e);
+                    t.async = !0;
+                    t.src = v;
+                    s = b.getElementsByTagName(e)[0];
+                    s.parentNode.insertBefore(t, s)
+                }(window,
+                    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+                fbq('init', '275225537121593');
+                fbq('track', 'PageView');
+            </script>
+            <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=275225537121593&ev=PageView&noscript=1" /></noscript>
+            <!-- DO NOT MODIFY -->
+            <!-- End Facebook Pixel Code -->
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m, e, t, r, i, k, a) {
+            m[i] = m[i] || function() {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(64648600, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/64648600" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161122461-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161122461-4');
+    </script>
+    <title>
+        International applicants    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.min.css?14568470452854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s9/university24/kernel_landing_assets_d6891390f744f914b3fa269a07d848f4/kernel_landing_assets_d6891390f744f914b3fa269a07d848f4_v1.css?16425066323440" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s9/university24/page_f9750877873cc78e5744a237df26a778/page_f9750877873cc78e5744a237df26a778_v1.css?1642515675161063" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s9/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066321359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582878014247888"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s9','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643014705','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'bebce153c23806b2f0ad6e7a34a70e1f'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/kernel_main/kernel_main_v1.js?1642515129142325"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/kernel_landing_assets_d6891390f744f914b3fa269a07d848f4/kernel_landing_assets_d6891390f744f914b3fa269a07d848f4_v1.js?1642506632288999"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/local/blocks/university/tabs/script.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/static/special/js/jquery.cookie.js','/local/templates/.default/static/special/js/spec.js','/local/components/university/contacts.question.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/.default/static/special/css/style.css','/local/templates/.default/static/special/css/bootstrap.min.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="robots" content="all" />
+<script src=' https://www.google.com/recaptcha/api.js '></script>
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'You found an error in the text',
+	'footer':'<b>Send error message to the author?</b><br/><span style="font-size:10px;color:#7d7d7d">(your browser will remain on the same page)</span>',
+	'comment':'Comment to author (optional)',
+	'TitleForm':'The error message',
+	'ButtonSend':'Send',
+	'LongText':'You have selected too much text.',
+	'LongText2':'Please try again.',
+	'text_ok':'Message sent.',
+	'text_ok2':'Thank you for your attention!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066331076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s9/university24/page_9cdfaa92ff442783f72a3363250161b4/page_9cdfaa92ff442783f72a3363250161b4_v1.js?164251574613190"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "apply.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="International applicants" /><meta property="og:description" content="Apply for Master's Degree at Innopolis University!" /><meta property="og:image" content="https://cdn.bitrix24.site/bitrix/images/demo/page/empty/preview.jpg" /><meta property="og:type" content="website" /><meta property="twitter:title" content="International applicants" /><meta property="twitter:description" content="Apply for Master's Degree at Innopolis University!" /><meta property="twitter:image" content="https://cdn.bitrix24.site/bitrix/images/demo/page/empty/preview.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta name="og:url" content="https://apply.innopolis.university/en/" />
+<link rel="canonical" href="https://apply.innopolis.university/en/"/><link rel="icon" type="image/png" href="/upload/resize_cache/landing/ec4/16_16_2/Frame_190.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/ec4/32_32_2/Frame_190.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/ec4/96_96_2/Frame_190.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/ec4/120_120_2/Frame_190.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/ec4/180_180_2/Frame_190.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/ec4/152_152_2/Frame_190.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/ec4/167_167_2/Frame_190.png" sizes="167x167"></head>
+<body class=""><div class="landing-header"><div id="block5014" class="block-wrapper block-university-header-default">
+<div class="uni-nav__wrap" style="top: 0px">
+            <div class="container-fluid">
+            <div class="navbar navbar-default" role="navigation">
+                <div class="row ">
+                    <div class="col-md-2 col-centered">
+                        <p>Размер шрифта</p>
+                        <br />
+                        <div class="btn-group">
+                            <button type="button" id="a2" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-minus"></span>
+                            </button>
+                            <button type="button" id="a1" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-plus"></span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-centered">
+                        <p>Шрифт</p>
+                        <br />
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-default btn-sm nop" id="font1"><span style="font-family:'Times New Roman';font-size:14px;">с засечками</span>
+                            </button>
+                            <button type="button" class="btn btn-default btn-sm nop" id="font2"><span style="font-family:'Arial';font-size:14px;">без засечек</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-centered">
+                        <p>
+                            <span>Цвета сайта</span>
+                        </p>
+                        <br />
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-default btn-sm" id="c1"><span class="glyphicon glyphicon-font"></span>
+                            </button>
+                            <button type="button" class="btn btn-default btn-sm" id="c2"><span class="glyphicon glyphicon-font"></span>
+                            </button>
+                            <button type="button" class="btn btn-default btn-sm" id="c3"><span class="glyphicon glyphicon-font"></span>
+                            </button>
+                            <button type="button" class="btn btn-default btn-sm" id="c4"><span class="glyphicon glyphicon-font"></span>
+                            </button>
+                            <button type="button" class="btn btn-default btn-sm" id="c5"><span class="glyphicon glyphicon-font"></span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-centered">
+                        <p>Изображения</p>
+                        <br />
+                        <div class="btn-group" data-toggle="buttons">
+                            <label class="btn btn-default  btn-sm redis">
+                                <input type="radio" id="q156" name="imgvis" value="1" /><span class="glyphicon glyphicon-eye-open"></span>
+                            </label>
+                            <label class="btn btn-default  btn-sm redis">
+                                <input type="radio" id="q157" name="imgvis" value="2" /><span class="glyphicon glyphicon-eye-close"></span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-1 col-centered">
+                        <p><span class="glyphicon glyphicon-resize-horizontal">Инт.</span>
+                        </p>
+                        <br />
+                        <div class="btn-group">
+                            <button type="button" id="i2" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-minus"></span>
+                            </button>
+                            <button type="button" id="i1" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-plus"></span>
+                            </button>
+
+                        </div>
+                    </div>
+                    <div class="col-md-1 col-centered">
+                        <p><span class="glyphicon glyphicon-resize-vertical">Инт.</span>
+                        </p>
+                        <br />
+                        <div class="btn-group">
+                            <div class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-default  btn-sm ol1">
+                                    <input type="radio" id="yr1" name="inter" value="1" /><span class="glyphicon glyphicon-resize-small"></span>
+
+                                </label>
+                                <label class="btn btn-default btn-sm ol1">
+                                    <input type="radio" id="yr2" name="inter" value="2" /><span class="glyphicon glyphicon-resize-full"></span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-1 col-centered">
+                        <p></p>
+                        <br />
+                        <div class="btn-group">
+                            <button class="btn btn-default btn-sm" id="reset"> <i class="glyphicon glyphicon-refresh"></i> Сброс</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="uni-nav__black-line"></div>
+    <div class="container">
+        <a href="https://innopolis.university/en/" class="uni-logo" target="_self">
+            <i class="icon-ic_logo"></i>
+        </a>
+        <div class="nav__links-wrap">
+            <div class="footer-container">
+                <div class="footer-top-wrap">
+                    <div class="container">
+                        <a href="" class="footer-top-link-dashed">Все медиа</a>
+                        <div class="footer-top-link-list "><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Facebook</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Вконтакте</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Youtube</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Twitter</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Instagram</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">habr</a></div></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="pre-nav__links">
+                <li class="pre-nav__links-item pre-nav__links-item_selected"><a target="_blank" class="pre-nav__link" href="https://apply.innopolis.university/en">Applicants</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://corporate.innopolis.university/en">Business</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://media.innopolis.university/en">Media</a></li>                <li class="pre-nav__links-item desctop-link">
+                    <a href="https://innopolis.university/lk/" class="pre-nav__link personal__account personal__account-lk-link">
+                        Personal account                    </a>
+                </li>
+            </ul>
+
+            <ul class="nav__links">
+                                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            University                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/about/" class="sub-nav__links-item-link" > About <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/board/" class="sub-nav__links-item-link" > Supervisory board <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team/" class="sub-nav__links-item-link" > University team <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/" >Organizational structure</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/education-academics/" >Educational and research departments</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/techcenters/" >Technological centers</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/faculty/" class="sub-nav__links-item-link" > Academic staff <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/faculty/" >Academic staff</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/en/job/" >Faculty positions</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://career.innopolis.university/en/" class="sub-nav__links-item-link" > Careers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/campus" class="sub-nav__links-item-link" > Campus <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/contacts/" class="sub-nav__links-item-link" > Contacts <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Education                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/" class="sub-nav__links-item-link" > International applicants <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/bachelor/" class="sub-nav__links-item-link" > Bachelor's program <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/CE/" >Computer Science</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/DS-AI/" >Data Science and Artificial Intelligence</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/master/" class="sub-nav__links-item-link" > Master's programs <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/datascience/" >Data Science and Artificial Intelligence</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/securityandnetworkengineering/" >Security and Network Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/development/" >Software Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/robotics/" >Robotics and Computer Vision</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/technological-entrepreneurship/" >Technological Entrepreneurship</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/postgraduate-study/" class="sub-nav__links-item-link" > Postgraduate study <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/stud-life/" class="sub-nav__links-item-link" > Student life <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/international-relations-office/" class="sub-nav__links-item-link" > International relations office <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/incomingstudents/" > Incoming Students</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/outgoingstudents/" >Outgoing Students</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/teachingexcellencecenter/" class="sub-nav__links-item-link" > Teaching Excellence Center <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/writinghubhome/" class="sub-nav__links-item-link" > Writing Hub <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    IU Writing Hub &#40;WH&#41; offers editing and proofreading service for IU faculty, researchers and students.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://alumni.innopolis.university/" class="sub-nav__links-item-link" > ALUMNI <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Education </h3>
+<p class="sub-nav__links__result-stub-text">
+	 World-class IT education in Russia in English
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Research                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/research/" class="sub-nav__links-item-link" > Scientific Research activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Software Development and Engineering <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-operating-systems/" >Lab of Operating Systems, programming languages and compilers</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-software-service-engineering/" >Lab of Software and Service Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-industrializing-software/" >Lab of Industrializing Software Production</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Data Science and Artificial Intelligence <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-bioinformatics/" >Lab of Data Analysis and bioinformatics</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-game-development/" >Lab of Artificial Intelligence in Game Development</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-oil-gas/" >Lab of Data Analysis and Machine Learning in the oil and gas industry</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/mlkr/" >Lab of Machine Learning and Knowledge Representation</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Information security and cyberphysical systems <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-cyberphysical-systems/" >Lab of Cyber-Physical Systems</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-networks-blockchain/" >Networks and Blockchain Lab  </a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Robotics and computer vision  <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-robotics/" >Laboratory of Intelligent Robotics Systems</a>
+    </li>
+            </ul>
+        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Science </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Innopolis University has 15 laboratories and 7 research centers, which conduct research in the field of artificial intelligence, robotics, big data, software development, information security
+</p>            </div>
+        </div>
+        </div>
+        </li>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Innovation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/activity/" class="sub-nav__links-item-link" >  Project-based activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team-structure/techcenters/" class="sub-nav__links-item-link" > Technological centers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/podderzhka-innovacionnoj-deyatelnosti/" class="sub-nav__links-item-link" > Supporting Innovative Activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/startupstudio/" class="sub-nav__links-item-link" > Startup studio <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                                        <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                            <div class="sub-nav__links__result-stub">
+                                Development and support of student technology startups by creating a successful startup community; assistance in providing favorable conditions from external partners for investment and development of ideas.                            </div>
+                        </ul>
+                            </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innovation </h3>
+<p class="sub-nav__links__result-stub-text">
+	 The university’s project-based activities are aimed at implementing grant-based and commercial projects, as well as at enhancing the availability of education in IT areas.
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Cooperation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/internationalpartners/" class="sub-nav__links-item-link" > International partners <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/organizatsiya-i-provedenie-meropriyatiy/" class="sub-nav__links-item-link" > Event management <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                    <li class="nav__links-btns">
+                    <a class="nav__links-btns_optic" href="/en/?special=Y" itemprop="copy" title="Версия для слабовидящих"><i class="icon-ic_optic"></i></a>                    <a class="nav__links-btns_search" href="/search/" target="_self"><i class="icon-ic_search"></i></a>
+                    <a class='nav__links-btns_ru' href='/'><i class="icon-ic_lang_ru"></i></a>                </li>
+
+            </ul>
+
+            <div class="mobile-personal-area">
+                <a href="https://innopolis.university/lk/" class="mobile-personal-area-link">
+                    Personal account                </a>
+                <div class="mobile-personal-area-icons">
+                    <a href="https://innopolis.university/search/" class="mobile-personal-area-icons-link"><i class="icon-ic_search"></i></a>
+
+                    <a class='mobile-personal-area-icons-link' href='/'><i class="icon-ic_lang_ru"></i></a>                </div>
+            </div>
+        </div>
+        <div class="menu-mobile__btn">
+            <i class="icon-menu"></i>
+            <i class="icon-ic_close"></i>
+        </div>
+    </div>
+</div></div></div> 
+								<div class="landing-main"><div id="block1286" class="block-wrapper block-career-page-main"><div class="main-page__main-viewport-titles entrants-page">
+    <div class="container">
+        <div class="viewport__subtitle no__icon">
+            <i class="icon-ic_arrow"></i>
+            <h2 class="viewport__subtitle-text">EDUCATION</h2>
+        </div>
+
+        <h1 class="viewport__title">International Applicants</h1>
+        <div class="viewport__call">World-class IT education in Russia in English</div>
+        <a class="viewport__button icon-ic_arrow" href="https://apply.innopolis.ru/en/get-in/" target="_self">Apply</a>
+    </div>
+</div></div><div id="block1287" class="block-wrapper block-row-info-block--wrap"><div class="row-info-block__wrap">
+  <div class="container"><div class="row-info-block__item">
+      <span class="row-info-block__item-title">
+        <div class="row-info-block__item-title-subbitle"> </div>
+        <h2><p style="text-align: right;"><span style="font-size: 90px; font-weight: 400;">255</span></p></h2>
+        <div class="row-info-block__item-title-ruble"> </div>
+      </span>
+      <div class="row-info-block__item-text">international students from  40 countries  </div>
+    </div><div class="row-info-block__item">
+      <span class="row-info-block__item-title">
+        <div class="row-info-block__item-title-subbitle"> </div>
+        <h2>135</h2>
+        <div class="row-info-block__item-title-ruble"> </div>
+      </span>
+      <div class="row-info-block__item-text">scholarships  for international candidates </div>
+    </div><div class="row-info-block__item">
+      <span class="row-info-block__item-title">
+        <div class="row-info-block__item-title-subbitle">from</div>
+        <h2>2500</h2>
+        <div class="row-info-block__item-title-ruble">USD </div>
+      </span>
+      <div class="row-info-block__item-text">tuition fee</div>
+    </div><div class="row-info-block__item">
+      <span class="row-info-block__item-title">
+        <div class="row-info-block__item-title-subbitle">to</div>
+        <h2>480</h2>
+        <div class="row-info-block__item-title-ruble">USD </div>
+      </span>
+      <div class="row-info-block__item-text">monthly allowance</div>
+    </div></div>
+</div></div><div id="block1288" class="block-wrapper block-learning-programs"><div class="learning-programs">
+    <div class="learning-programs-row container">
+        <div class="learning-programs-title">
+            <h2>educational programs</h2>
+        </div>
+        <div class="learning-program undergraduate">
+            <h5 class="learning-program-name">Bachelor&#039;s Degree</h5>
+            <div class="learning-program-description"><p>• Computer Science</p><p>• Data Science and Artificial Intelligence
+<br /></p></div>
+            <a class="learning-program-more" href="https://apply.innopolis.university/en/bachelor/" target="_blank"><span class="learning-program-more-text">Learn more</span><i class="icon-ic_arrow"></i></a>
+        </div>
+    </div>
+    <div class="learning-programs-row container">
+        <div class="learning-program master">
+            <h5 class="learning-program-name">Master&#039;s Degree</h5>
+            <div class="learning-program-description"><p>• Software Engineering<br /></p><p>• Security and Network Engineering</p><p>• Data Analysis and Artificial Intelligence</p><p>• Robotics and Computer Vision<br /></p><p>• Technological Entrepreneurship <br /></p></div>
+            <a class="learning-program-more" href="https://apply.innopolis.university/en/master/" target="_blank"><span class="learning-program-more-text">Learn more</span><i class="icon-ic_arrow"></i></a>
+        </div>
+        <div class="learning-program graduate-school">
+            <h5 class="learning-program-name">Postgraduate Degree</h5>
+            <div class="learning-program-description">We welcome young scholars and prospective teachers who are interested in computer science and have experience in research or working in IT.</div>
+            <a class="learning-program-more" href="https://apply.innopolis.university/en/postgraduate-study/" target="_blank"><span class="learning-program-more-text">Learn more</span><i class="icon-ic_arrow"></i></a>
+        </div>
+    </div>
+</div></div><div id="block1289" class="block-wrapper block-slider-three-card-slider"><div class="three-card-slider-description-container">
+    <h2 class="three-card-slider-description-title container">7 reasons to study at Innopolis University:</h2>
+    <div class="three-card-slider-description-wrapper">
+        <div class="swiper-wrapper three-card-slider-description"><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/cfa/IMG_2400@1x.jpg" alt="" srcset="/upload/landing/a8d/IMG_2400@2x.jpg 2x" data-fileid="17739" data-fileid2x="17740" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">#1 Study Scholarships</h5>
+                    <p class="three-card-slider-description-item-text">based on the selection results, students receive scholarships covering up to 100% of the tuition fees</p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/e23/IMG_628@1x.jpg" alt="" srcset="/upload/landing/fcc/IMG_628@2x.jpg 2x" data-fileid="17743" data-fileid2x="17744" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">#2 World Recognised Faculty</h5>
+                    <p class="three-card-slider-description-item-text">international experts having a vast practical experience in implementation of large-scale IT projects</p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/5d1/Офис_компании-резидента@1x.jpg" alt="" srcset="/upload/landing/f39/Офис_компании-резидента@2x.jpg 2x" data-fileid="17733" data-fileid2x="17734" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">#3 High Educational Standards</h5>
+                    <p class="three-card-slider-description-item-text">IU Master&#039;s programs are created in collaboration with leading IT universities: Carnegie-Mellon and University of Amsterdam. All programs are taught in English</p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/129/Выпускной1@1x.jpg" alt="" srcset="/upload/landing/a1b/Выпускной1@2x.jpg 2x" data-fileid="17747" data-fileid2x="17748" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">#4 Focus on Practice</h5>
+                    <p class="three-card-slider-description-item-text">over 40% of the academic program is devoted to practical activities performed as team projects</p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="//innopolis.university/local/templates/.default/static/public/images/entrants-page-slider2.jpg" alt="" srcset="" data-fileid="17743" data-fileid2x="17744" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">#5 Enhanced Options</h5>
+                    <p class="three-card-slider-description-item-text">internships offered by leading Russian IT companies (Yandex, AkBars, Acronis, Cognitive Technologies, Infowatch, Sbertech, etc.), exchange programs, start-up support</p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/662/IMG_9237@1x.jpg" alt="" srcset="/upload/landing/3d0/IMG_9237@2x.jpg 2x" data-fileid="17749" data-fileid2x="17750" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">#6 Unique Environment</h5>
+                    <p class="three-card-slider-description-item-text">nature at your doorstep, comfortable student apartments, 24/7 security service, free sports facilities</p>
+                </div>
+            </div><div class="swiper-slide three-card-slider-description-item">
+                <img src="/upload/landing/545/POL_3395_2_@1x.jpg" alt="" srcset="/upload/landing/ce7/POL_3395_2_@2x.jpg 2x" data-fileid="20704" data-fileid2x="20705" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                <div class="three-card-slider-description-item__content">
+                    <h5 class="three-card-slider-description-item-title">#7 Advanced Monthly Allowance</h5>
+                    <p class="three-card-slider-description-item-text">up to $250-600, based on academic performance </p>
+                </div>
+            </div></div>
+        <div class="three-card-slider-description-swiper-pagination"></div>
+        <div class="three-card-slider-description-slider-btn-wrap">
+            <div class="three-card-slider-description-swiper-button-prev">
+                <i class="icon-ic_arrow_small"></i>
+            </div>
+            <div class="three-card-slider-description-index-active">
+                <p class="three-card-slider-description-index">1/4</p>
+            </div>
+            <div class="three-card-slider-description-swiper-button-next">
+                <i class="icon-ic_arrow_small"></i>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block1292" class="block-wrapper block-slider-logo-white"><div class="five-sliders__container entrants-page-five-card-container">
+    <div class="container">
+        <h2 class="slider__title">Where do GRADUATES work?</h2>
+        <div class="slider__subtitle">The main indicator of the effectiveness of the university is the success of its graduates. <p><br /></p><p>That is why we make sure that graduates get a worthy position in the leading companies in the Russian market of the IT industry, which make it possible not only to participate in ambitious projects, but also to grow in the professional spheres<br /></p></div>
+    </div>
+
+    <div class="container">
+        <div class="five-sliders-wrap entrants-page-five-card ">
+            <div class="swiper-wrapper five-sliders-slider-wrapper"><div class="swiper-slide five-sliders-item">
+                    <img src="//innopolis.university/local/templates/.default/static/public/images/logo-icl.png" class="five-sliders-item__img" alt="" srcset="" />
+                </div><div class="swiper-slide five-sliders-item">
+                    <img src="//innopolis.university/local/templates/.default/static/public/images/logo-bars.png" class="five-sliders-item__img" alt="" srcset="" />
+                </div><div class="swiper-slide five-sliders-item">
+                    <img src="//innopolis.university/local/templates/.default/static/public/images/logo-tatneft.png" class="five-sliders-item__img" alt="" srcset="" />
+                </div><div class="swiper-slide five-sliders-item">
+                    <img src="//innopolis.university/local/templates/.default/static/public/images/logo-akbars.png" class="five-sliders-item__img" alt="" srcset="" />
+                </div><div class="swiper-slide five-sliders-item">
+                    <img src="//innopolis.university/local/templates/.default/static/public/images/logo-omp.png" class="five-sliders-item__img" alt="" srcset="" />
+                </div></div>
+            <div class="vacancies-next entrants-page-five-card five-sliders-next">
+                <i class="icon-ic_arrow_small"></i>
+            </div>
+            <div class="vacancies-prev entrants-page-five-card five-sliders-prev">
+                <i class="icon-ic_arrow_small"></i>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block1290" class="block-wrapper block-tabs"><div class="important-topics-for-entrants g-pl-auto g-mt-auto g-pr-auto g-pb-105">
+    <div class="important-topics-for-entrants-tabs">
+        <a class="important-topics-for-entrants-tab" id="reception-company"><span class="important-topics-for-entrants-tab__text">Webinars for International Candidates</span><i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result reception-company__result" style="display: none;" id="reception-company__result">
+            <div class="reception-company-items"><div class="reception-company-item">
+                    <h5 class="reception-company-item-title">Undergraduate program in Computer Science</h5>
+                    <ul class="reception-company-item-list">Information about the next webinar will be here</ul>
+                </div><div class="reception-company-item">
+                    <h5 class="reception-company-item-title">Graduate program in Software Engineering</h5>
+                    <ul class="reception-company-item-list"><p>Information about the next webinar will be here<br /></p></ul>
+                </div><div class="reception-company-item">
+                    <h5 class="reception-company-item-title">Graduate program in Security and Network Engineering</h5>
+                    <ul class="reception-company-item-list"><p>Information about the next webinar will be here<br /></p></ul>
+                </div><div class="reception-company-item">
+                    <h5 class="reception-company-item-title">Graduate program in Robotics and Computer Vision</h5>
+                    <ul class="reception-company-item-list"><p>Information about the next webinar will be here</p></ul>
+                </div><div class="reception-company-item">
+                    <h5 class="reception-company-item-title">Graduate program in Data Analysis and Artificial Intelligence</h5>
+                    <ul class="reception-company-item-list">Information about the next webinar will be here</ul>
+                </div></div>
+            <a href="https://apply.innopolis.ru/en/get-in/" class="reception-company__btn btn-green" target="_blank">Apply</a>
+        </div>
+        <a class="important-topics-for-entrants-tab" id="university-selection"><span class="important-topics-for-entrants-tab__text">Application steps for international candidates</span> <i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result university-selection__result" id="university-selection__result" style="display: none;">
+            <div class="university-selection-video">
+                <iframe src="https://www.youtube.com/embed/e_q6d4Fex2Q?autoplay=0&controls=1&loop=0&mute=0&rel=0&start=0&html5=1&v=e_q6d4Fex2Q&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-source="https://www.youtube.com/embed/e_q6d4Fex2Q?autoplay=0&controls=1&loop=0&mute=0&rel=0&start=0&html5=1&v=e_q6d4Fex2Q&feature=youtu.be" style="background-image: url('//img.youtube.com/vi/e_q6d4Fex2Q/sddefault.jpg');" data-preview="//img.youtube.com/vi/e_q6d4Fex2Q/sddefault.jpg"></iframe>
+            </div>
+            <h5 class="university-selection-title">Application steps for international candidate</h5>
+            <div class="university-selection-text"><p><span style="font-weight: bold;">Step 1</span>: Register your application at Innopolis university application portal https://apply.innopolis.ru/en/get-in/ . Fill in the application form, pass online tests and submit your application.</p><p><br /></p><p><span style="font-weight: bold;">Step 2</span>: Get an invitation to the next round of the Contest and go through it.</p><p><br /></p><p><span style="font-weight: bold;">Step 3</span>: Receive the Contest results and the scholarship offer.</p><p><br /></p><p><span style="font-weight: bold;">Step 4</span>: Provide your enrollment and visa documents and come to Innopolis in mid-August.<br /></p></div>
+            <a class="university-selection-btn" href="https://apply.innopolis.ru/en/get-in/" target="_blank">Apply</a>
+        </div>
+        <a class="important-topics-for-entrants-tab" id="faq-for-entrants"><span class="important-topics-for-entrants-tab__text">F.A.Q.</span> <i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result faq__result" id="faq-for-entrants__result" style="display: none;">
+            <div><div class="faq-info-block">
+                    <h2 class="faq-info-block__title">How to enter Innopolis University as an international student?</h2>
+                    <div class="faq-info-block__text"><p>Apply at Innopolis university application portal https://apply.innopolis.ru/en/get-in/ . On the results of Scholarship Contest the candidates are offered:</p><p><br /></p><p>1. 100% Scholarship. Grant (Scholarship) covers tuition fee and monthly allowance (up to 36000 RUB and depends on academic performance and extra-curriculum activity).</p><p>2. Partial  Scholarship: 25%, 50% or 75% tuition fee discount. <br /></p></div>
+                </div><div class="faq-info-block">
+                    <h2 class="faq-info-block__title">What language must be used in application documents?</h2>
+                    <div class="faq-info-block__text"><p>CV, Motivation letter and other documents must be written in English. If any documents are issued not in English, please provide translation into Russian (can be not notarized). Secondary School Certificate/Diploma and Transcript are provided in the original language. </p></div>
+                </div></div>
+            <a href="https://apply.innopolis.university/en/faq/" class="faq-info-btn" target="_blank">More questions</a>
+        </div>
+        <a class="important-topics-for-entrants-tab" id="open-day"><span class="important-topics-for-entrants-tab__text">Cooperation</span> <i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result open-day__result desctop-active-tab" id="open-day__result" style="display: none;">
+            <h2 class="open-day-title">Cooperation</h2>
+            <div class="open-day-text"><p>We are looking for cooperation with recruiting agencies interested in admission for international candidates. <br /></p><p>Please contact admissions@innopolis.ru </p></div>
+
+            <a href="https://apply.innopolis.university/en/#block5327" class="btn-blue open-day__button" target="_self">Learn more</a>
+        </div>
+        <a class="important-topics-for-entrants-tab" id="olympic-bonus"><span class="important-topics-for-entrants-tab__text">Olympiads bonuses</span> <i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result open-day__result desctop-active-tab" id="olympic-bonus__result" style="display: none;">
+            <h2 class="open-day-title">For Bachelor’s candidates only</h2>
+            <div class="open-day-text">Please let us know if you are/were within past 4 years a national team member at international Olympiads in Informatics, Math, Physics (IOI, IMO, IPhO, IATI, eJo, ISEF), ACM/ICPC, WRO - the achievements of that kind are a big advantage at the stage of application and later (in case you get a Scholarship and accept it) provide you with an advanced monthly allowance.</div>
+
+            <a href="https://apply.innopolis.university/en/olympiad-bonus/" class="btn-blue open-day__button" target="_blank">Learn more</a>
+        </div>
+        <a class="important-topics-for-entrants-tab" id="documents"><span class="important-topics-for-entrants-tab__text">Admission Calendar 2022</span> <i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result open-day__result desctop-active-tab" id="documents__result" style="display: none;">
+            <h2 class="open-day-title"> </h2>
+            <div class="open-day-text"> </div>
+            <img src="/upload/landing/5fb/Admission_Calendar_2022@1x.png" class="open-day-img" alt="" srcset="/upload/landing/8d3/Admission_Calendar_2022@2x.png 2x" data-fileid="30401" data-fileid2x="30400" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+
+            <a href="https://apply.innopolis.ru/en/get-in/" class="btn-blue open-day__button" target="_blank">Apply</a>
+        </div>
+    </div>
+    <div class="important-topics-for-entrants-tabs-result">
+        <div class="important-topics-for-entrants-tabs-result-stub"></div>
+        <!--  -->
+    </div>
+</div></div><div id="block2937" class="block-wrapper block-university-centers-faq"><div class="faq-container uni-center-tech uni-postgraduate-main g-mt-auto g-bg-cyan-opacity-0_1 g-pt-1 g-pb-1">
+    <div class="container"><div class="expand-panel">
+            <a class="expand-panel__header collapsed">
+                <span class="expand-panel__header-text"><span style="font-weight: bold;color: rgb(26, 35, 126);">Scholarship/Discount/Tuition fee</span></span>
+                <i class="faq-close-icon"></i>
+            </a>
+            <div class="expand-panel__body collapse"><p>One can enroll in Innopolis University programs through the Scholarship competition or entrance examination with further tuition fee payment.</p><p><br /></p><p style="text-align: left;"><span style="font-weight: bold;color: rgb(26, 35, 126);">1. Scholarship options</span><br /></p><p><br /></p><p></p><ul><li>There are several scholarship options which can be offered based on candidates&#039; results and performance at the scholarship competition. </li><li>The scholarship offer is <span style="font-weight: bold;">valid for the whole duration of the program</span> (2 years for Master programs, 4 years for Bachelor program). </li><li><span style="font-size: 1rem;">The scholarship offer can be accepted and used <span style="font-weight: bold;">within current year only</span>. </span></li></ul><p></p><span style="color: rgb(26, 35, 126);"><span style="font-weight: bold;"><p><span style="color: rgb(26, 35, 126);"><span style="font-weight: bold;"><br /></span></span></p></span></span><span style="font-weight: bold;">100% scholarship:</span> full tuition fee coverage + monthly allowance <p><span style="font-weight: bold;">75/50/25% scholarship:</span> 75/50/25% tuition fee discount, no monthly allowance<span style="color: rgb(26, 35, 126);"><span style="font-weight: bold;"><br /></span></span></p><p></p><ol><li><br /></li></ol><p>For master students, <a href="https://apply.innopolis.university/en/development2/" target="_self" style="text-decoration-line: underline;color: rgb(3, 169, 244);">MSIT-SE</a> and <a href="https://apply.innopolis.university/en/razrabotka-bezopasnyh-sistem-i-setej/" target="_self" style="text-decoration-line: underline;color: rgb(3, 169, 244);">MSSSNE</a> programs, who are studying on the full scholarship with the employment condition (1 year of paid work at Innopolis University), it is possible to <span style="font-weight: bold;">combine the 2d year of the program (=internship) and the employment at IU</span>.<br /></p><p><br /></p><p>Thus, it would take 2 years total to complete both the program and the employment, After the 2 years the diploma will be issued and a student will be free to proceed either to further studies or work (or both) anywhere. This condition will be added to the contracts.<br /></p><p><br /></p><p style="text-align: left;"><span style="color: rgb(26, 35, 126);font-weight: 700;font-size: 1rem;">2. Fee-based education</span><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);"><br /></span></p><p><span style="color: rgb(33, 33, 33);">International applicants also can be enrolled in fee-based programs by passing entrance examination tests and paying tuition fee.</span></p><p><span style="color: rgb(33, 33, 33);">Tuition fee for 2022/2023 academic year is <span style="font-weight: bold;">800 000 RUB/year</span>, </span><span style="font-size: 1rem;">both for Bachelor and Master programs.</span></p><p></p><p></p></div>
+        </div><div class="expand-panel">
+            <a class="expand-panel__header collapsed">
+                <span class="expand-panel__header-text"><span style="font-weight: bold;color: rgb(26, 35, 126);">Application documents</span></span>
+                <i class="faq-close-icon"></i>
+            </a>
+            <div class="expand-panel__body collapse"><span style="color: rgb(26, 35, 126);"><span style="font-weight: bold;">CV / portfolio</span> </span><p></p><ol><li>- study and work experience in detail, </li><li>- achievements related to Mathematics, Physics, Programming, Informatics, Robotics, English language and Sports.
+In your CV you are expected to show your study and work experience with details, as well as your achievements related to Mathematics, Physics, Programming, Informatics, English language and Sports. It is desirable to show your achievements since they show your proficiency and progress in particular fields.</li></ol><p><br /></p><p><span style="color: rgb(26, 35, 126);font-weight: 700;">For Bachelor&#039;s candidates only</span></p><p>Please let us know if you are/were within past 4 years a national team member at international Olympiads in Informatics, Math, Physics (IOI, IMO, IPhO, IATI, eJo, ISEF), ACM/ICPC, WRO - the achievements of that kind are a big advantage at the stage of application and later (in case you get a Scholarship and accept it) provide you with an advanced monthly allowance.<br /></p><p><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);">Motivation letter </span></p><p>- explanation to your CV / portfolio </p><p><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);">English language proficiency certificate</span> </p><p>English is an official language of instruction at Innopolis University. Therefore, each candidate has to <span style="font-weight: bold;">confirm his/her English proficiency</span> in one of the following ways: </p><p>- providing an international English language test certificate (IELTS, TOEFL (including <a href="https://www.ets.org/s/cv/toefl/at-home/" target="_self" style="text-decoration-line: underline;color: rgb(3, 155, 229);">TOEFL iBT Special Home Edition</a>), <a href="https://englishtest.duolingo.com/" target="_self" style="text-decoration-line: underline;color: rgb(3, 155, 229);">Duolingo English Test</a>), OR </p><p>- taking IU extended English test (free of charge), OR </p><p>- providing an official letter from your School/University stating that the studies were delivered in English. </p><p><br /></p><p>The confirmation can be provided after receiving a scholarship offer, at latest. </p><p><br /></p><p><span style="color: rgb(67, 160, 71);font-weight: bold;">&gt;&gt;&gt;</span> For your convenience there are templates and guidelines provided in Admission Documents section of your application <br /></p><p><br /></p><p><span style="color: rgb(229, 57, 53);font-weight: bold;">NB!</span> <span style="font-weight: bold;">All documents should be provided in .pdf format. 
+
+All documents should be provided in English.</span></p><p></p></div>
+        </div><div class="expand-panel">
+            <a class="expand-panel__header collapsed">
+                <span class="expand-panel__header-text"><span style="font-weight: bold;color: rgb(26, 35, 126);">Diploma</span></span>
+                <i class="faq-close-icon"></i>
+            </a>
+            <div class="expand-panel__body collapse"><p><span style="font-weight: bold;color: rgb(26, 35, 126);">Diploma / </span><span style="color: rgb(26, 35, 126);"><span style="font-weight: bold;">High School certificate</span><span style="font-weight: bold;"> </span></span><span style="font-weight: bold;color: rgb(26, 35, 126);">+ Transcript</span><span style="font-size: 1rem;font-weight: bold;"><br /></span></p><p><span style="font-size: 1rem;font-weight: bold;"><br /></span></p><p><span style="font-size: 1rem;font-weight: bold;">Diploma / </span><span style="font-weight: bold;">High School certificate<span style="font-size: 1rem;"> </span></span><br /></p><p>– required for the applilcation, in case you already graduated. </p><p><br /></p><p><span style="font-weight: bold;">Transcript (marksheet) </span></p><p>– required for the applilcation, in case you already graduated; </p><p>– can be issued either as an additional document to your Diploma / School leaving certificate OR as a Diploma Supplement. </p><p><br /></p><p>In case you have both documents, upload them as one .pdf file. </p><p><br /></p></div>
+        </div><div class="expand-panel">
+            <a class="expand-panel__header collapsed">
+                <span class="expand-panel__header-text"><span style="font-weight: bold;color: rgb(26, 35, 126);">Enrollment documents</span></span>
+                <i class="faq-close-icon"></i>
+            </a>
+            <div class="expand-panel__body collapse"><p><span style="color: rgb(56, 142, 60);font-weight: bold;">Steps to be done:</span></p><p><br /></p><p><span style="color: rgb(229, 57, 53);font-weight: bold;">IMPORTANT:</span> According to the legislation of the Russian Federation, educational documents issued in some foreign countries can be accepted by Russian organizations only after the legalization and recognition procedure. Check if it applies to your country: <a href="http://nic.gov.ru/en/proc/nic/legalize" target="_blank" style="text-decoration-line: underline;">http://nic.gov.ru/en/proc/nic/legalize</a> .</p><p><br /></p><p>1. Legalization (if needed): Consular legalization or Apostille. Your Diploma/Graduation certificate and Transcript are needed to be legalized.</p><p>Consular legalization is 2 stamps (Stamp of the Ministry of Foreign Affairs in the country where you received Diploma/Graduation certificate + Stamp of the Russian Embassy in the country where you received Diploma/Graduation certificate).</p><p>Apostille is a simplified legalization procedure. It is put down on the original of the document or on a separate sheet, which is attached to the document and could be made in official language of the body which is giving it out; by <a href="https://www.hcch.net/en/instruments/conventions/authorities1/?cid=41" target="_blank" style="text-decoration-line: underline;">competent authorized bodies of the country of issue</a> of the document (example, State Secretary, Department of Education, Ministry of Education, educational institutions and others).\</p><p>2. Translation into Russian*.</p><p>3. Recognition (if needed). The recognition certificate is needed for international applicants to be officially enrolled in a Russian university.</p><p><span style="font-weight: bold;color: rgb(229, 57, 53);">NB!</span> Procedures like notarized translation into Russian and application for the recognition procedure can be done by you personally or can be performed by Innopolis University on an Paid Services Agreement.</p><p>Please see the <span style="text-decoration-line: underline;"><a href="https://drive.google.com/file/d/10spw7SYKomHSyWuaNMWMl3-t_OiiR-qg/view" target="_blank">Paid Services Agreement</a></span> for details.</p><p><br /></p><p><span style="font-weight: bold;color: rgb(56, 142, 60);">Documents to be prepared by you</span>:</p><p><br /></p><p>1. Passport – required for visa and enrollment - notarized translation into Russian: pages with personal information (usually first two pages)</p><p><span style="font-weight: bold;color: rgb(229, 57, 53);">NB!</span> Your passport should be valid within 18 months starting from June, 2022 (i.e. till January 2024). In case your passport expires earlier, you will have to apply for a new passport before proceeding to your visa application and enrollment.</p><p>2. Diploma / High School certificate + Transcript – required for enrollment</p><p>- notarized translations into Russian, all pages</p><p><br /></p><p><span style="font-weight: bold;color: rgb(56, 142, 60);">Documents to be prepared by Innopolis University</span>:</p><p><br /></p><p><span style="font-weight: bold;">1) Scholarship offer/ Contract (email)</span> is issued by Innopolis University to those who successfully passed the scholarship competition steps</p><p><span style="font-weight: bold;">2) Scholarship confirmation letter/ Acceptance letter (paper/email)</span> is issued by Innopolis University to those who accept the scholarship, can be used at work and at visa application</p><p><span style="font-weight: bold;">3) Visa invitation letter (e-copy)</span> is inquired by Innopolis University and issued by Russian Migration Service to those who accept the scholarship and provide all required documents  <br /></p><p><br /></p><p>**Document translations into Russian are to be done in Russia or the Russian consulate/embassy or. Document translations made in the following countries are accepted:</p><p><br /></p><p>Albania</p><p>Armenia</p><p>Azerbaijan</p><p>Belarus</p><p>Bosnia and Herzegovina</p><p>Bulgaria</p><p>China</p><p>Croatia</p><p>Cyprus</p><p>Czech Republic</p><p>Estonia</p><p>Finland</p><p>Georgia</p><p>Greece</p><p>Hungary</p><p>Kazakhstan</p><p>Kyrgyzstan</p><p>Latvia</p><p>Lithuania</p><p>Macedonia</p><p>Moldova</p><p>Mongolia</p><p>Montenegro</p><p>Poland</p><p>Romania</p><p>Serbia</p><p>Slovakia</p><p>Slovenia</p><p>Spain</p><p>Tajikistan</p><p>Turkmenistan</p><p>Ukraine</p><p>Uzbekistan</p><p>Vietnam
+</p><p></p></div>
+        </div><div class="expand-panel">
+            <a class="expand-panel__header collapsed">
+                <span class="expand-panel__header-text"><span style="font-weight: bold;color: rgb(26, 35, 126);">Official documents</span></span>
+                <i class="faq-close-icon"></i>
+            </a>
+            <div class="expand-panel__body collapse"><p>The scholarship competition, fee-based education and the enrollment are conducted according to Innopolis University documentation.  Please <span style="font-weight: bold;">read the documents carefully</span> to understand the scholarship conditions.</p><p><br /></p><p>1) REGULATION on the Competition for Higher Education Grants for Bachelor&#039;s and Master’s Degree Programs for the participants from far-abroad countries <span style="text-decoration-line: underline;color: rgb(3, 155, 229);"><a href="https://drive.google.com/file/d/193kK6kV0RAzdp_wRksSJy9a9y1s0gMaE/view" target="_self">.PDF file</a></span></p><p>2) HIGHER EDUCATION GRANT CONTRACT - available within the Regulation, pp 11-27 </p><p>3) CONTRACT on Higher Education Studies Bachelor&#039;s program <span style="text-decoration-line: underline;color: rgb(3, 155, 229);"><a href="https://drive.google.com/file/d/1YYhSiVTm6bxxeBt0fv7rbrMdgU0C2e2_/view" target="_self">.PDF file</a></span> and Master&#039;s program <span style="text-decoration-line: underline;color: rgb(3, 155, 229);"><a href="https://drive.google.com/file/d/1HATau9H2J2rJbC45o2EiREsGDKpNODA1/view" target="_self">.PDF file</a></span></p><p><br /></p><p><span style="font-weight: bold;color: rgb(229, 57, 53);">NB! </span>The contracts will be signed remotely first, and we will use the scans of the documents for your timely enrollment. Later on, the documents shall be signed with live signatures and exchanged either in person or via post service within the first academic year (the way of exchanging the original documents will depend on the situation with the pandemic). <br /></p><p><br /></p><p>More information is <span style="text-decoration-line: underline;color: rgb(3, 155, 229);"><a href="https://innopolis.university/sveden/apply/" target="_self" style="">here</a></span></p><p><br /></p><p><span style="color: rgb(56, 142, 60);font-weight: bold;">Important moments to be noticed in the Enrollment Documents</span><br /></p><p><br /></p><p>NOTIONS: </p><p>- Regulation on the Competition for Higher Education Grants for Bachelor&#039;s and Master’s Degree Programs for the participants from far-abroad countries = <span style="color: rgb(56, 142, 60);">Regulation</span>; </p><p>- Higher Education Grant Contract = <span style="color: rgb(56, 142, 60);">Grant Contract</span>; </p><p>- Contract on Higher Education Studies = <span style="color: rgb(56, 142, 60);">Contract</span>. </p><p><span style="color: rgb(56, 142, 60);">Grant </span><span style="color: rgb(33, 33, 33);">=</span> tuition fee coverage (full or partial), offered to candidates based on the grant contest results. Grant conditions vary depending on a category of the grant recipients, and may include scholarship (monthly allowance) and employment obligations.</p><p> </p><p><span style="font-style: italic;">(see Regulation, clause 1.4 and Grant Contract, Article 4)</span><br /></p><p><span style="font-style: italic;"><br /></span></p><p><span style="font-weight: bold;">1. Grant offer duration</span><span style="font-style: italic;"><br /></span></p><p><br /></p><p>The grant offer is valid for the whole period of studies: Bachelor program - 4 years, Master programs - 2 years. Once confirmed before the enrollment, the grant conditions shall not be changed.<br /></p><p><br /></p><p><span style="font-weight: bold;">2. Why are there two contracts for Scholarship students (Grant Contract and Contract)?</span></p><p><br /></p><p>One of the documents - the Contract - defines the relationship between you as a Student and Innopolis University as an educational institution. 
+Another document - the Grant Contract - states you as the scholarship receiver (Grantee) and confirms that your study fees are covered by the scholarship and not your personal money. <br /></p><p><br /></p><p><span style="font-weight: bold;">3. Can someone receive the grant (scholarship) for a second time?</span></p><p><br /></p><p>In case you pass the scholarship contest successfully, get the scholarship offer, accept it, come to Innopolis University, sign the contracts and start your studies - your scholarship is considered authorized. In this case you are not eligible for receiving the scholarship for a second time. 
+(see Regulation, clause 2.2)</p><p>Meanwhile, in case you participate in the scholarship contest and for some reason don’t pass it or don’t accept the scholarship offer, you are absolutely eligible to apply for the scholarship for a second time next year.</p><p>This rule applies to a certain level of education. I.e. one is eligible for having several IU grants for different levels of education. One can study the IU bachelor program with a scholarship, and then apply for another IU scholarship for master studies, and then even apply for a scholarship to study a PHD program in IU.</p><p><br /></p><p><span style="text-decoration-line: underline;">Please note</span>: When it comes to signing the enrollment contracts, there are some supplementary documents such as Request for admission and Consent on personal data processing to be reviewed and signed. They are usually prepared on a day of enrollment.<br /></p><p><br /></p><p><span style="font-weight: bold;">4. Can someone receive the grant for a second time?</span><span style="font-style: italic;"><br /></span></p><p>In case you pass the grant contest successfully, get the grant offer, accept it, come to Innopolis University, sign the contracts and start your studies - your grant is considered authorized. In this case you are not eligible for receiving the grant for a second time. </p><p><span style="font-style: italic;">(see Regulation, clause 2.2) </span></p><p>Meanwhile, in case you participate in the grant contest and for some reason don’t pass it or don’t accept the grant offer, you are absolutely eligible to apply for the grant for a second time next year. </p><p>This rule applies to a certain level of education. I.e. one is eligible for having several IU grants for different levels of education. One can study the IU bachelor program with a grant, and then apply for another IU grant for master studies, and then even apply for a grant to study a PHD program in IU.<span style="font-weight: bold;"><br /></span></p><p><br /></p><p><span style="font-weight: bold;">Please note: </span>When it comes to signing the enrollment contracts, there are some supplementary documents as <span style="font-style: italic;font-weight: bold;">Request for admission</span> and <span style="font-style: italic;font-weight: bold;">Consent on personal data processing</span> to be reviewed and signed. They are usually prepared on a day of enrollment.<br /></p><p></p></div>
+        </div><div class="expand-panel">
+            <a class="expand-panel__header collapsed">
+                <span class="expand-panel__header-text"><span style="font-weight: bold;color: rgb(26, 35, 126);">Estimated expenses</span></span>
+                <i class="faq-close-icon"></i>
+            </a>
+            <div class="expand-panel__body collapse"><br /><span style="font-weight: bold;color: rgb(229, 57, 53);">
+                NB! </span><span style="font-weight: bold;">For Scholarship students</span>: the scholarship covers tuition fees only. All other expenses are to be covered by a student. For your convenience there are some major expenses listed below, so you can estimate your expenses and plan your finances ahead. <p><span style="font-weight: bold;">For Partial Scholarship students</span>: tuition fee - depends on the amount of discount a candidate gets.</p><p>75% tuition fee discount - 200000 RUB/year</p><p>50% tuition fee discount - 400000 RUB/year</p><p>25% tuition fee discount - 600000 RUB/year <br /></p><p></p><p><br /></p><p>For your convenience there are some major expenses listed below, so you can estimate your expenses and plan your finances ahead.<br /></p><p><br /></p><p>The expenses to be covered by a candidate,regardless the scholarship amount: </p><p>- all visa-related expenses (travel, fees); </p><p>- all legalization expenses (travel, translations, fees); </p><p>- medical services (medical insurance for getting a visa + student medical insurance); </p><p>- accommodation while travelling to and living in Innopolis; </p><p>- food, travel, clothes and other daily expenses.<br /></p><p><br /></p><p>1. Visa-related expenses (visa, fees) - <span style="color: rgb(56, 142, 60);">amount varies</span></p><p>2. Legalization expenses  (travel, translations, fees) - <span style="color: rgb(56, 142, 60);">amount varies</span><span style="color: rgb(97, 97, 97);">: in case you send us your education documents scans and we confirm that in our case legalization is required </span></p><p>3. Travel expenses (from your country to Russia) - <span style="color: rgb(56, 142, 60);">amount varies</span></p><p>4. Personal photos (for enrollment) - <span style="color: rgb(56, 142, 60);">300 RUB</span><span style="color: rgb(97, 97, 97);">: in case you order the photos in Innopolis/Kazan</span></p><p>5. Expenses for Equivalency certificate (state fee) - <span style="color: rgb(56, 142, 60);">6500 RUB</span><span style="color: rgb(97, 97, 97);">: in case you have not graduated from High School/University in Russia</span></p><p>6. Expenses for Equivalency certificate (IU paid services) - <span style="color: rgb(56, 142, 60);">4000 RUB</span><span style="color: rgb(97, 97, 97);">: in case you choose IU to apply for the recognition for you (2000 RUB for obtaining the certificate and 4000 RUB for filling in the application)</span></p><p>7. Transfer from railway station - <span style="color: rgb(56, 142, 60);">1000 RUB</span><span style="color: rgb(97, 97, 97);">: in case you choose IU to arrange a transfer from Kazan railway station to Innopolis (taxi ride ~ 600 RUB)</span></p><p>8. Transfer from airport - <span style="color: rgb(56, 142, 60);">2000 RUB</span><span style="color: rgb(97, 97, 97);">: in case you choose IU to arrange a transfer from Kazan airport to Innopolis (taxi ride ~ 1200 RUB)</span></p><p>9. Health insurance, per year - <span style="color: rgb(56, 142, 60);">4500 RUB</span><span style="color: rgb(97, 97, 97);">: minimum health insurance yearly plan, can be increased on your choice</span></p><p>10. Mobile connection, per month - <span style="color: rgb(56, 142, 60);">500 RUB</span><span style="color: rgb(97, 97, 97);">: around 500 RUB/month, in case you buy any Russian sim card (e.g. Tele 2 or MTS), although please be aware that there is free wi-fi and cable connection at IU campus</span></p><p>11. Transportation fees - <span style="color: rgb(56, 142, 60);">1500 RUB</span><span style="color: rgb(97, 97, 97);">: bus fare is 100 RUB (if paid by card) and 150 RUB (if paid in cash) one-way from Kazan to Innopolis</span></p><p>12. Visa prolongation (state fee) - <span style="color: rgb(56, 142, 60);">1600 RUB</span><span style="color: rgb(97, 97, 97);">: we will apply for the visa prolongation for you</span></p><p>13. IU accommodation, per month - <span style="color: rgb(56, 142, 60);">2400 RUB</span><span style="color: rgb(97, 97, 97);">: placement in IU studio apartments for two or five people</span></p><p>14. Meals, per month - <span style="color: rgb(56, 142, 60);">10000 RUB</span><span style="color: rgb(97, 97, 97);">: maximum meal plan (3 meals daily, 7 days a week); partial meals plans are also available</span></p><p>15. Meal in Kazan cafe, average price - <span style="color: rgb(56, 142, 60);">500 RUB</span></p><p>16. Cup of coffee, average price - <span style="color: rgb(56, 142, 60);">200 RUB</span></p><p>17. Bus fare, Kazan - <span style="color: rgb(56, 142, 60);">30 RUB</span></p><p>18. Cinema ticket, average price - <span style="color: rgb(56, 142, 60);">350 RUB</span></p><p>19. Museum ticket, average price - <span style="color: rgb(56, 142, 60);">350 RUB</span><span style="color: rgb(97, 97, 97);">: cheaper with a student card</span></p><p>20. Bike rental, average price per hour - <span style="color: rgb(56, 142, 60);">250 RUB</span></p><p>21. Innopolis sport complex facilities - <span style="color: rgb(56, 142, 60);">free</span><span style="color: rgb(97, 97, 97);">: free for students upon enrollment</span></p><p>22. Innopolis sport complex skiing and snowboarding gear, ski passes - <span style="color: rgb(56, 142, 60);">free</span><span style="color: rgb(97, 97, 97);">: free for students upon enrollment</span></p><p><br /></p><p><span style="font-weight: bold;">Money exchange</span><br /></p><p><span style="font-weight: bold;"><br /></span></p><p>At Innopolis one can pay for everything with a credit card, though it is good to have some cash in Rubles for any unexpected needs. There is an<span style="font-weight: bold;"> exchange point (EUR, USD) in Innopolis Technopark</span> – though they accept new paper money only (in very good condition) and do not accept damaged or old paper money. Also, there are <span style="font-weight: bold;">currency exchange points at the airports</span> (you may go there on your arrival to Moscow or Kazan airport) and many of them are available <span style="font-weight: bold;">in Kazan</span> (wh ere you can go after the registration and check-in at Innopolis).<span style="font-weight: bold;"><br /></span></p><p><br /></p><p>Upon your arrival you will be offered to apply for a Russian bank card to receive your monthly allowance and do any payments.<br /></p><p><br /></p><p><span style="font-weight: bold;color: rgb(229, 57, 53);">NB!</span> Check if there are any scholarship programs available in your country to support students applying for higher education study programs abroad. This may help you raise some additional funds.<br /></p><p></p></div>
+        </div><div class="expand-panel">
+            <a class="expand-panel__header collapsed">
+                <span class="expand-panel__header-text"><span style="font-weight: bold;color: rgb(26, 35, 126);">Visa and Registration</span></span>
+                <i class="faq-close-icon"></i>
+            </a>
+            <div class="expand-panel__body collapse"><br />
+                Once you accept the scholarship offer, we proceed to the visa arrangements. You will be asked to provide some extended information so we can apply for your visa invitation.
+            <p><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);">Study Visa </span></p><p><br /></p><p><span style="font-weight: bold;">Please note:</span> It takes up to 30 days to receive the visa invitation letter from the Russian Migration Service. As soon the invitation letter is ready, we will also let you know and you will be able to set a date of your visit to a Russian Consulate in your country to apply for your Russian visa. The e-invitation will be sent directly to the Consulate. 
+</p><p><br /></p><p><span style="font-weight: bold;">IMPORTANT:</span> Please contact Russian Consulate in your country in advance to find out the list of required documents to apply for Single-entry study visa (90 days). <br /></p><p><br /></p><p><span style="color: rgb(117, 117, 117);font-weight: bold;">INFORMATION FOR VISA APPLICATION: </span></p><p><span style="color: rgb(117, 117, 117);"><span style="font-weight: bold;">Organization (организация):</span> Autonomous noncommercial organization of higher education Innopolis University (Автономная некоммерческая организация высшего образования «Университет Иннополис») </span></p><p><span style="color: rgb(117, 117, 117);"><span style="font-weight: bold;">Address (адрес):</span> Building 1, University street, city of Innopolis, 420500, Republic of Tatarstan, Russian Federation </span></p><p><span style="color: rgb(117, 117, 117);"><span style="font-weight: bold;">Phone and email (телефон и электронная почта):</span> +7 (843) 203-92-53, university@innopolis.ru </span></p><p><span style="color: rgb(117, 117, 117);"><span style="font-weight: bold;">TIN (ИНН):</span> 1655258235 </span></p><p><span style="color: rgb(117, 117, 117);">According to your visa invitation letter, you are eligible to apply for a GENERAL SINGLE-ENTRY STUDY VISA, 90 DAYS (ОДНОКРАТНАЯ ОБЫКНОВЕННАЯ УЧЕБНАЯ ВИЗА НА 90 ДНЕЙ) </span></p><p><span style="color: rgb(117, 117, 117);"><span style="font-weight: bold;">Dates of entry:</span> are individual! Please refer to your visa invitation letter. </span></p><p><span style="color: rgb(117, 117, 117);"><span style="font-weight: bold;">Telex number:</span> not applicable in your case. </span></p><p><span style="color: rgb(117, 117, 117);"><span style="font-weight: bold;">Invitation number (номер приглашения):</span> displayed at upper left corner of your visa invitation letter (also repeated at lower right corner under a barcode). Example: 161800 2R4607161</span><br /></p><p><span style="color: rgb(117, 117, 117);"><br /></span></p><p><span style="font-weight: bold;color: rgb(67, 160, 71);">&gt;&gt;&gt;</span>Once you arrive in Russia and sign your study and scholarship documents, the visa will be extended for 1-year Multiple-entry study type and will be renewed each study year. The visa extension fee is 1600 RUB.<span style="color: rgb(117, 117, 117);"><br /></span></p><p><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);">Migration card</span><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);"><br /></span></p><p>When you come to Russia and cross the border of our country, you get the migration card from Russian Migration Service (at the airport of arrival in Russia). You will be asked to provide the following information: </p><p><span style="color: rgb(33, 33, 33);font-weight: bold;">Purpose of travel:</span> Education; </p><p><span style="font-weight: bold;color: rgb(33, 33, 33);">Name of host person or company, locality:</span><span style="font-weight: bold;color: rgb(26, 35, 126);"> </span>Innopolis University, Innopolis city.<span style="font-weight: bold;color: rgb(26, 35, 126);"><br /></span></p><p><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);">Registration paper</span><br /></p><p><span style="font-weight: bold;color: rgb(26, 35, 126);"><br /></span></p><p>Once you arrive in Innopolis, you will have to submit your visa and migration card, and we will apply for a registration paper for you.<span style="font-weight: bold;color: rgb(26, 35, 126);"><br /></span></p><p><br /></p><p><span style="font-weight: bold;">А) Every time you cross Russian borde</span>r and get a new migration card, you need to be registered by the Migration Service within 3 days. Only in this case your residence in Russia will be legal. IU will apply for your registration, once you provide your documents (see below). </p><p><span style="font-weight: bold;">В) Every time you overnight at any new place within Russia</span> (even if you travel to a close-by place for one day), you have to renew your registration paper within 3 days. When you travel, hotels and hostels do the registration for you when checking you in. Please take the registration paper they will do for you and bring it to the next place of your residence.<br /></p><p><br /></p><p><span style="font-weight: bold;color: rgb(229, 57, 53);">NB!</span> In case you don’t renew the registration properly, you will have problems with visa prolongation, and this will cost you time and money.<br /></p><p><br /></p><p>Please check the visa requirements, a <span style="color: rgb(3, 155, 229);text-decoration-line: underline;"><a href="https://www.embassy-worldwide.com/country/russia/?__cf_chl_jschl_tk__=a94cd95afa1311b39144c68ade05bb4c404c36e0-1603284143-0-AdT5wLmOm0W3vCpGYOe8JBgEGI_UYrAl9mWAr7wF22c8uVpnkbbSHOvIwBv5Iye4w3P-miBYqs-aStGmVo93k7jYCS4NQJ4cBWodhvlIsetlsYyQkaTTq_1OvbDiIsbarbVcfHyi_KH0wJDIB4Z1JSPevDKQ6oR5rH2pop3jbhEktZbCT0kRVDrWxej3fichPVhNcCSMyJo5Z_HfpLkGjswRihnDmrFYGShrU_nM8GeNxsvd1lq4tor0CCi4CDY-BmwRNtNskMF1TZM7sHN7KiYYjvEUqpo8sdK-5_o9tJQx" target="_self">Russian Consulate</a> </span>working hours and appointment details beforehand. <br /></p></div>
+        </div></div>
+
+    <div class="faq-container__bottom container d-none">
+        <a class="faq-container__button" href="https://apply.innopolis.ru/get-in/tests/" target="_self">Подать заявку</a>
+    </div>
+</div></div><div id="block1291" class="block-wrapper block-campus-info-entrants"><section class="campus-info-entrants container">
+    <div class="campus-info-entrants container">
+        <div class="campus-info-entrants-left">
+            <h2 class="campus-info-entrants-left-title">Innopolis University Campus</h2>
+            <p class="campus-info-entrants-left-text">Innopolis University is the heart of high-tech city Innopolis. 
+Students, academic and university staff are provided with the most comfortable conditions for study, work and leisure. Innopolis University creates an environment filled with progressive ideas, combining bold initiatives and high level of professionalism.</p>
+            <a href="https://innopolis.university/en/campus/" class="campus-info-entrants-left-btn" target="_self"><span class="campus-info-entrants-left-btn-text">Learn more</span><i class="icon-ic_arrow"></i></a>
+        </div>
+        <div class="campus-info-entrants-right">
+            <div class="campus-info__student-life">
+                <h2 class="campus-info__student-life-title">Student life</h2>
+                <p class="campus-info__student-life-text">Student years are the most memorable and bright moments in life. The scope for students’ creative self-realization is arranged at Innopolis University. Numerous student and university initiatives run the gamut from creative to scientific clubs, activities involve organization of various sport and technical competitions.</p>
+                <a href="https://apply.innopolis.university/en/stud-life/" class="campus-info__student-life-btn" target="_self"><span class="campus-info__student-life-btn-text">Learn more</span><i class="icon-ic_arrow"></i></a>
+            </div>
+            <div class="campus-info__inno-city">
+                <h2 class="campus-info__inno-city-title">Innopolis city</h2>
+                <p class="campus-info__inno-city-text">Innopolis is a new city in Russia, located in Republic of Tatarstan.
+City economics is based on high tech industry. Unique city atmosphere with modern living infrastructure, clean ecological and safe  environment,  extensive educational and professional development opportunities is created in Innopolis.</p>
+                <a href="https://innopolis.com/en/" class="campus-info__inno-city-btn" target="_self"><span class="campus-info__inno-city-btn-text">Learn more</span><i class="icon-ic_arrow"></i></a>
+            </div>
+        </div>
+    </div>
+</section></div><div id="block5327" class="block-wrapper block-university-contacts-question"><div class="contacts">
+    <div class="container">
+        <div class="contacts__wrap">
+            <div class="contacts__requisites">
+                <h2 class="contacts__title">CONTACTS</h2>
+                <div class="contacts__who">Postal Address<p>420500 Innopolis, Russia 1, Universitetskaya Str.<br /></p><p><br /></p><p><br /></p><p></p></div>
+                <div class="contacts__phone">Admissions Committee<p>+7 (843) 203-92-53 (ext. 254)</p></div>
+                <a href="mailto:admissions@innopolis.ru" class="contacts__email" target="_blank">admissions@innopolis.ru</a>
+                <hr />
+                <div class="contacts__address"><p><br /></p></div>
+            </div>
+            <input type="hidden" class="js-contants-email-to" value="admissions@innopolis.ru" />
+            <input type="hidden" class="js-contacts-title" value="" />
+            <input type="hidden" class="js-contacts-description" value="" />
+            <input type="hidden" class="js-analytics-event" value="" />
+            <form class="contacts__contact-us" id="contacts__form" action="" method="POST">
+    <input type="hidden" name="sessid" id="sessid" value="bebce153c23806b2f0ad6e7a34a70e1f" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="action" value="contact_with_us">
+    <input type="hidden" class="js-contants-email-to-input" name="email_to" value="">
+    <input type="hidden" name="from" value="https://apply.innopolis.university/en/?special=Y">
+    <h3 class="contact-us__title">
+                    Write to us
+            </h3>
+    <p class="contacts-us__text">
+                    If you have any questions, leave your contacts and we will contact you
+            </p>
+    <input type="text" name="name" placeholder="First name" id="contacts__name">
+    <input type="text" name="email" placeholder="Email">
+    <input type="text" name="question" placeholder="Your question">
+
+    <div class="career-feedback__form-checkbox-wrap">
+        <label class="career-feedback__form-checkbox-label">
+            <input name="checkbox" type="checkbox" class="career-feedback__form-checkbox">
+            <p class="career-feedback__form-checkbox-text">
+                                    I agree with the processing of <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf">personal data</a>
+                            </p>
+        </label>
+    </div>
+
+    <button type="submit" class="contacts__button" id="contacts__button">
+                    Submit
+            </button>
+</form>
+
+        </div>
+    </div>
+</div></div></div> 
+							<div class="landing-footer"><div id="block956" class="block-wrapper block-footer-default"><div class="footer-container">
+    <div class="footer-top-wrap">
+        <div class="container">
+            <a href="https://university.innopolis.ru/en/news/" class="footer-top-link-dashed" target="_self">Media</a>
+            <div class="footer-top-link-list "><div class="footer-top-link-list__item">
+                    <a href="https://www.facebook.com/InnopolisU" class="footer-top-link" target="_blank" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">VK</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.instagram.com/innopolisu/" class="footer-top-link" target="_blank">Instagram</a>
+                </div></div>
+        </div>
+    </div>
+    <div class="footer-bottom-wrap">
+        <div class="container">
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
+                <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="https://apply.innopolis.ru/en/index.php" class="footer-bottom-link" target="_blank">Admission</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/cooperation/" class="footer-bottom-link" target="_blank">For Partners</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/about/" class="footer-bottom-link" target="_blank">About University</a></li><li class="footer-bottom-link__list-item"><a href="https://career.innopolis.university/en/" class="footer-bottom-link" target="_blank">Careers</a></li></ul>
+            </div>
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
+                <span class="footer-bottom-link__list-title">Contact Us</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203-92-53</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">university@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">1, Universitetskaya Str., Innopolis, 420500, Russia</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://panoroo.com/virtual-tours/NvQZM6B2" class="footer-bottom-link" target="_blank">Virtual tour</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://innopolis.university/en/contacts/" class="footer-bottom-link" target="_blank">More contacts</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
+                <span class="footer-bottom-link__list-title">For Press &amp; Media</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203 92 53 доб.117</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">pr@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/news/" class="footer-bottom-link" target="_blank">News</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/events/" class="footer-bottom-link" target="_blank">Events</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">Media</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">
+                <span class="footer-bottom-link__list-title">Useful Links</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="http://www.minsvyaz.ru/en/" class="footer-bottom-link" target="_blank">Ministry of Telecom and Mass Communications of the Russian Federation</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="http://минобрнауки.рф/" class="footer-bottom-link" target="_blank">Ministry of Science and Education of the Russian Federation</a>
+                    </li></ul>
+            </div>
+        </div>
+    </div>
+</div></div></div>
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+    <i class="icon-ic_arrow"></i>
+</button>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+        <button class="cookie-popup__close icon-ic_close"></button>
+        <h2 class="cookie-popup__title">We use cookies</h2>
+        <p class="cookie-popup__subtitle">
+            This website uses cookies to ensure you get best experience on our website. By continuing to use this site, you agree to this cookie usage. You can learn more in the 
+            <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf" class="cookie-popup__link">privacy policy</a>.        </p>
+        <button class="cookie-popup__button">
+            Got it!        </button>
+
+    </div>
+</section>
+</body>
+
+</html>

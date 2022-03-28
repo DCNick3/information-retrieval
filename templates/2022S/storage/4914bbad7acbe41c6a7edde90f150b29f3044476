@@ -1,0 +1,665 @@
+
+<!DOCTYPE html> 
+<html lang="en-US" class="static detail-page contents"> 
+<head> 
+    <meta charset="utf-8" />
+    <title>Национальный информационный центр - General questions of legalization of documents</title> 
+    <link href="https://fonts.googleapis.com/css?family=Lobster&amp;subset=latin" rel="stylesheet" type="text/css" />
+<link href="/Themes/CustomTheme/Styles/Site.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/CustomTheme/Styles/galery.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/CustomTheme/Styles/chiefqueue.css" rel="stylesheet" type="text/css" />
+<link href="/Themes/CustomTheme/styles/content-classes.css?24.01.2022 0:00:00" rel="stylesheet" type="text/css" />
+<link href="/Modules/Orchard.Resources/Styles/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="/Modules/Custom.Resources/Styles/event-anonces.css" rel="stylesheet" type="text/css" />
+<link href="/Modules/Custom.Resources/Styles/custom-gallery.css" rel="stylesheet" type="text/css" />
+<link href="/Modules/Orchard.Resources/Styles/jquery-ui.css" rel="stylesheet" type="text/css" />
+<link href="/Modules/Orchard.jQuery/Styles/jquery-ui.structure.css" rel="stylesheet" type="text/css" />
+<link href="/Modules/Orchard.jQuery/Styles/jquery-ui.theme.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" />
+<link href="/Modules/Orchard.Resources/styles/Calendars/jquery.calendars.picker.full.css" rel="stylesheet" type="text/css" />
+<link href="/Modules/Custom.CulturePicker/Styles/custom-culture-switcher.css" rel="stylesheet" type="text/css" />
+<link href="/Modules/Custom.WorkRoom/Styles/custom.workroom.css" rel="stylesheet" type="text/css" />
+<script src="/Media/Default/js/cycle.js" type="text/javascript"></script>
+<script src="/Media/Default/js/slideshow.js" type="text/javascript"></script>
+<script src="/Modules/Orchard.Resources/scripts/jquery.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/menu.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/styles.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/footer-links.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/prettyGallery.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/prettyPhoto.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/projections.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/anonces.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/event-anonces.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/countries.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/tags.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/feedback.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/chiefqueue.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/document.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/jquery.timers-1.1.2.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/jquery.galleryview-1.0.1-pack.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/CustomGallery.js" type="text/javascript"></script>
+<script src="/Modules/Custom.CulturePicker/scripts/custom-culture-switcher.js" type="text/javascript"></script>
+<script src="/Modules/Custom.WorkRoom/scripts/custom.workroom.panel.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script src="/Core/Shapes/Scripts/html5.js" type="text/javascript"></script>
+<![endif]-->
+<meta content="Orchard" name="generator" />
+<meta content="IE=edge,chrome=1" name="X-UA-Compatible" />
+<link href="/modules/orchard.themes/Content/orchard.ico" rel="shortcut icon" type="image/x-icon" />
+        <script type="text/javascript">
+            //  custom scripts
+            var APPLICATION_PATH = '';
+        var GET_VALID_FIELD_VALUES_URL = '/Custom.Search/AdvSearch/GetValidFieldValues';
+        var FEEDBACK_EMAIL_SEND_URL = '/Custom.Queue/Queue/SendForChief';
+        var REQUEST_VERIFICATION_TOKEN = '6juiDqpA65AncJD0-gdSBNMuvkHiACpI25-jnxYuh9HTFiaj7lA2AtG82160NQ9-7UUWBXYrrwrC8Yp7qRBFxVd_Lz7BBNCMZKdlnMr6ugI1';
+
+        var CHIEFQUEUE_SUBJECT = 'Запись на прием к руководству';
+        var CHIEFQUEUE_SUCCESS = 'Ваше письмо отправлено. Подтверждение даты и времени приема будет отправлено на адрес электронной почты, указанный в форме.';
+        var CHIEFQUEUE_ERROR = 'Отправить письмо не удалось.';
+        var ALL_COUNTRY_MAP = 'Все страны';
+
+        var EVENTANONCES_EVENTPERIOD = 'Время проведения';
+        var EVENTANONCES_BEGIN = 'с ';
+        var EVENTANONCES_END = 'по ';
+        var EVENTANONCES_THEME = 'Тип и тема мероприятия';
+        var EVENTANONCES_PRICE = 'Стоимость участия';
+        var EVENTANONCES_PLACE = 'Место проведения';
+        var EVENTANONCES_REGISTER = 'Регистрация участников';
+
+        </script>
+
+
+    <script>        (function (d) { d.className = "dyn" + d.className.substring(6, d.className.length); })(document.documentElement);</script> 
+</head> 
+<body>
+
+
+<div class="rooms-1" id="layout-wrapper">
+
+<div id="header" style="height:0px; overflow:hidden;">
+    <div class="zone zone-header">
+<article class="widget-header widget-custom-scripts widget">
+    
+
+    <div id="myfond_gris" opendiv=""></div>
+
+
+</article></div>
+</div>
+
+<div class="visible-xs visible-sm" style="height: 32px;">
+    <div id="menu-xs-sm" class="pull-left">
+        <a id="mobmenu-picker"></a>
+        
+    </div>
+    <div id="culture-picker-xs-sm" class="pull-right">
+        <div class="zone zone-culture-picker">
+<article class="widget-culture-picker widget-culture-switcher-widget widget">
+    
+
+
+
+<div class="culture-switcher-container">
+    <ul>
+            <li class="current en-US">
+                <span>EN</span>
+            </li>
+
+
+            <li class="ru-RU">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=ru-RU">
+                    RU
+                </a>
+            </li>
+            <li class="de-DE">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=de-DE">
+                    DE
+                </a>
+            </li>
+            <li class="es-ES">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=es-ES">
+                    ES
+                </a>
+            </li>
+            <li class="fr-FR">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=fr-FR">
+                    FR
+                </a>
+            </li>
+            <li class="ar">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=ar">
+                    AR
+                </a>
+            </li>
+            <li class="zh-CN">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=zh-CN">
+                    ZH
+                </a>
+            </li>
+    </ul>
+</div>
+
+</article></div>
+    </div>
+    <div style="width: 300px; height: 32px;" class="pull-right">
+        <div class="zone zone-before-culture-picker">
+<article class="widget-before-culture-picker widget-work-room-enter-panel widget">
+    
+
+<div class="workroom-panel">
+        <a class="enter" href="/en/workroom"><span>Profile</span></a>
+</div>
+
+</article></div>
+    </div>
+    <div style="width: 32px; height: 32px; margin-right: 10px;" class="pull-right">
+        <a href="https://www.facebook.com/GlavexNic/">
+            <img src="/Themes/CustomTheme/Styles/facebook.png" style="width: 32px; height: 32px;" />
+        </a>
+    </div>
+</div>
+
+<div class="container visible-xs">
+    <div class="row layout-header-title">
+        
+        <div class="col-xs-12">
+            <a href="/en" style="text-decoration:none; ">
+                <h1></h1>
+                <hr />
+                <h2>Main State Center for Education Evaluation</h2>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container visible-sm">
+    <div class="row layout-header-title">
+        
+        <div class="col-sm-12">
+            <a href="/en" style="text-decoration:none; ">
+                <h1>National Information Center</h1>
+                <h4>по вопросам признания образования и (или) квалификации,<br> ученых степеней и званий, полученных в иностранном государстве</h4>
+                <hr />
+                <h2>Main State Center for Education Evaluation</h2>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="container visible-md visible-lg">
+    <div class="row">
+        <div class="col-md-8 col-lg-8">
+            <div class="layout-header-title">
+                <a href="/en"><img src="/Themes/CustomTheme/Styles/Recognition308x195.png" /></a>
+                <div>
+                    <a href="/en" style="text-decoration: none;">
+                        <h1>National Information Center</h1>
+                        <h4>по вопросам признания образования и (или) квалификации,<br> ученых степеней и званий, полученных в иностранном государстве</h4>
+                        <hr />
+                        <h2>Main State Center for Education Evaluation</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 col-lg-4">
+            <table style="width: 100%; margin-top: 20px;">
+                <tr>
+                    <td>
+                        <div class="zone zone-before-culture-picker zone zone-before-culture-picker">
+<article class="widget-before-culture-picker widget-work-room-enter-panel widget widget-before-culture-picker widget-work-room-enter-panel widget">
+    
+
+<div class="workroom-panel">
+        <a class="enter" href="/en/workroom"><span>Profile</span></a>
+</div>
+
+</article></div>
+                    </td>
+                    <td style="width: 80px;">
+                        <div class="zone zone-culture-picker zone zone-culture-picker">
+<article class="widget-culture-picker widget-culture-switcher-widget widget widget-culture-picker widget-culture-switcher-widget widget">
+    
+
+
+
+<div class="culture-switcher-container">
+    <ul>
+            <li class="current en-US">
+                <span>EN</span>
+            </li>
+
+
+            <li class="ru-RU">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=ru-RU">
+                    RU
+                </a>
+            </li>
+            <li class="de-DE">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=de-DE">
+                    DE
+                </a>
+            </li>
+            <li class="es-ES">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=es-ES">
+                    ES
+                </a>
+            </li>
+            <li class="fr-FR">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=fr-FR">
+                    FR
+                </a>
+            </li>
+            <li class="ar">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=ar">
+                    AR
+                </a>
+            </li>
+            <li class="zh-CN">
+                <a href="/Custom.CulturePicker/UserCulture/ChangeCulture?cultureName=zh-CN">
+                    ZH
+                </a>
+            </li>
+    </ul>
+</div>
+
+</article></div>
+                    </td>
+                </tr>
+            </table>
+            <div style="margin-top: 10px;">
+                <a href="https://www.facebook.com/GlavexNic/">
+                    <img src="/Themes/CustomTheme/Styles/facebook.png" style="width: 32px; height: 32px;" />
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mainmenu-row">
+        <div class="col-md-12 col-lg-9">
+            <div id="menu-md-lg">
+                <div class="zone zone-navigation">
+<article class="widget-navigation widget-menu-widget widget">
+    
+<nav>
+    <ul class="menu menu-main-menu-en">
+        
+        
+<li class="dropdown first"><a href="/">About</a>
+                <ul>
+                    
+<li><a href="/en/nic/about">General information</a>
+</li>
+<li><a href="/en/nic/work">Contacts and Office hours</a>
+</li>
+<li><a href="/en/nic/chief">Making an appointment to the Head of NIC</a>
+</li>
+<li><a href="/en/nic/feedback">Feedback</a>
+</li>
+<li><a href="/en/nic/map">How to reach us</a>
+</li>
+                </ul>
+</li>
+<li class="dropdown current"><a href="/">Recognition</a>
+                <ul>
+                    
+<li class="current"><a href="/en/proc/nic/legalize">How to legalize documents</a>
+</li>
+<li><a href="/en/proc/nic">In National Information Center</a>
+</li>
+<li><a href="/en/proc/other">In other competent authorities</a>
+</li>
+                </ul>
+</li>
+<li class="dropdown"><a href="/">Documents</a>
+                <ul>
+                    
+<li><a href="/en/docs/russian">Legal acts of the Russian Federation</a>
+</li>
+<li><a href="/en/docs/foreign">International legal regulations</a>
+</li>
+<li><a href="/en/docs/analitics">The useful materials</a>
+</li>
+<li><a href="/en/docs/search">Document Search</a>
+</li>
+                </ul>
+</li>
+<li class="dropdown"><a href="/">In Russia</a>
+                <ul>
+                    
+<li><a href="/en/inrussia/eduinfo">System of Education</a>
+</li>
+<li><a href="/en/inrussia/edunews">Educational News</a>
+</li>
+                </ul>
+</li>
+<li class="dropdown"><a href="/">In the world</a>
+                <ul>
+                    
+<li><a href="/en/inworld/countries">Systems of education</a>
+</li>
+<li><a href="/en/inworld/confirm">Recognition of Russian qualifications abroad</a>
+</li>
+<li><a href="/en/inworld/foundations">International Organizations about Education and Recognitions</a>
+</li>
+<li><a href="/ru/inworld/news">News</a>
+</li>
+                </ul>
+</li>
+<li class="dropdown last"><a href="/">Interactive</a>
+                <ul>
+                    
+<li><a href="/en/help/conferences">Conferences</a>
+</li>
+<li><a href="/en/help/forum">Forum</a>
+</li>
+<li><a href="/en/help/chat">Consultation</a>
+</li>
+<li><a href="/en/help/faq">F.A.Q.</a>
+</li>
+<li><a href="/ru/help/voting">Polls</a>
+</li>
+                </ul>
+</li>
+    </ul>
+</nav>
+</article></div>
+            </div>
+        </div>
+        <div class="col-lg-3 visible-lg">
+            <div id="layout-search">
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 col-lg-12" id="layout-breadcrumb">
+            <div class="zone zone-breadcrumb">
+<article class="widget-breadcrumb widget-breadcrumb-widget widget">
+        <nav>
+        <ul class="breadcrumb">
+                     <li>
+                             <a href="/en">Main</a>
+                     </li>
+                     <li>
+                            <a>Recognition</a>
+                     </li>
+                    <li class="last">
+                        <a href="/en/proc/nic/legalize">How to legalize documents</a>
+                    </li>
+        </ul>
+    </nav>
+
+</article></div>
+        </div>
+    </div>
+</div>
+
+<!-- анонсы -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                                        <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="content">
+                        <div class="zone zone-content">
+
+<article class="page content-item">
+    <header>
+        
+
+<h1>General questions of legalization of documents</h1>
+
+
+            <div class="metadata">
+                <div class="published">Monday, September 2, 2013 10:41:00 AM</div>
+            </div>
+    </header>
+    <div class="orchard-layouts-root">
+    
+
+<p>According to the legislation of the Russian Federation the documents issued in another country can be used (can be accepted by the Russian bodies and organizations) only with <b>legalization</b>.&nbsp;</p>
+<table border="0" style="background-color: #d7edf8; width: 578px; padding: 5pt; margin-left: 100px;">
+<tbody>
+<tr>
+<td>
+<p align="center" style="margin-bottom: 0px; text-align: left;">&nbsp;<b><span style="text-decoration: underline;">Attention!</span></b> The legalization of foreign documents and the recognition of foreign education are different procedures.&nbsp;<br /><b>The legalization of documents</b> is carried out for a lawful use of the foreign document in another country.<br /><b>The recognition of education</b> is carried out for providing the rights for study and (or) work.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>A number of certain formal procedures for giving the document validity on the territory of other country for the purpose of representing it in official bodies of other state is called<b> legalization</b>. There are 2 types of legalizations:&nbsp;</p>
+<ul>
+<li><strong>Consular legalization.</strong>&nbsp;<br />This procedure is carried out in 2 stages:</li>
+</ul>
+<ol><ol>
+<li>witnessing of documents by <em><strong>competent authorities of foreign affairs (Ministry of Foreign Affairs)</strong></em> of the country of issue of the document (depending on legislative requirements of the country of issue: generally the original, in some countries - copies)&nbsp;&nbsp;&ndash; the corresponding stamps with the indication of the position and the signature of the assuring person are put down;</li>
+<li>witnessing of documents by <em><b>consular services of the Russian Federation (consulate or embassy of the Russian Federation)</b></em>&nbsp;in the country of issue of the document&ndash; the corresponding stamps with the indication of the position and the signature of the assuring person are put down.</li>
+</ol></ol>
+<ul>
+<li>
+<p><span>&laquo;</span><b>Apostille&raquo;&nbsp;&ndash; a &nbsp;simplified</b><span> </span><b>legalization</b> <b>procedure</b><span>.<br /></span>The &ldquo;Apostille&rdquo; stamp on the official document, proceeding from bodies and organizations of member countries of the <a href="http://www.hcch.net/index_en.php?act=conventions.status&amp;cid=41">Hague convention of 1961</a>, which abolishes the requirement of consular legalization of foreign official documents:</p>
+</li>
+</ul>
+<ol><ol>
+<li>is put down on the original of the document or on a separate sheet, which is attached to the document and could be made in official language of the body which is giving it out;</li>
+<li>is put down by <a href="http://www.hcch.net/index_en.php?act=conventions.authorities&amp;cid=41">competent authorized bodies of the country of issue</a> of the document (example, State Secretary, Department of Education, Ministry of Education, educational institutions and others).</li>
+</ol></ol>
+<table border="0" style="background-color: #d7edf8; width: 576px; padding: 5px; margin-left: 100px;">
+<tbody>
+<tr>
+<td>
+<p style="margin-bottom: 0px; text-align: justify;"><span style="text-align: justify;">Don&rsquo;t confuse the legalization procedure with the legal witnessing of document copies! </span><b style="text-align: justify;"><i>The legal witnessing of document copies and document translations</i></b><span style="text-align: justify;"> in the Russian Federation according to the civil legislation is carried out by a notary. Copies of translated documents </span><span style="text-align: justify;">should be attached and filed</span><span style="text-align: justify;"> to the translations certified by the notary.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><b>Without</b> <b>legalization</b><span>.</span><b>&nbsp;</b>Documents issued in member countries of the multilateral or bilateral agreements, which abolish the requirement of legalization of documents, are accepted without legalization. List of countries, with which the Russian Federation have signed international agreements, that abolish the legalization procedure:</p>
+<p style="text-align: center;"><b>Bilateral agreements:</b></p>
+<ol>
+<li><b>Albania</b>&nbsp;(Republic of Albania);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Algeria%22%20%5Ct%20%22_self"><b>Algeria</b></a>&nbsp;(People's Democratic Republic of Algeria);</li>
+<li><b>Argentina&nbsp;</b>(Argentine Republic);</li>
+<li><b>Bosnia and Herzegovina</b>;</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Bulgaria%22%20%5Ct%20%22_self"><b>Bulgaria</b></a>&nbsp;(Republic of Bulgaria);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/China%22%20%5Ct%20%22_self"><b>China</b></a><b>&nbsp;</b>(People's Republic of China);</li>
+<li><b>Croatia</b><b>&nbsp;</b>(Republic of Croatia);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/NA/Cuba%22%20%5Ct%20%22_self"><b>Cuba</b></a><b>&nbsp;</b>(Republic of Cuba);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Cyprus%22%20%5Ct%20%22_self"><b>Cyprus</b></a>&nbsp;(Republic of Cyprus);</li>
+<li><b>Czech Republic</b>;</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Egypt%22%20%5Ct%20%22_self"><b>Egypt</b></a><b>&nbsp;</b>(Arab Republic of Egypt);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Estonia%22%20%5Ct%20%22_self"><b>Estonia</b></a><b>&nbsp;</b>(Republic of Estonia);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Tunisia%22%20%5Ct%20%22_self"><b>Finland</b></a>&nbsp;(Republic of Finland);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Greece%22%20%5Ct%20%22_self"><b>Greece</b></a><b>&nbsp;</b>(Hellenic Republic);</li>
+<li><b>Hungary</b>;</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/India%22%20%5Ct%20%22_self"><b>India</b></a><b>&nbsp;</b>(Republic of India);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/IslamicRepublicOfIran%22%20%5Ct%20%22_self"><b>Iran</b></a><b>&nbsp;</b>(Islamic Republic of Iran);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Iraq%22%20%5Ct%20%22_self"><b>Iraq</b></a><b>&nbsp;</b>(Republic of Iraq);</li>
+<li><b>Italy&nbsp;</b>(Italian Republic);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countriesNorthKorea%22%20%5Ct%20%22_self"><b>Korea, North</b></a>&nbsp;(Democratic People's Republic of Korea);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Latvia%22%20%5Ct%20%22_self"><b>Latvia</b></a><b>&nbsp;</b>(Republic of Latvia);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Lithuania%22%20%5Ct%20%22_self"><b>Lithuania</b></a><b>&nbsp;</b>(Republic of Lithuania);</li>
+<li><b>Macedonia</b>&nbsp;(Republic of Macedonia);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Mongolia%22%20%5Ct%20%22_self"><b>Mongolia</b></a>;</li>
+<li><b>Montenegro</b>;</li>
+<li><b>Poland</b>&nbsp;(Republic of Poland);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Romania%22%20%5Ct%20%22_self"><b>Romania</b></a>&nbsp;(Romanian People's Republic);</li>
+<li><b>Serbia (</b>Republic of Serbia);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Slovakia%22%20%5Ct%20%22_self"><b>Slovakia</b></a><b>&nbsp;</b>(Slovak Republic);</li>
+<li><b>Slovenia</b>&nbsp;(Republic of Slovenia);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/KingdomOfSpain%22%20%5Ct%20%22_self"><b>Spain</b></a><b>&nbsp;</b>(Kingdom of Spain);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Tunisia%22%20%5Ct%20%22_self"><b>Tunisia</b></a>&nbsp;(Tunisian Republic);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/AZ/Vietnam%22%20%5Ct%20%22_self"><b>Vietnam</b></a><b>&nbsp;</b>(Socialist Republic of Vietnam);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Yemen%22%20%5Ct%20%22_self"><b>Yemen, South</b></a><b>&nbsp;</b>(People's Democratic Republic of Yemen).</li>
+</ol>
+<p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;"><b>The convention on legal assistance and legal relations&nbsp;<br /> in civil, family and criminal matters&nbsp;(22.01.1993):</b></span></p>
+<ol>
+<li><b>Armenia</b>&nbsp;(Republic of Armenia);</li>
+<li><b>Azerbaijan</b>&nbsp;(Azerbaijan Republic);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Belarus%22%20%5Ct%20%22_self"><b>Belarus</b></a><b>&nbsp;</b>(Republic of Belarus);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/AZ/Georgia%22%20%5Ct%20%22_self"><b>Georgia</b></a>;</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/RepublicOfKazakhstan%22%20%5Ct%20%22_self"><b>Kazakhstan</b></a><b>&nbsp;</b>(Republic of Kazakhstan);</li>
+<li><b>Kyrgyzstan</b>&nbsp;(Kyrgyz Republic);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/EU/Moldova%22%20%5Ct%20%22_self"><b>Moldova</b></a><b>&nbsp;</b>(Republic of Moldova);</li>
+<li><a href="http://nic.gov.ru/ru/inrussia/eduinfo%22%20%5Ct%20%22_self"><b>Russia</b></a><b>&nbsp;</b>(Russian Federation);</li>
+<li><b>Tajikistan&nbsp;</b>(Republic of Tajikistan);</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Turkmenistan%22%20%5Ct%20%22_self"><b>Turkmenistan</b></a>;</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Ukraine%22%20%5Ct%20%22_self"><b>Ukraine</b></a>;</li>
+<li><a href="http://nic.gov.ru/ru/inworld/countries/Uzbekistan%22%20%5Ct%20%22_self"><b>Uzbekistan</b></a><b>&nbsp;</b>(Republic of Uzbekistan).</li>
+</ol>
+
+
+</div>
+</article></div>
+                    </div>
+                </div>
+                            <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="aftercontent">
+                        <div class="zone zone-after-content">
+<article class="widget-after-content widget-foot-nav-widget widget">
+    
+<table class="foot-nav">
+    <tr>
+            <td style="width: 50%;"></td>
+        <td><div class="divider"></div></td>
+            <td class="right">
+                <a href="/en/proc/nic" title="The procedure of foreign education recognition">
+                    <span class="text">The procedure of foreign ed...</span>
+                    <span class="arrow"></span>
+                </a>
+            </td>
+    </tr>
+</table>
+
+</article></div>
+                    </div>
+                </div>
+        </div>
+
+            <div class="col-md-4 col-lg-4 visible-md visible-lg">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12" id="layout-right-panel">
+                        <div class="zone zone-right-panel">
+<article class="widget-right-panel widget-html-widget widget">
+    <p><iframe width="370" height="206" src="https://www.youtube.com/embed/LEV9X6qVLD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></p>
+</article>
+<article class="widget-right-panel widget-html-widget widget">
+    <p><a href="/ru/eventanonces"><img src="/Media/Default/Images//mer.png" alt="" width="370" height="200" /></a></p>
+</article>
+<article class="widget-right-panel widget-html-widget widget">
+    <p class="tags-container" style="line-height: 24px; text-align: center;"><a style="font-size: 18px;" href="~/en/proc/nic/apply">How to apply for the recognition procedure</a>&nbsp; &nbsp;<a style="font-size: 12px;" href="~/en/proc/nic/docforms">Samples of application forms</a>&nbsp;&nbsp; <a style="font-size: 14px;" href="~/en/docs/russian/minobr">Legal acts of the Ministry of Education and Science</a>&nbsp;&nbsp; <a style="font-size: 12px;" href="~/en/docs/foreign/conventions">Conventions</a>&nbsp;&nbsp; <em><strong><a style="font-size: 12px;" href="~/ru/docs/foreign/confirmation">International agreements on mutual recognition</a></strong></em>&nbsp;&nbsp; <a style="font-size: 10px;" href="~/en/docs/analitics/publications">Publications</a>&nbsp;&nbsp; <strong><a style="font-size: 12px;" href="~/en/docs/analitics/recomendations">Guidelines</a></strong>&nbsp;&nbsp; <strong> <a style="font-size: 16px;" href="~/en/inrussia/eduinfo/levels">Levels of education in Russia</a></strong>&nbsp;&nbsp; <a style="font-size: 12px;" href="~/en/inworld/confirm">Recognition of Russian qualifications</a>&nbsp;&nbsp; <strong> <a style="font-size: 14px;" href="~/en/inrussia/eduinfo/docs">Documents of education and (or) qualification</a></strong>&nbsp;&nbsp;</p>
+</article></div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+<!-- подвал -->
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" id="Footer">
+                <div class="zone zone-footer">
+<article class="widget-footer widget-html-widget widget">
+    <div class="row useful-links">
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2" style="text-align: center; height: 140px;">
+<p><span>Rosobrnadzor</span></p>
+<a href="http://www.obrnadzor.gov.ru/" target="_blank" rel="nofollow"><img alt="" src="/Media/Default/NewImages/RON.png" width="90" height="72" /></a></div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2" style="text-align: center; height: 140px;">
+<p>Enic-Naric</p>
+<a href="http://enic-naric.net/" target="_blank" rel="nofollow"><img alt="" src="/Media/Default/NewImages/enic_naric.jpg" width="116" height="73" /></a></div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2" style="text-align: center; height: 140px;">
+<p>UNESCO</p>
+<a href="http://en.unesco.org/" target="_blank" rel="nofollow"><img alt="" src="/Media/Default/NewImages/unesco.png" border="0" width="" height="" /></a></div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2" style="text-align: center; height: 140px;">
+<p>Study in Russia</p>
+<a href="http://studyinrussia.ru" target="_blank" rel="nofollow"><img alt="" src="http://studyinrussia.ru/bitrix/templates/studyinrussia/img/logo-complex-left.png" width="" height="" /></a></div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2" style="text-align: center; height: 140px;">
+<p>NAA</p>
+<a href="//nica.ru" target="_blank" rel="nofollow"><img alt="" src="/Media/Default/NewImages/logo_Nica.png" border="0" width="" height="" /></a></div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2" style="text-align: center; height: 140px;">
+<p>Fioco</p>
+<a href="http://fioco.ru" target="_blank" rel="nofollow"><img alt="" src="/Media/Default/NewImages/fioco.PNG" border="0" width="" height="" /></a></div>
+<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2" style="text-align: center; height: 140px;">
+<p>APNNIC</p>
+<a href="https://apnnic.net/" target="_blank" rel="nofollow"><img alt="" src="/Media/Default/NewImages/APNNIC.png" border="0" width="150" height="60" /></a></div>
+</div>
+</article>
+<div class="user-display">
+        <span class="user-actions"><a href="/Users/Account/LogOn?ReturnUrl=%2Fen%2Fproc%2Fnic%2Flegalize" rel="nofollow">Sign In</a></span>
+</div></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="okno" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Информация!</h4>
+                </div>
+
+                <div class="modal-body">
+                    <div class="zone zone-work-rooms">
+<article class="widget-work-rooms widget-html-widget widget">
+    <p style="text-align: center;"><strong>График работы в новогодние праздники!</strong></p>
+<p style="text-align: center;"><strong>31 декабря 2021 г.&nbsp;-&nbsp;выходной денть</strong></p>
+<p style="text-align: center;"><strong>1,2,3,4,5,6,7,8,9 января 2022 г. - выходные дни</strong></p>
+<p style="text-align: center;"><strong>10 января 2022 г. - рабочий день согласно расписанию</strong></p>
+</article></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script src="/Modules/Orchard.jQuery/scripts/jquery.plugin.js" type="text/javascript"></script>
+<script src="/Modules/Orchard.Resources/scripts/Calendars/jquery.calendars.all.js" type="text/javascript"></script>
+<script src="/Modules/Orchard.Resources/scripts/Calendars/jquery.calendars.picker.full.js" type="text/javascript"></script>
+<script src="/Modules/Custom.Resources/scripts/Cookiespopold.js" type="text/javascript"></script>
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-47765858-1', 'nic.gov.ru');
+            ga('send', 'pageview');
+
+        </script>
+
+<script>
+    var LHC_API = LHC_API || {};
+    LHC_API.args = { mode: 'widget', lhc_base_url: '//chat.glavex.ru/', wheight: 450, wwidth: 350, pheight: 520, pwidth: 500, leaveamessage: true, department: ["2"], theme: "1", survey: 1, check_messages: false, lang: 'rus/' };
+    (function () {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.setAttribute('crossorigin', 'anonymous'); po.async = true;
+        var date = new Date(); po.src = '//chat.glavex.ru/design/defaulttheme/js/widgetv2/index.js?' + ("" + date.getFullYear() + date.getMonth() + date.getDate());
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+</script>
+        <script type="text/javascript">
+            (function (m, e, t, r, i, k, a) {
+                m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+                m[i].l = 1 * new Date(); k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })
+                (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(86254782, "init", {
+                clickmap: true,
+                trackLinks: true,
+                accurateTrackBounce: true
+            });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/86254782" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+</body>
+</html>

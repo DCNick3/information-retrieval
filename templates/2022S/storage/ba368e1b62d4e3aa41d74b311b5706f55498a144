@@ -1,0 +1,742 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m, e, t, r, i, k, a) {
+            m[i] = m[i] || function() {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(61110718, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/61110718" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161122461-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161122461-1');
+    </script>
+    <title>
+        About university    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.min.css?14568470452854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?15828782001861" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?158287801423381" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/kernel_landing_assets_711674a2d5a43a7565903ca3cc66d25d/kernel_landing_assets_711674a2d5a43a7565903ca3cc66d25d_v1.css?1642506671400" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164250665937177" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066511359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582878014247888"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s8','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643014068','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'e19d97d7d6f6999436af6cc541cbe401'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/kernel_main/kernel_main_v1.js?1642569869142325"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?158287801457817"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/kernel_landing_assets_711674a2d5a43a7565903ca3cc66d25d/kernel_landing_assets_711674a2d5a43a7565903ca3cc66d25d_v1.js?164250667140106"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="robots" content="all" />
+<script src=' https://www.google.com/recaptcha/api.js '></script>
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'You found an error in the text',
+	'footer':'<b>Send error message to the author?</b><br/><span style="font-size:10px;color:#7d7d7d">(your browser will remain on the same page)</span>',
+	'comment':'Comment to author (optional)',
+	'TitleForm':'The error message',
+	'ButtonSend':'Send',
+	'LongText':'You have selected too much text.',
+	'LongText2':'Please try again.',
+	'text_ok':'Message sent.',
+	'text_ok2':'Thank you for your attention!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066511076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/page_a5fa71f23483693447051051f9a9673d/page_a5fa71f23483693447051051f9a9673d_v1.js?16425066512066"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="About university" /><meta property="og:description" content="Innopolis University is a Russian higher education institution focused on education and research in the field of IT and Robotics." /><meta property="og:image" content="//innopolis.university/upload/landing/266/seo@1x.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="798" /><meta property="og:type" content="website" /><meta property="twitter:title" content="About university" /><meta property="twitter:description" content="Innopolis University is a Russian higher education institution focused on education and research in the field of IT and Robotics." /><meta property="twitter:image" content="//innopolis.university/upload/landing/266/seo@1x.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta name="og:url" content="https://innopolis.university/en/about/" />
+<link rel="canonical" href="https://innopolis.university/en/about/"/><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/16_16_2/Frame_190.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/32_32_2/Frame_190.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/96_96_2/Frame_190.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/120_120_2/Frame_190.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/180_180_2/Frame_190.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/152_152_2/Frame_190.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/167_167_2/Frame_190.png" sizes="167x167"></head>
+<body class=""><div class="landing-header"><div id="block5014" class="block-wrapper block-university-header-default">
+<div class="uni-nav__wrap" style="top: 0px">
+        <div class="uni-nav__black-line"></div>
+    <div class="container">
+        <a href="https://innopolis.university/en/" class="uni-logo" target="_self">
+            <i class="icon-ic_logo"></i>
+        </a>
+        <div class="nav__links-wrap">
+            <div class="footer-container">
+                <div class="footer-top-wrap">
+                    <div class="container">
+                        <a href="" class="footer-top-link-dashed">Все медиа</a>
+                        <div class="footer-top-link-list "><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Facebook</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Вконтакте</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Youtube</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Twitter</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Instagram</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">habr</a></div></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="pre-nav__links">
+                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://apply.innopolis.university/en">Applicants</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://corporate.innopolis.university/en">Business</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://media.innopolis.university/en">Media</a></li>                <li class="pre-nav__links-item desctop-link">
+                    <a href="https://innopolis.university/lk/" class="pre-nav__link personal__account personal__account-lk-link">
+                        Personal account                    </a>
+                </li>
+            </ul>
+
+            <ul class="nav__links">
+                                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            University                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/about/" class="sub-nav__links-item-link" > About <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/board/" class="sub-nav__links-item-link" > Supervisory board <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team/" class="sub-nav__links-item-link" > University team <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/" >Organizational structure</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/education-academics/" >Educational and research departments</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/techcenters/" >Technological centers</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/faculty/" class="sub-nav__links-item-link" > Academic staff <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/faculty/" >Academic staff</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/en/job/" >Faculty positions</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://career.innopolis.university/en/" class="sub-nav__links-item-link" > Careers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/campus" class="sub-nav__links-item-link" > Campus <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/contacts/" class="sub-nav__links-item-link" > Contacts <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Education                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/" class="sub-nav__links-item-link" > International applicants <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/bachelor/" class="sub-nav__links-item-link" > Bachelor's program <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/CE/" >Computer Science</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/DS-AI/" >Data Science and Artificial Intelligence</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/master/" class="sub-nav__links-item-link" > Master's programs <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/datascience/" >Data Science and Artificial Intelligence</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/securityandnetworkengineering/" >Security and Network Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/development/" >Software Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/robotics/" >Robotics and Computer Vision</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/technological-entrepreneurship/" >Technological Entrepreneurship</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/postgraduate-study/" class="sub-nav__links-item-link" > Postgraduate study <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/stud-life/" class="sub-nav__links-item-link" > Student life <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/international-relations-office/" class="sub-nav__links-item-link" > International relations office <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/incomingstudents/" > Incoming Students</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/outgoingstudents/" >Outgoing Students</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/teachingexcellencecenter/" class="sub-nav__links-item-link" > Teaching Excellence Center <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/writinghubhome/" class="sub-nav__links-item-link" > Writing Hub <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    IU Writing Hub &#40;WH&#41; offers editing and proofreading service for IU faculty, researchers and students.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://alumni.innopolis.university/" class="sub-nav__links-item-link" > ALUMNI <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Education </h3>
+<p class="sub-nav__links__result-stub-text">
+	 World-class IT education in Russia in English
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Research                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/research/" class="sub-nav__links-item-link" > Scientific Research activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Software Development and Engineering <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-operating-systems/" >Lab of Operating Systems, programming languages and compilers</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-software-service-engineering/" >Lab of Software and Service Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-industrializing-software/" >Lab of Industrializing Software Production</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Data Science and Artificial Intelligence <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-bioinformatics/" >Lab of Data Analysis and bioinformatics</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-game-development/" >Lab of Artificial Intelligence in Game Development</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-oil-gas/" >Lab of Data Analysis and Machine Learning in the oil and gas industry</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/mlkr/" >Lab of Machine Learning and Knowledge Representation</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Information security and cyberphysical systems <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-cyberphysical-systems/" >Lab of Cyber-Physical Systems</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-networks-blockchain/" >Networks and Blockchain Lab  </a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Robotics and computer vision  <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-robotics/" >Laboratory of Intelligent Robotics Systems</a>
+    </li>
+            </ul>
+        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Science </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Innopolis University has 15 laboratories and 7 research centers, which conduct research in the field of artificial intelligence, robotics, big data, software development, information security
+</p>            </div>
+        </div>
+        </div>
+        </li>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Innovation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/activity/" class="sub-nav__links-item-link" >  Project-based activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team-structure/techcenters/" class="sub-nav__links-item-link" > Technological centers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/podderzhka-innovacionnoj-deyatelnosti/" class="sub-nav__links-item-link" > Supporting Innovative Activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/startupstudio/" class="sub-nav__links-item-link" > Startup studio <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                                        <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                            <div class="sub-nav__links__result-stub">
+                                Development and support of student technology startups by creating a successful startup community; assistance in providing favorable conditions from external partners for investment and development of ideas.                            </div>
+                        </ul>
+                            </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innovation </h3>
+<p class="sub-nav__links__result-stub-text">
+	 The university’s project-based activities are aimed at implementing grant-based and commercial projects, as well as at enhancing the availability of education in IT areas.
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Cooperation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/internationalpartners/" class="sub-nav__links-item-link" > International partners <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/organizatsiya-i-provedenie-meropriyatiy/" class="sub-nav__links-item-link" > Event management <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                    <li class="nav__links-btns">
+                    <a class="nav__links-btns_optic" href="/en/about/?special=Y" itemprop="copy" title="Версия для слабовидящих"><i class="icon-ic_optic"></i></a>                    <a class="nav__links-btns_search" href="/search/" target="_self"><i class="icon-ic_search"></i></a>
+                    <a class='nav__links-btns_ru' href='/about/'><i class="icon-ic_lang_ru"></i></a>                </li>
+
+            </ul>
+
+            <div class="mobile-personal-area">
+                <a href="https://innopolis.university/lk/" class="mobile-personal-area-link">
+                    Personal account                </a>
+                <div class="mobile-personal-area-icons">
+                    <a href="https://innopolis.university/search/" class="mobile-personal-area-icons-link"><i class="icon-ic_search"></i></a>
+
+                    <a class='mobile-personal-area-icons-link' href='/about/'><i class="icon-ic_lang_ru"></i></a>                </div>
+            </div>
+        </div>
+        <div class="menu-mobile__btn">
+            <i class="icon-menu"></i>
+            <i class="icon-ic_close"></i>
+        </div>
+    </div>
+</div></div></div> 
+								<div class="landing-main"><div id="block2428" class="block-wrapper block-education-dpo-main"><div class="career-corporate-life__main-container main-page__main-viewport uni-org-main" style="padding-bottom: 105px;" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}">
+    <div class="main-page__main-viewport-titles container">
+        <div class="viewport__subtitle ">
+            <h2 class="viewport__subtitle-h2">ABOUT UNIVERSITY</h2>
+        </div>
+
+        <h1 class="viewport__title">Education, research and development in the field of IT and Robotics</h1>
+    </div>
+</div>
+<div class="career__promo-cards__container js-viewport-resize">
+    <div class="career__promo-cards-wrap container">
+        <div class="career__promo-card">
+            <div class="career__propmo-card-title-wrap">
+                <p class="career__propmo-card-number">01</p>
+                <h2 class="career__propmo-card-title">Worldwide teaching experience in IT industry</h2>
+            </div>
+            <div class="career__propmo-card-text">
+                <p class="career__promo-card-text" href="null" target="_self">All programs are conducted in English language</p>
+            </div>
+            <i class="icon-ic_arrow"></i>
+        </div>
+
+        <div class="career__promo-card">
+            <div class="career__propmo-card-title-wrap">
+                <p class="career__propmo-card-number">02</p>
+                <h2 class="career__propmo-card-title">Highly qualified teaching staff</h2>
+            </div>
+            <div class="career__propmo-card-text">
+                <p class="career__promo-card-text" href="null" target="_self">263 professors and academic staff from 24 countries with experience in global leading IT companies</p>
+            </div>
+            <i class="icon-ic_arrow"></i>
+        </div>
+
+        <div class="career__promo-card">
+            <div class="career__propmo-card-title-wrap">
+                <p class="career__propmo-card-number">03</p>
+                <h2 class="career__propmo-card-title">International and academic cooperation</h2>
+            </div>
+            <div class="career__propmo-card-text">
+                <p class="career__promo-card-text" href="null" target="_self">53 academic partners around the world, including leading universities and CERN</p>
+            </div>
+            <i class="icon-ic_arrow"></i>
+        </div>
+    </div>
+</div></div><div id="block2429" class="block-wrapper block-career-relocation-question"><div class="career-relocation__about-inno container g-pb-auto g-pr-auto g-pt-150 g-mt-140">
+    <div class="career-relocation__about-inno-info">
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">12 191</h2>
+            <p class="about-inno-info__item__text">grant applications in 2021</p>
+        </div>
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">309</h2>
+            <p class="about-inno-info__item__text">new students</p>
+        </div>
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title"> </h2>
+            <p class="about-inno-info__item__text"> </p>
+        </div>
+    </div>
+    <div class="career-relocation__about-inno-overview">
+        <h2 class="career-relocation__about-inno-overview__title">EDUCATION TODAY</h2>
+        <div class="career-relocation__description"><p class="career-relocation__about-inno-overview__text">Bachelor’s program offers a degree in «Informatics and Computer Science».</p><p class="career-relocation__about-inno-overview__text"><br /></p><p class="career-relocation__about-inno-overview__text">Master&#039;s programs offer degrees in the following fields: AI and Robotics; Software engineering; Cybersecurity; Data Science.</p><p class="career-relocation__about-inno-overview__text"><br /></p><p class="career-relocation__about-inno-overview__text">Postgraduate program offers a degree in Theoretical foundations of computer science.</p><p class="career-relocation__about-inno-overview__text"><br /></p><p class="career-relocation__about-inno-overview__text">All programs are conducted in English language.<br /></p></div>
+        <a href="https://apply.innopolis.university/en/" class="career-relocation__about-inno-overview__btn btn-green btn-success icon-ic_arrow" target="_blank">Learn more</a>
+    </div>
+</div></div><div id="block2430" class="block-wrapper block-business-infoblocks"><div class="events__container g-pl-auto g-pb-1">
+    <div class="events__wrap">
+        <div class="events__event">
+            <div class="events__event-img">
+                <img src="/upload/landing/9ff/image_3.1@1x.jpg" alt="" srcset="/upload/landing/c9d/image_3.1@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="events__event-info">
+                <h2 class="events__event-info-title">RESEARCH COMMERCIALIZATION</h2>
+                <div class="events__event-info-text">
+                    <div class="events__event-info__subtitle"><p>Innopolis University contains 13 research laboratories and 6 scientific centres, as well as holds partnership with 153 leading IT-companies.</p><p><br /></p><p>Students of Innopolis University obtain cutting-edge education and take on independent research projects in IT and robotics. At the end of studies students implement an industrial project, which is counted as their graduation work.<br /></p></div>
+                    <a class="btn-green btn-margin" href="https://corporate.innopolis.university/en/" target="_blank">Learn more</a>
+                </div>
+            </div>
+        </div>
+        <div class="events__event reverse flex-row-reverse">
+            <div class="events__event-img">
+                <img src="/upload/landing/b75/image_8@1x.jpg" alt="" srcset="/upload/landing/00d/image_8@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="events__event-info events__event-info_container-padding-left">
+                <h2 class="events__event-info-title">COMPETENCE CENTRE OF THE NATIONAL TECHNOLOGY INITIATIVE</h2>
+
+                <div class="events__event-info-text">
+                    <div class="events__event-info__subtitle"><p>The Centre in the field of Robotics and Mechatronics was established at Innopolis University in 2018.</p><p><br /></p><p>It conducts scientific research, creates educational programs in priority areas of robotics and implements industrial projects.<br /></p><p></p></div>
+                    <a class="btn-green btn-margin" href="https://robotics.innopolis.university/en/" target="_blank">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block2431" class="block-wrapper block-career-corporate-life-infoblocks"><div class="career-events__container g-pt-55">
+    <div class="career-events__wrap">
+        <div class="career-events__event">
+            <div class="career-events__event-img">
+                <img class="career-events__event-picture" src="/upload/landing/052/IMG_7619_1@1x.jpg" alt="" srcset="/upload/landing/358/IMG_7619_1@2x.jpg 2x" data-fileid="18733" data-fileid2x="18734" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="career-events__event-info">
+                <h2 class="career-events__event-info-title">Educational and laboratory building</h2>
+                <div class="career-events__event-info-text"><p class="career-events__event-info-p">30 161 square meters</p><p class="career-events__event-info-p"><br /></p><p class="career-events__event-info-p">– 27 lecture rooms for 1 140 people </p><p class="career-events__event-info-p">– 17 meeting rooms </p><p class="career-events__event-info-p">– 2390 square meters library area </p><p class="career-events__event-info-p">– 610 cafeteria seats </p><p class="career-events__event-info-p">– 309 parking slots </p><p class="career-events__event-info-p">– 96 bicycle parking slots  <br /></p></div>
+            </div>
+        </div>
+
+        <div class="career-events__event reverse flex-row-reverse">
+            <div class="career-events__event-img">
+                <img class="career-events__event-picture" src="/upload/landing/caa/IMG_7805@1x.jpg" alt="" srcset="/upload/landing/789/IMG_7805@2x.jpg 2x" data-fileid="18740" data-fileid2x="18739" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="career-events__event-info">
+                <h2 class="career-events__event-info-title">Residential Venue</h2>
+                <div class="career-events__event-info-text"><p class="career-events__event-info-p">35 398 square meters </p><p class="career-events__event-info-p"><br /></p><p class="career-events__event-info-p"> – total capacity: 1 074 people</p><p class="career-events__event-info-p"> – 4 buildings </p><p class="career-events__event-info-p"> – rooms varying from 2-5 people in modern apartments </p><p class="career-events__event-info-p"> – 124 cafeteria seats<br /></p></div>
+            </div>
+        </div>
+
+        <div class="career-events__event">
+            <div class="career-events__event-img">
+                <img class="career-events__event-picture" src="/upload/landing/acd/image_109@1x.jpg" alt="" srcset="/upload/landing/855/image_109@2x.jpg 2x" data-fileid="18741" data-fileid2x="18742" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="career-events__event-info">
+                <h2 class="career-events__event-info-title">Sports Venue</h2>
+                <div class="career-events__event-info-text"><p class="career-events__event-info-p">
+                        8 602 square meters  </p><p class="career-events__event-info-p"><br /></p><p class="career-events__event-info-p">– Swimming pool </p><p class="career-events__event-info-p">– Fitness facilities </p><p class="career-events__event-info-p">– Sports halls</p><p class="career-events__event-info-p">– Multi-purpose sports grounds</p><p class="career-events__event-info-p">– Football ground</p><p class="career-events__event-info-p">– Tennis courts  <br /></p></div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block4695" class="block-wrapper block-annual-report"><section class="annual-reports g-pt-55 g-pb-1">
+  <div class="annual-reports__wrap container">
+    <h2 class="section-title">Annual report</h2>
+    <div class="annual-reports__main">
+                  <div class="annual-reports__block">
+            <h3 class="annual-reports__title">2016</h3>
+            <a href="/upload/iblock/c68/AR_2016.pdf" class="annual-reports__link icon-ic_arrow_right-small" target="_blank">look through</a>
+        </div>
+            <div class="annual-reports__block">
+            <h3 class="annual-reports__title">2017</h3>
+            <a href="/upload/iblock/26c/AR_2017.pdf" class="annual-reports__link icon-ic_arrow_right-small" target="_blank">look through</a>
+        </div>
+            <div class="annual-reports__block">
+            <h3 class="annual-reports__title">2018</h3>
+            <a href="/upload/iblock/59f/AR_2018.pdf" class="annual-reports__link icon-ic_arrow_right-small" target="_blank">look through</a>
+        </div>
+            <div class="annual-reports__block">
+            <h3 class="annual-reports__title">2019</h3>
+            <a href="/upload/iblock/0b2/AR_2019.pdf" class="annual-reports__link icon-ic_arrow_right-small" target="_blank">look through</a>
+        </div>
+            <div class="annual-reports__block">
+            <h3 class="annual-reports__title">2020</h3>
+            <a href="/upload/iblock/189/AR2020(3).pdf" class="annual-reports__link icon-ic_arrow_right-small" target="_blank">look through</a>
+        </div>
+        </div>
+  </div>
+</section></div><div id="block2432" class="block-wrapper block-business-info-three-columns"><section class="block-two g-mt-170 g-pt-1">
+    <div class="block-two__wrap container">
+        <h2 class="section-title">EVENTS</h2>
+        <div class="block-two__main">
+            <div class="block-two__left">
+                <h3 class="block-two__title-jr"> </h3>
+
+                <div class="d-flex block-two__numbers">
+
+                    <p class="block-two__number d-flex flex-column">
+                        <strong class="block-two__number-digit">123</strong>
+                        <span class="block-two__number-text">events per year</span>
+                    </p>
+                    <p class="block-two__number d-flex flex-column">
+                        <strong class="block-two__number-digit">55</strong>
+                        <span class="block-two__number-text">student clubs</span>
+                    </p>
+                </div>
+                <hr />
+                <h3 class="block-two__title-jr"> </h3>
+                <ul><li class="block-two__element"><div class="landing-ui-panel landing-ui-hide landing-ui-panel-block-card-action" data-id="cardAction"><button type="button" class="landing-ui-button landing-ui-button-action landing-ui-button-card-action" data-id="clone" title="Add new item after"><span class="landing-ui-button-text"> </span></button><button type="button" class="landing-ui-button landing-ui-button-action landing-ui-button-card-action landing-ui-disable" data-id="remove" title="Delete"><span class="landing-ui-button-text"> </span></button></div></li></ul>
+            </div>
+            <div class="block-two__right d-flex flex-column">
+                <h2 class="section-title"> </h2>
+                <div class="block-two__paragraph"><p>The University hosts conferences, forums, hackathons, summits and open lectures led by worldwide IT industry representatives. In 2020 the University held and organized 123 events, welcomed 72 delegations and 12000 guests.</p><p><br /></p><p>Moreover, students are free to organize their own events. Every year IU is a host for a number of student events that vary from sports competitions and cybersports tournaments to dancing balls and board games championships.<br /></p></div>
+                <a href="https://innopolis.university/en/organizatsiya-i-provedenie-meropriyatiy/" class="btn-default btn-green icon-ic_arrow g-mt-30" target="_blank">Learn more</a>
+            </div>
+        </div>
+
+
+    </div>
+</section></div><div id="block2433" class="block-wrapper block-career-corporate-life-photoslider"><div class="own-title-slide__container g-mt-auto g-pt-auto">
+    <div class="own-title-slide__wrap ">
+        <div class="swiper-wrapper own-title-slide__slider "><div class="swiper-slide own-title-slide-item own-title-slide__slide" text="
+Graduations">
+                <img class="own-title-slide__slide-img" src="/upload/landing/882/Group_29.9@1x.jpg" alt="" srcset="/upload/landing/c39/Group_29.9@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div><div class="swiper-slide own-title-slide-item own-title-slide__slide" text="Student event">
+                <img class="own-title-slide__slide-img" src="/upload/landing/7b2/Group_29.9-1@1x.jpg" alt="" srcset="/upload/landing/47c/Group_29.9-1@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div><div class="swiper-slide own-title-slide-item own-title-slide__slide" text="Student  event">
+                <img class="own-title-slide__slide-img" src="/upload/landing/547/Group_29.10@1x.jpg" alt="" srcset="/upload/landing/fa5/Group_29.10@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div><div class="swiper-slide own-title-slide-item own-title-slide__slide" text="International forum">
+                <img class="own-title-slide__slide-img" src="/upload/landing/9c7/Group_29.8@1x.jpg" alt="" srcset="/upload/landing/188/Group_29.8@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div><div class="swiper-slide own-title-slide-item own-title-slide__slide" text="
+Engineering Forum">
+                <img class="own-title-slide__slide-img" src="/upload/landing/ea1/Group_29.8-1@1x.jpg" alt="" srcset="/upload/landing/9b9/Group_29.8-1@2x.jpg 2x" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div></div>
+        <div class="own-title-slide-btn__wrap">
+            <p id="textForSlide">Жизнь офиса</p>
+            <div class="own-title-slide-btn">
+                <div class="own-title-slide-next">
+                    <i class="icon-ic_arrow_right"></i>
+                </div>
+                <div class="own-title-slide-prev">
+                    <i class="icon-ic_arrow_left"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block2434" class="block-wrapper block-career-relocation-question"><div class="career-relocation__about-inno container g-pb-auto g-mt-auto g-pt-40">
+    <div class="career-relocation__about-inno-info">
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">4</h2>
+            <p class="about-inno-info__item__text">Olympiads 
+are included in the list of Russian Union of school Olympiads</p>
+        </div>
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">26</h2>
+            <p class="about-inno-info__item__text">educational sessions in Olympiad directions</p>
+        </div>
+        <div class="career-relocation__about-inno-info__item">
+            <h2 class="about-inno-info__item__title">130 000</h2>
+            <p class="about-inno-info__item__text">participants</p>
+        </div>
+    </div>
+    <div class="career-relocation__about-inno-overview">
+        <h2 class="career-relocation__about-inno-overview__title">Olympiad activities and pre-University education </h2>
+        <div class="career-relocation__description"><p class="career-relocation__about-inno-overview__text">• Occupational guidance for school student</p><p class="career-relocation__about-inno-overview__text">• IT industry task review</p><p class="career-relocation__about-inno-overview__text">• Assistance in choosing an IT field as a professional development area</p><p class="career-relocation__about-inno-overview__text">• STEM-program training for high school students</p><p class="career-relocation__about-inno-overview__text"><br /></p><p class="career-relocation__about-inno-overview__text">The program includes a profound course in Robotics, Programming, Mathematics and Project activities. These classes develop students&#039; skills and competencies to partake in various competitions, as well as help to get enrolled to Innopolis University for further education.</p><p class="career-relocation__about-inno-overview__text"><br /></p><p class="career-relocation__about-inno-overview__text">Innopolis University olympiads:</p><p class="career-relocation__about-inno-overview__text">• Innopolis Open (computer science, mathematics, information security, robotics)</p><p class="career-relocation__about-inno-overview__text">• National Technology Initiative Olympiad (intelligent robotic systems and FINTECH software engineering)</p><p class="career-relocation__about-inno-overview__text">• Inter IT, digital skills olympiad for Russian-speaking residents of foreign countries</p><p class="career-relocation__about-inno-overview__text">• ROST All-Russian project competition</p><p class="career-relocation__about-inno-overview__text">•  Asia-Pacific computer science olympiad</p><p class="career-relocation__about-inno-overview__text">• STEM Olympiad for students in grades 4-6</p><p class="career-relocation__about-inno-overview__text">• European Olympiad in Informatics for juniors   <br /></p></div>
+        <a href="https://dovuz.innopolis.university/" class="career-relocation__about-inno-overview__btn btn-green btn-success icon-ic_arrow" target="_blank">Learn more</a>
+    </div>
+</div></div></div> 
+							<div class="landing-footer"><div id="block956" class="block-wrapper block-footer-default"><div class="footer-container">
+    <div class="footer-top-wrap">
+        <div class="container">
+            <a href="https://university.innopolis.ru/en/news/" class="footer-top-link-dashed" target="_self">Media</a>
+            <div class="footer-top-link-list "><div class="footer-top-link-list__item">
+                    <a href="https://www.facebook.com/InnopolisU" class="footer-top-link" target="_blank" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">VK</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.instagram.com/innopolisu/" class="footer-top-link" target="_blank">Instagram</a>
+                </div></div>
+        </div>
+    </div>
+    <div class="footer-bottom-wrap">
+        <div class="container">
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
+                <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="https://apply.innopolis.ru/en/index.php" class="footer-bottom-link" target="_blank">Admission</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/cooperation/" class="footer-bottom-link" target="_blank">For Partners</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/about/" class="footer-bottom-link" target="_blank">About University</a></li><li class="footer-bottom-link__list-item"><a href="https://career.innopolis.university/en/" class="footer-bottom-link" target="_blank">Careers</a></li></ul>
+            </div>
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
+                <span class="footer-bottom-link__list-title">Contact Us</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203-92-53</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">university@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">1, Universitetskaya Str., Innopolis, 420500, Russia</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://panoroo.com/virtual-tours/NvQZM6B2" class="footer-bottom-link" target="_blank">Virtual tour</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://innopolis.university/en/contacts/" class="footer-bottom-link" target="_blank">More contacts</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
+                <span class="footer-bottom-link__list-title">For Press &amp; Media</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203 92 53 доб.117</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">pr@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/news/" class="footer-bottom-link" target="_blank">News</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/events/" class="footer-bottom-link" target="_blank">Events</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">Media</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">
+                <span class="footer-bottom-link__list-title">Useful Links</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="http://www.minsvyaz.ru/en/" class="footer-bottom-link" target="_blank">Ministry of Telecom and Mass Communications of the Russian Federation</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="http://минобрнауки.рф/" class="footer-bottom-link" target="_blank">Ministry of Science and Education of the Russian Federation</a>
+                    </li></ul>
+            </div>
+        </div>
+    </div>
+</div></div></div>
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+    <i class="icon-ic_arrow"></i>
+</button>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+        <button class="cookie-popup__close icon-ic_close"></button>
+        <h2 class="cookie-popup__title">We use cookies</h2>
+        <p class="cookie-popup__subtitle">
+            This website uses cookies to ensure you get best experience on our website. By continuing to use this site, you agree to this cookie usage. You can learn more in the 
+            <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf" class="cookie-popup__link">privacy policy</a>.        </p>
+        <button class="cookie-popup__button">
+            Got it!        </button>
+
+    </div>
+</section>
+</body>
+
+</html>

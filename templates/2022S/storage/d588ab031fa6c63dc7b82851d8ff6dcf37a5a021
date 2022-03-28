@@ -1,0 +1,786 @@
+
+<!doctype html>
+<html lang="ru">
+
+<head>
+    <!-- Facebook Pixel Code -->
+<script data-skip-moving="true">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plbitrix';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '828497344743682');
+  fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->    <title>
+        Главная страница    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/core/css/core.css?15513402303963" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/landing/css/landing_public.css?1580827062456" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/components/bitrix/landing.pub/templates/.default/style.css?15808270633557" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/dovuz24/components/bitrix/catalog.top/events-page/style.css?1616418125135" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/.default/static/public/fonts/icons/style.css?15735466042560" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/.default/static/style/index.css?1639487527541974" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/dovuz24/css/landing24_editor.css?1589973034270280" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/dovuz24/styles.css?1632726230134" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/dovuz24/template_styles.css?163284979910069" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s3','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643014077','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'d21af8904b570b4d82b03db9fd600b1b'});</script>
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1593178423544313"></script>
+<script type="text/javascript" src="/bitrix/js/landing/utils/utils.js?158082706239703"></script>
+<script type="text/javascript" src="/bitrix/js/landing/mediaplayer/base_mediaplayer.js?15808270621588"></script>
+<script type="text/javascript" src="/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js?15808270622166"></script>
+<script type="text/javascript" src="/bitrix/js/landing/mediaplayer/mediaplayer_factory.js?1580827062632"></script>
+<script type="text/javascript" src="/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js?155134073922411"></script>
+<script type="text/javascript" src="/bitrix/js/landing/event-tracker/event-tracker.js?15834788836496"></script>
+<script type="text/javascript" src="/bitrix/js/landing/event-tracker/services/base-service.js?1580827062461"></script>
+<script type="text/javascript" src="/bitrix/js/landing/event-tracker/services/google-analytics-service.js?1580827062764"></script>
+<script type="text/javascript" src="/bitrix/js/landing/polyfill.js?15808270621602"></script>
+<script type="text/javascript" src="/bitrix/js/landing/events/block_event.js?1580827062868"></script>
+<script type="text/javascript" src="/bitrix/js/landing/public.js?15808270622399"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WBB9GZH');</script>
+<!-- End Google Tag Manager -->
+<meta name="robots" content="all" />
+
+
+
+<script type="text/javascript" src="/local/templates/.default/static/js/global.js?1601878962871870"></script>
+<script type="text/javascript" src="/local/templates/.default/static/js/index.js?1605248975156456"></script>
+<script type="text/javascript" src="/local/templates/dovuz24/js/script.js?163360470213453"></script>
+<script type="text/javascript" src="/local/templates/dovuz24/js/google-translate.js?16327262303303"></script>
+<script type="text/javascript" src="/bitrix/components/bitrix/landing.pub/templates/.default/script.js?15834788811880"></script>
+<script type="text/javascript" src="/local/components/dovuz/events.filter/templates/.default/script.js?1632304786372"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "7e226904b958c3676b56b5d2836ab54e"]); _ba.push(["host", "dovuz.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="Центр подготовки и привлечения абитуриентов" /><meta property="og:description" content="Обучаем IT: проводим всероссийские и международные олимпиады, образовательные смены, учебно-тренировочные сборы и курсы для школьников, студентов и преподавателей, которые стремятся стать востребованными
+ИТ-специалистами, создавать технологичные решения и менять мир к лучшему" /><meta property="og:image" content="//dovuz.innopolis.university/upload/landing/3a6/3a6c227452a3c05cb946644b9f4488dc.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="800" /><meta property="og:type" content="website" /><meta property="twitter:title" content="Центр подготовки и привлечения абитуриентов" /><meta property="twitter:description" content="Обучаем IT: проводим всероссийские и международные олимпиады, образовательные смены, учебно-тренировочные сборы и курсы для школьников, студентов и преподавателей, которые стремятся стать востребованными
+ИТ-специалистами, создавать технологичные решения и менять мир к лучшему" /><meta property="twitter:image" content="//dovuz.innopolis.university/upload/landing/3a6/3a6c227452a3c05cb946644b9f4488dc.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta name="og:url" content="https://dovuz.innopolis.university/" />
+<link rel="canonical" href="https://dovuz.innopolis.university/"/></head>
+<body class="">
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=828497344743682&ev=PageView&noscript=1"/></noscript>	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBB9GZH"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<div class="container-fluid "><div class="landing-header"><div id="block3731" class="block-wrapper block-header-default"><div class="row lk-activity-page">
+    <nav class="navbar navbar-expand-lg main-navbar">
+        <div class="show-menu">
+            <span class="show-menu-wrap" id="menu__btn">
+                <i id="menu__btn" class="icon-ic_menu"></i>
+            </span>
+        </div>
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <img src="/public/images/inno-logo.svg" alt="" />
+            </a>
+            <div class="main-navbar-menu">
+                <ul class="navbar-nav navbar-nav-top">
+                    <!-- <li>
+                        <div class="language">
+                            <img src="/upload/lang/lang__ru.png" alt="ru" data-google-lang="ru" class="language__img">
+                            <img src="/upload/lang/lang__en.png" alt="en" data-google-lang="en">
+                        </div>
+                    </li> -->
+                    <li class="nav-item search-input__container">
+                        <div class="main-navbar-menu">
+    <div class="search-input__wrap">
+        <form action="/search/">
+            <input type="text" name="q" class="dropdown__menu-search-input" placeholder="Поиск" />
+            <button name="s" type="submit">
+                <i class="icon-ic_search"></i>
+            </button>
+        </form>
+    </div>
+</div>                    </li>
+                    <li class="nav-item">
+                        <a href="https://university.innopolis.ru/" target="_blank">
+                            Сайт университета Иннополис
+                        </a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav navbar-nav-menu">
+                                <li class="nav-item" id="sub-menu__anchor">
+            <a class="nav-item-a" href="#" id="sub-menu__anchor">
+                                Направления                            </a>
+                            <ul class="nav-item__sub-menu">
+                                </li>
+            <li class="nav-item__sub-menu__item" id="sub-menu__anchor">
+            <a class="landing__sub-item-a" href="/informatika-i-programmirovanie/" id="sub-menu__anchor">
+                                    <span class="landing__sub-item-text">
+                                Информатика и программирование                                    </span>
+                    <i class="icon-ic_arrow"></i>
+                            </a>
+                                </li>
+            <li class="nav-item__sub-menu__item" id="sub-menu__anchor">
+            <a class="landing__sub-item-a" href="/informacionnaya-bezopasnost/" id="sub-menu__anchor">
+                                    <span class="landing__sub-item-text">
+                                Информационная безопасность                                    </span>
+                    <i class="icon-ic_arrow"></i>
+                            </a>
+                                </li>
+            <li class="nav-item__sub-menu__item" id="sub-menu__anchor">
+            <a class="landing__sub-item-a" href="/matematika/" id="sub-menu__anchor">
+                                    <span class="landing__sub-item-text">
+                                Математика                                    </span>
+                    <i class="icon-ic_arrow"></i>
+                            </a>
+                                </li>
+            <li class="nav-item__sub-menu__item" id="sub-menu__anchor">
+            <a class="landing__sub-item-a" href="/proektnaya-deyatelnost/" id="sub-menu__anchor">
+                                    <span class="landing__sub-item-text">
+                                Проектная деятельность                                    </span>
+                    <i class="icon-ic_arrow"></i>
+                            </a>
+                                </li>
+            <li class="nav-item__sub-menu__item" id="sub-menu__anchor">
+            <a class="landing__sub-item-a" href="/robotics/" id="sub-menu__anchor">
+                                    <span class="landing__sub-item-text">
+                                Робототехника                                    </span>
+                    <i class="icon-ic_arrow"></i>
+                            </a>
+                                </li>
+            <li class="nav-item__sub-menu__item" >
+            <a class="landing__sub-item-a" href="/finansovye-tekhnologii/" >
+                                    <span class="landing__sub-item-text">
+                                Финансовые технологии                                    </span>
+                    <i class="icon-ic_arrow"></i>
+                            </a>
+                                        </ul>
+                    </li>
+            <li class="nav-item" >
+            <a class="nav-item-a" href="/events/" >
+                                Мероприятия                            </a>
+                                </li>
+            <li class="nav-item" >
+            <a class="nav-item-a" href="/news/" >
+                                Новости                            </a>
+                                </li>
+            <li class="nav-item" >
+            <a class="nav-item-a" href="/training/" >
+                                Подготовка к поступлению                            </a>
+                                </li>
+                    </ul>
+            </div>
+        </div>
+        <div class="show-lk">
+            <a href="/profile/" class="show-lk-wrap">
+                                    <i class="icon-ic_lk"></i>
+                                </a>
+        </div>
+    </nav>
+    <div class="mobile-dropdown__menu-wrap" style="display: none;">
+        <div class="mobile-dropdown__menu">
+            <nav class="navbar navbar-expand-lg main-navbar">
+                <div class="show-menu">
+                    <span class="show-menu-wrap" id="close__menu-dropdown">
+                        <!-- menu-close__icon -->
+                        <i class="menu-close__icon"></i>
+                    </span>
+                </div>
+                <div class="container search-input__container">
+                    <div class="main-navbar-menu">
+    <div class="search-input__wrap">
+        <form action="/search/">
+            <input type="text" name="q" class="dropdown__menu-search-input" placeholder="Поиск" />
+            <button name="s" type="submit">
+                <i class="icon-ic_search"></i>
+            </button>
+        </form>
+    </div>
+</div>                </div>
+                <div class="show-lk">
+                    <span class="show-lk-wrap">
+                        <i class="icon-ic_lk"></i>
+                    </span>
+                </div>
+            </nav>
+            <div class="mobile-dropdown__menu__body container">
+                <div class="mobile__search-input__wrap">
+    <form action="/search/">
+        <input type="text" name="q" class="dropdown__menu-search-input" placeholder="Поиск" />
+        <button name="s" type="submit">
+            <i class="icon-ic_search"></i>
+        </button>
+    </form>
+</div>                <div class="sub-menu__wrap sub-menu__wrap__dovuz">
+                    <div class="sub-menu__wrap-title">
+                        <h3>ДОВУЗ</h3>
+                        <i class=" icon-ic_close mobile-btn__close"></i>
+                    </div>
+
+                    <div class="sub-menu__wrap__link-list">
+                        <ul><li><a href="https://dovuz.innopolis.university/about/" class="sub-menu__link" target="_blank">О центре довузовского образования</a></li><li><a href="https://dovuz.innopolis.university/news/" class="sub-menu__link" target="_blank">Новости</a></li><li><a href="mailto:dovuz@innopolis.university" class="sub-menu__link" target="_self">Сотрудничество</a></li><li><a href="https://dovuz.innopolis.university/documents/" class="sub-menu__link" target="_blank">Документы</a></li></ul>
+                    </div>
+                </div>
+
+                <div class="sub-menu__wrap sub-menu__wrap__school">
+                    <div class="sub-menu__wrap-title">
+                        <h3>ШКОЛЬНИКАМ</h3>
+                        <i class=" icon-ic_close mobile-btn__close"></i>
+                    </div>
+                    <div class="sub-menu__wrap__link-list">
+                        <ul class="sub-menu__wrap__link-list-1"><li><a href="https://dovuz.innopolis.university/events/" class="sub-menu__link" target="_blank">Календарь мероприятий</a></li><li><a href="https://dovuz.innopolis.university/olympics/" class="sub-menu__link" target="_blank">Олимпиадное движение</a></li></ul>
+                        <h3 class="sub-menu__wrap__sub-title">Подготовка к поступлению</h3>
+                        <ul class="sub-menu__wrap__link-list-2"><li> <a href="https://dovuz.innopolis.university/training/" class="sub-menu__link" target="_blank">О подготовке</a> </li></ul>
+                    </div>
+                </div>
+
+                <div class="sub-menu__wrap sub-menu__wrap__educators">
+                    <div class="sub-menu__wrap-title">
+                        <h3>ПЕДАГОГАМ</h3>
+                        <i class=" icon-ic_close mobile-btn__close"></i>
+                    </div>
+                    <div class="sub-menu__wrap__link-list">
+                        <ul class="sub-menu__wrap__link-list-1"><li> <a href="https://dovuz.innopolis.university/courses/" class="sub-menu__link" target="_blank">Курсы повышения квалификации</a> </li></ul>
+                        <h3 class="sub-menu__wrap__sub-title dashed-title">РОДИТЕЛЯМ</h3>
+                        <ul class="sub-menu__wrap__link-list-2"><li> <a href="https://dovuz.innopolis.university/events/?archive=N&year=2021&season=summer" class="sub-menu__link" target="_blank">Летние школы</a></li></ul>
+                    </div>
+                </div>
+
+                <div class="sub-menu__wrap sub-menu__wrap__applicants">
+                    <div class="sub-menu__wrap-title">
+                        <h3>АБИТУРИЕНТАМ</h3>
+                        <i class=" icon-ic_close mobile-btn__close"></i>
+                    </div>
+                    <div class="sub-menu__wrap__link-list">
+                        <ul><li> <a href="https://apply.innopolis.university/" class="sub-menu__link" target="_blank">Подготовительные курсы</a> </li><li> <a href="https://apply.innopolis.university/" class="sub-menu__link" target="_self">Правила приема 2021</a> </li><li> <a href="https://apply.innopolis.university/" class="sub-menu__link" target="_self">Вступительные испытания</a> </li><li> <a href="https://apply.innopolis.university/" class="sub-menu__link" target="_self">Дни открытых дверей</a> </li></ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mobile-dropdown__menu__footer">
+                <div class="footer-bottom">
+                    <div class="container">
+                        <div class="row">
+                            <div class="mobile-dropdown__menu__footer-contacts">
+                                <div class="footer-bottom-title">
+                                    Мы в социальных сетях
+                                </div>
+                                <div class="footer-bottom-soc-links">
+                                    <a href="https://www.instagram.com/dovuziu/" target="_blank"><i class="icon-ic_instagram"></i></a>
+                                    <a href="https://www.facebook.com/dovuziu/" target="_blank"><i class="icon-ic_facebook"></i></a>
+                                    <a href="https://vk.com/dovuziu/" target="_blank"><i class="icon-ic_vk"></i></a>
+                                    <a href="https://www.youtube.com/channel/UCedVh2M8ytTYDavSUTFWtAA/" target="_blank"><i class="icon-ic_youtube"></i></a>
+                                    <a href=" https://t.me/dovuziu/" target="_blank"><i class="icon-ic_telegram"></i></a>
+                                </div>
+                            </div>
+                            <div class="mobile-dropdown__menu__footer-contacts landing__header-contacts">
+                                <div class="footer-bottom-title">
+                                    Контакты
+                                </div>
+                                <ul class="footer-bottom-links"><li><span class="footer-bottom-links__text">+7 (843) 203-92-53</span></li><li><span class="footer-bottom-links__text">dovuz@innopolis.university</span></li><li><span class="footer-bottom-links__text">ул.Университетская, д.1,</span></li><li><span class="footer-bottom-links__text">г. Иннополис, РТ, 420500</span></li></ul>
+                            </div>
+                            <div class="mobile-dropdown__menu__footer-contacts landing__header-links">
+                                <div class="footer-bottom-title">
+                                    Полезные ссылки
+                                </div>
+                                <ul class="footer-bottom-links"><li>
+                                        <a href="" target="_self">Университет Иннополис</a>
+                                    </li><li>
+                                        <a href="" target="_self">Управление довузовской подготовкой</a>
+                                    </li><li>
+                                        <a href="" target="_self">Сведения об образовательной организации</a>
+                                    </li></ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script class="">
+    $(document).ready(() => window.header__onload());
+</script></div></div> 
+								<div class="landing-main"><div id="block5985" class="block-wrapper block-block-1"><div class="main">
+    <div class="block-1 block">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 d-flex align-items-center align-content-center justify-content-start">
+                    <div class="main-title-block">
+                        <h1 class="title-42">Довузовская подготовка </h1>
+                        <div class="main-text">Обучаем IT: проводим всероссийские и международные олимпиады, образовательные смены, учебно-тренировочные сборы и курсы для школьников, студентов и преподавателей, которые стремятся стать востребованными ИТ-специалистами, создавать технологичные решения и менять мир к лучшему</div>
+                        <ul class="main-menu-ul">
+                            <li class="main-menu-li">
+                                <a href="https://dovuz.innopolis.university/training/" class="main-menu-li-a" target="_blank">Подготовка к поступлению</a>
+                            </li>
+                            <li class="main-menu-li">
+                                <a href="https://dovuz.innopolis.university/olympics/" class="main-menu-li-a" target="_blank">Олимпиады и олимпиадная подготовка</a>
+                            </li>
+                            <li class="main-menu-li">
+                                <a href="/ege" class="main-menu-li-a" target="_self">Подготовка к ЕГЭ</a>
+                            </li>
+                            
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 d-flex align-items-center align-content-center justify-content-end main-block1-types">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="main-block1-types__item">
+                                <a href="/robotics/" class="card-bg-inner bg-grey ic-robo main-block1-types__item_link" target="_blank">Робототехника</a>
+                            </div>
+                            <div class="main-block1-types__item">
+                                <a href="/matematika/" class="card-bg-inner bg-green ic-math main-block1-types__item_link" target="_blank">Математика</a>
+                            </div>
+                            <div class="main-block1-types__item">
+                                <a href="/finansovye-tekhnologii/" class="card-sm-inner bg-grey main-block1-types__item_link" target="_blank">Финансовые технологии</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="main-block1-types__item">
+                                <a href="/informacionnaya-bezopasnost/" class="card-sm-inner bg-blue main-block1-types__item_link" target="_blank">Информационная безопасность</a>
+                            </div>
+                            <div class="main-block1-types__item">
+                                <a href="/informatika-i-programmirovanie/" class="card-bg-inner bg-grey ic-info main-block1-types__item_link" target="_blank">Информатика и программирование</a>
+                            </div>
+                            <div class="main-block1-types__item">
+                                <a href="/ege" class="card-bg-inner bg-yellow ic-proj main-block1-types__item_link" target="_blank">Подготовка к ЕГЭ</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block5948" class="block-wrapper block-events-page"><div class="events">
+        <div class="block-top block" data-is-hidden="Y">
+        <div class="container">
+            <ol class="breadcrumb d-none d-md-flex"><li class="breadcrumb-item">
+                    <a class="icon-ic_arrow_small_left"></a>
+                    <a class="breadcrumb-item__link" href="" target="_self">&amp;nbsp;</a>
+                </li></ol>
+        </div>
+    </div>
+    <div class="block-title block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 title-header">
+                                    <a href="." class="title-header-item active">
+                        Мероприятия
+                    </a>
+                    <a href="?archive=Y&year=2022" class="title-header-item js-ajax-events-page">Архив мероприятий</a>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="block-filter block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 filter-panel">
+                <div class="panel-month">
+                    <div class="fc-left">
+                                                    <a href="?archive=N&year=2022&season=winter" class="btn btn-white fc-left__btn js-ajax-events-page fc-left__btn-current" data-season="winter">Зима</a>
+                                                    <a href="?archive=N&year=2022&season=spring" class="btn btn-white fc-left__btn js-ajax-events-page " data-season="spring">Весна</a>
+                                                    <a href="?archive=N&year=2022&season=summer" class="btn btn-white fc-left__btn js-ajax-events-page " data-season="summer">Лето</a>
+                                                    <a href="?archive=N&year=2022&season=autumn" class="btn btn-white fc-left__btn js-ajax-events-page " data-season="autumn">Осень</a>
+                                            </div>
+                </div>
+                <div class="switcher-icons">
+                    <a href="" class="icon-ic_list active"></a>
+                    <a href="/events-calendar/" class="icon-ic_calendar"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="block-tag block">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 tag-filter">
+                <ul>
+                    <li>
+                        <a href="?archive=N&year=2022&season=winter" title="Все направления" class="js-ajax-events-page active">Все направления</a>
+                    </li>
+                                            <li>
+                            <a href="?archive=N&year=2022&season=winter&direction_id=213" title="Робототехника" class="js-ajax-events-page " data-event-section="robototekhnika">Робототехника</a>
+                        </li>
+                                            <li>
+                            <a href="?archive=N&year=2022&season=winter&direction_id=214" title="Информатика" class="js-ajax-events-page " data-event-section="informatika-i-programmirovanie">Информатика</a>
+                        </li>
+                                            <li>
+                            <a href="?archive=N&year=2022&season=winter&direction_id=215" title="Инфобез" class="js-ajax-events-page " data-event-section="informatsionnaya-bezopasnost">Инфобез</a>
+                        </li>
+                                            <li>
+                            <a href="?archive=N&year=2022&season=winter&direction_id=216" title="Математика" class="js-ajax-events-page " data-event-section="matematika">Математика</a>
+                        </li>
+                                            <li>
+                            <a href="?archive=N&year=2022&season=winter&direction_id=217" title="Финтех" class="js-ajax-events-page " data-event-section="fintekh">Финтех</a>
+                        </li>
+                                            <li>
+                            <a href="?archive=N&year=2022&season=winter&direction_id=218" title="Проекты" class="js-ajax-events-page " data-event-section="proektnaya-deyatelnost">Проекты</a>
+                        </li>
+                                            <li>
+                            <a href="?archive=N&year=2022&season=winter&direction_id=255" title="Физика" class="js-ajax-events-page " data-event-section="fizika">Физика</a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>    <div class="block hackathon" data-is-hidden="Y">
+        <div class="container">
+            <div class="row hackathon__card-wrapper">
+                <div class="col hackathon__card">
+                    <div class="hackathon__date header-gr">14-15 сентября</div>
+                    <h3 class="hackathon__title">Хакатон по робототехнике</h3>
+                    <div class="hackathon__note">Регистрация до 5 сентября</div>
+                    <a href="#" class="hackathon__button btn btn-yellow" target="_self">
+                        Хочу принять участие
+                        <i class="icon-ic_arrow"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+                                                                <div class="block olymps">
+        <div class="container">
+            <div class="row">
+                                <h3 class="olymps__header">
+                    Подготовка к поступлению                </h3>
+                <div class="olymps__body">
+                    <div class="events-block d-flex align-items-center">
+                                                    <div class="event-block d-flex align-items-stretch align-content-stretch">
+                                <div class="event-block-type type-info">
+                                    Информатика                                </div>
+                                <div class="event-block-title">
+                                    <span class="event-block-title-date">
+                                        1 февраля - 18 марта                                    </span>
+                                    <span class="event-block-title-text">
+                                        Онлайн-практикум по подготовке к ЕГЭ: информатика. Модуль 3                                    </span>
+                                                                            <span class="event-block-title-text event-block-title-text_small">
+                                                                                        Для 10 - 11 классов                                        </span>
+                                                                    </div>
+                                                                <div class="event-block-footer ">
+                                    <div class="event-block-footer-desc">
+                                        Регистрация открыта                                    </div>
+                                                                            <div class="event-block-footer-icons">
+                                            <i class="icon-ic_pay"></i>
+                                        </div>
+                                                                        <a class="event-block-footer-hover-block" href="/ege-informatika/">
+                                        <span>
+                                            Зарегистрироваться                                        </span>
+                                        <i class="icon-ic_arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="event-block d-flex align-items-stretch align-content-stretch">
+                                <div class="event-block-type type-robo">
+                                    Физика                                </div>
+                                <div class="event-block-title">
+                                    <span class="event-block-title-date">
+                                        1 февраля - 18 марта                                    </span>
+                                    <span class="event-block-title-text">
+                                        Онлайн-практикум по подготовке к ЕГЭ: физика. Модуль 3                                    </span>
+                                                                            <span class="event-block-title-text event-block-title-text_small">
+                                                                                        Для 10 - 11 классов                                        </span>
+                                                                    </div>
+                                                                <div class="event-block-footer ">
+                                    <div class="event-block-footer-desc">
+                                        Регистрация открыта                                    </div>
+                                                                            <div class="event-block-footer-icons">
+                                            <i class="icon-ic_pay"></i>
+                                        </div>
+                                                                        <a class="event-block-footer-hover-block" href="/ege-fizika/">
+                                        <span>
+                                            Зарегистрироваться                                        </span>
+                                        <i class="icon-ic_arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="event-block d-flex align-items-stretch align-content-stretch">
+                                <div class="event-block-type type-math">
+                                    Математика                                </div>
+                                <div class="event-block-title">
+                                    <span class="event-block-title-date">
+                                        1 февраля - 18 марта                                    </span>
+                                    <span class="event-block-title-text">
+                                        Онлайн-практикум по подготовке к ЕГЭ: математика. Модуль 3                                    </span>
+                                                                            <span class="event-block-title-text event-block-title-text_small">
+                                                                                        Для 10 - 11 классов                                        </span>
+                                                                    </div>
+                                                                <div class="event-block-footer ">
+                                    <div class="event-block-footer-desc">
+                                        Регистрация открыта                                    </div>
+                                                                            <div class="event-block-footer-icons">
+                                            <i class="icon-ic_pay"></i>
+                                        </div>
+                                                                        <a class="event-block-footer-hover-block" href="/ege-maths/">
+                                        <span>
+                                            Зарегистрироваться                                        </span>
+                                        <i class="icon-ic_arrow"></i>
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                        </div></div><div id="block683" class="block-wrapper block-block-5"><div class="main">
+    <div class="block-5 block">
+        <div class="container">
+            <div class="row default-block">
+                <div class="default-block__header">
+                    <h2 class="title-36">Новости</h2>
+                </div>
+                    <div class="default-block__body">
+        <div class="news-block d-flex flex-column align-items-center justify-content-between">
+                            <div class="news-block-item">
+                    <div class="news-block-item-img">
+                        <img src="/upload/iblock/147/147968481946050ddb1e4c95bb6da05a.jpg" alt="">
+                    </div>
+                    <div class="news-block-item-desc">
+                        <div class="news-block-item-content">
+                            <div class="news-block-item-info">
+                                <div class="news-block-item-date">
+                                    14.01.2022                                </div>
+                                <div class="news-block-item-type">
+                                    Разное                                </div>
+                            </div>
+                            <div class="news-block-item-title">
+                                Вебинар для абитуриентов 2022                            </div>
+                            <div class="news-block-item-text">
+                                25 января на бесплатном вебинаре специалисты Центра подготовки и привлечения абитуриентов Университета Иннополис впервые проведут разбор задач конкурса на поступление 2021.                             </div>
+                        </div>
+                        <div class="news-block-item-footer">
+                            <div class="news-block-item-views">
+                            </div>
+                            <a class="news-block-item-show" href="/news/vebinar-dlya-abiturientov-2022/">
+                                <i class="icon-ic_pluse"></i>
+                                <span class="news-block-item-show-hover">
+                                    Читать
+                                    <i class="icon-ic_arrow"></i>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-block-item">
+                    <div class="news-block-item-img">
+                        <img src="/upload/iblock/027/027a35886067ebcb90933c582b9f5cfe.jpg" alt="">
+                    </div>
+                    <div class="news-block-item-desc">
+                        <div class="news-block-item-content">
+                            <div class="news-block-item-info">
+                                <div class="news-block-item-date">
+                                    14.12.2021                                </div>
+                                <div class="news-block-item-type">
+                                    Регулярные занятия                                </div>
+                            </div>
+                            <div class="news-block-item-title">
+                                Открыта регистрация на курсы по программированию и геометрии                             </div>
+                            <div class="news-block-item-text">
+                                Для тех, кто привык начинать все с нового года, Университет Иннополис открыл запись на второе полугодие регулярных занятий. По многочисленным просьбам добавили курсы по геометрии и С++.                            </div>
+                        </div>
+                        <div class="news-block-item-footer">
+                            <div class="news-block-item-views">
+                            </div>
+                            <a class="news-block-item-show" href="/news/otkryta-registratsiya-na-kursy-po-programmirovaniyu-i-geometrii-/">
+                                <i class="icon-ic_pluse"></i>
+                                <span class="news-block-item-show-hover">
+                                    Читать
+                                    <i class="icon-ic_arrow"></i>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                            <div class="news-block-item">
+                    <div class="news-block-item-img">
+                        <img src="/upload/iblock/1d7/1d7656cba5a3484505db600c4eacce73.jpg" alt="">
+                    </div>
+                    <div class="news-block-item-desc">
+                        <div class="news-block-item-content">
+                            <div class="news-block-item-info">
+                                <div class="news-block-item-date">
+                                    08.12.2021                                </div>
+                                <div class="news-block-item-type">
+                                    Подготовка к ЕГЭ                                </div>
+                            </div>
+                            <div class="news-block-item-title">
+                                Скидка 2000 рублей на курсы подготовки к ЕГЭ                            </div>
+                            <div class="news-block-item-text">
+                                В преддверии Нового года Университет Иннополис дарит дополнительную мотивацию на подготовку к единому государственному экзамену – скидку в размере 2000 рублей на курсы (3-й модуль) по математике, информатике и физике.                            </div>
+                        </div>
+                        <div class="news-block-item-footer">
+                            <div class="news-block-item-views">
+                            </div>
+                            <a class="news-block-item-show" href="/news/skidka-2000-rubley-na-kursy-podgotovki-k-ege/">
+                                <i class="icon-ic_pluse"></i>
+                                <span class="news-block-item-show-hover">
+                                    Читать
+                                    <i class="icon-ic_arrow"></i>
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+                <div class="default-block__footer">
+                    <a href="/news/" class="default-block__link d-flex align-items-center" target="_self">
+                        <span>Все Новости</span>
+                        <i class="icon-ic_arrow"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block2870" class="block-wrapper block-about-block-4"><div class="about">
+    <div class="block-4 block">
+        <div class="container">
+            <div class="row  d-flex justify-content-center align-items-center align-content-start flex-wrap">
+                <div class="col-md-12 col-lg-6">
+                    <img src="/public/images/about-3.jpg" alt="" class="about-info-img">
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <div class="about-info">
+                        <div class="about-info-number">
+                            7 810
+                        </div>
+                        <div class="about-info-title">
+                            участников в год вовлекается нами в мир высоких технологий
+                        </div>
+                        <div class="about-info-text">
+                            Мы вовлекаем школьников в мир высоких технологий, помогаем им сформировать траекторию своего развития в IT, чтобы уже сейчас они образовывали прогрессивную среду, становились сильными студентами и вырастали в востребованных специалистов.
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block2871" class="block-wrapper block-olympiad-movement"><div class="about">
+    <div class="block-5 block">
+        <div class="container">
+            <div class="row  d-flex justify-content-center align-items-center align-content-start flex-wrap">
+                <div class="col-md-12 col-lg-6">
+                    <div class="about-info">
+                        <h1 class="title-36"> </h1>
+                        <div class="main-text mt-4 mb-5">
+                            Мы вовлекаем школьников в мир высоких технологий, помогаем им сформировать траекторию своего развития в IT, чтобы уже сейчас они образовывали прогрессивную среду, становились сильными студентами и вырастали в востребованных специалистов.
+                        </div>
+                        <a href="https://dovuz.innopolis.university/about/" class="btn btn-green" target="_self">Подробнее</a>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                    <img src="/upload/landing/56f/56ff56a48405a0a47175ca6edf8e6c51.jpg" alt="" class="about-info-img" srcset="/upload/landing/5a5/5a5e842a83d3a76072feb36a6f405179.jpg 2x" data-fileid="156670" data-fileid2x="156671" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div></div> 
+							<div class="landing-footer"><div id="block5148" class="block-wrapper block-footer-default"><footer class="block">
+    <div class="footer-top block">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="footer-top__body">
+                        <div class="footer-top__text-group">
+                            <div class="footer-top__text-top">
+                                Хотите получать уведомления<br /> о наших мероприятиях?
+                            </div>
+                            <span href="" class="footer-top__text-bottom">Подпишись на нашу рассылку</span>
+                        </div>
+                        <div class="footer-top__input-group">
+                            <form id="subscribe-form" action="/local/templates/dovuz24/ajax/subscribe.php" method="POST">
+                                <input name="email" class="form-control footer-top__input" placeholder="Email" type="email" />
+
+                                <div class="footer-top__input-text">Будьте в курсе предстоящих смен, олимпиад, хакатонов</div>
+                                <button type="submit" class="btn btn-black-blue footer-top__button">
+                                    Подписаться
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="footer-bottom-title">
+                        Мы в социальных сетях
+                    </div>
+                    <div class="footer-bottom-soc-links">
+                        <a href="https://www.instagram.com/dovuziu/" target="_blank"><i class="icon-ic_instagram"></i></a>
+                        <a href="https://www.facebook.com/dovuziu/" target="_blank"><i class="icon-ic_facebook"></i></a>
+                        <a href="https://vk.com/dovuziu/" target="_blank"><i class="icon-ic_vk"></i></a>
+                                                <a href="https://www.youtube.com/channel/UCedVh2M8ytTYDavSUTFWtAA/" target="_blank"><i class="icon-ic_youtube"></i></a>
+                        <a href=" https://t.me/dovuziu/" target="_blank"><i class="icon-ic_telegram"></i></a>
+                    </div>
+                </div>
+                <div class="col-md-4 col-lg-3">
+                    <div class="footer-bottom-title">
+                        Контакты
+                    </div>
+                    <ul class="footer-bottom-links footer-bottom-links_contacts"><li><span class="footer-bottom-links__text"><a href="tel:78432039253" target="_self">+7 (843) 203-92-53</a></span></li><li><span class="footer-bottom-links__text"><a href="mailto:dovuz@innopolis.university" target="_popup">dovuz@innopolis.university</a></span></li><li><span class="footer-bottom-links__text">г. Иннополис, РТ, 420500</span></li><li><span class="footer-bottom-links__text">ул. Университетская, д. 1</span></li></ul>
+                </div>
+                <div class="col-md-4 col-lg-5 d-flex flex-wrap">
+                    <div class="footer-bottom-title">
+                        Полезные ссылки
+                    </div>
+                    <ul class="footer-bottom-links footer-bottom-links_links1"><li>
+                            <a href="https://university.innopolis.ru/" target="_self">Университет Иннополис</a>
+                        </li><li>
+                            <a href="http://dovuz.innopolis.university/about/" target="_self">Управление довузовской подготовки</a>
+                        </li><li>
+                            <a href="https://innopolis.university/sveden/" target="_self">Сведения об образовательной организации</a>
+                        </li></ul>
+                    <ul class="footer-bottom-links footer-bottom-links_links2"><li>
+                            <a href="http://dovuz.innopolis.university/events/" target="_self">Мероприятия</a>
+                        </li><li>
+                            <a href="http://dovuz.innopolis.university/news/" target="_self">Новости</a>
+                        </li></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer></div></div>
+    <button onclick="topFunction()" id="topBtn" title="Go to top">
+        <i class="icon-ic_arrow_top"></i>
+    </button>
+</div>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+      <button class="cookie-popup__close icon-ic_close"></button>
+      <h2 class="cookie-popup__title">Мы используем файлы cookies</h2>
+      <p class="cookie-popup__subtitle">
+        Они помогают улучшить работу сайта и сделать его удобнее. Посещая страницы
+        сайта, вы соглашаетесь с <a href="/public/files/Согласие на обработку ПДн для УИ.pdf" target="_blank" class="cookie-popup__link">условиями использования</a> файлов
+        cookie.
+      </p>
+    <button class="js-cookie-popup__button btn btn-green btn-green_black-hover btn-green_small w-100">Согласен</button>
+  </div>
+</section>
+</body>
+</html>

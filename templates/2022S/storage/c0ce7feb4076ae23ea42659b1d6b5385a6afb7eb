@@ -1,0 +1,700 @@
+<!doctype html>
+<html lang="ru">
+
+<head>
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m, e, t, r, i, k, a) {
+            m[i] = m[i] || function() {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(61110718, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/61110718" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161122461-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161122461-1');
+    </script>
+    <title>
+        Вход в личный кабинет    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.min.css?14568470452854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/university24/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8_v1.css?16425066783440" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164250666537177" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066511359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582878014247888"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643014068','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'259e887f000da18db6839e62a70261c0'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/kernel_main/kernel_main_v1.js?1642596977142325"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8/kernel_landing_assets_ba58dd108e6a8b9b0de76865e7c245f8_v1.js?1642506678288270"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="robots" content="all" />
+<script src=' https://www.google.com/recaptcha/api.js '></script>
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'Найденная Вами ошибка в тексте',
+	'footer':'<b>Послать сообщение об ошибке автору?</b><br/><span style="font-size:10px;color:#7d7d7d">(ваш браузер останется на той же странице)</span>',
+	'comment':'Комментарий для автора (необязательно)',
+	'TitleForm':'Сообщение об ошибке',
+	'ButtonSend':'Отправить',
+	'LongText':'Вы выбрали слишком большой объем текста.',
+	'LongText2':'Попробуйте ещё раз.',
+	'text_ok':'Ваше сообщение отправлено.',
+	'text_ok2':'Спасибо за внимание!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066511076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/university24/page_a5fa71f23483693447051051f9a9673d/page_a5fa71f23483693447051051f9a9673d_v1.js?16425066512066"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="Войти в личный кабинет" /><meta property="og:description" content="Разводящая страница" /><meta property="og:image" content="//innopolis.university/upload/landing/cca/seo@1x.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="798" /><meta property="og:type" content="website" /><meta property="twitter:title" content="Войти в личный кабинет" /><meta property="twitter:description" content="Разводящая страница" /><meta property="twitter:image" content="//innopolis.university/upload/landing/cca/seo@1x.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta name="og:url" content="https://innopolis.university/lk/" />
+<link rel="canonical" href="https://innopolis.university/lk/"/><link rel="icon" type="image/png" href="/upload/resize_cache/landing/d68/16_16_2/Frame_190.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/d68/32_32_2/Frame_190.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/d68/96_96_2/Frame_190.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/d68/120_120_2/Frame_190.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/d68/180_180_2/Frame_190.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/d68/152_152_2/Frame_190.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/d68/167_167_2/Frame_190.png" sizes="167x167"></head>
+<body class="black-menu"><div class="landing-layout-flex">
+								<div class="landing-sidebar g-max-width-100x g-overflow-hidden"><div id="block5032" class="block-wrapper block-university-header-default">
+<div class="uni-nav__wrap" style="top: 0px">
+        <div class="uni-nav__black-line"></div>
+    <div class="container">
+        <a href="https://innopolis.university/" class="uni-logo" target="_self">
+            <i class="icon-ic_logo"></i>
+        </a>
+        <div class="nav__links-wrap">
+            <div class="footer-container">
+                <div class="footer-top-wrap">
+                    <div class="container">
+                        <a href="" class="footer-top-link-dashed">Все медиа</a>
+                        <div class="footer-top-link-list "><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Facebook</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Вконтакте</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Youtube</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Twitter</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Instagram</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">habr</a></div></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="pre-nav__links">
+                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://apply.innopolis.university/">Абитуриентам</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://corporate.innopolis.university/">Бизнесу</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://media.innopolis.university/">Медиа</a></li>                <li class="pre-nav__links-item desctop-link">
+                    <a href="https://innopolis.university/lk/" class="pre-nav__link personal__account personal__account-lk-link">
+                        Личный кабинет                    </a>
+                </li>
+            </ul>
+
+            <ul class="nav__links">
+                                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Университет                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/about/" class="sub-nav__links-item-link" > Об университете <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/board/" class="sub-nav__links-item-link" > Органы управления <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/board/" >Учредители</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/board/" >Наблюдательный совет</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/team/" class="sub-nav__links-item-link" > Команда университета <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/team-structure/" >Организационная структура</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/team-structure/education-academics/" >Образовательные и научные подразделения</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/team-structure/techcenters/" >Технологические центры</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/faculty/" class="sub-nav__links-item-link" > Преподавательский состав <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/faculty/" >Профессорско-преподавательский состав</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/en/job/" >Вакантные должности ППС</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://career.innopolis.university" class="sub-nav__links-item-link" > Работа в университете <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university" >Карьера в университете</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/corporate-life/" >Корпоративная жизнь</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/relocation/" >Релокация в Иннополис</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/job" >Вакансии</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/campus" class="sub-nav__links-item-link" > Кампус <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                                    <h3 class="sub-nav__links__result-stub-title">
+                      Кампус
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                     Информация о жилом, учебном и спортивном комплексах, медцентре, питании и досуге на территории города и Университета Иннополис. Ответы на часто задаваемые вопросы
+                    </p>                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/sveden/" class="sub-nav__links-item-link" > Сведения об образовательной организации <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                                    <h3 class="sub-nav__links__result-stub-title">
+                      Сведения об образовательной организации
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                      Информация об образовательной деятельности, приёмной кампании, структуре и органах управления университетом, финансово-хозяйственной деятельности
+                    </p>                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="http://iustore.innopolis.ru" class="sub-nav__links-item-link" > Сувениры и одежда <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    Мерч Университета Иннополис                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/antiterror/" class="sub-nav__links-item-link" > Антитеррористическая деятельность <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                                    <h3 class="sub-nav__links__result-stub-title">
+                      Университет Иннополис
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                      Специализируется на образовании, исследованиях и разработках в области информационных технологий и робототехники
+                    </p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Образование                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/" class="sub-nav__links-item-link" > Приемная кампания 22/23 <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/" >Абитуриентам</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/open-day/" >День открытых дверей</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/grant/" >Образовательный грант</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/olympiad-bonus/" >Олимпиадные бонусы</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/faq/" >Часто задаваемые вопросы</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/sveden/apply/" >Документы</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://dovuz.innopolis.university/" class="sub-nav__links-item-link" > Довузовское образование <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://dovuz.innopolis.university/about/" >О довузе</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://dovuz.innopolis.university/ege" >Подготовка к ЕГЭ </a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://dovuz.innopolis.university/training/" >Подготовка к поступлению</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://dovuz.innopolis.university/olympics/" >Олимпиады</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://dovuz.innopolis.university/events/" >Календарь мероприятий</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="http://progmatica.ru/?utm_source=site&utm_medium=main_ui" >Курсы по программированию для школьников Прогматика_</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/bachelor/" class="sub-nav__links-item-link" > Бакалавриат <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/bachelor/DS-AI/" >Анализ данных и искусственный интеллект</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/bachelor/CE/" >Информатика и вычислительная  техника</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/master/" class="sub-nav__links-item-link" > Магистратура <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/master/datascience/" >Анализ данных и искусственный интеллект</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/master/securityandnetworkengineering/" >Компьютерная безопасность и сети</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/master/robotics/" >Робототехника и компьютерное зрение</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/master/technological-entrepreneurship/" >Технологическое предпринимательство</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/master/development/" >Управление разработкой программного обеспечения</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/postgraduate-study/" class="sub-nav__links-item-link" > Аспирантура <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                                    <h3 class="sub-nav__links__result-stub-title">
+                      Аспирантура
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                     Программа для молодых ученых и будущих преподавателей, которые интересуются исследованиями в области компьютерных наук и обладают опытом исследовательской или прикладной деятельности в области информационных технологий
+                    </p>                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/dpo-courses/" class="sub-nav__links-item-link" > Курсы повышения квалификации <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://corporate.innopolis.university/program-catalog/it-likbez-dlya-hr/" >HR специалистам</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://corporate.innopolis.university/education/" >Бизнесу</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://edu.innopolis.university/ooc" >Преподавателям и методистам</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://stc.innopolis.university/" >Программирование и ИТ профессии</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/ooc/" class="sub-nav__links-item-link" > Опорный образовательный центр <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://corporate.innopolis.university/education/" class="sub-nav__links-item-link" > Корпоративное обучение <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                                    <h3 class="sub-nav__links__result-stub-title">
+                     Корпоративное обучение
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                      Образовательные программы для бизнеса по темам ИТ, цифровой трансформации, управления продуктами и инновациями. Ускоренная подготовка ИТ-специалистов
+                    </p>                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/ido/" class="sub-nav__links-item-link" > Институт дополнительного образования <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/ido/" >Об Институте</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/ooc/" >Опорный образовательный центр</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://stc.innopolis.university/" >Центр ИТ подготовки</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://corporate.innopolis.university/education/" >Центр корпоративного обучения</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/ppcenter/" >Центр проектов и практик </a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/stazhirovki-i-trudoustrojstvo/" class="sub-nav__links-item-link" > Стажировки и трудоустройство <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/stud-life/" class="sub-nav__links-item-link" > Студенческая жизнь <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://alumni.innopolis.university/" class="sub-nav__links-item-link" > Клуб выпускников <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Образование </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Программы обучения разработаны совместно с мировыми экспертами в сфере информатики, робототехники и программной инженерии с опытом работы в топ-100 вузов мира в партнерстве с компаниями IT‑индустрии
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Наука                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/research/" class="sub-nav__links-item-link" > Научная деятельность <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    <h3 class="sub-nav__links__result-stub-title">
+Научная деятельность </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Сведения о научных разработках и инновационных проектах, осуществляемых учеными Университета Иннополис
+</p>                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/team-structure/team-faculty/" class="sub-nav__links-item-link" > Институт разработки ПО и программной инженерии <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-operating-systems/" >Лаборатория ОС, языков программирования и компиляторов</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-software-service-engineering/" >Лаборатория программной инженерии</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-industrializing-software/" >Лаборатория промышленной разработки ПО</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/team-structure/team-faculty/" class="sub-nav__links-item-link" > Институт анализа данных и искусственного интеллекта <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-bioinformatics/" >Лаборатория анализа данных и биоинформатики</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-oil-gas/" >Лаборатория анализа данных и машинного обучения в нефтегазовой отрасли</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-game-development/" >Лаборатория искусственного интеллекта в разработке игр</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/mlkr/" >Лаборатория машинного обучения и представления данных</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/team-structure/team-faculty/" class="sub-nav__links-item-link" > Институт информационной безопасности и киберфизических систем <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-cyberphysical-systems/" >Лаборатория киберфизических систем</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-networks-blockchain/" >Лаборатория сетей и блокчейн технологий</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/team-structure/team-faculty/" class="sub-nav__links-item-link" > Институт робототехники и компьютерного зрения <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/lab-robotics/" >Лаборатория интеллектуальных робототехнических систем</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/publikatsii" class="sub-nav__links-item-link" > Публикации <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/technologytransfercenter" class="sub-nav__links-item-link" > Патенты и свидетельства <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                                    <h3 class="sub-nav__links__result-stub-title">
+                      Патенты и свидетельства
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                      Объекты интеллектуальной собственности, зарегистрированные АНО ВО Университет Иннополис
+                    </p>                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/seminars/" class="sub-nav__links-item-link" > Семинары <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                                        <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                            <div class="sub-nav__links__result-stub">
+                                Открытые научные семинары Университета Иннополис                            </div>
+                        </ul>
+                            </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                       <h3 class="sub-nav__links__result-stub-title">
+                      Наука
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                      В Университете Иннополис действуют 13 лабораторий и 6 научных центров, в которых ведется исследовательская работа в области искусственного интеллекта, робототехники, big data, разработки ПО, информационной безопасности
+                    </p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Проекты                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/proekty/activity/" class="sub-nav__links-item-link" > Проектная деятельность <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    Проектная деятельность университета направлена на реализацию грантовых, частных и частно-государственных коммерческих проектов, а также на повышение доступности образования в сфере ИТ.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/portfel-proektov/" class="sub-nav__links-item-link" > Портфель проектов <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    Сотрудничаем с крупнейшими российскими компаниями из сферы финансов, медицины, IT, а также нефтегазовой, транспортной и сельскохозяйственной отраслей.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/team-structure/techcenters/" class="sub-nav__links-item-link" > Технологические центры <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://ai.innopolis.university/" >Институт искусственного интеллекта</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/center-blockchain/" >ЛИЦ в области систем распределенного реестра</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/centergis/" >Центр геоинформационных систем</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/center-cybersecurity/" >Центр информационной безопасности</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/center-oil/" >Центр нефтегазовых технологий</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/center-robotics/" >Центр НТИ по направлению «Технологии компонентов робототехники и мехатроники»</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/proekty/podderzhka-innovacionnoj-deyatelnosti/" class="sub-nav__links-item-link" > Поддержка инновационной деятельности <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    Мы ориентированы на практический результат: научные исследования приводят к цифровым решениям, востребованным бизнесом и государством.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/digital-economy" class="sub-nav__links-item-link" > Цифровая экономика <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    Университет Иннополис активно участвует в реализации научных и образовательных проектов в рамках национальной программы «Цифровая экономика Российской Федерации».                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/startupstudio/" class="sub-nav__links-item-link" > Стартап-студия <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    Развитие и поддержка студенческих технологических стартапов: создаём стартап-комьюнити студентов и помогаем в поиске партнеров и инвестиций.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/technologytransfercenter" class="sub-nav__links-item-link" > Трансфер технологий <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                                        <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                            <div class="sub-nav__links__result-stub">
+                                Мы создаём условия для того, чтобы технологии и разработки Университета эффективно внедрялись в реальные секторы экономики.<br />
+                            </div>
+                        </ul>
+                            </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                       <h3 class="sub-nav__links__result-stub-title">
+                      Проекты
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                      Исследуем и проектируем новые технологические решения совместно с ведущими ИТ-компаниями России, вендорами и 53 академическими партнёрами по всему миру
+                    </p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Сотрудничество                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://corporate.innopolis.university/" class="sub-nav__links-item-link" > Индустриальное сотрудничество <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/organizatsiya-i-provedenie-meropriyatiy/" class="sub-nav__links-item-link" > Организация мероприятий <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/sponsorship/" class="sub-nav__links-item-link" > Стать спонсором <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                                    <h3 class="sub-nav__links__result-stub-title">
+                      Университет Иннополис
+                    </h3>
+                    <p class="sub-nav__links__result-stub-text">
+                      Специализируется на образовании, исследованиях и разработках в области информационных технологий и робототехники
+                    </p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            <a href="https://innopolis.university/contacts/">
+                            Контакты                        </a>
+                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                            </li>
+                            <li class="nav__links-btns">
+                    <a class="nav__links-btns_optic" href="/lk/?special=Y" itemprop="copy" title="Версия для слабовидящих"><i class="icon-ic_optic"></i></a>                    <a class="nav__links-btns_search" href="https://innopolis.university/search/" target="_self"><i class="icon-ic_search"></i></a>
+                    <a class='nav__links-btns_en' href='/en/lk/'><i class="icon-ic_lang_eng"></i></a>                </li>
+
+            </ul>
+
+            <div class="mobile-personal-area">
+                <a href="https://innopolis.university/lk/" class="mobile-personal-area-link">
+                    Личный кабинет                </a>
+                <div class="mobile-personal-area-icons">
+                    <a href="https://innopolis.university/search/" class="mobile-personal-area-icons-link"><i class="icon-ic_search"></i></a>
+
+                    <a class='mobile-personal-area-icons-link' href='/en/lk/'><i class="icon-ic_lang_eng"></i></a>                </div>
+            </div>
+        </div>
+        <div class="menu-mobile__btn">
+            <i class="icon-menu"></i>
+            <i class="icon-ic_close"></i>
+        </div>
+    </div>
+</div></div></div>
+								<div class="landing-main g-max-width-100x"><div id="block1218" class="block-wrapper block-columns-breeding"><div class="diluting-page__singin g-mt-auto g-pt-50">
+    <div class="diluting-page__singin-menu">
+        <div class="diluting-page__singin-menu__headline">Личный кабинет</div>
+        <ul class="diluting-page__singin-menu__list"><li class="diluting-page__singin-menu__item"><a class="diluting-page__singin-menu__item-link" href="https://mail.innopolis.ru/" target="_blank">Корпоративная почта</a></li><li class="diluting-page__singin-menu__item"><a class="diluting-page__singin-menu__item-link" href="https://portal.university.innopolis.ru" target="_blank">Корпоративный портал</a></li><li class="diluting-page__singin-menu__item"><a class="diluting-page__singin-menu__item-link" href="https://it.university.innopolis.ru/portal" target="_blank">Портал IT-help</a></li><li class="diluting-page__singin-menu__item"><a class="diluting-page__singin-menu__item-link" href="https://apply.innopolis.ru/get-in/" target="_blank">Личный кабинет абитуриента</a></li><li class="diluting-page__singin-menu__item"><a class="diluting-page__singin-menu__item-link" href="https://my.university.innopolis.ru/" target="_blank">MY UNIVERSITY</a></li><li class="diluting-page__singin-menu__item"><a class="diluting-page__singin-menu__item-link" href="https://dovuz.innopolis.university/login/" target="_blank">Личный кабинет школьника</a></li></ul>
+        <div class="diluting-page__singin-menu__footer">
+            <span class="diluting-page__singin-menu__footer-text">Если у вас возникли проблемы с авторизацией, обратитесь в </span><a href="mailto:it@innopolis.ru" class="diluting-page__singin-menu__footer-mail" target="_self">it@innopolis.ru</a>
+        </div>
+    </div>
+    <div class="diluting-page__singin-image" style="background-image: url('/public/images/diluting-lk-bg.jpg');"></div>
+</div></div></div>
+							</div>
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+    <i class="icon-ic_arrow"></i>
+</button>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+        <button class="cookie-popup__close icon-ic_close"></button>
+        <h2 class="cookie-popup__title">Мы используем файлы cookies</h2>
+        <p class="cookie-popup__subtitle">
+            Они помогают улучшить работу сайта и сделать его удобнее. Посещая страницы сайта, вы соглашаетесь с 
+            <a target="_blank" href="/public/files/Согласие на обработку ПДн для УИ.pdf" class="cookie-popup__link">условиями использования</a> 
+            файлов cookie.        </p>
+        <button class="cookie-popup__button">
+            Согласен        </button>
+
+    </div>
+</section>
+</body>
+
+</html>

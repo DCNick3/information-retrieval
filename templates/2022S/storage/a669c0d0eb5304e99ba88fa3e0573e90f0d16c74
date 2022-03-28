@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m, e, t, r, i, k, a) {
+            m[i] = m[i] || function() {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(62950990, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/62950990" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161122461-5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161122461-5');
+    </script>
+    <title>
+        Faculty Positions    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.min.css?14568470452854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?15828782001861" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?158287801423381" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s2/university24/kernel_landing_assets_dc542f70f04dcc946bc29eac1e19f66c/kernel_landing_assets_dc542f70f04dcc946bc29eac1e19f66c_v1.css?1642506680400" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s2/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164250668037177" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s2/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066801359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582878014247888"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s2','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643014069','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'9d60174f00126b741bbe031b0f581dcb'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s2/university24/kernel_main/kernel_main_v1.js?1642598616142325"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?158287801457817"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s2/university24/kernel_landing_assets_dc542f70f04dcc946bc29eac1e19f66c/kernel_landing_assets_dc542f70f04dcc946bc29eac1e19f66c_v1.js?164250668040106"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/university24/components/bitrix/catalog.section/vacancies-page-en/script.js','/local/components/university/career.send.resume.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="robots" content="all" />
+<script src=' https://www.google.com/recaptcha/api.js '></script>
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'You found an error in the text',
+	'footer':'<b>Send error message to the author?</b><br/><span style="font-size:10px;color:#7d7d7d">(your browser will remain on the same page)</span>',
+	'comment':'Comment to author (optional)',
+	'TitleForm':'The error message',
+	'ButtonSend':'Send',
+	'LongText':'You have selected too much text.',
+	'LongText2':'Please try again.',
+	'text_ok':'Message sent.',
+	'text_ok2':'Thank you for your attention!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s2/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066801076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s2/university24/page_f5034394e617d7d2c57c669a8a66f3dc/page_f5034394e617d7d2c57c669a8a66f3dc_v1.js?16425066804100"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "career.innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="Faculty Positions" /><meta property="og:description" content="Join Innopolis University" /><meta property="og:image" content="//career.innopolis.university/upload/landing/26b/IMG_0715@1x.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="800" /><meta property="og:type" content="website" /><meta property="twitter:title" content="Faculty Positions" /><meta property="twitter:description" content="Join Innopolis University" /><meta property="twitter:image" content="//career.innopolis.university/upload/landing/26b/IMG_0715@1x.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta name="og:url" content="https://career.innopolis.university/en/job/" />
+<link rel="canonical" href="https://career.innopolis.university/en/job/"/><link rel="icon" type="image/png" href="/upload/resize_cache/landing/fa6/16_16_2/Frame_190.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/fa6/32_32_2/Frame_190.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/fa6/96_96_2/Frame_190.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/fa6/120_120_2/Frame_190.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/fa6/180_180_2/Frame_190.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/fa6/152_152_2/Frame_190.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/fa6/167_167_2/Frame_190.png" sizes="167x167"></head>
+<body class="black-menu"><div class="landing-header"><div id="block5100" class="block-wrapper block-career-header-default">
+<div class="uni-nav__wrap career" style="top: 0px">
+    <div class="uni-nav__black-line"></div>
+    <div class="container">
+        <a href="https://innopolis.university/en/" class="uni-logo" target="_self">
+            <i class="icon-ic_logo"></i>
+        </a>
+        <div class="nav__links-wrap">
+            <div class="footer-container">
+                <div class="footer-top-wrap">
+                    <div class="container">
+                        <a href="#" class="footer-top-link-dashed">Все медиа</a>
+                        <div class="footer-top-link-list "><div class="footer-top-link-item"><a href="#" class="footer-top-link" target="_self">Facebook</a></div><div class="footer-top-link-item"><a href="#" class="footer-top-link" target="_self">Вконтакте</a></div><div class="footer-top-link-item"><a href="#" class="footer-top-link" target="_self">Youtube</a></div><div class="footer-top-link-item"> <a href="#" class="footer-top-link" target="_self">Twitter</a></div><div class="footer-top-link-item"> <a href="#" class="footer-top-link" target="_self">Instagram</a></div><div class="footer-top-link-item"> <a href="#" class="footer-top-link" target="_self">habr</a></div></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="pre-nav__links">
+                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://apply.innopolis.university/en">Applicants</a></li>                <li class="pre-nav__links-item">
+                    <a class="pre-nav__link" href="http://www.campuslife.innopolis.ru/main">
+                        Students                    </a>
+                </li>
+                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://corporate.innopolis.university/en">Business</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://media.innopolis.university/en">Media</a></li>
+                <li class="pre-nav__links-item">
+                    <a target="_self" class="pre-nav__link desctop-link pre-nav__link-ui" href="https://innopolis.university/">Сайт университета иннополис</a>
+                </li>
+            </ul>
+            <div class="nav__links">
+                <ul class="nav__links"><li class="nav__links-item h-item">
+                        <a class="nav__links-item__link h-link" href="/corporate-life" target="_self">Corporate life</a>
+                    </li><li class="nav__links-item h-item">
+                        <a class="nav__links-item__link h-link" href="/relocation" target="_self">Relocation</a>
+                    </li><li class="nav__links-item h-item">
+                        <a class="nav__links-item__link h-link" href="/job" target="_self">Vacancies</a>
+                    </li></ul>
+                <a href='/job/' style='margin-left: 30px'><i class="icon-ic_lang_ru" style="font-size: 28px"></i></a>            </div>
+
+            <div class="mobile-personal-area">
+                <div class="mobile-personal-area-link-wrapped"><a href="https://innopolis.university/" class="mobile-personal-area-link icon-ic_arrow_small">Сайт университета Иннополис</a></div>
+                <a href="">&quot; class=&quot;mobile-personal-area-icons-link_lang&quot;&gt;</a>
+            </div>
+        </div>
+        <div class="menu-mobile__btn">
+            <i class="icon-menu"></i>
+            <i class="icon-ic_close"></i>
+        </div>
+    </div>
+</div></div></div> 
+								<div class="landing-main"><div id="block5824" class="block-wrapper block-career-vacancies-page-en"><!-- Шапка -->
+<div class="main-page__main-viewport career-vanacies-page" style="background-image: url(/public/images/career-vacancies-main.jpg)">
+    <div class="main-page__main-viewport-titles container">
+
+        <div class="viewport__subtitle">
+            <a href="https://carrer.innopolis.university">
+                <i class="icon-ic_arrow"></i>
+                <h2 class="viewport__subtitle-text">carrer</h2>
+            </a>
+        </div>
+
+        <h1 class="viewport__title">Career at IU</h1>
+        <p class="viewport__call"> </p>
+
+    </div>
+</div>
+<!-- Конец Шапка -->
+
+
+
+<div class="career-vacancies__container">
+    <div class="container">
+        <div class="career-vacancies__container career-vacancies__has-items">
+            <div class="career-vacancies__wrap">
+                <h2 class="career-vacancies__main-title">Open vacancies</h2>
+                <div class="career-vacancies__content">
+                                        <style>
+    .career-vacancies__container .career-vacancies__wrap .career-vacancies-main .career-vacancies__categories ul {
+        justify-content: normal;
+    }
+</style>
+
+<div class="career-vacancies__filter">
+    <div class="career-vacancies__filter_logo" id="career-vacancies__filter_logo"></div>
+    <p>ALL</p>
+</div>
+<div class="career-vacancies-main">
+    <div class="career-vacancies__categories">
+        <ul class="career-nav__links">
+            <a href="?section_id=*" class="vacancies__category js-vacancies-categories career-vacancies__categories_selected">
+                <span>All</span><sup></sup>
+            </a>
+                            <a class="vacancies__category js-vacancies-categories " href="?section_id=22414"><span>Information technology, internet, telecom</span><sup>1</sup></a>
+                    </ul>
+    </div>
+    <div class="vacancies__result">
+                    <div class="faq-container career-vacancies__categories-filtered career-vacancies" id="all__result">
+                <div class="container">
+                                                                                            <div class="expand-panel js-vacancies-mobile" data-mobile-href="https://hh.ru/vacancy/50499917">
+                            <a class="expand-panel__header collapsed">
+                                <div class="career-vacancies__card-wrap">
+                                    <h5 class="career-vacancies__card_header">
+                                        Frontend developer (Eng)                                    </h5>
+                                    <p class="career-vacancies__card_salary">
+                                                                                    salary not specified
+                                                                            </p>
+                                </div>
+                                <i class="faq-close-icon"></i>
+                            </a>
+                            <div class="collapse expand-panel__body">
+
+                                <div class="career-vacancies__collapsed card-body">
+                                    <div class="career-vacancies-collapsed__left">
+                                                                                    <div class="career-vacancies-collapsed__block">
+                                                <h6>Required experience:</h6>
+                                                <ul>
+                                                    <li>От 1 года до 3 лет</li>
+                                                </ul>
+                                            </div>
+                                                                                                                            <div class="career-vacancies-collapsed__block">
+                                                <h6>Type of employment:</h6>
+                                                <ul>
+                                                    <li>Полная занятость</li>
+                                                </ul>
+                                            </div>
+                                                                                                                    </div>
+                                    <div class="career-vacancies-collapsed__right">
+                                        <div class="career-vacancies-collapsed__block career-vacancies-collapsed__html-hh">
+                                            <p>Hey!</p> <p>It`s <strong>Innopolis University</strong> team.</p> <p> </p> <p>We present University that trains talented IT specialists and implements huge commercial projects in partnership with Russian and foreign companies. We cooperate with 194 leading IT companies in Russia. Innopolis University has 15 research laboratories and 6 development centers.</p> <p> </p> <p>At the moment we are looking for <strong>Front-end developer </strong>in the oil and gas technology center.</p> <p> </p> <p>The center&#39;s team consists of 87 specialists and 6 departments. , there are industry-specific engineering personnel, researchers (mathematicians and physicists), C ++, C #, Java, Python developers of various levels, and testers among the specialists of the center. The work is coordinated by a Scrum master. Together they develop knowledge-intensive software and technology solutions for companies in the oil and gas sector.</p> <p> </p> <p><strong>Responsibilities in this role:</strong></p> <ul> <li>Development of a graphical interface;</li> <li>Writing unit and integration tests;</li> <li>Participation in the processes of analysis and selection of general and specific technical solutions;</li> <li>Participation in the development of design and software documentation;</li> </ul> <p><strong>What qualifications are needed:</strong></p> <ul> <li>Understanding of the principles of OOP, SOLID, DRY;</li> <li>Knowledge of ES5, ES6 +. (more than 2 years);</li> <li>Practical experience of design and development in Angular 2+/React at least 2 years;</li> <li>Good knowledge of TypeScript;</li> <li>Experience with package managers (npm, yarn, etc.).</li> </ul> <p><strong>Why US?</strong></p> <p>We appreciate each member of our team and maintain a work-life balance.</p> <p> </p> <p><strong>What we are offering:</strong></p> <p>- Onboarding according to the Labor Code of the Russian Federation</p> <p>- Working hours from 9 to 18</p> <p>- Equipped workplace</p> <p>- Free transfer Kazan-Innopolis-Kazan</p> <p>- No dress code</p> <p> </p> <p>That&#39;s not all!</p> <p> </p> <p><strong>Fitness.</strong> Corporate discount for visiting the coolest fitness club in Innopolis.</p> <p><strong>Health.</strong> VHI (voluntary health insurance) after the probationary period.</p> <p><strong>Education</strong>. Access to the interesting university lectures and corporate library.</p> <p> </p> <p>Interesting? Let&#39;s go then!</p> <p> </p> <p>Leave your response and get feedback from our specialists.</p>                                        </div>
+                                        <div class="career-vacancies-collapsed__btns" onclick="event.stopPropagation()">
+                                            <a href="https://hh.ru/vacancy/50499917" class="career-vacancies-collapsed__btn career-vacancies-collapsed__btn_green" target="_blank">
+                                                Respond to hh.ru</a>
+                                            <a href="#career-feedback__form" class="career-vacancies-collapsed__btn">
+                                                To send a resume</a>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+            </div>
+            </div>
+</div>                                    </div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block1250" class="block-wrapper block-career-faq"><div class="faq-container g-pt-110 g-pb-120">
+    <div class="container">
+        <h2 class="faq-container__title">Faculty Positions</h2>
+        <div class="faq-container__items"><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Faculty of Computer Science and Engineering</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse"><br /><p><span style="color: rgb(67, 160, 71); font-weight: bold;">Open Positions as Assistant Professor</span><br /><br />The Faculty of Computer Science and Engineering of Innopolis University invites applications for tenure-track faculty positions. <br /><br />Candidates are being sought with expertise in all aspects of Computer Science and Engineering, but the following areas are of particular relevance: <br />- Programming Languages, specifically with reference to compilation techniques, program analysis, and programming for distributed systems, secure systems, AI systems, and mobile systems<br />- Computer Security, especially connected to secure coding, software security, distributed systems and secure design of computer systems
+<br />- Artificial Intelligence, with particular focus on game theory, computer vision, programming AI systems, machine learning for large datasets, reinforcement learning, optimisation methods for machine learning, data visualisation and model interpretation, fairness in Artificial Intelligence
+<br />- Behavioural and Cognitive Robotics
+<br />- Software Engineering, particularly if connected to DevOps<br /><br />The Faculty of Computer Science and Engineering of Innopolis University has started a new, exceptional initiative to recruit highly promising Assistant Professors who have recently graduated or are close to graduation (completion expected by May 2021) and who can teach in English (the language of instruction). We target candidates who can make the difference in our institution, managing their labs, making ground-breaking research, teaching effectively a very talented student body, attracting research funds, and entertaining a worldwide network of colleagues. With this position, suitable support is provided by the university to publish papers, to attend conferences, and to supervise MS and PhD students.<br /><br />Responsibility of the newly recruited assistant professors will include teaching three to four semester-long courses to undergraduate or graduate students during the academic year, for a total of max 120 hours of frontal astronomical lecturing, leading highly regarded research activities, advising and mentoring students, contributing to community services and other activities related to developing and maintaining the intellectual and cultural environment of the University. <br /><br />Usually, the initial appointment is 3-years with expectation for renewal. The salary is very attractive, aligned with the best institutions worldwide, with additional benefits, including the low taxation level of Russia (max.15%), 56 days of paid vacations, paid health care coverage.<br /><br />Application should be sent to <a href="mailto:faculty@innopolis.ru" target="_self">faculty@innopolis.ru</a>. Application packs should contain a CV, a research statement, a teaching statement, three reference letters, a PhD certificate. <br /></p><p><br /></p><p><br /></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Institute of Humanities and Social Sciences – English Division</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse"><br /><p>The Faculty of Humanities and Social Sciences of Innopolis University invites applications for full-time Assistant and Associate Professor positions in  EAP. <br /></p><p><span style="font-weight: bold;"><br /></span></p><p><span style="font-weight: bold;">POSITION </span></p><p><br /></p><p>The responsibilities include:</p><p>- designing and teaching courses to meet the needs of undergraduate, graduate and post-graduate students </p><p>- as a part of the University witting center, giving individual writing consultations, performing editing and proofreading services, conducting writing workshops </p><p> - contributing to the research activity of the University </p><p>- contributing to community services and other activities related to developing and maintaining the intellectual and cultural environment of the University <br /></p><p><br /></p><p><br /></p><p><span style="font-weight: bold;">QUALIFICATIONS AND REQUIREMENTS </span></p><p><br /></p><p>Successful candidates will become a part of a dynamic ambitious multicultural community and are expected to have the following qualifications:</p><p>- an achieved relevant doctoral degree from an internationally recognized educational and/or research institution. Candidates who are close to graduation will also be considered. </p><p>- a minimum of one year teaching experience for the applicants for the Assistant Professor position, and three years for the applicants for the Associate Professor position </p><p>- active research interests in the field of interest for the institute with publications in recognized international venues <br /></p><p><br /></p><p><span style="font-weight: bold;">COMPENSATION AND BENEFITS</span></p><p><br /></p><p>Usually, the initial appointment is 3-years with expectation for renewal. The salary is competitive, with additional benefits, including the low taxation level of Russia (max. 15%), 56 days of paid vacations, paid health care coverage.    <br /></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Institute of Data Science and Artificial Intelligence</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse"><p>The Faculty of Computer Science and Engineering of Innopolis University is looking for candidates to join Data Science and Artificial Intelligence Institute. We target professionals who can make a difference in our institution, making ground-breaking research, teaching effectively a very talented student body, attracting research funds, and entertaining a worldwide network of colleagues. With this position, suitable support is provided by the university to publish papers, attend conferences, and supervise MS and PhD students. </p><p><br /></p><p><span style="font-weight: bold;">POSITION </span></p><p><br /></p><p>We are looking for candidates able to develop/update and teach courses connected to their respective domain of expertise, as well as general ML and AI courses at both undergraduate and graduate levels including but not limited to: </p><p><br /></p><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>1.	Computer Vision </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>2.	Optimization </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>3.	Natural Language Processing </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>4.	High-Dimensional Data Analysis </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>5.	Data and Knowledge representation </p></blockquote><p><br /></p><p><span style="font-weight: bold;">QUALIFICATIONS AND REQUIREMENTS </span></p><p><br /></p><p>We specifically welcome candidates with research areas from the following list: </p><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Computer Vision with Deep Learning </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	NLP, including Dialog Systems </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Ethical and Fair AI </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Operations Research and Decision Making </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Applied AI research (biology, trading, etc.) </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Reinforcement Learning </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Adversarial Networks </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Graph Models </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Probabilistic Method of Machine Learning </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Neurosciences and Cognitive Sciences </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	AI and ML Infrastructure (datasets, libraries, ...) </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Artificial General Intelligence </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Artificial Intelligence for Games </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	Nature Inspired Computing for AI </p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p>•	High-Performance Computing for AI </p></blockquote><p><br /></p><p>Responsibility of the newly recruited Full/ Associate/ Assistant Professors who have recently graduated or are close to graduation (completion expected by May 2022) will include teaching three to four courses per year (up to a max 120 astronomical hours of frontal teaching), leading highly regarded research activities, advising and mentoring students, contributing to community services, and other activities related to developing and maintaining the intellectual and cultural environment of the University. </p><p><br /></p><p><span style="font-weight: bold;">COMPENSATIONS AND BENEFITS </span></p><p><br /></p><p>Usually, the initial appointment is 3-years with the expectation for renewal. We offer a competitive salary, aligned with the best institutions worldwide, with additional benefits, including the low taxation level of Russia (max 15%), 56 days of paid vacations, paid health care coverage. <br /></p><p></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Institute of Robotics and Computer Vision</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse"><p><span style="font-weight: bold;color: rgb(21, 176, 18);">Assistant Professor</span><br /></p><p><br /></p><p>Candidates are being sought in all aspects of Robotics and Computer Vision, but the following areas are of special interest: Control Theory, Autonomous Driving, Computer Vision, Mechatronics, Cognitive robotics, Bio robotics, Additive technologies. </p><p><br /></p><p> The Faculty of Computer Science and Engineering of Innopolis University has started a new, exceptional initiative to recruit highly promising Assistant Professors who have recently graduated or are close to graduation (completion expected by May 2021) and who can teach in English (the language of instruction).
+We target candidates who can make the difference in our institution, managing their labs, making ground-breaking research, teaching effectively a very talented student body, attracting research funds, and entertaining a worldwide network of colleagues. With this position, suitable support is provided by the university to publish papers, to attend conferences, and to supervise MS and PhD students. </p><p><br /></p><p>Responsibility of the newly recruited assistant professors will include teaching three to four semester-long courses to undergraduate or graduate students during the academic year, for a total of max 120 hours of frontal astronomical lecturing, leading highly regarded research activities, advising and mentoring students, contributing to community services and other activities related to developing and maintaining the intellectual and cultural environment of the University. </p><p><br /></p><p>Usually, the initial appointment is 3-years with expectation for renewal. The salary is very attractive, aligned with the best institutions worldwide, with additional benefits, including the low taxation level of Russia (max.15%), 56 days of paid vacations, paid health care coverage.  <br /></p><p><br /></p><p></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Institute of Secure and Cyberphysical Systems</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse"><p>The Faculty of Computer Science and Engineering of Innopolis University invites highly promising Assistant Professors who have recently graduated or are close to graduation (completion expected by May 2022) or high-caliber Associate/Full Professors and who can teach in English (the language of instruction). </p><p>Specifically, we want candidates to join the faculty of our industry-oriented Master&#039;s program &quot;Security and Network Engineering&quot;. A candidate should be familiar with real-world modern technologies and skills that are required by industry, be ready to update course content accordingly, advise students on projects, and collaborate with industry if it is involved in the educational process.
+We target professionals who can make the difference in our institution, managing their labs, making ground-breaking research, teaching effectively a very talented student body, attracting research funds, and entertaining a worldwide network of colleagues. With this position, suitable support is provided by the university to publish papers, to attend conferences, and to supervise MS and PhD students. </p><p><br /></p><p><span style="font-weight: bold;">POSITION</span></p><p><br /></p><p> We are looking for candidates that will be able to develop/update and teach some of the following courses: </p><p><br /></p><p><span style="font-weight: bold; color: rgb(76, 175, 80);">1.	Classical Internet Applications (graduate) </span></p><p>The primary focus of this course is to learn Linux-based internet services, common internet protocols and applications as well as to have a general understanding of computer systems and architecture. Topics that need to be covered: Operating system architecture and its main concepts (OS kernel, system libraries, system calls, network services, booting services), DNS protocol, DNS over HTTPS, Mail protocols, Web servers, Web APIs (REST, SOAP). </p><p><br /></p><p><span style="color: rgb(76, 175, 80); font-weight: bold;">2.	Secure Systems and Networks (graduate) </span></p><p>This course is about engineering concepts and techniques to develop secure systems from an IT infrastructure point of view. How to monitor it, audit and implement security controls. Topics that need to be covered: Modern applied cryptography (symmetric/asymmetric encryption, hash functions, digital signature, PKI infrastructure). Installation and administration of secure protocols in IT infrastructure (ssl/tls, ssh, sftp, ipsec, vpn, https). Active Directory and related technologies (LDAP, Kerberos). Infrastructure Security (IDS/IPS systems, Firewalling, Logging, Monitoring, DMZ, Proxying, building defense-in-depth). </p><p><span style="color: rgb(76, 175, 80); font-weight: bold;"><br /></span></p><p><span style="color: rgb(76, 175, 80); font-weight: bold;">3.	Advanced Security (graduate) </span></p><p>This course focuses on security aspects in software vulnerabilities and techniques that are needed to find and analyze them and be able to provide secure patches and enhancements. Also, course coverage includes such related areas as software security design and architecture, software security testing, and secure coding techniques. Topics that need to be covered: Web applications security. Mobile applications security, Memory corruption and binary programs related vulnerabilities, Secure coding, Software security testings (DAST/SAST), Software security design and architecture. </p><p><br /></p><p><span style="color: rgb(76, 175, 80); font-weight: bold;">4.	InterNetworking and Routing (graduate)</span></p><p>InterNetworking and Routing is the course that provides students with fundamental knowledge about inter-networking and routing. The course starts with some basic material about routing, such as the definition of path cost and the classification of routing algorithms. A networking infrastructure deploys a variety of algorithms for routing packets, classified as those using optimal routes and those using non-optimal routes. This course includes hands-on exercise and the students will practice their skills on the real hardware and software. This course also introduces various topics on security aspects for the network design and administration such as secure protocols used on the application layer, VPN technologies, network segmentation, and access control techniques. Basics of networking concepts (OSI model, subnetting, addressing, gateway, firewalling). STP and Vlans. IPv6. Secure protocols (SSH, HTTPs, SFTP, TLS, SSL). Network Segmentation, isolation. Routing protocols (RIP, OSPF, MPLS, BGP). Tunneling, VPN. </p><p><br /></p><p><span style="color: rgb(76, 175, 80); font-weight: bold;">5.	Advanced Networking (graduate) </span></p><p>Advanced Networking is the core course that provides students with advanced knowledge about computer networks in order to obtain confidentiality, integrity, and availability of information. The course is focusing on security aspects to design and control IT infrastructure over the networks, including learning about the general type of network attacks as well as techniques included in the common penetration testing scenarios. Topics that need to be covered: IDS/IPS systems and network infrastructure (concepts, design, configuration, troubleshooting). Covert channels, Deep packet inspection, SNMP protocol. Scanning, networks reconnaissance, attacks against routing protocols (routing manipulation and attacks), BGP hijack, MiTM attacks. Security Operation Center (concept, architecture, design, implementation, configuration, testing). Network automation (automation of network configuration, packet crafting). Traffic analysis (capturing, proxying, sniffing), usage of SPAN. Advanced network attacks (moving inside the enterprise network, network pivoting, proxying, anonymity). </p><p><br /></p><p><span style="color: rgb(76, 175, 80); font-weight: bold;">6.	Large Systems (graduate) </span></p><p>The course focus on large organizations&#039; complex architectures where products and protocols of multiple vendors have to inter-operate. The main purpose of the course on understanding the challenges and building a scalable IT infrastructure that is flexible and efficient to manage. The course covers also aspects of DevOps engineering which combines software development with IT operations and aims to provide a holistic way to develop, deploy, operate and monitor software. Topics that need to be covered: Virtualization and Cloud Computing. Data-centers and Infrastructure management methodologies. Source Code Management and Configuration Management Systems. Continuous Integration. Quality assurance and Continuous Testing. Packaging, Releasing, and Continuous Deployment
+Microservices, orchestration technologies. Monitoring, logging, load-balancing and scaling. </p><p><br /></p><p><span style="color: rgb(76, 175, 80); font-weight: bold;">7.	Offensive Technologies (graduate)</span></p><p> Offensive Technology introduces methods and tools to assess the security of different services and protocols therein. The course aims to expose the students to real-world problems from a security point of view and let them find vulnerabilities in both software and hardware. In this course the students will particularly focus on software security and penetration techniques, reverse engineering, advanced memory exploit/mitigation, and fuzzing techniques. Topics that need to be covered: Reverse engineering, Offensive tools and IT infrastructure attack methods, Scanning and Fuzzing, Advanced exploitation techniques, Red teaming. </p><p><br /></p><p><span style="color: rgb(76, 175, 80); font-weight: bold;">8.	CyberCrime and Forensics (graduate) </span></p><p><span style="font-size: 1rem;">The course teaches on modern tactics and techniques of high-tech crimes, including counter-forensics methods. The main purpose of this course is to provide for students the necessary knowledge and abilities to obtain and analyze digital evidence in a way to provide investigations that will comply with the current law and regulations. Another purpose for the course is to learn for students how to counteract ongoing computer incidents, intrusions and to perform threat hunting in the computer systems. Topics that need to be covered: Modern high-tech crimes techniques and the law. Data acquisition and securing digital evidence. Computer systems artifacts and their analysis methods (Windows, Linux, mobile OS). Volatile data analysis. Incident response and threat hunting across the enterprise IT infrastructure. Blue teaming. </span></p><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem; font-weight: bold; color: rgb(76, 175, 80);">9.	Secure System Development (undergraduate) </span></p><p><span style="font-size: 1rem;">The course is about secure system development and software that needs to be secure to avoid security risks. The course provides skills for future developers, security engineers to develop secure software and systems. As a part of the course students learn how to find and fix vulnerabilities, implement protections, automate secure processes, and make secure practices a part of your software development life cycle (SDLC). Network security architecture. Logging and monitoring. Mobile security. Software security design and architecture. Secure SDLC. Secure coding/patching. Secure CI/CD environments. </span></p><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem; font-weight: bold;">QUALIFICATIONS AND REQUIREMENTS</span></p><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p><span style="font-size: 1rem;">•	Having professional security and network certifications (CISSP, CEH, OSCP, CCNA, CCNP, etc.) </span></p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p><span style="font-size: 1rem;">•	More than 3 years of industry experience in the related area </span></p><p><span style="font-size: 1rem;">•	Having a Master’s degree in Information Security and related areas </span></p><p><span style="font-size: 1rem;">•	Having PhD and doing research related to software security, designing secure systems, exploitation and reverse engineering </span></p></blockquote><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><p><span style="font-size: 1rem;">•	Having an experience with providing teaching activities for industry professionals </span></p></blockquote><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;">Responsibility of the newly recruited assistant professors will include teaching three to four semester-long courses to undergraduate or graduate students during the academic year, for a total of max 120 hours of frontal astronomical lecturing, leading highly regarded research activities, advising and mentoring students, contributing to community services and other activities related to developing and maintaining the intellectual and cultural environment of the University. </span></p><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;"><span style="font-weight: bold;">COMPENSATIONS AND BENEFITS</span> </span></p><p><span style="font-size: 1rem;">Usually, the initial appointment is 3-years with expectation for renewal. The salary is very attractive, aligned with the best institutions worldwide, with additional benefits, including the low taxation level of Russia (max.15%), 56 days of annually paid vacations, paid health care coverage. </span></p><p></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Institute of Software Development and Engineering</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse"><span style="font-weight: bold;color: rgb(21, 176, 18);">Assistant Professor </span><p><br /></p><p>Candidates are being sought in all aspects of Software Engineering, but the area of Software Architectures is of special interest. </p><p><br /></p><p>The Faculty of Computer Science and Engineering of Innopolis University has started a new, exceptional initiative to recruit highly promising Assistant Professors who have recently graduated or are close to graduation (completion expected by May 2021) and who can teach in English (the language of instruction).
+We target candidates who can make the difference in our institution, managing their labs, making ground-breaking research, teaching effectively a very talented student body, attracting research funds, and entertaining a worldwide network of colleagues. With this position, suitable support is provided by the university to publish papers, to attend conferences, and to supervise MS and PhD students. </p><p><br /></p><p>Responsibility of the newly recruited assistant professors will include teaching three to four semester-long courses to undergraduate or graduate students during the academic year, for a total of max 120 hours of frontal astronomical lecturing, leading highly regarded research activities, advising and mentoring students, contributing to community services and other activities related to developing and maintaining the intellectual and cultural environment of the University. </p><p><br /></p><p>Usually, the initial appointment is 3-years with expectation for renewal. The salary is very attractive, aligned with the best institutions worldwide, with additional benefits, including the low taxation level of Russia (max.15%), 56 days of paid vacations, paid health care coverage. 
+<br /></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Institute of Humanities and Social Sciences – Humanities</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse">The Faculty of Humanities and Social Sciences of Innopolis University, responsible for establishing a new educational program majoring in Technological Entrepreneurship for students, invites applications for teaching positions. <p><br /></p><p>Innopolis University is opening a new educational program for students (3rd and 4th-year students) of Bachelor in Computer Sciences (BCS) who are interested in the entrepreneurship career. The start of the program is scheduled for September 2021. We are looking for a candidate for a part-time position. </p><p><br /></p><p>We are looking for a fellow entrepreneur who is willing to share his experience and knowledge with students planning to create their start-ups. </p><p><br /></p><p><span style="font-weight: bold; color: rgb(33, 33, 33);">POSITION</span></p><p><span style="font-weight: bold; color: rgb(67, 160, 71);">Senior Instructor for the &quot;Investors relations and Fundraising&quot; course </span></p><p><br /></p><p>The responsibilities include: </p><p>•	To teach an academic course that develops skills such as self-presentation and how to search the venture funding for your start-up (1 semester, 20 lectures, 40 academic hours). </p><p>•	To watch the progress of students; to be not only a lecturer but also an active mentor. </p><p>•	To participate in the decision-making process on the &quot;Technological Entrepreneurship&quot; program content </p><p>•	To support the development of the student start-up community at Innopolis University by providing advice and network, attending events and supporting in research or business development.</p><p><br /></p><p><span style="font-weight: bold;">QUALIFICATIONS AND REQUIREMENTS </span></p><p>•	You are an entrepreneur or employee of a venture fund/institution engaged in venture capital investments in start-ups. </p><p>•	Your background is technical (your education is related to computer science, mathematics, physics, and technology). </p><p>•	You have experience participating in venture deals in technology projects. </p><p>•	Your core competencies in business are sales, business development, venture, finance, business valuation, and venture deals support and regulations. </p><p>•	You are enthusiastic about the idea of developing projects related to the city and Innopolis University. </p><p>•	You have teaching experience (any - commercial or academic) and you love working with students. </p><p>•	You are ready for business trips to Innopolis to present the course material (lecturing online is possible, but we believe that the full-time presence of the teacher/mentor increases the quality of the students&#039; education). </p><p>•	You have your prime job and teaching is a source of inspiration for you. </p><p>•	You are familiar with current teaching methods: mixed learning (online + offline), flipped classrooms, interactive learning tools. </p><p>•	Priority for candidates with a scientific degree (PhD). </p><p><br /></p><p><span style="font-weight: bold;">COMPENSATION AND BENEFITS </span></p><p>•	Determined by the hourly rate and the workload of the instructor. </p><p>•	Part-time work (labor contract, 56 paid vacation days, voluntary medical insurance, tax benefits for non-residents of the Russian Federation) OR project employment by contract. </p><p><br /></p><p>The application should contain the following documents: CV, a teaching statement, a profile of the activities of your company, and be sent to faculty@innopolis.ru. </p><p></p><p></p><p></p><p></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-title">Institute of Humanities and Social Sciences – Humanities</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse">The Faculty of Humanities and Social Sciences of Innopolis University, responsible for establishing a new educational program majoring in Technological Entrepreneurship for students, invites applications for teaching positions. <p><br /></p><p>Innopolis University is opening a new educational program for students (3rd and 4th-year students) of Bachelor in Computer Sciences (BCS) who are interested in the entrepreneurship career. The start of the program is scheduled for September 2021. We are looking for a candidate for a part-time position. </p><p>We are looking for a fellow entrepreneur who is willing to share his/her experience and knowledge with students planning to create their start-ups.</p><p><br /></p><p><span style="font-weight: bold;">POSITION </span></p><p><span style="font-weight: bold; color: rgb(67, 160, 71);">Senior Instructor for the &quot;Business development, Sales and Marketing&quot; course</span></p><p><br /></p><p>The responsibilities include: </p><p>•	To teach an academic course that develops sales, marketing, and business development skills for students (1 semester, 20 lectures, 40 hours). </p><p>•	To watch the progress of students; to be not only a lecturer but also an active mentor. </p><p>•	To participate in the decision-making process on the structure of the program &quot;Technological Entrepreneurship.&quot; </p><p>•	To support the development of the student community in start-ups at Innopolis University by providing advice, contacts, openness, attending events, support in research or business tasks. </p><p><br /></p><p><span style="font-weight: bold;">QUALIFICATIONS AND REQUIREMENTS </span></p><p>•	You are a technology entrepreneur (you have experience launching your company / several ones and managing employees). </p><p>•	Your background is technical (your education is related to computer science, mathematics, physics, and technology). </p><p>•	Your core competencies in business are sales, networking, business development, marketing, unit economics, and again sales. </p><p>•	You are enthusiastic about the idea of developing projects related to the city and Innopolis University. </p><p>•	You have teaching experience (any - commercial or academic) and you love working with students.</p><p>•	You are ready for business trips to Innopolis to present the course material (lecturing online is possible, but we believe that the full-time presence of the teacher/mentor increases the quality of the students&#039; education). </p><p>•	You have your prime job and teaching is a source of inspiration for you. </p><p>•	You are familiar with current teaching methods: mixed learning (online + offline), flipped classrooms, interactive learning tools. </p><p>•	Priority for candidates with a scientific degree. </p><p><br /></p><p><span style="font-weight: bold;">COMPENSATION AND BENEFITS </span></p><p>•	Determined by the hourly rate and the workload of the instructor. </p><p>•	Part-time work (labor contract, 56 paid vacation days, voluntary medical insurance, tax benefits for non-residents of the Russian Federation) OR project employment by contract. </p><p><br /></p><p>The application should contain the following documents: CV, a teaching statement, a profile of your company, and be sent to faculty@innopolis.ru.
+</p></div>
+            </div></div>
+        <div class="faq-call-to-action"><p class="faq-call-to-action__text">Candidates should email a full application package as PDF files to faculty@innopolis.ru: cover letter, CV (with Scopus and Google Scholar profiles links, links for the videos of public talks or lectures, if any),  research statement and teaching statement, scans of BS, MS, PhD, Habilitation certificates along with the transcripts. Additionally, they should arrange to have three reference letters sent by email to the same address.<br /></p><p class="faq-call-to-action__text"><br /></p><p class="faq-call-to-action__text"><br /></p><p class="faq-call-to-action__text"><br /></p><p class="faq-call-to-action__text"><br /></p><p class="faq-call-to-action__text"><br /></p></div>
+    </div>
+</div></div><div id="block1252" class="block-wrapper block-career-send-resume"><a id="career-feedback__form"></a>
+<div class="career-feedback__form-container career-vacancies g-mt-0">
+    <div class="career-feedback__form-wrap">
+        <form class="career-feedback__form" id="career-feedback__form" action="" method="POST" data-english="Y">
+    <input type="hidden" name="sessid" id="sessid" value="9d60174f00126b741bbe031b0f581dcb" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="action" value="send_resume">
+    <p class="career-feedback__form-title">
+                    Please submit your faculty job application pack via this form.
+            </p>
+    <input name="position" type="text" placeholder="Желаемая позиция" class="career-feedback__form-position" id="feedback-posistion-input" />
+    <input name="surname" type="text" placeholder="Фамилия" class="career-feedback__form-surname" id="feedback-lastName-input" />
+    <input name="name" type="text" placeholder="Имя" class="career-feedback__form-name" id="feedback-name-input" />
+    <input name="phone" type="text" placeholder="Контактный телефон" class="career-feedback__form-phone" id="feedback-phone-input" style="display:none" />
+    <input name="email" type="email" placeholder="E-mail" class="career-feedback__form-mail" id="feedback-email-input" />
+    <div class="career-feedback__form-checkbox-wrap">
+        <label class="career-feedback__form-checkbox-label">
+            <input name="checkbox" type="checkbox" class="career-feedback__form-checkbox" id="feedback-checkbox-input" />
+            <p class="career-feedback__form-checkbox-text">
+                                    I agree with the processing of <a target="_blank" href="/public/files/career_personal_data.docx">personal data</a>
+                            </p>
+        </label>
+
+    </div>
+    <div class="files__wrap">
+        <label for="files" class="career-feedback__form-input-file">
+                            Attach file
+                    </label>
+        <input name='file' id="files" style="display: none;" type="file" multiple />
+        <div class="files__results" style="display: none;">
+        </div>
+    </div>
+
+    <button type="submit" class="career__btn-black">
+                    Submit
+                <i class="icon-ic_arrow"></i>
+    </button>
+</form>    </div>
+</div></div><div id="block1396" class="block-wrapper block-career-page-blue-line-2"><div class="two-links">
+    <div class="two-links__wrap container">
+        <div class="two-links__block two-links__block_left">
+            <a href="https://career.innopolis.university/en/corporate-life/" class="two-links__title icon-ic_arrow_right" target="_self">Corporate life</a>
+            <div class="two-links__subtitle">Opportunities for self-realization</div>
+        </div>
+        <div class="two-links__block two-links__block_right">
+            <a href="https://career.innopolis.university/en/relocation/" class="two-links__title icon-ic_arrow_right" target="_self">Relocation</a>
+            <div class="two-links__subtitle">Organization of moving to Innopolis</div>
+        </div>
+    </div>
+</div></div></div> 
+							<div class="landing-footer"><div id="block956" class="block-wrapper block-footer-default"><div class="footer-container">
+    <div class="footer-top-wrap">
+        <div class="container">
+            <a href="https://university.innopolis.ru/en/news/" class="footer-top-link-dashed" target="_self">Media</a>
+            <div class="footer-top-link-list "><div class="footer-top-link-list__item">
+                    <a href="https://www.facebook.com/InnopolisU" class="footer-top-link" target="_blank" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">VK</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.instagram.com/innopolisu/" class="footer-top-link" target="_blank">Instagram</a>
+                </div></div>
+        </div>
+    </div>
+    <div class="footer-bottom-wrap">
+        <div class="container">
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
+                <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="https://apply.innopolis.ru/en/index.php" class="footer-bottom-link" target="_blank">Admission</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/cooperation/" class="footer-bottom-link" target="_blank">For Partners</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/about/" class="footer-bottom-link" target="_blank">About University</a></li><li class="footer-bottom-link__list-item"><a href="https://career.innopolis.university/en/" class="footer-bottom-link" target="_blank">Careers</a></li></ul>
+            </div>
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
+                <span class="footer-bottom-link__list-title">Contact Us</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203-92-53</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">university@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">1, Universitetskaya Str., Innopolis, 420500, Russia</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://panoroo.com/virtual-tours/NvQZM6B2" class="footer-bottom-link" target="_blank">Virtual tour</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://innopolis.university/en/contacts/" class="footer-bottom-link" target="_blank">More contacts</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
+                <span class="footer-bottom-link__list-title">For Press &amp; Media</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203 92 53 доб.117</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">pr@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/news/" class="footer-bottom-link" target="_blank">News</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/events/" class="footer-bottom-link" target="_blank">Events</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">Media</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">
+                <span class="footer-bottom-link__list-title">Useful Links</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="http://www.minsvyaz.ru/en/" class="footer-bottom-link" target="_blank">Ministry of Telecom and Mass Communications of the Russian Federation</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="http://минобрнауки.рф/" class="footer-bottom-link" target="_blank">Ministry of Science and Education of the Russian Federation</a>
+                    </li></ul>
+            </div>
+        </div>
+    </div>
+</div></div></div>
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+    <i class="icon-ic_arrow"></i>
+</button>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+        <button class="cookie-popup__close icon-ic_close"></button>
+        <h2 class="cookie-popup__title">We use cookies</h2>
+        <p class="cookie-popup__subtitle">
+            This website uses cookies to ensure you get best experience on our website. By continuing to use this site, you agree to this cookie usage. You can learn more in the 
+            <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf" class="cookie-popup__link">privacy policy</a>.        </p>
+        <button class="cookie-popup__button">
+            Got it!        </button>
+
+    </div>
+</section>
+</body>
+
+</html>

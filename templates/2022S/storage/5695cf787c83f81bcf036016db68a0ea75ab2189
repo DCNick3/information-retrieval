@@ -1,0 +1,773 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m, e, t, r, i, k, a) {
+            m[i] = m[i] || function() {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(61110718, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/61110718" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161122461-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161122461-1');
+    </script>
+    <title>
+        Teaching Excellence Center    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.min.css?14568470452854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/kernel_landing_assets_f896e1e013de6249504a587d296cf997/kernel_landing_assets_f896e1e013de6249504a587d296cf997_v1.css?16425066593440" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/page_d118ff48322436c04c9ad613cdbcc6b9/page_d118ff48322436c04c9ad613cdbcc6b9_v1.css?164250665937177" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066511359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582878014247888"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s8','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643014073','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'72b958c679c8e4ca7565236567da2a10'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/kernel_main/kernel_main_v1.js?1642569869142325"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/kernel_landing_assets_f896e1e013de6249504a587d296cf997/kernel_landing_assets_f896e1e013de6249504a587d296cf997_v1.js?1642506659288270"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/components/university/contacts.form/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="robots" content="all" />
+<script src=' https://www.google.com/recaptcha/api.js '></script>
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'You found an error in the text',
+	'footer':'<b>Send error message to the author?</b><br/><span style="font-size:10px;color:#7d7d7d">(your browser will remain on the same page)</span>',
+	'comment':'Comment to author (optional)',
+	'TitleForm':'The error message',
+	'ButtonSend':'Send',
+	'LongText':'You have selected too much text.',
+	'LongText2':'Please try again.',
+	'text_ok':'Message sent.',
+	'text_ok2':'Thank you for your attention!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066511076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/page_c9f2ccd2060ea2b7a85ed23e6f66cab7/page_c9f2ccd2060ea2b7a85ed23e6f66cab7_v1.js?16425066664196"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="Teaching Excellence Center" /><meta property="og:type" content="website" /><meta property="twitter:title" content="Teaching Excellence Center" /><meta property="twitter:type" content="website" /> <meta property="og:image" content="/bitrix/images/landing/nopreview.jpg" /><meta property="twitter:image" content="/bitrix/images/landing/nopreview.jpg" /> <meta name="og:url" content="https://innopolis.university/en/teachingexcellencecenter/" />
+<link rel="canonical" href="https://innopolis.university/en/teachingexcellencecenter/"/><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/16_16_2/Frame_190.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/32_32_2/Frame_190.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/96_96_2/Frame_190.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/120_120_2/Frame_190.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/180_180_2/Frame_190.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/152_152_2/Frame_190.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/167_167_2/Frame_190.png" sizes="167x167"></head>
+<body class="black-menu"><div class="landing-header"><div id="block5014" class="block-wrapper block-university-header-default">
+<div class="uni-nav__wrap" style="top: 0px">
+        <div class="uni-nav__black-line"></div>
+    <div class="container">
+        <a href="https://innopolis.university/en/" class="uni-logo" target="_self">
+            <i class="icon-ic_logo"></i>
+        </a>
+        <div class="nav__links-wrap">
+            <div class="footer-container">
+                <div class="footer-top-wrap">
+                    <div class="container">
+                        <a href="" class="footer-top-link-dashed">Все медиа</a>
+                        <div class="footer-top-link-list "><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Facebook</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Вконтакте</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Youtube</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Twitter</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Instagram</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">habr</a></div></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="pre-nav__links">
+                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://apply.innopolis.university/en">Applicants</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://corporate.innopolis.university/en">Business</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://media.innopolis.university/en">Media</a></li>                <li class="pre-nav__links-item desctop-link">
+                    <a href="https://innopolis.university/lk/" class="pre-nav__link personal__account personal__account-lk-link">
+                        Personal account                    </a>
+                </li>
+            </ul>
+
+            <ul class="nav__links">
+                                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            University                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/about/" class="sub-nav__links-item-link" > About <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/board/" class="sub-nav__links-item-link" > Supervisory board <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team/" class="sub-nav__links-item-link" > University team <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/" >Organizational structure</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/education-academics/" >Educational and research departments</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/techcenters/" >Technological centers</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/faculty/" class="sub-nav__links-item-link" > Academic staff <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/faculty/" >Academic staff</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/en/job/" >Faculty positions</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://career.innopolis.university/en/" class="sub-nav__links-item-link" > Careers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/campus" class="sub-nav__links-item-link" > Campus <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/contacts/" class="sub-nav__links-item-link" > Contacts <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Education                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/" class="sub-nav__links-item-link" > International applicants <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/bachelor/" class="sub-nav__links-item-link" > Bachelor's program <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/CE/" >Computer Science</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/DS-AI/" >Data Science and Artificial Intelligence</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/master/" class="sub-nav__links-item-link" > Master's programs <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/datascience/" >Data Science and Artificial Intelligence</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/securityandnetworkengineering/" >Security and Network Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/development/" >Software Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/robotics/" >Robotics and Computer Vision</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/technological-entrepreneurship/" >Technological Entrepreneurship</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/postgraduate-study/" class="sub-nav__links-item-link" > Postgraduate study <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/stud-life/" class="sub-nav__links-item-link" > Student life <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/international-relations-office/" class="sub-nav__links-item-link" > International relations office <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/incomingstudents/" > Incoming Students</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/outgoingstudents/" >Outgoing Students</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/teachingexcellencecenter/" class="sub-nav__links-item-link" > Teaching Excellence Center <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/writinghubhome/" class="sub-nav__links-item-link" > Writing Hub <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    IU Writing Hub &#40;WH&#41; offers editing and proofreading service for IU faculty, researchers and students.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://alumni.innopolis.university/" class="sub-nav__links-item-link" > ALUMNI <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Education </h3>
+<p class="sub-nav__links__result-stub-text">
+	 World-class IT education in Russia in English
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Research                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/research/" class="sub-nav__links-item-link" > Scientific Research activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Software Development and Engineering <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-operating-systems/" >Lab of Operating Systems, programming languages and compilers</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-software-service-engineering/" >Lab of Software and Service Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-industrializing-software/" >Lab of Industrializing Software Production</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Data Science and Artificial Intelligence <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-bioinformatics/" >Lab of Data Analysis and bioinformatics</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-game-development/" >Lab of Artificial Intelligence in Game Development</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-oil-gas/" >Lab of Data Analysis and Machine Learning in the oil and gas industry</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/mlkr/" >Lab of Machine Learning and Knowledge Representation</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Information security and cyberphysical systems <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-cyberphysical-systems/" >Lab of Cyber-Physical Systems</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-networks-blockchain/" >Networks and Blockchain Lab  </a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Robotics and computer vision  <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-robotics/" >Laboratory of Intelligent Robotics Systems</a>
+    </li>
+            </ul>
+        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Science </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Innopolis University has 15 laboratories and 7 research centers, which conduct research in the field of artificial intelligence, robotics, big data, software development, information security
+</p>            </div>
+        </div>
+        </div>
+        </li>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Innovation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/activity/" class="sub-nav__links-item-link" >  Project-based activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team-structure/techcenters/" class="sub-nav__links-item-link" > Technological centers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/podderzhka-innovacionnoj-deyatelnosti/" class="sub-nav__links-item-link" > Supporting Innovative Activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/startupstudio/" class="sub-nav__links-item-link" > Startup studio <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                                        <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                            <div class="sub-nav__links__result-stub">
+                                Development and support of student technology startups by creating a successful startup community; assistance in providing favorable conditions from external partners for investment and development of ideas.                            </div>
+                        </ul>
+                            </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innovation </h3>
+<p class="sub-nav__links__result-stub-text">
+	 The university’s project-based activities are aimed at implementing grant-based and commercial projects, as well as at enhancing the availability of education in IT areas.
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Cooperation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/internationalpartners/" class="sub-nav__links-item-link" > International partners <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/organizatsiya-i-provedenie-meropriyatiy/" class="sub-nav__links-item-link" > Event management <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                    <li class="nav__links-btns">
+                    <a class="nav__links-btns_optic" href="/en/teachingexcellencecenter/?special=Y" itemprop="copy" title="Версия для слабовидящих"><i class="icon-ic_optic"></i></a>                    <a class="nav__links-btns_search" href="/search/" target="_self"><i class="icon-ic_search"></i></a>
+                    <a class='nav__links-btns_ru' href='/teachingexcellencecenter/'><i class="icon-ic_lang_ru"></i></a>                </li>
+
+            </ul>
+
+            <div class="mobile-personal-area">
+                <a href="https://innopolis.university/lk/" class="mobile-personal-area-link">
+                    Personal account                </a>
+                <div class="mobile-personal-area-icons">
+                    <a href="https://innopolis.university/search/" class="mobile-personal-area-icons-link"><i class="icon-ic_search"></i></a>
+
+                    <a class='mobile-personal-area-icons-link' href='/teachingexcellencecenter/'><i class="icon-ic_lang_ru"></i></a>                </div>
+            </div>
+        </div>
+        <div class="menu-mobile__btn">
+            <i class="icon-menu"></i>
+            <i class="icon-ic_close"></i>
+        </div>
+    </div>
+</div></div></div> 
+								<div class="landing-main"><div id="block4145" class="block-wrapper block-top-block-third-line"><div class="main-page__main-viewport publications g-bg-gray-dark-v1 g-pb-150 g-pt-auto g-mt-155 g-pl-170 g-pr-auto" style="background-image: url('/upload/landing/096/image_5@1x.jpeg');" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-fileid="24826" data-fileid2x="24827">
+    <div class="main-page__main-viewport-titles container ">
+        <a class="viewport__subtitle" href="https://innopolis.university/en/#block1133" target="_self">
+            <h2 class="viewport__subtitle-text"><span style="color: rgb(245, 245, 245);">Education</span></h2>
+        </a>
+        <h1 class="viewport__title"><span style="color: rgb(97, 97, 97);">Te</span><span style="color: rgb(245, 245, 245);">aching Excellence Center</span></h1>
+        <div class="viewport__call"> </div>
+    </div>
+
+</div></div><div id="block4147" class="block-wrapper block-separator-uni-master-software"><section class="mainviewport-after-block uni-master-software g-bg-white">
+    <div class="mainviewport-after-block__wrap container">
+        <h2 class="mainviewport-after-block__title">Center&#039;s Mission</h2>
+        <div class="mainviewport-after-block__main"><div class="mainviewport-after-block__main-subtitle">
+                <div class="landing-node-text">Teaching Excellence Center at Innopolis University functions as a community of practice and aims to contribute to professional development of teaching staff through synchronous and a-synchronous scheduled and on-demand trainings and mentoring.</div>
+            </div><div class="mainviewport-after-block__main-subtitle">
+                <div class="landing-node-text"> </div>
+            </div></div>
+    </div>
+</section></div><div id="block4146" class="block-wrapper block-separator-three-buttons"><div class="three-black-arrow-blocks bg-light-blue2 g-bg-white">
+    <a href="https://innopolis.university/en/teachingexcellencecenter/fortas/" class="three-black-arrow-blocks__item icon-ic_arrow_right-small" target="_self">For TAs</a>
+    <a href="https://innopolis.university/en/teachingexcellencecenter/forfaculty/" class="three-black-arrow-blocks__item icon-ic_arrow_right-small" target="_self">For Faculty</a>
+    <a href="https://innopolis.university/en/teachingexcellencecenter/trainings/" class="three-black-arrow-blocks__item icon-ic_arrow_right-small" target="_self">Trainings</a>
+</div></div><div id="block4502" class="block-wrapper block-business-info-tabs"><div class="important-topics-for-entrants busines-main g-pl-auto g-pr-auto g-mt-auto l-d-xs-none g-pt-auto g-pb-auto">
+    <div class="important-topics-for-entrants-tabs">
+        <!-- 1-->
+        <a class="important-topics-for-entrants-tab" id="rd-business"><span class="important-topics-for-entrants-tab__text">TEACHING EXCELLENCE FROM STUDENTS&#039; PERSEPCTIVE</span><i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result important-business__result" id="rd-business__result" style="display: none;">
+
+
+
+            <h3 class="important-business__title">From students&#039; perspective</h3>
+            <div class="important-business__block">
+                <strong class="important-business__number"> </strong>
+                <div class="important-business__block-main">
+                    <h4 class="important-business__subtitle"> </h4>
+                    <p class="important-business__paragraph"><p><br /></p>— Cooperation with students <p>— Understanding the topic well enough to be able to explain it in an engaging manner, understanding the audience and being able to adjust to its demands within reason </p><p>— Majority of students attend lectures and labs mid-semester </p><p>— When you do not notice how time goes when sitting in the class </p><p><br /></p><p>      * excellent knowledge of the subject, including fr om experience, </p><p>      * public speaking and knowledge of pedagogical methods when working with adults </p><p>      *  adequate perception of reality, readiness for dialogue with students and openness to feedback Wanting to receive feedback and work on it. Continuous improvement. </p><p><br /></p><p> — An efficient knowledge transfer from experienced one to novice.  </p></p>
+                </div>
+            </div>
+
+
+            <div class="important-business__block">
+                <strong class="important-business__number"> </strong>
+                <div class="important-business__block-main">
+                    <h4 class="important-business__subtitle"> </h4>
+                    <p class="important-business__paragraph"><p><br /></p></p>
+                </div>
+            </div>
+
+
+            <div class="important-business__block">
+                <strong class="important-business__number"> </strong>
+                <div class="important-business__block-main">
+                    <h4 class="important-business__subtitle"> </h4>
+                    <ul>    <p></p><p></p></ul>
+                </div>
+            </div>
+            <a href="https://innopolis.university/en/teachingexcellencecenter/#block4504" class="btn-pre btn-green btn-border" target="_self">Learn more</a>
+        </div>
+
+
+
+        <!-- 2-->
+        <a class="important-topics-for-entrants-tab" id="corporate-education"><span class="important-topics-for-entrants-tab__text">YET ANOTHER STUDENTS&#039; PERSPECTIVE OF TEACHING EXCELLENCE</span><i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result important-business__result" id="corporate-education__result" style="display: none;">
+
+
+
+            <h3 class="important-business__title">Yet another students&#039; perspective</h3>
+            <div class="important-business__block">
+                <strong class="important-business__number"> </strong>
+                <div class="important-business__block-main">
+                    <h4 class="important-business__subtitle"> </h4>
+                    <p class="important-business__paragraph"><p><span style="font-weight: bold;"><br /></span></p><p><span style="font-weight: bold;">Teaching excellence is a collection of different characteristics of a teacher that include, but are not limited to:</span></p><p><br /></p><p>— ability to represent a difficult and complex concept as a well-structured series of simple to understand concepts </p><p>— ability to present a simple concept in an intuitive manner that allows anyone with little prior knowledge to understand it </p><p>— ability to construct engaging presentations, wh ere &quot;engaging&quot; includes, but is not limited to: </p><p><br /></p><p>      1. Presenting sufficient amount of information (not too much, not too little, usually defined empirically) </p><p>      2. Presenting information in a well-structured manner (structure should allow anyone to start following presentation when one small piece of information ends and another starts, if one concept requires another then they should be presented in order if the situation allows so) </p><p>      3. Tone of voice should not be monotonous, it should follow the structure (otherwise for students it is really hard to follow) </p><p>      4. Presentation should engage students in some way, be it some interactive parts like asking questions or humor, but presentation should never force the interaction </p><p>      5. Presentation should include summaries that allow following students to see the big picture and other students to get onboard</p><p></p></p>
+                </div>
+            </div>
+
+
+            <div class="important-business__block">
+                <strong class="important-business__number"> </strong>
+                <div class="important-business__block-main">
+                    <h4 class="important-business__subtitle"> </h4>
+                    <p class="important-business__paragraph"><p><br /></p></p>
+                </div>
+            </div>
+
+
+            <div class="important-business__block">
+                <strong class="important-business__number"> </strong>
+                <div class="important-business__block-main">
+                    <h4 class="important-business__subtitle"> </h4>
+                    <p class="important-business__paragraph"> </p>
+                </div>
+            </div>
+            <a href="https://innopolis.university/en/teachingexcellencecenter/#block4504" class="btn-pre btn-green btn-border" target="_self">Learn more</a>
+
+
+        </div>
+
+        <!-- 3 -->
+        <a class="important-topics-for-entrants-tab" id="staff-preparation"><span class="important-topics-for-entrants-tab__text">YET ANOTHER STUDENTS&#039; PERSPECTIVE OF TEACHING EXCELLENCE</span><i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result important-business__result" id="staff-preparation__result" style="display: none;">
+
+
+
+            <h3 class="important-business__title">Yet another students&#039; perspective</h3>
+
+            <div class="important-business__block">
+
+
+                <ul><p><br /></p><p>— ability to present concepts in a manner that is the closest to real life implementation of these concepts </p><p>— ability to select concepts with sufficient amount of new information to present </p><p>— having sufficiently good knowledge of the material so as not to misrepresent it and to answer most of the student questions </p><p>— ability to collect and process student feedback in order to improve material and its delivery </p><p>— ability to construct exams that check only material that was covered during the course, but also that allow anyone with prior real-life experience with the concepts covered to pass them. </p><p><br /></p><p><span style="font-weight: bold;">The exams should also follow some other rules, the following is not an exhaustive list</span>: </p><p><br /></p><p>      1. Exams should include tasks that have not more than 2 extra (not covered) steps. All other steps should already be familiar to students even if they were presented in different tasks </p><p>      2. Tasks should be gradable granularly on some scale so that for one relatively small mistake student would not get 0 for the task </p><p>      3. Tasks should check understanding of concepts or relevant mechanical skills. Examples of irrelevant mechanical skills may include: algebraic calculations on Operation Systems, solving quadratic equations on Control Theory etc. </p><p>      4. Tasks should be checkable using the objective criteria, but still have some, but relatively little, room for subjectivity. Appeal should be a normal part of exam process. </p><p><br /></p><p>— being a good human being and supporting students in and out of class (understanding that students are all also humans and they may have problems or some kind of trouble in life, being able to support these students in some way.   <br /></p></ul>
+            </div>
+
+            <a href="https://innopolis.university/en/teachingexcellencecenter/#block4504" class="btn-pre btn-green btn-border" target="_self">Learn more</a>
+
+
+        </div>
+
+        <!-- 4 -->
+        <a class="important-topics-for-entrants-tab" id="strategic-missions"><span class="important-topics-for-entrants-tab__text">TEACHING EXCELLENCE FROM TAS&#039; PERSPECTIVE</span><i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result important-business__result" id="strategic-missions__result" style="display: none;">
+
+            <h3 class="important-business__title">From TAs&#039; perspective</h3>
+
+            <div class="important-business__block">
+
+
+                <ul>       An excellent teacher knows and easily admits the scope of their competence (e.g. says when he does not know something instead of giving a personal opinion as expertise) and is able to understand and match student&#039;s needs and capabilities, delivering a subject in a way that engages the student into the learning process, especially when it means the teacher has to learn and adjust. <p>      </p><p>      Knowing your subject, knowing your students, and knowing what you want to achieve with them. Based on this understanding implement and improve iteratively.  </p></ul>
+            </div>
+
+            <a href="https://innopolis.university/en/teachingexcellencecenter/#block4504" class="btn-pre btn-green btn-border" target="_self">Learn more</a>
+
+
+        </div>
+
+        <!-- 5 -->
+        <a class="important-topics-for-entrants-tab" id="tech-audit"><span class="important-topics-for-entrants-tab__text">TEACHING EXCELLENCE FROM FACULTY PERSPECTIVE</span><i class="icon-ic_arrow_right-small"></i></a>
+
+        <div class="important-topics-for-entrants-tab-result important-business__result" id="tech-audit__result" style="display: none;">
+            <h3 class="important-business__title">From faculty perspective</h3>
+
+            <div class="important-business__block">
+                <ul>      — Doing our best to achieve the highest educational transformation in our students. <p>      — Teaching excellence - when the teacher (especially TA) is a real expert in the subject and not a silly doll who was randomly assigned to this course.</p><p>      — Expertise in the technical subject including the state of the art in research and industry practices. High engagement in best possible delivery of the material. Constant improvement and innovation in teaching practices. Adaptation of the material based on the audience level. On the fly adaptation of the material based on the audience interest in particular subjects. </p><p>     — A process that elevates students to a level where they learn deeply and remarkably because of teacher attributes An ability to communicate a respect to a topic you are teaching to 95% of enrolled students, and engage with the content of your course at least 10% of enrolled students. </p><p>      — To achieve the ILOs defined at the course level and at the lecture level in a timely manner where the learning style of the student plays a pivotal role in the execution of teaching duties. </p><p>      — A focused and strucutred educational and motivational process able to enact the Rosenthal effect and improving knowledge and performance in the field under consideration, at the same time supporting the psychological, emotional, cultural and spiritual growth of the targets of this effort. </p><p>      — Being passionate about the subject and being able to transfer this passion to students </p><p>      — An ability to deliver an engaging, informative course without compromising the required depth. </p></ul>
+            </div>
+
+            <a href="https://innopolis.university/en/teachingexcellencecenter/#block4504" class="btn-pre btn-green btn-border" target="_self">Learn more</a>
+        </div>
+
+        <!-- 6 -->
+        <a class="important-topics-for-entrants-tab" id="events-organization"><span class="important-topics-for-entrants-tab__text">YET ANOTHER FACULTY PERSPECTIVE OF TEACHING EXCELLENCE</span><i class="icon-ic_arrow_right-small"></i></a>
+        <div class="important-topics-for-entrants-tab-result important-business__result" id="events-organization__result" style="display: none;">
+            <h3 class="important-business__title">Yet another faculty perspective</h3>
+
+            <div class="important-business__block">
+                <ul><span style="font-weight: bold;">Teaching excellence should penetrate all the levels of course organization: </span><p><br /></p><p>      <span style="font-weight: bold;">1. Preparation</span>: an excellent instructor must dedicate a significant amount of their time here, even if the course is not new, seeking for new, more engaging ways to teach the class, exploring new formats and paradigms, changing assignments and in-class problems to keep the students on their toes (reasonably), while maintaining material complexity at a manageable level. Implementing concepts taught at the ISW, designing class with different levels of learning (Bloom&#039;s taxonomy, etc.) in mind is an art, and an excellent teacher should be a master of this art. </p><p>    <span style="font-weight: bold;">  2. Conduct:</span> this is one of the more important parts of the lecture, since poor material delivery may nullify excellent preparation, demotivate the students to attend the class and basically cancel out any potential benefits of the course, with the students reverting to online learning instead. The delivery must be engaging, the material interactive where possible, ideally with examples linking EVERY lecture with real-life cases or demonstrating how each lecture slots into the bigger picture of the course and IU curriculum as a whole, as well as serving as an important prerequisite for future classes. </p><p>     <span style="font-weight: bold;"> 3. Feedback and knowledge assessment: </span>the professor must listen and process student feedback, in a TIMELY manner. Assignments must be graded and the scores announced in as short time period as possible so that the students can quickly adapt their learning, which is especially true for the block system. Graded assignments must be designed in such a way so that they give a reasonable challenge to the students, potentially delving a bit deeper into material or requiring some self-study if the deadlines are adequate. As a good option to keep everyone engaged, there might be bonus assignments of higher complexity so that the best students feel engaged as well. </p><p>    <span style="font-weight: bold;">  4. Constant quality improvement:</span> an excellent teacher must always work on their courses, adding new material and research results, following up on students&#039; feedback and professor&#039;s own reflection after each course, and integrating new teaching techniques and approaches.</p></ul>
+            </div>
+
+            <a href="https://innopolis.university/en/teachingexcellencecenter/#block4504" class="btn-pre btn-green btn-border" target="_self">Learn more</a>
+        </div>
+
+    </div>
+    <div class="important-topics-for-entrants-tabs-result">
+        <div class="important-topics-for-entrants-tabs-result-stub" style="" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></div>
+        <!--  -->
+    </div>
+</div></div><div id="block4176" class="block-wrapper block-faq-white-background"><section class="faq-container international-relations g-bg-gray-dark-v1 g-mt-auto g-pt-auto g-pb-auto l-d-lg-none l-d-md-none">
+    <div class="container">
+        <h2 class="title-with-sub"><span style="color: rgb(76, 175, 80);">How do we understand teaching excellence?</span></h2>
+        <div class="faq-container__subtitle"> </div>
+        <div class="expand-panels"><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-text">From students&#039; perspective</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse" style="display: none;"><p>— Cooperation with students </p><p><span style="font-size: 1rem;">— Understanding the topic well enough to be able to explain it in an engaging manner, understanding the audience and being able to adjust to its demands within reason </span></p><p><span style="font-size: 1rem;">— Majority of students attend lectures and labs mid-semester </span></p><p><span style="font-size: 1rem;">— When you do not notice how time goes when sitting in the class </span></p><p><span style="font-size: 1rem;">— An efficient knowledge transfer from experienced one to novice. </span></p><p><span style="font-size: 1rem;font-weight: bold;"><br /></span></p><p><span style="font-size: 1rem;font-weight: bold;">     Teaching excellence is a collection of different characteristics of a teacher that include, but are not limited to: </span></p><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;"> — ability to represent a difficult and complex concept as a well-structured series of simple to understand concepts </span></p><p><span style="font-size: 1rem;"> — ability to present a simple concept in an intuitive manner that allows anyone with little prior knowledge to understand it </span></p><p><span style="font-size: 1rem;"> — ability to construct engaging presentations
+— ability to present concepts in a manner that is the closest to real life implementation of these concepts </span></p><p><span style="font-size: 1rem;"> — ability to select concepts with sufficient amount of new information to present</span></p><p><span style="font-size: 1rem;">— having sufficiently good knowledge of the material so as not to misrepresent it and to answer most of the student questions </span></p><p><span style="font-size: 1rem;">— ability to collect and process student feedback in order to improve material and its delivery </span></p><p><span style="font-size: 1rem;">— ability to construct exams that check only material that was covered during the course, but also that allow anyone with prior real-life experience with the concepts covered to pass them. </span></p><p><span style="font-size: 1rem;"> — being a good human being and supporting students in and out of class (understanding that students are all also humans and they may have problems or some kind of trouble in life, being able to support these students in some way.</span></p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-text">From TAs&#039; perspective</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse">An excellent teacher knows and easily admits the scope of their competence (e.g. says when he does not know something instead of giving a personal opinion as expertise) and is able to understand and match student&#039;s needs and capabilities, delivering a subject in a way that engages the student into the learning process, especially when it means the teacher has to learn and adjust. <p><br /></p><p>Knowing your subject, knowing your students, and knowing what you want to achieve with them. Based on this understanding implement and improve iteratively.  </p></div>
+            </div><div class="expand-panel">
+                <a class="expand-panel__header collapsed">
+                    <span class="expand-panel__header-text">From faculty perspective</span>
+                    <i class="faq-close-icon"></i>
+                </a>
+                <div class="expand-panel__body collapse" style="display: none;">— Doing our best to achieve the highest educational transformation in our students. <p>— Teaching excellence - when the teacher (especially TA) is a real expert in the subject and not a silly doll who was randomly assigned to this course. </p><p>— Expertise in the technical subject including the state of the art in research and industry practices. High engagement in best possible delivery of the material. Constant improvement and innovation in teaching practices. Adaptation of the material based on the audience level. On the fly adaptation of the material based on the audience interest in particular subjects. </p><p>— A process that elevates students to a level where they learn deeply and remarkably because of teacher attributes An ability to communicate a respect to a topic you are teaching to 95% of enrolled students, and engage with the content of your course at least 10% of enrolled students. </p><p>— To achieve the ILOs defined at the course level and at the lecture level in a timely manner where the learning style of the student plays a pivotal role in the execution of teaching duties. </p><p>— A focused and strucutred educational and motivational process able to enact the Rosenthal effect and improving knowledge and performance in the field under consideration, at the same time supporting the psychological, emotional, cultural and spiritual growth of the targets of this effort. </p><p>— Being passionate about the subject and being able to transfer this passion to students </p><p>— An ability to deliver an engaging, informative course without compromising the required depth. </p><p><br /></p><p><span style="font-weight: bold;"> Teaching excellence should penetrate all the levels of course organization: </span></p><p><br /></p><p>      1. Preparation: an excellent instructor must dedicate a significant amount of their time here, even if the course is not new, seeking for new, more engaging ways to teach the class, exploring new formats and paradigms, changing assignments and in-class problems to keep the students on their toes (reasonably), while maintaining material complexity at a manageable level. Implementing concepts taught at the ISW, designing class with different levels of learning (Bloom&#039;s taxonomy, etc.) in mind is an art, and an excellent teacher should be a master of this art. </p><p>      2. Conduct: this is one of the more important parts of the lecture, since poor material delivery may nullify excellent preparation, demotivate the students to attend the class and basically cancel out any potential benefits of the course, with the students reverting to online learning instead. The delivery must be engaging, the material interactive where possible, ideally with examples linking EVERY lecture with real-life cases or demonstrating how each lecture slots into the bigger picture of the course and IU curriculum as a whole, as well as serving as an important prerequisite for future classes. </p><p>      3. Feedback and knowledge assessment: the professor must listen and process student feedback, in a TIMELY manner. Assignments must be graded and the scores announced in as short time period as possible so that the students can quickly adapt their learning, which is especially true for the block system. Graded assignments must be designed in such a way so that they give a reasonable challenge to the students, potentially delving a bit deeper into material or requiring some self-study if the deadlines are adequate. As a good option to keep everyone engaged, there might be bonus assignments of higher complexity so that the best students feel engaged as well. </p><p>      4. Constant quality improvement: an excellent teacher must always work on their courses, adding new material and research results, following up on students&#039; feedback and professor&#039;s own reflection after each course, and integrating new teaching techniques and approaches.<br /></p></div>
+            </div></div>
+    </div>
+</section></div><div id="block4148" class="block-wrapper block-infoblocks-two-column-reverse"><div class="events__container international-relations g-pt-auto g-mt-minus-10 g-bg-white-opacity-0_9">
+    <div class="events__wrap">
+        <div class="events__event reverse flex-row-reverse">
+            <div class="events__event-img">
+                <img src="/upload/landing/76d/image_5_@1x.jpeg" alt="" srcset="/upload/landing/4e6/image_5_@2x.jpeg 2x" data-fileid="24840" data-fileid2x="24841" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="events__event-info events__event-info_container-padding-left">
+                <h2 class="events__event-info-title">Workshops For Teaching Assistants</h2>
+
+                <div class="events__event-info-text">
+                    <div class="events__event-info__subtitle"><p style="text-align: justify;">As a part of TA&#039;s professional development and to establish the connection between the faculty and junior staff, during the whole year we organize meetings, talks and workshops for IU TAs engaging the representatives of the Dean&#039;s office.</p><p style="text-align: justify;"><br /></p><p style="text-align: justify;">The aims of these lactivities are to identify the needs of the TAs and provide support from the faculty side. Any ideas and suggestions from TAs can be discussed at the regular Dean&#039;s Office meetings and University Academic Council and further  implemented in the university life. <br /></p></div>
+                    <div class="events__event-info__subtitle"><p style="text-align: justify;">For the talks and workshops, we invite speakers from IU faculty to share their experience and expertise in teaching, research and career progression with the junior staff.</p></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="events__event">
+            <div class="events__event-img">
+                <img src="/upload/landing/193/0BwETRT6NhYT5N3ZWZHJyWDI0Z0k@1x.png" alt="" srcset="/upload/landing/a87/0BwETRT6NhYT5N3ZWZHJyWDI0Z0k@2x.png 2x" data-fileid="24834" data-fileid2x="24835" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" />
+            </div>
+            <div class="events__event-info">
+                <h2 class="events__event-info-title">Instructional skills workshops</h2>
+
+                <div class="events__event-info-text">
+                    <div class="events__event-info__subtitle"><p style="text-align: justify;">The <span style="font-weight: bold; text-decoration-line: underline;"><a href="https://www.iswnetwork.ca" target="_self">Instructional Skills Workshops</a></span> (ISW) was founded in 1979 in British Colombia, Canada, to quickly give classroom instruction skills to Engineers who had never had teachers training.  The process is an intensive introduction to teaching in a higher educational setting and focuses on practical in-class skillsets and course delivery.</p><p style="text-align: justify;"> </p><p style="text-align: justify;">This process was brought over to Russia via Innopolis University in 2017 and has since been the critical training unit for Innopolis Faculty at all ranks. </p></div>
+                    <div class="events__event-info__subtitle"><p style="text-align: justify;">Innopolis University’s Trainers are the regional “local representatives” of the program for Russia. Our first faculty received their Trainer qualifications, from <span style="font-style: italic;">David Tickner</span>, a founding member of the process, in 2018 meaning that we are entirely self-sufficient in the program.</p></div>
+                    <a class="button__green" href="https://innopolis.university/en/teachingexcellencecenter/trainings/" target="_self">Read more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div><div id="block4504" class="block-wrapper block-university-contacts-en"><div class="contacts g-bg-white">
+    <div class="container">
+        <div class="contacts__wrap">
+            <div class="contacts__requisites">
+                <h2 class="contacts__title">Teaching Excellence Centre</h2>
+                <div class="contacts__who"> </div>
+                <div class="contacts__phone">Oksana Zhirosh</div>
+                <a href="mailto:o.zhirosh@innopolis.ru" class="contacts__email" target="_self">o.zhirosh@innopolis.ru</a>
+                <hr />
+                <div class="contacts__address"><p>Director of Institute of Humanities and Social Sciences<br /></p>502b room</div>
+            </div>
+            <input type="hidden" class="js-contants-email-to" value="o.zhirosh@innopolis.ru" />
+            <input type="hidden" class="js-contacts-title" value="Question about ISW" />
+            <input type="hidden" class="js-contacts-description" value="Question about ISW" />
+            <input type="hidden" class="js-analytics-event" value="Question about ISW" />
+            <form class="contacts__contact-us" id="contacts__form" action="" method="POST">
+    <input type="hidden" name="sessid" id="sessid" value="72b958c679c8e4ca7565236567da2a10" />    <input type="hidden" name="check_bot" value="101">
+    <input type="hidden" name="action" value="contact_with_us">
+    <input type="hidden" class="js-contants-email-to-input" name="email_to" value="">
+    <input type="hidden" name="from" value="https://innopolis.university/en/teachingexcellencecenter/">
+    <h3 class="contact-us__title">
+                    Write to us
+            </h3>
+    <p class="contacts-us__text">
+                    If you have any questions, leave your contacts and we will contact you
+            </p>
+    <input type="text" name="name" placeholder="First name" id="contacts__name">
+            <input type="text" name="email" placeholder="Email">
+    
+    <div class="career-feedback__form-checkbox-wrap">
+        <label class="career-feedback__form-checkbox-label">
+            <input name="checkbox" type="checkbox" class="career-feedback__form-checkbox">
+            <p class="career-feedback__form-checkbox-text">
+                                    I agree with the processing of <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf">personal data</a>
+                            </p>
+        </label>
+    </div>
+
+    <button type="submit" class="contacts__button" id="contacts__button">
+                    Submit
+            </button>
+</form>        </div>
+    </div>
+</div></div></div> 
+							<div class="landing-footer"><div id="block956" class="block-wrapper block-footer-default"><div class="footer-container">
+    <div class="footer-top-wrap">
+        <div class="container">
+            <a href="https://university.innopolis.ru/en/news/" class="footer-top-link-dashed" target="_self">Media</a>
+            <div class="footer-top-link-list "><div class="footer-top-link-list__item">
+                    <a href="https://www.facebook.com/InnopolisU" class="footer-top-link" target="_blank" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">VK</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.instagram.com/innopolisu/" class="footer-top-link" target="_blank">Instagram</a>
+                </div></div>
+        </div>
+    </div>
+    <div class="footer-bottom-wrap">
+        <div class="container">
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
+                <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="https://apply.innopolis.ru/en/index.php" class="footer-bottom-link" target="_blank">Admission</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/cooperation/" class="footer-bottom-link" target="_blank">For Partners</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/about/" class="footer-bottom-link" target="_blank">About University</a></li><li class="footer-bottom-link__list-item"><a href="https://career.innopolis.university/en/" class="footer-bottom-link" target="_blank">Careers</a></li></ul>
+            </div>
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
+                <span class="footer-bottom-link__list-title">Contact Us</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203-92-53</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">university@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">1, Universitetskaya Str., Innopolis, 420500, Russia</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://panoroo.com/virtual-tours/NvQZM6B2" class="footer-bottom-link" target="_blank">Virtual tour</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://innopolis.university/en/contacts/" class="footer-bottom-link" target="_blank">More contacts</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
+                <span class="footer-bottom-link__list-title">For Press &amp; Media</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203 92 53 доб.117</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">pr@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/news/" class="footer-bottom-link" target="_blank">News</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/events/" class="footer-bottom-link" target="_blank">Events</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">Media</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">
+                <span class="footer-bottom-link__list-title">Useful Links</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="http://www.minsvyaz.ru/en/" class="footer-bottom-link" target="_blank">Ministry of Telecom and Mass Communications of the Russian Federation</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="http://минобрнауки.рф/" class="footer-bottom-link" target="_blank">Ministry of Science and Education of the Russian Federation</a>
+                    </li></ul>
+            </div>
+        </div>
+    </div>
+</div></div></div>
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+    <i class="icon-ic_arrow"></i>
+</button>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+        <button class="cookie-popup__close icon-ic_close"></button>
+        <h2 class="cookie-popup__title">We use cookies</h2>
+        <p class="cookie-popup__subtitle">
+            This website uses cookies to ensure you get best experience on our website. By continuing to use this site, you agree to this cookie usage. You can learn more in the 
+            <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf" class="cookie-popup__link">privacy policy</a>.        </p>
+        <button class="cookie-popup__button">
+            Got it!        </button>
+
+    </div>
+</section>
+</body>
+
+</html>

@@ -1,0 +1,543 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Authorization</title>
+
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-W22QSMB');</script>
+
+<!-- End Google Tag Manager -->
+
+    <!--[if lt IE 9]>
+    <script src="/bitrix/templates/get-in-auth/js/ie/html5shiv/es5-shim.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/ie/html5shiv/html5shiv.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/ie/html5shiv/html5shiv-printshiv.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/ie/respond/respond.min.js"></script><![endif]-->
+    <script src="/bitrix/templates/get-in-auth/js/libs.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/jquery.validate.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/app.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.css?15513402303963" type="text/css" rel="stylesheet" />
+
+
+
+<link href="/bitrix/templates/get-in-auth/components/bitrix/system.auth.authorize/.default/style.css?150935611634" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/get-in-auth/components/bitrix/main.register/.default/style.css?148543593361" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/get-in-auth/components/bitrix/system.auth.forgotpasswd/.default/style.css?150935611643" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/get-in-auth/components/bitrix/system.auth.changepasswd/.default/style.css?150935611643" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1593178423544313"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s2','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643014706','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'738d3d201f82b3ae5ca4988770da405a'});</script>
+
+
+
+
+<script type="text/javascript" src="/bitrix/templates/get-in-auth/components/bitrix/main.register/.default/script.js?15893787131033"></script>
+<script type="text/javascript" src="/bitrix/templates/get-in-auth/components/bitrix/system.auth.authorize/.default/script.js?1510043077792"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "7e226904b958c3676b56b5d2836ab54e"]); _ba.push(["host", "apply.innopolis.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/bitrix/templates/get-in-auth/css/base.css">
+
+    <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=QPVKcIQpoQJHJKAdDtM0bTUDUx5yMC86Ei3FSVA8iKgiJsPZ8dKDhlexPWV3l1Faq8AW1pKN7RTYPNRh9UbVy2LofaVks1TK7QVejGzdeIQaMHcJPoQGq06FV7kxZNLDTjEK7Vw6B5kEQhPMC7bzJeyJ*9UI7VQMpIdRLEqDLXc-&pixel_id=1000009725';</script>
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W22QSMB"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+<header id="cnt-header" class="cnt-header-login">
+    <div class="cnt-header-navigation type-dash">
+        <div class="cnt-header-information type-dash">
+            <div class="container">
+                <div class="cnt-header-information_brand float-left">
+                    <a href="/" class="link-display-block"><img src="/bitrix/templates/get-in-auth/img/logo-2.png" alt="Университет Иннополис"></a>
+                </div>
+                <div class="cnt-header-information_cnt float-right type-login">
+                    <div class="mod-contacts inline-contacts display-inline-block-middle">
+                        <div class="mod-contacts_cnt float-left">
+                            <div class="mod-contacts_cnt_l float-left"><span aria-hidden="true" class="fa fa-phone"></span>
+                            </div>
+                            <div class="mod-contacts_cnt_r">+7 (843) 203-92-53 (ext. 191)</div>
+                        </div>
+                        <div class="mod-contacts_cnt float-left">
+                            <div class="mod-contacts_cnt_l float-left"><span aria-hidden="true" class="fa fa-envelope-alt"></span>
+                            </div>
+                            <div class="mod-contacts_cnt_r">admissions@innopolis.ru</div>
+                        </div>
+                    </div>
+                    <div class="mod-language display-inline-block-middle pos-relative dropdown">
+									<div id="dLanguageLabel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button" class="mod-language_cnt dropdown-toggle __event-dropdown-click">en <span aria-hidden="true" class="fa fa-angle-down"></span></div>
+							<ul aria-labelledby="dLanguageLabel" class="mod-dropdown-menu dropdown-menu">
+									<li><a href="/get-in/" title="Russian version">ru</a></li>
+																	<li><a href="/get-in/" title="dovuz.innopolis.university">ru</a></li>
+						</ul>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="cnt-login display-table">
+    <div class="display-table-cell">
+        <div class="container">
+            <div class="row row-padding-0 display-table">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table-cell hidden-xs">
+                    <!-- word-->
+                    <div class="cnt-login_word">
+                        <h1 class="h-uppercase h-bold h-font-size-30">APPLY NOW</h1>
+
+                                                    <p class="p lead-24 h-addition-border color-6 h-addition-border-width-2"></p>
+                            <p class="p font-size-16">Admission for Fall 2022 for undegraduate, graduate and postgraduate programs is open.</p>
+                            <b>Fill in an application form including documents and tests, send it for the consideration and go through the Scholarship contest. Become the winner and get Full or Partial Scholarship to study at Innopolis University.</b><br> </b><br>Read more details in the 'Application' and 'FAQ' sections after registration.                                            </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table-cell">
+                    <h1 class="h-uppercase h-bold h-font-size-30 visible-xs-block">APPLY NOW</h1>
+                    <!-- form-->
+                    <div class="cnt-login_form">
+                        <div class="cnt-login_form_tab-header clearfix">
+                            <ul class="list-unstyled clearfix float-right">
+                                <li class="active"><a href="#login-form-tab-1" data-toggle="tab">SIGN UP</a></li>
+                                <li><a href="#login-form-tab-2" data-toggle="tab">LOGIN</a></li>
+                            </ul>
+                        </div>
+                        <div class="tab-content">
+                            <div id="login-form-tab-1" class="tab-pane active">
+                                	<script src="https://www.google.com/recaptcha/api.js"></script>
+
+<h2 class="h3 h-addition-border h-addition-border-width-2 type-2 color-7">Registration</h2>
+<form method="post" action="/en/get-in/" name="regform" enctype="multipart/form-data" data-js_target="">
+									<input type="hidden" name="REGISTER[LOGIN]" value="61ee6a3279476">
+																		<div class="form-group">
+							<input size="30" type="text" name="REGISTER[NAME]" value="" placeholder="Name" class="form-control type-2" required>
+						</div>	
+																					<div class="form-group">
+							<input size="30" type="text" name="REGISTER[PERSONAL_MOBILE]" value="" placeholder="Mobile" class="form-control type-2" required>
+						</div>	
+															<div class="form-group">
+						<input size="30" type="email" name="REGISTER[EMAIL]" value="" placeholder="E-mail" class="form-control type-2" required>
+					</div>
+												<div class="form-group form-group-pass"><span aria-hidden="true" class="fa fa-pass"></span>
+						<input size="30" type="password" name="REGISTER[PASSWORD]" id="loginFormField3" value="" autocomplete="off" class="form-control type-2" placeholder="Password" required>
+					</div>
+												<input type="hidden" name="REGISTER[CONFIRM_PASSWORD]" value="61ee6a327947f">
+																		<div class="form-group select-style-type-2">
+							<select name="REGISTER[UF_USER_TYPE]" title=""   class="__event-select" required>
+								<option value="" disabled selected>Program</option>
+																																												<option value="CS-1 2015" >Bachelor of Computer Science</option>
+																																				<option value="MSBD 2016" >Master of Science in Data Analysis and Artificial Intelligence</option>
+																																				<option value="MSSSNE 2016" >Master of Science in Security and Network Engineering</option>
+																																				<option value="MSTE 2021" >Master of Science in Technological Entrepreneurship</option>
+																																				<option value="MSR 2016" >Master of Science in Robotics and Computer Vision</option>
+																																				<option value="MSIT-SE 2015" >Master of Science in Software Engineering</option>
+																																				<option value="PHD" >PhD in Computer Science</option>
+																																									</select>
+						</div>
+																	<div class="form-group">
+						<input size="30" type="text" name="UF_REFERER" value="" placeholder="How did you know about us?" class="form-control type-2">
+					</div>
+												<input size="30" type="hidden" name="REGISTER[UF_FROM]" value="">
+												<div class="form-group select-style-type-2">
+						<select name="REGISTER[UF_CITIZENSHIP]" id="REGISTER[UF_CITIZENSHIP]" class="__event-select" required>
+							<option value="">Country of citizenship</option>
+															<option value="Afghanistan">Afghanistan</option>
+															<option value="Albania">Albania</option>
+															<option value="Algeria">Algeria</option>
+															<option value="Andorra">Andorra</option>
+															<option value="Angola">Angola</option>
+															<option value="Anguilla">Anguilla</option>
+															<option value="Antarctica">Antarctica</option>
+															<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+															<option value="Argentina">Argentina</option>
+															<option value="Armenia">Armenia</option>
+															<option value="Aruba">Aruba</option>
+															<option value="Australia">Australia</option>
+															<option value="Austria">Austria</option>
+															<option value="Azerbaijan">Azerbaijan</option>
+															<option value="Bahamas">Bahamas</option>
+															<option value="Bahrain">Bahrain</option>
+															<option value="Bangladesh">Bangladesh</option>
+															<option value="Barbados">Barbados</option>
+															<option value="Belarus">Belarus</option>
+															<option value="Belgium">Belgium</option>
+															<option value="Belize">Belize</option>
+															<option value="Benin">Benin</option>
+															<option value="Bermuda">Bermuda</option>
+															<option value="Bhutan">Bhutan</option>
+															<option value="Bolivia">Bolivia</option>
+															<option value="Bosnia and Herzegowina">Bosnia and Herzegowina</option>
+															<option value="Botswana">Botswana</option>
+															<option value="Bouvet Island">Bouvet Island</option>
+															<option value="Brazil">Brazil</option>
+															<option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+															<option value="British Virgin Islands">British Virgin Islands</option>
+															<option value="Brunei Darussalam">Brunei Darussalam</option>
+															<option value="Bulgaria">Bulgaria</option>
+															<option value="Burkina Faso">Burkina Faso</option>
+															<option value="Burundi">Burundi</option>
+															<option value="Cambodia">Cambodia</option>
+															<option value="Cameroon">Cameroon</option>
+															<option value="Canada">Canada</option>
+															<option value="Cape Verde">Cape Verde</option>
+															<option value="Cayman Islands">Cayman Islands</option>
+															<option value="Central African Republic">Central African Republic</option>
+															<option value="Chad">Chad</option>
+															<option value="Chile">Chile</option>
+															<option value="China">China</option>
+															<option value="Christmas Island">Christmas Island</option>
+															<option value="Cocos Islands">Cocos Islands</option>
+															<option value="Colombia">Colombia</option>
+															<option value="Comoros">Comoros</option>
+															<option value="Congo">Congo</option>
+															<option value="Cook Islands">Cook Islands</option>
+															<option value="Costa Rica">Costa Rica</option>
+															<option value="Cote D'ivoire">Cote D'ivoire</option>
+															<option value="Croatia">Croatia</option>
+															<option value="Cuba">Cuba</option>
+															<option value="Cyprus">Cyprus</option>
+															<option value="Czechia">Czechia</option>
+															<option value="Denmark">Denmark</option>
+															<option value="Djibouti">Djibouti</option>
+															<option value="Dominica">Dominica</option>
+															<option value="Dominican Republic">Dominican Republic</option>
+															<option value="East Timor">East Timor</option>
+															<option value="Ecuador">Ecuador</option>
+															<option value="Egypt">Egypt</option>
+															<option value="El Salvador">El Salvador</option>
+															<option value="Equatorial Guinea">Equatorial Guinea</option>
+															<option value="Eritrea">Eritrea</option>
+															<option value="Estonia">Estonia</option>
+															<option value="Ethiopia">Ethiopia</option>
+															<option value="Faeroe Islands">Faeroe Islands</option>
+															<option value="Falkland Islands">Falkland Islands</option>
+															<option value="Fiji">Fiji</option>
+															<option value="Finland">Finland</option>
+															<option value="France">France</option>
+															<option value="French Antarctic">French Antarctic</option>
+															<option value="French Guiana">French Guiana</option>
+															<option value="French Polynesia">French Polynesia</option>
+															<option value="Gabon">Gabon</option>
+															<option value="Gambia">Gambia</option>
+															<option value="Georgia">Georgia</option>
+															<option value="Germany">Germany</option>
+															<option value="Ghana">Ghana</option>
+															<option value="Gibraltar">Gibraltar</option>
+															<option value="Greece">Greece</option>
+															<option value="Greenland">Greenland</option>
+															<option value="Grenada">Grenada</option>
+															<option value="Guadeloupe">Guadeloupe</option>
+															<option value="Guatemala">Guatemala</option>
+															<option value="Guinea">Guinea</option>
+															<option value="Guinea-bissau">Guinea-bissau</option>
+															<option value="Guyana">Guyana</option>
+															<option value="Haiti">Haiti</option>
+															<option value="Heard and McDonald Islands">Heard and McDonald Islands</option>
+															<option value="Honduras">Honduras</option>
+															<option value="Hong Kong">Hong Kong</option>
+															<option value="Hungary">Hungary</option>
+															<option value="Iceland">Iceland</option>
+															<option value="India">India</option>
+															<option value="Indonesia">Indonesia</option>
+															<option value="Iran">Iran</option>
+															<option value="Iraq">Iraq</option>
+															<option value="Ireland">Ireland</option>
+															<option value="Israel">Israel</option>
+															<option value="Italy">Italy</option>
+															<option value="Jamaica">Jamaica</option>
+															<option value="Japan">Japan</option>
+															<option value="Jordan">Jordan</option>
+															<option value="Kazakhstan">Kazakhstan</option>
+															<option value="Kenya">Kenya</option>
+															<option value="Kiribati">Kiribati</option>
+															<option value="Korea (North)">Korea (North)</option>
+															<option value="Korea (South)">Korea (South)</option>
+															<option value="Kuwait">Kuwait</option>
+															<option value="Kyrgyzstan">Kyrgyzstan</option>
+															<option value="Laos">Laos</option>
+															<option value="Latvia">Latvia</option>
+															<option value="Lebanon">Lebanon</option>
+															<option value="Lesotho">Lesotho</option>
+															<option value="Liberia">Liberia</option>
+															<option value="Libya">Libya</option>
+															<option value="Liechtenstein">Liechtenstein</option>
+															<option value="Lithuania">Lithuania</option>
+															<option value="Luxembourg">Luxembourg</option>
+															<option value="Macau">Macau</option>
+															<option value="Macedonia">Macedonia</option>
+															<option value="Madagascar">Madagascar</option>
+															<option value="Malawi">Malawi</option>
+															<option value="Malaysia">Malaysia</option>
+															<option value="Mali">Mali</option>
+															<option value="Malta">Malta</option>
+															<option value="Malvides">Malvides</option>
+															<option value="Marshall Islands">Marshall Islands</option>
+															<option value="Martinique">Martinique</option>
+															<option value="Mauritania">Mauritania</option>
+															<option value="Mauritius">Mauritius</option>
+															<option value="Mayotte">Mayotte</option>
+															<option value="Mexico">Mexico</option>
+															<option value="Micronesia">Micronesia</option>
+															<option value="Moldova">Moldova</option>
+															<option value="Monaco">Monaco</option>
+															<option value="Mongolia">Mongolia</option>
+															<option value="Montenegro">Montenegro</option>
+															<option value="Montserrat">Montserrat</option>
+															<option value="Morocco">Morocco</option>
+															<option value="Mozambique">Mozambique</option>
+															<option value="Myanmar">Myanmar</option>
+															<option value="Namibia">Namibia</option>
+															<option value="Nauru">Nauru</option>
+															<option value="Nepal">Nepal</option>
+															<option value="Netherlands">Netherlands</option>
+															<option value="Netherlands Antilles">Netherlands Antilles</option>
+															<option value="New Caledonia">New Caledonia</option>
+															<option value="New Zealand">New Zealand</option>
+															<option value="Nicaragua">Nicaragua</option>
+															<option value="Niger">Niger</option>
+															<option value="Nigeria">Nigeria</option>
+															<option value="Niue">Niue</option>
+															<option value="Norfolk Island">Norfolk Island</option>
+															<option value="Norway">Norway</option>
+															<option value="Oman">Oman</option>
+															<option value="Pakistan">Pakistan</option>
+															<option value="Palau">Palau</option>
+															<option value="Palestine">Palestine</option>
+															<option value="Panama">Panama</option>
+															<option value="Papua New Guinea">Papua New Guinea</option>
+															<option value="Paraguay">Paraguay</option>
+															<option value="Peru">Peru</option>
+															<option value="Philippines">Philippines</option>
+															<option value="Pitcairn Islands">Pitcairn Islands</option>
+															<option value="Poland">Poland</option>
+															<option value="Portugal">Portugal</option>
+															<option value="Puerto Rico">Puerto Rico</option>
+															<option value="Qatar">Qatar</option>
+															<option value="Reunion">Reunion</option>
+															<option value="Romania">Romania</option>
+															<option value="Russia">Russia</option>
+															<option value="Rwanda">Rwanda</option>
+															<option value="Saint Helena">Saint Helena</option>
+															<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+															<option value="Saint Lucia">Saint Lucia</option>
+															<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+															<option value="Saint-Pierre and Miquelon">Saint-Pierre and Miquelon</option>
+															<option value="Samoa">Samoa</option>
+															<option value="San Marino">San Marino</option>
+															<option value="Saudi Arabia">Saudi Arabia</option>
+															<option value="Senegal">Senegal</option>
+															<option value="Serbia">Serbia</option>
+															<option value="Seychelles">Seychelles</option>
+															<option value="Sierra Leone">Sierra Leone</option>
+															<option value="Singapore">Singapore</option>
+															<option value="Slovakia">Slovakia</option>
+															<option value="Slovenia">Slovenia</option>
+															<option value="Solomon Islands">Solomon Islands</option>
+															<option value="Somalia">Somalia</option>
+															<option value="South African Republic">South African Republic</option>
+															<option value="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</option>
+															<option value="Spain">Spain</option>
+															<option value="Sri Lanka">Sri Lanka</option>
+															<option value="Sudan">Sudan</option>
+															<option value="Suriname">Suriname</option>
+															<option value="Svalbard and Jan Mayen Islands">Svalbard and Jan Mayen Islands</option>
+															<option value="Swaziland">Swaziland</option>
+															<option value="Sweden">Sweden</option>
+															<option value="Switzerland">Switzerland</option>
+															<option value="Syria">Syria</option>
+															<option value="Taiwan">Taiwan</option>
+															<option value="Tajikistan">Tajikistan</option>
+															<option value="Tanzania">Tanzania</option>
+															<option value="Thailand">Thailand</option>
+															<option value="Togo">Togo</option>
+															<option value="Tokelau">Tokelau</option>
+															<option value="Tonga">Tonga</option>
+															<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+															<option value="Tunisia">Tunisia</option>
+															<option value="Turkey">Turkey</option>
+															<option value="Turkmenistan">Turkmenistan</option>
+															<option value="Turks Caicos Islands">Turks Caicos Islands</option>
+															<option value="Tuvalu">Tuvalu</option>
+															<option value="U.S. Virgin Islands">U.S. Virgin Islands</option>
+															<option value="USA">USA</option>
+															<option value="Uganda">Uganda</option>
+															<option value="Ukraine">Ukraine</option>
+															<option value="United Arab Emirates">United Arab Emirates</option>
+															<option value="United Kingdom">United Kingdom</option>
+															<option value="Uruguay">Uruguay</option>
+															<option value="Uzbekistan">Uzbekistan</option>
+															<option value="Vanuatu">Vanuatu</option>
+															<option value="Vatican City">Vatican City</option>
+															<option value="Venezuela">Venezuela</option>
+															<option value="Viet Nam">Viet Nam</option>
+															<option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option>
+															<option value="Western Sahara">Western Sahara</option>
+															<option value="Yemen">Yemen</option>
+															<option value="Zaire">Zaire</option>
+															<option value="Zambia">Zambia</option>
+															<option value="Zimbabwe">Zimbabwe</option>
+													</select>
+					</div>
+
+					<!-- <div class="form-group">
+						<input size="30" type="text" name="REGISTER[UF_CITIZENSHIP]" value="" placeholder="Country of citizenship" class="form-control type-2" required>
+					</div> -->
+							
+		<div class="form-item">
+			<div class="g-recaptcha" data-sitekey="6LcLKhoUAAAAABDqG_IR2awG5j1U12sQbo73zNVB"></div>
+		</div>
+		<br>
+		<div class="form-group text-center">
+		<input type="submit" name="register_submit_button" value="Registration" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170"/>
+	</div>
+	<p class="a-color-1 font-size-12">
+		By&nbsp;pressing the &laquo;Registration&raquo; button you hereby confirm your consent that Innopolis University processes your personal data, according to&nbsp;clause 9&nbsp;of&nbsp;Federal Law of&nbsp;27&nbsp;July 2006&nbsp;N 152-FZ &laquo;On&nbsp;personal data&raquo;.	</p>
+</form>
+                            </div>
+                            <div id="login-form-tab-2" class="tab-pane">
+                                <div class="forgot-password" style="display: none">
+	<h2 class="h3">Restore</h2>
+
+			<p class="p font-size-16 h-addition-border h-addition-border-width-2 type-2 color-7">If you forgot password, enter your address below. Required information will be sent to you by email.</p>
+		<form name="bform" method="post" target="_top" action="/en/get-in/?auth=forgotpasswd&forgot_password=yes">
+			<input type="hidden" name="backurl" value="/en/get-in/" />			<input type="hidden" name="AUTH_FORM" value="Y">
+			<input type="hidden" name="TYPE" value="SEND_PWD">
+			<div class="form-group"><input type="text" name="USER_EMAIL" maxlength="255" class="form-control type-2 focus" placeholder="Email Address"/></div>
+
+			<div class="form-group text-center">
+				<input type="submit" name="send_account_info" value="Get Restore Info" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170" />
+			</div>
+			<div class="form-group text-center">
+				<a href="#" onclick="$('.forgot-password').slideUp();$('.system-auth-form').slideDown();" class="a-underline a-color-1 font-size-12">Log in if you already registered</a>
+			</div>
+		</form>	
+		</div><div class="change-password" style="display: none">
+	<h2 class="h3">Set New</h2>
+
+		
+		<p class="p font-size-16 h-addition-border h-addition-border-width-2 type-2 color-7">Enter your email and checkword which you have recieved by email for change password.</p>	
+		<form method="post" action="" name="bform">
+							<input type="hidden" name="backurl" value="/en/get-in/" />
+						<input type="hidden" name="AUTH_FORM" value="Y">
+			<input type="hidden" name="TYPE" value="CHANGE_PWD">
+			<div class="form-group"><input type="text" name="USER_LOGIN" maxlength="50" value="" class="form-control type-2 focus" placeholder="Email Address"/></div>
+			<div class="form-group"><input type="text" name="USER_CHECKWORD" maxlength="50" value="" class="form-control type-2 focus" placeholder="Checkword"/></div>
+			<div class="form-group"><input type="password" name="USER_PASSWORD" maxlength="50" value="" class="form-control type-2 focus" placeholder="New Password" /></div>
+			<div class="form-group"><input type="password" name="USER_CONFIRM_PASSWORD" maxlength="50" value="" class="form-control type-2 focus" placeholder="Re-enter New Password"  /></div>
+
+			<div class="form-group text-center">
+				<input type="submit" name="change_pwd" value="Set Password" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170"/>
+			</div>
+
+			<div class="form-group text-center">
+				<a href="#" onclick="$('.forgot-password').slideDown();$('.change-password').slideUp();" class="a-underline a-color-1 font-size-12">Get checkword again</a>
+			</div>
+			<div class="form-group text-center">
+				<a href="#" onclick="$('.system-auth-form').slideDown();$('.change-password').slideUp();" class="a-underline a-color-1 font-size-12">Log in if you already registered</a>
+			</div>
+		</form>
+		</div>
+<div class="system-auth-form">
+	<h2 class="h3">LOGIN</h2>
+
+	<p class="p font-size-16 h-addition-border h-addition-border-width-2 type-2 color-7">Please, log into student's personal cabinet if you have already registered.  Enter your email address and password.</p>
+
+		<form name="form_auth" method="post" target="_top" action="/en/get-in/?login=yes" data-ajax-key="650894debd06da2f10f4d94a78ad9236">
+		<p class="p f-help-error"></p>
+		<input type="hidden" name="AUTH_FORM" value="Y" />
+		<input type="hidden" name="TYPE" value="AUTH" />
+					<input type="hidden" name="backurl" value="/en/get-in/" />
+				
+		<div class="form-group">
+			<input type="text" id="loginFormField2" name="USER_LOGIN" maxlength="255" value="" placeholder="Login:" class="form-control type-2 focus">
+		</div>
+				<div class="form-group form-group-pass">
+			<span aria-hidden="true" class="fa fa-pass"></span>
+			<input type="password" id="loginFormField3" name="USER_PASSWORD" maxlength="255" placeholder="Password:" class="form-control type-2">
+					</div>
+					<div class="form-group">
+				<div class="checkbox type-2">
+					<input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" />
+					<label for="USER_REMEMBER">
+						<div class="icheckbox_square"></div>
+						Remember me					</label>
+				</div>
+			</div>
+				<div class="form-group text-center">
+			<input type="submit" name="Login" value="Authorize" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170"/>
+		</div>
+					<div class="form-group text-center">
+				<a href="#" onclick="$('.forgot-password').slideDown();$('.system-auth-form').slideUp();" class="a-underline a-color-1 font-size-12">Forgot your password?</a>
+			</div>
+			</form>
+	<script type="text/javascript">
+					try{document.form_auth.USER_LOGIN.focus();}catch(e){}
+			</script>	
+</div>
+
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    <!-- Код тега ремаркетинга Google -->
+    <div style="display: none;">
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 988049744;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+            <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/988049744/?value=0&amp;guid=ON&amp;script=0"/>
+            </div>
+        </noscript>        
+    </div>
+    <!-- Код тега ремаркетинга Google -->
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(33825874, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/33825874" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+</body>
+</html>

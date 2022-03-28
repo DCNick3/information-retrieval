@@ -1,0 +1,2171 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m, e, t, r, i, k, a) {
+            m[i] = m[i] || function() {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(61110718, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/61110718" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161122461-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-161122461-1');
+    </script>
+    <title>
+        Academic staff    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.min.css?14568470452854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:100,200,300,400,500,600,700&display=swap&subset=cyrillic" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/kernel_landing_assets_f896e1e013de6249504a587d296cf997/kernel_landing_assets_f896e1e013de6249504a587d296cf997_v1.css?16425066593440" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/altasib.errorsend/css/window.css?14605340164771" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/page_f6954a73571aa4e947e8deb157516530/page_f6954a73571aa4e947e8deb157516530_v1.css?164250667137965" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s8/university24/template_2fcb2df936238e48a9db6a26e52e97eb/template_2fcb2df936238e48a9db6a26e52e97eb_v1.css?16425066511359307" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?146053375320704" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582878014247888"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Loading...','JS_CORE_WINDOW_CLOSE':'Close','JS_CORE_WINDOW_EXPAND':'Expand','JS_CORE_WINDOW_NARROW':'Restore','JS_CORE_WINDOW_SAVE':'Save','JS_CORE_WINDOW_CANCEL':'Cancel','JS_CORE_H':'h','JS_CORE_M':'m','JS_CORE_S':'s','JS_CORE_NO_DATA':'- No data -','JSADM_AI_HIDE_EXTRA':'Hide extra items','JSADM_AI_ALL_NOTIF':'All notifications','JSADM_AUTH_REQ':'Authentication is required!','JS_CORE_WINDOW_AUTH':'Log In','JS_CORE_IMAGE_FULL':'Full size','JS_CORE_WINDOW_CONTINUE':'Continue'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'en','FORMAT_DATE':'MM/DD/YYYY','FORMAT_DATETIME':'MM/DD/YYYY H:MI:SS T','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s8','SITE_DIR':'/en/','USER_ID':'','SERVER_TIME':'1643014069','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'dfac377a7e2663698818ba2c2253ad8c'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/kernel_main/kernel_main_v1.js?1642569869142325"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/kernel_landing_assets_f896e1e013de6249504a587d296cf997/kernel_landing_assets_f896e1e013de6249504a587d296cf997_v1.js?1642506659288270"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_window.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/dd.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/core/core.js','/bitrix/js/landing/utils/utils.js','/bitrix/js/landing/mediaplayer/base_mediaplayer.js','/bitrix/js/landing/mediaplayer/youtube_mediaplayer.js','/bitrix/js/landing/mediaplayer/mediaplayer_factory.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/landing/event-tracker/event-tracker.js','/bitrix/js/landing/event-tracker/services/base-service.js','/bitrix/js/landing/event-tracker/services/google-analytics-service.js','/bitrix/js/landing/polyfill.js','/bitrix/js/landing/events/block_event.js','/bitrix/js/landing/public.js','/bitrix/components/bitrix/landing.pub/templates/.default/script.js','/local/templates/.default/static/js/global.js','/local/templates/.default/static/js/index.js','/local/templates/university24/js/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/landing/css/landing_public.css','/bitrix/components/bitrix/landing.pub/templates/.default/style.css','/local/templates/.default/components/bitrix/news/professors/bitrix/news.list/teacher_list/style.css','/local/templates/university24/css/landing24_editor.css','/local/templates/university24/css/custom_themes_core.min.css','/local/templates/.default/static/public/fonts/icons/style.css','/local/templates/.default/static/style/index.css','/local/templates/university24/template_styles.css']); </script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="facebook-domain-verification" content="qyn2xlorvwh580bb4no8quluq02taf" />
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="robots" content="all" />
+<script src=' https://www.google.com/recaptcha/api.js '></script>
+<script type="text/javascript">
+var ALXerrorLogoImgSrc='/bitrix/images/altasib.errorsend/altasib.errorsend.png';
+var ALXerrorSendMessages={
+	'head':'You found an error in the text',
+	'footer':'<b>Send error message to the author?</b><br/><span style="font-size:10px;color:#7d7d7d">(your browser will remain on the same page)</span>',
+	'comment':'Comment to author (optional)',
+	'TitleForm':'The error message',
+	'ButtonSend':'Send',
+	'LongText':'You have selected too much text.',
+	'LongText2':'Please try again.',
+	'text_ok':'Message sent.',
+	'text_ok2':'Thank you for your attention!'
+}
+</script>
+<script type='text/javascript' async src='/bitrix/js/altasib.errorsend/error.js'></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/template_78c549f1283ad05b42ae892cfd905f39/template_78c549f1283ad05b42ae892cfd905f39_v1.js?16425066511076064"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s8/university24/page_a5fa71f23483693447051051f9a9673d/page_a5fa71f23483693447051051f9a9673d_v1.js?16425066512066"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "485b12fc1f914dda537897b37b715cdf"]); _ba.push(["host", "innopolis.university"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<meta property="og:title" content="Academic staff" /><meta property="og:image" content="//innopolis.university/upload/landing/37d/seo@1x.jpg" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="798" /><meta property="og:type" content="website" /><meta property="twitter:title" content="Academic staff" /><meta property="twitter:image" content="//innopolis.university/upload/landing/37d/seo@1x.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta name="og:url" content="https://innopolis.university/en/faculty/" />
+<link rel="canonical" href="https://innopolis.university/en/faculty/"/><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/16_16_2/Frame_190.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/32_32_2/Frame_190.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/c6b/96_96_2/Frame_190.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/120_120_2/Frame_190.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/180_180_2/Frame_190.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/152_152_2/Frame_190.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/resize_cache/landing/c6b/167_167_2/Frame_190.png" sizes="167x167"></head>
+<body class=""><div class="landing-header"><div id="block5014" class="block-wrapper block-university-header-default">
+<div class="uni-nav__wrap" style="top: 0px">
+        <div class="uni-nav__black-line"></div>
+    <div class="container">
+        <a href="https://innopolis.university/en/" class="uni-logo" target="_self">
+            <i class="icon-ic_logo"></i>
+        </a>
+        <div class="nav__links-wrap">
+            <div class="footer-container">
+                <div class="footer-top-wrap">
+                    <div class="container">
+                        <a href="" class="footer-top-link-dashed">Все медиа</a>
+                        <div class="footer-top-link-list "><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Facebook</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Вконтакте</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Youtube</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Twitter</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">Instagram</a></div><div class="footer-top-link-item"><a href="" class="footer-top-link" target="_self">habr</a></div></div>
+                    </div>
+                </div>
+            </div>
+            <ul class="pre-nav__links">
+                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://apply.innopolis.university/en">Applicants</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://corporate.innopolis.university/en">Business</a></li>                <li class="pre-nav__links-item"><a target="_blank" class="pre-nav__link" href="https://media.innopolis.university/en">Media</a></li>                <li class="pre-nav__links-item desctop-link">
+                    <a href="https://innopolis.university/lk/" class="pre-nav__link personal__account personal__account-lk-link">
+                        Personal account                    </a>
+                </li>
+            </ul>
+
+            <ul class="nav__links">
+                                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            University                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/about/" class="sub-nav__links-item-link" > About <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/board/" class="sub-nav__links-item-link" > Supervisory board <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team/" class="sub-nav__links-item-link" > University team <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/" >Organizational structure</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/education-academics/" >Educational and research departments</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/team-structure/techcenters/" >Technological centers</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/faculty/" class="sub-nav__links-item-link" > Academic staff <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/faculty/" >Academic staff</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://career.innopolis.university/en/job/" >Faculty positions</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://career.innopolis.university/en/" class="sub-nav__links-item-link" > Careers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/campus" class="sub-nav__links-item-link" > Campus <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/contacts/" class="sub-nav__links-item-link" > Contacts <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Education                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/" class="sub-nav__links-item-link" > International applicants <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/bachelor/" class="sub-nav__links-item-link" > Bachelor's program <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/CE/" >Computer Science</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/bachelor/DS-AI/" >Data Science and Artificial Intelligence</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/master/" class="sub-nav__links-item-link" > Master's programs <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/datascience/" >Data Science and Artificial Intelligence</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/securityandnetworkengineering/" >Security and Network Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/development/" >Software Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/robotics/" >Robotics and Computer Vision</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://apply.innopolis.university/en/master/technological-entrepreneurship/" >Technological Entrepreneurship</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/postgraduate-study/" class="sub-nav__links-item-link" > Postgraduate study <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://apply.innopolis.university/en/stud-life/" class="sub-nav__links-item-link" > Student life <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/international-relations-office/" class="sub-nav__links-item-link" > International relations office <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/incomingstudents/" > Incoming Students</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/outgoingstudents/" >Outgoing Students</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/teachingexcellencecenter/" class="sub-nav__links-item-link" > Teaching Excellence Center <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/writinghubhome/" class="sub-nav__links-item-link" > Writing Hub <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                <div class="sub-nav__links__result-stub">
+                    IU Writing Hub &#40;WH&#41; offers editing and proofreading service for IU faculty, researchers and students.                </div>
+            </ul>
+                </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://alumni.innopolis.university/" class="sub-nav__links-item-link" > ALUMNI <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Education </h3>
+<p class="sub-nav__links__result-stub-text">
+	 World-class IT education in Russia in English
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Research                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/research/" class="sub-nav__links-item-link" > Scientific Research activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Software Development and Engineering <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-operating-systems/" >Lab of Operating Systems, programming languages and compilers</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-software-service-engineering/" >Lab of Software and Service Engineering</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-industrializing-software/" >Lab of Industrializing Software Production</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Data Science and Artificial Intelligence <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-bioinformatics/" >Lab of Data Analysis and bioinformatics</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-game-development/" >Lab of Artificial Intelligence in Game Development</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-oil-gas/" >Lab of Data Analysis and Machine Learning in the oil and gas industry</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/mlkr/" >Lab of Machine Learning and Knowledge Representation</a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Information security and cyberphysical systems <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-cyberphysical-systems/" >Lab of Cyber-Physical Systems</a>
+    </li>
+                <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-networks-blockchain/" >Networks and Blockchain Lab  </a>
+    </li>
+            </ul>
+        </li>
+                    <li class="sub-nav__links-item">
+            <a href="" class="sub-nav__links-item-link" > Institute of Robotics and computer vision  <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            <ul class="sub-nav__links-item__result-item" style="display: none;">
+                            <li class="sub-nav__links-item__result-item-link">
+        <a href="https://innopolis.university/en/lab-robotics/" >Laboratory of Intelligent Robotics Systems</a>
+    </li>
+            </ul>
+        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Science </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Innopolis University has 15 laboratories and 7 research centers, which conduct research in the field of artificial intelligence, robotics, big data, software development, information security
+</p>            </div>
+        </div>
+        </div>
+        </li>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Innovation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/activity/" class="sub-nav__links-item-link" >  Project-based activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/team-structure/techcenters/" class="sub-nav__links-item-link" > Technological centers <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/proekty/podderzhka-innovacionnoj-deyatelnosti/" class="sub-nav__links-item-link" > Supporting Innovative Activities <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/startupstudio/" class="sub-nav__links-item-link" > Startup studio <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                                        <ul class="sub-nav__links-item__result-item sub-nav__links__result" style="display: none;">
+                            <div class="sub-nav__links__result-stub">
+                                Development and support of student technology startups by creating a successful startup community; assistance in providing favorable conditions from external partners for investment and development of ideas.                            </div>
+                        </ul>
+                            </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innovation </h3>
+<p class="sub-nav__links__result-stub-text">
+	 The university’s project-based activities are aimed at implementing grant-based and commercial projects, as well as at enhancing the availability of education in IT areas.
+</p>            </div>
+        </div>
+                                    <li class="nav__links-item">
+                <span class="nav__links-item__link">
+                                            Cooperation                                        <i class="icon-ic_plus_big"></i>
+                </span>
+                                    <div class="sub-nav__links-wrap">
+                        <ul class="sub-nav__links">
+                                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/internationalpartners/" class="sub-nav__links-item-link" > International partners <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                            </li>
+                    <li class="sub-nav__links-item">
+            <a href="https://innopolis.university/en/organizatsiya-i-provedenie-meropriyatiy/" class="sub-nav__links-item-link" > Event management <i class="icon-ic_arrow_right-small"></i>
+            </a>
+                                        </li>
+        </ul>
+        <div class="sub-nav__links__result">
+            <div class="sub-nav__links__result-stub">
+                <h3 class="sub-nav__links__result-stub-title">
+Innopolis University </h3>
+<p class="sub-nav__links__result-stub-text">
+	 Education, research and development in the field of IT and Robotics
+</p>            </div>
+        </div>
+                    <li class="nav__links-btns">
+                    <a class="nav__links-btns_optic" href="/en/faculty/?special=Y" itemprop="copy" title="Версия для слабовидящих"><i class="icon-ic_optic"></i></a>                    <a class="nav__links-btns_search" href="/search/" target="_self"><i class="icon-ic_search"></i></a>
+                    <a class='nav__links-btns_ru' href='/faculty/'><i class="icon-ic_lang_ru"></i></a>                </li>
+
+            </ul>
+
+            <div class="mobile-personal-area">
+                <a href="https://innopolis.university/lk/" class="mobile-personal-area-link">
+                    Personal account                </a>
+                <div class="mobile-personal-area-icons">
+                    <a href="https://innopolis.university/search/" class="mobile-personal-area-icons-link"><i class="icon-ic_search"></i></a>
+
+                    <a class='mobile-personal-area-icons-link' href='/faculty/'><i class="icon-ic_lang_ru"></i></a>                </div>
+            </div>
+        </div>
+        <div class="menu-mobile__btn">
+            <i class="icon-menu"></i>
+            <i class="icon-ic_close"></i>
+        </div>
+    </div>
+</div></div></div> 
+								<div class="landing-main"><div id="block2764" class="block-wrapper block-university-professor-main"><div class="main-page__main-viewport uni-team-ceo" style="background-image: url('/public/images/uni-team-ceo-viewport.png');">
+    <div class="main-page__main-viewport-titles container">
+        <div class="viewport__subtitle">
+            <h2 class="viewport__subtitle-text">UNIVERSITY</h2>
+        </div>
+        <h1 class="viewport__title">Academic staff</h1>
+    </div>
+</div></div><div id="block2765" class="block-wrapper block-professors-list-en"><div class="complexes__tab-panel container">
+    <div class="complexes__tab-panel-btns">
+                            <a class="complexes__tab-panel-btn complexes__tab-panel-btn-active" id="full-time-professors">Permanent professors</a>
+            <a class="complexes__tab-panel-btn " id="invited-professors">Visiting professors</a>
+                <a class="complexes__tab-panel-btn d-none" id="competition">
+            Faculty Positions        </a>
+    </div>
+</div>
+<div class="full-time-professors-result container" id="full-time-professors__result" style="">
+            <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/9fe/330_420_2/IMG_7636.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Giancarlo Succi                            </h5>
+                        <p class="professors-card-info-who">
+                Dean, Full Professor            </p>
+                                    <p class="professors-card-info-faculty">
+                Faculty of Computer Science and Software Engineering            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/giancarlo-succi-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/9fe/330_420_2/IMG_7636.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Giancarlo Succi</h5>
+                        <p class="professor-description">
+                PhD, University of Genova, Italy, Full Professor, Dean, Faculty of Computer Science and Software Engineering, Institute of Software Development and Engineering            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Italy                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Computer and Electrical Engineering                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Giancarlo Succi holds a Laurea Degree in Electrical Engineering from the University of Genova, an M.Sc. in Computer Science from the State University of New York at Buffalo, and a PhD in Computer and Electrical Engineering again from the University of Genoa, Italy (December 1993). He has passed the habilitation certification as professional engineering both in Italy and in Canada and he has consulted for several organizations worldwide. He has been a Professor at the Free University of Bolzano-Bozen, Italy, University of Alberta, Edmonton, Canada, University of Calgary, Canada holding also various administrative positions. 
+
+Giancarlo Succi has taught a variety of academic and industrial courses throughout his career in Software Engineering, Programming Languages, and Mobile, Distributed, and Centralized Operating Systems. He has organized various international conferences and other scientific and educational events. His research interests are in empirical software engineering, open source, mobile and energy aware systems, software reuse, and software product lines.
+
+He is the author of 5 and editor of 12 books and over than 370 publications.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/53d/330_420_2/IMG_9716.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Manuel Mazzara                            </h5>
+                        <p class="professors-card-info-who">
+                Head of International Relations Office            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Software and Service Engineering            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/manuel-mazzara-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/53d/330_420_2/IMG_9716.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Manuel Mazzara</h5>
+                        <p class="professor-description">
+                PhD, University of Bologna, Italy, Professor, Director, Institute of Software Development and Engineering, Head of International Relations Office            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Italy                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Computer Science                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Manuel Mazzara achieved his Masters in 2002 and his Ph.D in 2006 at the University of Bologna. During 2000 he was a Technical Assistant at Computer Science Laboratories (Bologna, Italy). In 2003 he worked as Software Engineer at Microsoft (Redmond, USA). In 2004 and 2005 he worked as a free lance consultant and teacher in Italy. In 2006 Manuel Mazzara was an assistant professor at the University of Bolzano (Italy) and in 2007 a researcher and project manager at the Technical University of Vienna (Austria). From 2008 to 2012 Manuel worked in Newcastle University on the DEPLOY project. This project involved several partners Europe-wide with 4 of them coming from the most varied industrial scenarios: Bosch, Siemens, SAP and Space Finland. The objective was deploying software engineering techniques into the industrial process to guarantee stronger products reliability. In 2012 Manuel also served as a Computer Scientist at UNU-IIST in Macao while still being with Newcastle as a Visiting Researcher. Manuel worked on the automatization of the immunization process for third world countries and on e-health and sustainability projects related to the UN “Agenda 21”. In 2013/14 he also worked on remote assistance and telemedicine domotics tools with Polytechnic of Milan and as a teaching fellow at the same university before joining Innopolis and visiting ETH.
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/Labofsoftwareandserviceengineering/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/41a/330_420_2/IMG_7638.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Vladimir Ivanov                             </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Institute of Software Development and Engineering            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Industrializing Software Production            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/vladimir-ivanov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/41a/330_420_2/IMG_7638.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Vladimir Ivanov </h5>
+                        <p class="professor-description">
+                PhD, Kazan Federal University, Russia, Assistant Professor, Institute of Software Development and Engineering, Lab of Industrial Production of Software            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Physics and Mathematics                         </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Vladimir Ivanov received his PhD degree in Physics and Mathematics from Kazan State University in 2009. He worked as a Researcher/ Assistant Professor at Kazan Federal University (2005-2013), Head of Big Data and Text Analytics Lab at Kazan Federal University (2013-2015) as well as a Researcher at Innopolis University (2015-2018). Dr. Ivanov`s research interests include data analysis, machine learning, software engineering, computational linguistics, natural language processing, information extraction, text mining, software reliability, and software metrics. Vladimir Ivanov is a primary instructor for undergraduate courses: "Advanced Statistics" and "Practical Machine Learning and Deep Learning".
+
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-industrializing-software/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/c2b/330_420_2/IMG_7599.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Andrey Sadovykh                             </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Institute of Software Development and Engineering            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Industrializing Software Production            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/andrey-sadovykh-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/c2b/330_420_2/IMG_7599.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Andrey Sadovykh </h5>
+                        <p class="professor-description">
+                PhD, Sorbonne University, France, Assistant Professor, Institute of Software Development and Engineering, Lab of Industrial Production of Software            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Computer Science                         </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Dr. Andrey Sadovykh received his M.S. degree in Applied Mathematics and Information Technologies from Moscow Institute of Physics and Technology (Russia) in 2001, PhD degree (Airbus company program) in Computer Science from Sorbonne University (France) in 2005 and MBA degree in Digital Business from HEC Paris School of Management (France) in 2014. Dr. Andrey Sadovykh was the Head of Research Unit at SOFTEAM (2006 – 2018), the 1st innovative SME in France and 3rd in the whole EU, which is recognized by Systematic Paris Region in mid-cap category. During his work he conducted research in applied model-driven engineering in 15+ projects, coordinated 5 projects, contributed to standardization with OMG, contributed to Modelio product development. Dr. Sadovykh has ten years` experience in research projects in IT in a cross-cultural international context and strong experience in R&D and software publishing. He successfully leads several international consortia in collaborative projects involving large industries, SMBs and academic partners. 
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-industrializing-software/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/662/330_420_2/Зуев.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Eugene Zouev                            </h5>
+                        <p class="professors-card-info-who">
+                Senior Professor of Practice, Institute of Software Development and Engineering            </p>
+                                    <p class="professors-card-info-faculty">
+                Head of the Lab of Operating Systems, programming languages and compilers            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/eugene-zuev-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/662/330_420_2/Зуев.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Eugene Zouev</h5>
+                        <p class="professor-description">
+                PhD, Moscow State University, Russia, Senior Professor of Practice, Institute of Software Development and Engineering, Head of the Lab of operating systems, programming languages and compilers construction            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Computer Science                        </p>
+                                                <p class="professor-info-list-description">
+                            Moscow State University, Russia                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Eugene Zouev graduated from the Computer Science Department of Moscow State University and got his doctoral degree (PhD) there in 1999. He worked in a number of research and development institutions, at Moscow University and in some other universities and companies abroad. For many years, he gave lectures and did research at Moscow University and in several reputable European universities, such as ETH Zurich (2000-2006) and EPFL Lausanne (2009-2010). E. Zouev ran a number of successful research and industrial software projects in the area of programming languages and compilers (C++ and Zonnon compilers are among them). Currently, he is working as a principal engineer (Samsung range R7) at Samsung Research & Development Center, Moscow. E.Zouev also provides consultancy services for some companies and participates in a few research projects (in particular, at London Metropolitan University, England). He is the author of a number of books in the area of software development.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-operating-systems/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/edd/330_420_2/IMG_9695.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Nikolay Shilov                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant professor, Institute of Software Development and Engineering            </p>
+                                    <p class="professors-card-info-faculty">
+                Head, Lab of Software and Service Engineering            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/nikolay-shilov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/edd/330_420_2/IMG_9695.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Nikolay Shilov</h5>
+                        <p class="professor-description">
+                PhD, Novosibirsk State University, Russia, Assistant professor, Institute of Software Development and Engineering, Head of Lab of Software and Service Engineering            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Theoretical Computer Science                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Nikolay had research positions in A.P. Ershov Institute of Informatics Systems (Russian Academy of Sciences) and visiting teaching/research positions at Sydney University of Technology (Australia), Nazarbayev University (Kazakhstan), University of Canterbury, Christchurch (New Zealand), Korea Advanced Institute of Science and Technology, Chung-Ang University and Samsung Advanced technology Training Institute (South Korea). Since graduation Nikolay studies Theory of Programming and Applied Logic (in line with tradition founded by Andrey Ershov and Boris Trakhtenbrot). Currently his research interests are around foundations of Formal Methods and their application for analysis of program, information, distributed and multiagent systems.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-software-service-engineering/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/2ba/330_420_2/IMG_1461.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Alexandr Klimchik                            </h5>
+                        <p class="professors-card-info-who">
+                Head of Institute of Robotics and Computer Vision             </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/aleksander-klimchik-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/2ba/330_420_2/IMG_1461.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Alexandr Klimchik</h5>
+                        <p class="professor-description">
+                PhD, Ecole Centrale de Nantes University, France, Associate professor, Head of Industrial Robotics Lab            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Robotics                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Alexandr Klimchik received the Engineering and Master degree in automation control from Belarusian State University of Informatics and Radioelectronics (Belarus) in 2006 and 2007, respectively, Ph.D degrees in mechanical engineering (robotics) from the Ecole Centrale de Nantes (France) in 2011. From 2006 to 2008 Alexandr Klimchik was a Research assistant at Belarusian State University of Informatics and Radioelectronics. From 2008 to 2015 he was a Researcher at Ecole des Mines de Nantes (France) and was a member of robotic team in the Research Institute in Communications and Cybernetics of Nantes (IRCCyN, France). Alexandr is the author of more than 50 research papers. His paper published in “Mechanisms and Machine Theory” (2011, 46 (5), 662-679) is Top-2 sited papers in this journal (Top-5 international journal in mechanical engineering, Impact factor 1.66).
+
+                 </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/86f/330_420_2/IMG_1601.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Igor Gaponov                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Institute of Robotics and Computer Vision             </p>
+                                    <p class="professors-card-info-faculty">
+                Head, Lab of Intelligent Robotics Systems            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/igor-gaponov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/86f/330_420_2/IMG_1601.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Igor Gaponov</h5>
+                        <p class="professor-description">
+                PhD, KOREATECH, South Korea/ MSTU &quot;STANKIN&quot;, Russia , Assistant Professor, Center for Technologies in Robotics and Mechatronics Components            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Mechanical Engineering                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Igor Gaponov received his BS degree in Automation and Control from the Southwest State University, Russia in 2006 and his MS degree in Mechanical Engineering from Korea University of Technology and Education (KoreaTech) in 2008. In 2011, he received Ph. D. degrees from MSTU "Stankin" (Moscow, Russia, major: Robots, Mechatronics, and Robotic Systems") and KOREATECH (major: Mechanical Engineering) after graduating dual-degree doctorate program. He has served as an Assistant Professor at the School of Mechanical Engineering, KoreaTech between 2011 and 2019. Dr. Gaponov has served on program committees of major international conferences and events, including ICRA and IROS. His research interests include nonlinear control theory, exoskeletons and assistive devices, system dynamics, and novel actuators. 
+
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-robotics/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/244/330_420_2/IMG_7623.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Mohammad Reza Bahrami                             </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Institute of Information security and cyberphysical systems            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Cyberphysical Systems            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/mohammad-reza-bahrami-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/244/330_420_2/IMG_7623.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Mohammad Reza Bahrami </h5>
+                        <p class="professor-description">
+                PhD, Peter the Great St. Petersburg Polytechnic University,  Russia , Assistant Professor, Institute of Information security and cyberphysical systems, Lab of Cyberphysical Systems            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Mechanical Engineering                         </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Dr. Mohammad Reza Bahrami received his B.S. degree in Mechanical Engineering from Shahid Bahonar-e-Kerman University, Iran in 2005, MS degree in Mechatronics Engineering from Sharif University of Technology, International Campus, Kish Island, Iran in 2010 and PhD degree in Mechanical Engineering from Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia in 2016. Dr. Bahrami was awarded the Grant for working as university teacher, Program 5-100, Peter the Great St. Petersburg Polytechnic University (in 2016, 2017 and 2018) and Grant for PhD students, Program 5-100, Peter the Great St. Petersburg Polytechnic University (in 2014 and 2015). He worked as an Assistant professor at Peter the Great St. Petersburg Polytechnic University, St. Petersburg, Russia (in 2016-2018), as Visiting professor at ERASMUS +, Aleksandras Stulginskis University, Lithuania (in 2016-2017). Dr. Bahrami`s teaching experience includes the subjects such as Contact Mechanics, System Modeling Using Bond-Graph, Modeling of Contact Mechanics.
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-cyberphysical-systems/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/a5e/330_420_2/IMG_8427 1.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Artem Burmyakov                            </h5>
+                        <p class="professors-card-info-who">
+                PostDoc, Institute of Information security and cyberphysical systems            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Cloud Systems and Virtualization            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/artem-burmyakov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/a5e/330_420_2/IMG_8427 1.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Artem Burmyakov</h5>
+                        <p class="professor-description">
+                PhD, University of Porto,  Portugal, PostDoc, Institute of Information security and cyberphysical systems, Lab of Cloud Systems and Virtualization            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Computer Science                         </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Artem Burmyakov received the PhD degree in Computer Science from the University of Porto in 2016, and the Master's degree in Applied Mathematics and Informatics from Moscow Engineering Physics Institute in 2007. In 2006-2010 he worked as a software developer at CERN, and in 2016-2017 he was a postdoctoral researcher at Seoul National University. His research interests are related to mathematics and algorithms, real-time multiprocessor scheduling, parallel computations, software development                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/7f3/330_420_2/Хан.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Adil Khan                            </h5>
+                        <p class="professors-card-info-who">
+                Professor, Insitute of Data Science and Artificial intelligence            </p>
+                                    <p class="professors-card-info-faculty">
+                Head, Lab of Machine Learning and Knowledge Representation            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/adil-khan-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/7f3/330_420_2/Хан.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Adil Khan</h5>
+                        <p class="professor-description">
+                PhD , Kyung Hee University, South Korea, Professor, Insitute of Data Science and Artificial intelligence, Head, Lab of Machine Learning and Knowledge Representation            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Computer Engineering                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Dr. Adil Khan is a Professor of Computer Science in the School of Information and Computer Engineering, Ajou University, South Korea. He received his Ph.D. in Computer Engineering from Kyung Hee University, South Korea. He has over 8 years of experience in academic research and teaching. His primary research interests include machine learning, data analytics, data modeling, context-aware computing, context recognition by means of wearable and vision sensors, and human-aware mobile application development. His research work, comprising over 30 articles, is published in various international conferences and journals. He is also a reviewer for various IEEE, ACM, Elsevier and other international journals. Dr. Khan has contributed to various research projects: Context-Aware Middleware System for Ubiquitous Systems (funded by Ministry of Commerce, Industry, and Energy, Korea), Ontology-based text Mining for eHealth Data (funded by Microsoft Research Asia), East-West Neo Medical u-Life Care IT Research Center (funded by Ministry of Knowledge Economy, Korea), and Mining Minds Core Technology Exploiting Personal Big Data (funded by Ministry of Trade, Industry and Energy, Korea). He is also assisting a Korean company in designing lightweight machine learning algorithms for their power-efficient low-cost physical activity trackers. He is the co-leader of the UbiLife Research Group and a member of the Knowledge-intensive Software Engineering Research Group at Ajou University.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/mlkr/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/b93/330_420_2/IMG_9820.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Sergey Gorodetskiy                             </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Insitute of Data Science and Artificial intelligence            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Machine Learning and Knowledge Representation            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/sergey-gorodetskiy-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/b93/330_420_2/IMG_9820.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Sergey Gorodetskiy </h5>
+                        <p class="professor-description">
+                PhD, MIPT, Russia, Assistant Professor, Insitute of Data Science and Artificial intelligence, Lab of Machine Learning and Knowledge Representation            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Higher mathematics                         </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Dr. Sergey Gorodetskiy received his PhD degree from MIPT in December 2009. Dr. Sergey Gorodetskiy is an Associate Professor at the department of higher mathematics at Moscow Institute of Physics and Technology (MIPT). He has vast experience (almost 12 years) of teaching mathematics at the university. Subjects taught include analytic geometry, linear algebra, calculus, differential equations, complex analysis, partial differential equations, probability theory and mathematical statistics.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/mlkr/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/4e0/330_420_2/photo_2020-03-30 13.03.00.jpeg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Joseph Alexander Brown                            </h5>
+                        <p class="professors-card-info-who">
+                Associate Professor, Institute of Data Science and Artificial intelligence            </p>
+                                    <p class="professors-card-info-faculty">
+                Head of the Lab of Artificial Intelligence in Game Development            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/joseph-brown-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/4e0/330_420_2/photo_2020-03-30 13.03.00.jpeg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Joseph Alexander Brown</h5>
+                        <p class="professor-description">
+                PhD, Associate Professor, Insitute of Data Science and Artificial intelligence, Head of the Lab of Artificial Intelligence in Game Development            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Computer Science, University of Guelph, Canada                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Joseph Alexander Brown obtained his Ph.D. in Computer Science from the University of Guelph, Ontario, Canada. He completed both his M.Sc. and B.Sc. (Hons) at Brock University, St. Catharines, Ontario, Canada. He has worked for Magna International, the third largest automotive parts manufacturer in the world. He also holds an adjunct professorship at Brock University in the Department of Computer Science. His research interests include biologically inspired computational intelligence, machine learning, game theory, and games design. He has over thirty-five peer-reviewed publications including in the IEEE Trans. on Computational Intelligence and AI in Games. He acts on a number of conference committees for the IEEE.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-game-development/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/656/330_420_2/4152c717-c393-4360-bca4-ee6e6d742c4f_edited.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Yaroslav Kholodov                            </h5>
+                        <p class="professors-card-info-who">
+                Professor, Insitute of Data Science and Artificial intelligence            </p>
+                                    <p class="professors-card-info-faculty">
+                Head, Laboratory of Data Analysis and Bioinformatics            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/yaroslav-kholodov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/656/330_420_2/4152c717-c393-4360-bca4-ee6e6d742c4f_edited.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Yaroslav Kholodov</h5>
+                        <p class="professor-description">
+                Doctor of Sciences (Habilitation), MIPT, Russia, Professor, Insitute of Data Science and Artificial intelligence, Head, Laboratory of Data Analysis and Bioinformatics             </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Applied Mathematics and Physics                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    From 2001 Yaroslav Kholodov had been a senior lecturer at the Department of Computational Mathematics of the Moscow Institute of Physics and Technology (MIPT). In 2007, he became an Associate Professor. During 2009-2012 Yaroslav Kholodov had been a Chairman of the Organizing Board of the Annual MIPT School in High-Performance Computing for Young Scholars. During 2010-2012 Yaroslav had been the Head of the MIPT research and educational center “High-Performance Computing and Distributed Computer Systems”.
+
+Yaroslav gave lectures at the Department of Computational Mathematics of MIPT on the following topics:
+
+Computational Mathematics
+
+Non-Linear Computing
+
+Numerical Modeling of Traffic Flows Dynamics
+
+Yaroslav co-authored 3 study guides and one book. 4 post-graduate students of MIPT received PhDs in Mathematical Modeling, Numerical Methods and Software Complexes under his scientific supervision. Over 25 MIPT students received Master and Bachelor’s degrees in Applied Computing and Software Complexes.
+
+Key research area is represented by intelligent analysis of traffic data and road traffic modeling using adaptive control algorithms. Today safe and effective operation of intelligent traffic control systems requires tools for acquisition and analysis of data about current traffic conditions. Assimilation of large data volumes regarding road traffic received from different sources is among the top areas of this research since it allows to enhance the accuracy of data mining by means of generalization of measurements using numerous approaches.
+
+Yaroslav Kholodov has authored over 50 research works published in peer-reviewed journals, and owns 17 state registration certificates of computer programs. Yaroslav is a member of review committees of the following journals: Mathematical Modeling; Computer Research and Modeling.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-bioinformatics/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/43e/330_420_2/IMG_1729.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Rabab Marouf                             </h5>
+                        <p class="professors-card-info-who">
+                Instructor, Institute of Human and Social sciences            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/rabab-marouf-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/43e/330_420_2/IMG_1729.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Rabab Marouf </h5>
+                        <p class="professor-description">
+                Master of Education in English Language, University of Exeter, College of St. Mark and St. John, Plymouth, UK, Instructor, Institute of Human and Social sciences, Lab of Humanities            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Teaching in Higher Education                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Rabab Marouf has had more than 15 years’ experience in Teaching English for general, specific, and academic purposes at Damascus University, the Open Learning System, and the Syrian Virtual University in Syria. Her job involves tailoring and developing materials to meet students’ needs in computer science and proofreading students theses and research articles.  She has worked as a reviewer of English language teaching and learning materials from Cambridge and Oxford University Press. She holds a BA in English Literature, a postgraduate Diploma in Translation from Damascus University and a MEd Master of Education in Teaching English in Higher Education from Exeter University gained at the University of St. Mark and St. John, UK.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/938/330_420_2/Шынназар.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Shinnazar Seytnazarov                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Cloud Systems and Virtualization            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/shinnazar-seytnazarov/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/938/330_420_2/Шынназар.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Shinnazar Seytnazarov</h5>
+                        <p class="professor-description">
+                Ph.D., Yeungnam University, South Korea, Assistant Professor, Institute of Information security and cyberphysical systems, Lab of Cloud Systems and Virtualization            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Yeungnam University                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Shinnazar received his master’s and Ph.D. degrees in Information and Communication Engineering fr om Yeungnam University, South Korea, in 2014 and 2018, respectively. Afterwards, he was in industry, wh ere he worked on building a wireless indoor localization system. From 2019 to 2021, he was with the Department of Computer Science and Engineering of Seoul National University as a Postdoctoral Research Fellow. His research interests include, but not limited to, wireless and wired systems and networks, distributed systems, and machine learning.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/team-faculty/#block2653" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/aee/330_420_2/P1001283-1-3 (1).jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Mirko Farina                             </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/mirko-farina-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/aee/330_420_2/P1001283-1-3 (1).jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Mirko Farina </h5>
+                        <p class="professor-description">
+                Assistant Professor , PhD, Institute of Human and Social sciences, Lab of Humanities            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                                </ul>
+                                <p class="professor-exact-description">
+                    Mirko (PhD, Sydney; MPhil, Edinburgh; MSc and BA, Milan) is an Assistant Professor of Philosophy at Innopolis University. He is also a Honorary Research Fellow in the Department of Philosophy at King's College London, an Expert Member of the UNESCO Inclusive Policy Lab, and a Member of Task Force 1 on Global Health and Covid 19, at G20, 2021.
+
+He was a Senior Research Fellow (2021-2018) at Saint Petersburg State University, an Assistant Professor of Philosophy (2020-2019) at Nazarbayev University, a British Academy Postdoctoral Fellow (2019-2016) at King's College London, and a visiting scholar (2017) at the National Research University Higher School of Economics (HSE) in Moscow. He was also visiting fellow at Aarhus University, and at Ruhr University Bochum.
+
+Over his career, A/Prof Farina received approximately USD1 Million in research funding. A/Prof Farina has over 40 peer-reviewed publications with many articles in top-tier (Q1) journals (in both philosophy and computer science) and several chapters in prestigious edited collections (e.g. Oxford University Press, MIT Press, Routledge, Springer Nature). During his career A/Prof Farina delivered more than 60 talks at international conferences. A/Prof Farina is currently co-editing a book (with Duncan Pritchard and Andrea Lavazza) on expertise- invited by- Oxford University Press.
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/b38/330_420_2/P1001287-3-4.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Artur Karimov                            </h5>
+                        <p class="professors-card-info-who">
+                Professor            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/artur-karimov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/b38/330_420_2/P1001287-3-4.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Artur Karimov</h5>
+                        <p class="professor-description">
+                PhD, Professor, Institute of Humanities and Social Sciences, Lab of Humanities            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Kazan Federal University                         </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Artur Karimov has PhD in philosophy (2002) and in 2018 has received Habilitation (doctoral) degree in philosophy from Kazan Federal University. Since 2019 he is the Head of the Department of Social Philosophy at KFU. Since 2020 - Professor of the Laboratory of Humanities at Innopolis University. The sphere of Dr. Karimov's scientific interests includes the problems of modern epistemology and ethics.
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/6bb/330_420_2/i-1.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Alena Protasova                            </h5>
+                        <p class="professors-card-info-who">
+                Senior instructor             </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/alena-protasova-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/6bb/330_420_2/i-1.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Alena Protasova</h5>
+                        <p class="professor-description">
+                Master of Governance of Science and Innovation, National Research University Higher School of Economics, Institute of Human and Social sciences, Lab of Humanities            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            National Research University Higher School of Economics                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Alena Protasova is the founder of a research agency for startups startupfairy.ru/eng, Master of Governance of Science and Innovation graduated from the Higher School of Economics, an expert in startup market sizing with experience in corporate accelerators of Yandex and VEB.Innovation, as well as a person who began to develop the student startup community at Innopolis University back in 2016.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/5c4/330_420_2/P1001272-1-1.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Ruslan Saduov                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/ruslan-saduov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/5c4/330_420_2/P1001272-1-1.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Ruslan Saduov</h5>
+                        <p class="professor-description">
+                PhD, Bashkir State University, Russia, Assistant Professor, Institute of Humanities and Social Sciences, Lab of Humanities            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Bashkir State University                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Ruslan Saduov holds a cum laude degree in Philology, Teaching, and Translation from Bashkir State University. He spent a semester in the USA as a holder of prestigious Fulbright scholarship (2014-15) and then taught at Matej Bel University (Slovakia) in 2016 and 2018 as a fellow of the Slovak National Scholarship. For a decade, Ruslan Saduov has taught a number of academic courses at Bashkir State University: Academic Writing, Public Speaking, Business Communication, Forensic Linguistics, Translation, etc. He was a major designer and director of a Fundamental and Applied Linguistics Program. His research areas include multimodal texts (Russian comics), linguistic and cultural landscape, political and media linguistics, cross-cultural communication, translation criticism. Ruslan Saduov is an author of over 90 scholarly publications. Since 2008, he has provided professional translation and interpretation services as a consecutive and simultaneous conference interpreter.
+Direction: Political linguistics, social linguistics, comics studies, translation studies.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/c1d/330_420_2/Сергей Кладько.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Sergei Kladko                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Institute of Human and Social sciences            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/sergey-kladko-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/c1d/330_420_2/Сергей Кладько.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Sergei Kladko</h5>
+                        <p class="professor-description">
+                Assistant Professor, PhD, Bauman State Technical University, Russia, Lab of Human sciences            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Russia                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Linguistics and Intercultural Communication PhD, Bauman State Technical University, Russia, Lab of Human sciences                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Sergei Kladko graduated with honors in Linguistics and Intercultural Communication from Moscow State Linguistic University in 1997 and obtained his Ph.D. in Social Philosophy from Moscow State Linguistic University/Bauman Moscow State Technical University in 2000. He also holds a bachelor degree in Jurisprudence (State Law) from Moscow State Academy of Law (2009). Sergei started his career as an Assistant Teacher at Monmouth School (Wales, UK) and then taught English both for universities and for multinational companies. In 2004 -2010 he worked in the sphere of admission counseling (TOEFL and GMAT (Verbal), essay coaching, and mock interviews), preparing applicants to enter leading business schools and schools of law in the United States and Western Europe. His practical experience in cross-cultural communication also includes marketing communication activities for IPO (AIM) at London Stock Exchange, PR and cross-cultural adaptation of projects in e-education and capital development, and effective cross-cultural facilitation to international managers during their collaboration. Today his scope of interests includes the methods of effective instruction of business, academic, and technical communication and cross-cultural management. Sergei is a member of the International Association for Dialogue Analysis and an active participant of international conferences in Russia and abroad.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/271/330_420_2/полеткин сайт.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Kirill Poletkin                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant professor             </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Intelligent Robotics Systems            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/kirill-polyetkin-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/271/330_420_2/полеткин сайт.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Kirill Poletkin</h5>
+                        <p class="professor-description">
+                PhD, Moscow Aviation Institute            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Nizhny Novgorod State Technical University                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Kirill Poletkin received the diploma (Hons) of electromechanical engineer majoring in aviation devices and measurement systems at Nizhny Novgorod State Technical University (Arzamas branch) in 2001. His diploma thesis was awarded Ministry of Education and Science of the Russian Federation as the best research work at all-Russian student competition in 2002.
+In 2007, he gained the Ph.D. degree at Moscow Aviation Institute (Moscow State Aviation Technological University), Russia.
+Then, he was awarded Humboldt Research Fellowship for Experienced Researchers in 2012 and had successfully performed his Humboldt project titled ‘‘Micromachined contactless suspension with zero spring constant for application as an accelerometer’’ at University of Freiburg, Germany since 2013 until 2015.
+In 2016, he joined Karlsruhe Institute of Technology as a scientist. Since 2019, he is leading his own project titled ‘‘A 2D array of cooperative hybrid levitation micro-actuators’’ funded by German Research Foundation (Deutsche Forschungsgemeinschaft) for 3 years.
+Since 2009 until 2013, he was in Nanyang Technological University, Singapore, where he did postdoctoral research at the School of EEE and MAE. Also, he was previously with Giesecke & Devrient GmbH (G&D), JSC Temp-Avia, Russian Federal Nuclear Center (VNIITF).
+His research interest includes micro- and nano-scales electromechanical devices and processes of the energy transfer within these scales. He is an author of a number of peer-reviewed journal articles, conference papers, two book chapters and an editor of a book.
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-robotics/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/364/330_420_2/IMG_9690.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Guzel Fazlyeva                            </h5>
+                        <p class="professors-card-info-who">
+                Academic Instructor of English, Institute of Human and Social sciences            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/guzel-fazlyeva-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/364/330_420_2/IMG_9690.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Guzel Fazlyeva</h5>
+                        <p class="professor-description">
+                Academic Instructor of English, Novosibirsk State Pedagogical University, Russia , Institute of Human and Social sciences, Lab of Humanities            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Russia                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Specialist Degree, Novosibirsk State Pedagogical University, Russia                         </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            Mathematical modeling, numerical methods and program complexes                        </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    Guzel Fazlyeva earned her Specialist Degree (MA equivalent) (Hons) as a teacher of English from the Novosibirsk State Teacher Training University in 2000. From 2007 to 2014 Guzel worked as Director of Studies of a large private language school based in Ufa. In 2010 she received a degree in HR management from the Bashkir State Teacher Training University.She has been an IELTS and TOEFL tutor since 2010, and her IELTS Academic score is 8.5.&nbsp;<br>
+ <br>
+<ul>
+</ul>
+ <br>
+ <br>                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/d31/330_420_2/IMG_7540.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Sergei Savin                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Center for Technologies in Robotics and Mechatronics Components            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of mechatronics, control and prototyping            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/sergey-savin-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/d31/330_420_2/IMG_7540.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Sergei Savin</h5>
+                        <p class="professor-description">
+                PhD, Southwest State University, Russia, Assistant Professor, Center for Technologies in Robotics and Mechatronics Components, Lab of of mechatronics, control and prototyping            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Belarus                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Southwest State University, Russia                        </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            Automation and control of technological processes and production                        </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    Sergei Savin has obtained a bachelor degree in Automation and Control and an engineering degree in Mechatronics at Southwest State University. He finished a postgraduate program in Dynamics and Reliability of Machines and Equipment and obtained a candidate of science degree in 2014. He currently holds positions of a Senior Researcher position at the Center for Technologies in Robotics and Mechatronics Components at Innopolis University and Associate Professor at the Institute of Robotics. His areas of interest include tensegrity robotics, walking robotics, in-pipe robots, optimal control, dynamics, variable stiffness actuators and machine learning. His current research is focused on compliant robotics and anthropomorphic bipedal robots.<br>
+ <br>
+ Until 2018 he worked as a Docent and Senior Researcher at the department of Mechanics, Mechatronics and Robotics at Southwest State University where he gave lectures on Mathematical Modelling in Mechatronics and Robotics, Information System in Mechatronics and Robotics and on Information System of Mobile Robots for bachelor and master student programs. He authored more than 100 papers and is a co-author of textbooks on applied simulation methods in Robotics.<br>
+ <br>
+ Worked on 11 funded projects, including grants from Russian Scientific Foundation, Russian Foundation for Basic Research and others; was the principle investigator of 6 funded projects, worth 24.8 million rubles (equivalent of $0.39 million). In a member of IEEE,&nbsp;an expert for the Foundation For Assistance To Small Innovative Enterprises (Russia).<br>
+ <br>
+ Speaks English and Russian, understands German.<br>
+ <br>
+ Profiles:&nbsp;<a href="http://www.researchgate.net/profile/Sergei_Savin2">ResearchGate</a>,&nbsp;<a href="http://orcid.org/0000-0001-7954-3144">ORCID</a>, LinkedIn,&nbsp;<a href="http://www.scopus.com/authid/detail.uri?authorId=55978984900">Scopus</a>,&nbsp;<a href="http://scholar.google.ru/citations?user=sVjTfqEAAAAJ&hl=en">Google Scholar</a>.<br>                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/center-robotics" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/141/330_420_2/IMG_1527.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Stanislav Protasov                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Insitute of Data Science and Artificial intelligence            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Machine Learning and Knowledge Representation            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/stanislav-protasov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/141/330_420_2/IMG_1527.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Stanislav Protasov</h5>
+                        <p class="professor-description">
+                PhD, Voronezh State University, Russia, Assistant Professor, Insitute of Data Science and Artificial intelligence, Lab of Machine Learning and Knowledge Representation            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Russia                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            PhD, Voronezh State University, Russia                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Stanislav Protasov graduated from Computer Science department of Voronezh State University in 2009 and defended PhD thesis 2013. Since 2007 Stanislav worked as a software developer at DataArt, DHL, Parallels and Yandex. He was also lecturing at leading Russian universities: HSE, MIPT and Skoltech. Since 2019 he is a visiting professor at Harbour.Space university (Bacelona). Stanislav is now an assistant professor at machine learning and knowledge representation lab of Innopolis University. His works in machine learning, computer vision, data structures and high-performance computing. He authored a book "Let me explain: why programmer needs math".<br>
+ <br>
+<ul>
+</ul>
+ <br>
+ <br>
+<ul>
+</ul>
+ <br>
+ <br>
+<ul>
+</ul>
+ <br>
+ <br>                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/mlkr/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/c0d/330_420_2/IMG_1633.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Artem Kruglov                            </h5>
+                        <p class="professors-card-info-who">
+                PostDoc, Institute of Software Development and Engineering            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Industrial Production of Software            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/artem-kruglov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/c0d/330_420_2/IMG_1633.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Artem Kruglov</h5>
+                        <p class="professor-description">
+                Ural State Forest Engineering University, PostDoc, Institute of Software Development and Engineering, Lab of Industrial Production of Software            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Russia                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            PhD, Ural State Forest Engineering University , Russia                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Artem Kruglov is an assistant lecturer of Faculty of Computer Science and Software Engineering at Innopolis University. He graduated from Ural Federal University in 2013, and got his PhD in 2017 on the topic related to the of image processing and machine vision system development. In 2019 he became a certified Project Management Professional (by PMI). He is working in the industry since 2010, being a director of IT company focused on machine vision systems development. His professional competencies related to the project management, software development process and image processing areas. He is an author of more than 40 publications and 2 patents At the moment, Artem Kruglov is teaching such academic and industrial courses as Architecture of Software Systems, Software Project Management, Requirements Engineering, and Metrics and Empirical Methods. He is also responsible for organizing several scientific conferences and managing R&amp;D projects in the Lab of Industrial Production of Software.<br>
+ <br>
+<ul>
+</ul>
+ <br>
+ <br>                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-industrializing-software/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/c28/330_420_2/IMG_1364.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Georgy Gelvanovsky                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Institute of Human and Social sciences            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Humanities            </p>
+                        <a class="professors-card-info-btn" href="/en/professor/georgiy-gelvanovskiy-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/c28/330_420_2/IMG_1364.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Georgy Gelvanovsky</h5>
+                        <p class="professor-description">
+                PhD, Bashkir State University, Russia, Assistant Professor, Institute of Human and Social sciences, Lab of Humanities            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Russia                        </p>
+                    </li>
+                                                                                                    <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            Linguistics, technical translation                        </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    Georgy V. Gelvanovsky is a PhD in comparative linguistics and a Member of American Association of Teachers of English to Speakers of Other Languages (TESOL). He has been teaching Business English and English for Specific Purposes for 21 years overall, of which 16 years were at university level. During his university employment, Dr. Gelvanovsky, among other things, taught such courses as: Business Correspondence in English, <br>-Understanding Contracts in English, Telephone Conversation in English, Effective Presentations in English, Effective Meetings in English Dr. Gelvanovsky holds a Certificate of Honor issued by the Russian Federation Ministry of Education and Science for the successful contribution into training business specialists. He also trained a team of students which won the second place in All-Russia English Competition for International Business Students. Dr. Gelvanovsky spent 11 months in the USA within the Junior Faculty Development Program (JFDP) majoring in applied linguistics. Dr. Gelvanovsky has extensive translation experience in oil-and-gas sphere. At Innopolis University, Dr. Gelvanovsky teaches English for Academic Purposes, Academic Writing and Research Culture, and English for PhD students. Dr. Gelvanovsky also offers writing consultations for students and faculty.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/cae/330_420_2/Конюхов_1_2_@2x.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Ivan Konyukhov                            </h5>
+                        <p class="professors-card-info-who">
+                Assistant Professor, Insitute of Data Science and Artificial intelligence            </p>
+                                    <p class="professors-card-info-faculty">
+                Lab of Oil and Gas Analysis and Machine learning             </p>
+                        <a class="professors-card-info-btn" href="/en/professor/ivan-konyukhov-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/cae/330_420_2/Конюхов_1_2_@2x.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Ivan Konyukhov</h5>
+                        <p class="professor-description">
+                PhD, Kazan Federal University, Assistant Professor, Insitute of Data Science and Artificial intelligence            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Mathematical modeling, numerical methods, software packages                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    Ivan Konyukhov graduated from the Applied Mathematics Department of the Institute of Computational Mathematics and Informational Technologies of Kazan (Volga region) Federal University (Russian Federation) in 2012 as mathematician and system programmer. In 2016 Ivan Konyukhov successfully defended his PhD thesis in physics and mathematics by specialty 05.13.18 — mathematical modeling, numerical methods and software packages in Kazan Federal University (Russian Federation). Since 2010 he has been holding different positions in the scientific-production center LLC «NPC Nefte-Gaz» (Sarov, Russian Federation) and has been working on the development of software packages aimed at improving of the oil production technologies. From 2012 to 2016 he worked as an assistant at the Applied Mathematics Department of Kazan (Volga region) Federal University (Russian Federation) and was engaged in scientific activities by the specialty and teaching different classes in mathematics and computer science. Since 2017 he has worked as a Researcher of Innopolis University and since January of 2019 he has been holding a position of a postdoctoral researcher of the laboratory of data analysis and machine learning in oil and gas industry.His field of scientific interests is mathematical and computer modeling of the oil fields penetrated by the systems of injecting and producing wells equipped with submersible centrifugal pumping units.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                        <a href="https://innopolis.university/en/lab-oil-gas/" class="professor-card-result__laboratory-page">
+                About laboratory
+            </a>
+                    </div>
+    </div>
+                                                                </div>
+<div class="full-time-professors-result container" id="invited-professors__result" style="display:none">
+                                                                                                                                                                                                                                            <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/ad8/330_420_2/IMG_1004.JPG" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Hein Roelfsema                            </h5>
+                        <p class="professors-card-info-who">
+                Visiting Professor            </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/hein-roelfsema-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/ad8/330_420_2/IMG_1004.JPG" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Hein Roelfsema</h5>
+                        <p class="professor-description">
+                Visiting Professor            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Netherlands                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Utrecht University, Netherlands                        </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            Economics                        </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    Dr. Hein Roelfsema is Associate Professor for International Entrepreneurship at Utrecht University in the Netherlands, where he is the program coordinator of the Master International Management at the Utrecht University School of Economics and the Director of the Utrecht Center for Entrepreneurship. In addition, he chairs the Dutch Centers for Entrepreneurship as well as the Global Entrepreneurship Network in the Netherlands and Europe. He has published extensively on international trade and business, as well as on entrepreneurship and innovation.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/9de/330_420_2/ae691b12-4e0f-48c6-923a-58c327ac407d.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Paolo Ciancarini                            </h5>
+                        <p class="professors-card-info-who">
+                Visiting Professor            </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/paolo-ciancarini-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/9de/330_420_2/ae691b12-4e0f-48c6-923a-58c327ac407d.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Paolo Ciancarini</h5>
+                        <p class="professor-description">
+                Visiting Professor            </p>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            PhD, Università di Pisa, Italy                        </p>
+                                            </li>
+                                                        </ul>
+                                <p class="professor-exact-description">
+                    <p style="text-align: justify;">
+	 Paolo Ciancarini is Professor of Computer Science at the Univ. of Bologna. He has been Director of the School in Computer and Internet Sciences (both graduate and undergraduate). He is member of the PhD school in Informatics. His research interests include: software engineering, software architectures, formal methods, advanced Web technologies for groupware and digital documents, entertainment computing. He has been involved as a site leader in several projects funded by the European Commission. He is member of IFIP TC2 8Software) and TC16 (Entertainment Computing). He is member of ACM, IEEE, and ICGA (International Computer Games Association). He has published several books, more than 50 papers in International Journals and more than 120 papers in International Conferences and Workshops.
+</p>                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/b8c/330_420_2/meyer.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Bertrand Meyer                            </h5>
+                        <p class="professors-card-info-who">
+                Visiting Professor            </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/bertrand-meyer-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/b8c/330_420_2/meyer.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Bertrand Meyer</h5>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            France                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Nancy- Université (Université de Lorraine), France                        </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            computer science                        </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    His other activities include being adjunct professor at Monash University in Melbourne, Australia (1998&ndash;2003) and membership of the French Academy of Technologies. He is also active as a consultant (object-oriented system design, architectural reviews, technology assessment), trainer in object technology and other software topics, and conference speaker. As former head of the ETH Computer Science department, he is one of the founders and the past president of Informatics Europe, the association of European computer science departments.
+                 </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/d4f/330_420_2/7.jpeg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Leon Derczynski                             </h5>
+                        <p class="professors-card-info-who">
+                Visiting Professor            </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/leon-derczynski-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/d4f/330_420_2/7.jpeg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Leon Derczynski </h5>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Great Britain                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            The University of Sheffield, Great Britain                        </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            informatics                         </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    He co-authored the FP7 PHEME project on veracity in social media, and has lead production of successful tools for social media processing. Currently Co-Investigator on the H2020 COMRADES project, Dr. Derczynski also has a strong research community involvement record, organising workshops and evaluations such as W-NUT and a number of SemEval tasks, where he is also a chair. He has publish in high profile venues, including best paper at WEBIST'15 and founding the vision track at EDBT, and regularly delivers invited tutorials and talks.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/5da/330_420_2/bbb3443a-f0c9-4599-9aba-fee69070ce4b_edited.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Sebastian Denef                            </h5>
+                        <p class="professors-card-info-who">
+                Visiting Professor            </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/sebastian-denef-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/5da/330_420_2/bbb3443a-f0c9-4599-9aba-fee69070ce4b_edited.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Sebastian Denef</h5>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Germany                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Delft University of Technology, Germany                        </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            design of media-system                        </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    Sebastian Denef received his PhD in design from Delft University of Technology (TU Delft), Netherlands. He graduated from Darmstad University of Applied Sciences, Germany. He specializes in design of media-system, he was a scholar of the German National Academic Foundation. Sebastian Denef has many publications in international journals and materials of scientific conference.                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/0fb/330_420_2/Kassab.jpg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Mohamad Kassab                            </h5>
+                        <p class="professors-card-info-who">
+                Visiting Professor            </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/mohamad-kassab-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/0fb/330_420_2/Kassab.jpg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Mohamad Kassab</h5>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Canada                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Concordia University, Canada                        </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            computer science                        </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    Mohamad Kassab is a double winner of honorary award in teaching in Concordia University. He assisted several students and PhD students during the research projects. Teaching methods that he usually uses depend on teaching goals. Mohamad Kassab often uses wide range of training strategies in personal interviews, including analazying thematic research, debate, role playing, simulation exercises, group projects and exercises which are based on problem solving. Also, Mohamad has wide industrial experience, e.g. he worked in such companies as “SAP AG”, “Nokia”, “Positron Public safety systems”, “TCC The Computer Center” etc.
+                </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+                <div class="professors-card">
+        <img src="/upload/resize_cache/iblock/fef/330_420_2/18.jpeg" alt="" />
+        <div class="professors-card-info">
+            <h5 class="professors-card-info-title">
+                Tatjana Samsonowa                            </h5>
+                        <p class="professors-card-info-who">
+                Visiting Professor            </p>
+                                    <a class="professors-card-info-btn" href="/en/professor/tatyana-samsonova-/" target="_blank">
+                <i class="icon-ic_plus_big"></i>
+                <span class="hovered-professors-card-info-btn">
+                    Read<i class="icon-ic_arrow_small"></i>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="professors-card-result" style="display: none;">
+        <div class="professors-card-result-img">
+            <img src="/upload/resize_cache/iblock/fef/330_420_2/18.jpeg" alt="" />
+        </div>
+        <div class="professors-card-result-body">
+            <h5 class="professor-name">Tatjana Samsonowa</h5>
+                        <div class="professor-info">
+                <ul class="professor-info-list">
+                                        <li>
+                        <p class="professor-info-list-name">Country:</p>
+                        <p class="professor-info-list-description">
+                            Germany                        </p>
+                    </li>
+                                                                                <li>
+                        <p class="professor-info-list-name">Education:</p>
+                                                <p class="professor-info-list-description">
+                            Technical University Darmstadt, Germany                        </p>
+                                            </li>
+                                                            <li>
+                        <p class="professor-info-list-name">Direction:</p>
+                                                <p class="professor-info-list-description">
+                            business management                         </p>
+                                            </li>
+                                    </ul>
+                                <p class="professor-exact-description">
+                    Tatjana received her PhD from Technical University Darmstadt, Germany. As a scholar of the German National Academic Foundation, she received a graduate degree in European Business Management from the University of Applied Sciences, Worms and studied International Business Administration at the University Iberoamericana, Mexico.                 </p>
+                            </div>
+            <a class="professor-card-result__close">
+                <i class="icon-ic_close"></i>
+            </a>
+                    </div>
+    </div>
+        </div>
+</div></div> 
+							<div class="landing-footer"><div id="block956" class="block-wrapper block-footer-default"><div class="footer-container">
+    <div class="footer-top-wrap">
+        <div class="container">
+            <a href="https://university.innopolis.ru/en/news/" class="footer-top-link-dashed" target="_self">Media</a>
+            <div class="footer-top-link-list "><div class="footer-top-link-list__item">
+                    <a href="https://www.facebook.com/InnopolisU" class="footer-top-link" target="_blank" data-url="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInnopolisU&tabs=timeline&width=340&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true">Facebook</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://vk.com/innopolisu" class="footer-top-link" target="_blank">VK</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.youtube.com/user/InnopolisU" class="footer-top-link" target="_blank">YouTube</a>
+                </div><div class="footer-top-link-list__item">
+                    <a href="https://www.instagram.com/innopolisu/" class="footer-top-link" target="_blank">Instagram</a>
+                </div></div>
+        </div>
+    </div>
+    <div class="footer-bottom-wrap">
+        <div class="container">
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_main">
+                <span class="footer-bottom-link__list-title"><i class="icon-ic_logo"></i></span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item"><a href="https://apply.innopolis.ru/en/index.php" class="footer-bottom-link" target="_blank">Admission</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/cooperation/" class="footer-bottom-link" target="_blank">For Partners</a></li><li class="footer-bottom-link__list-item"><a href="https://university.innopolis.ru/en/about/" class="footer-bottom-link" target="_blank">About University</a></li><li class="footer-bottom-link__list-item"><a href="https://career.innopolis.university/en/" class="footer-bottom-link" target="_blank">Careers</a></li></ul>
+            </div>
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_contacts">
+                <span class="footer-bottom-link__list-title">Contact Us</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203-92-53</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">university@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">1, Universitetskaya Str., Innopolis, 420500, Russia</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://panoroo.com/virtual-tours/NvQZM6B2" class="footer-bottom-link" target="_blank">Virtual tour</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://innopolis.university/en/contacts/" class="footer-bottom-link" target="_blank">More contacts</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_press">
+                <span class="footer-bottom-link__list-title">For Press &amp; Media</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">+7 (843) 203 92 53 доб.117</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">pr@innopolis.ru</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/news/" class="footer-bottom-link" target="_blank">News</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="https://media.innopolis.university/en/events/" class="footer-bottom-link" target="_blank">Events</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="#" class="footer-bottom-link" target="_blank">Media</a>
+                    </li></ul>
+            </div>
+
+            <div class="footer-bottom-link__list-wrap footer-bottom-link__list-wrap_links">
+                <span class="footer-bottom-link__list-title">Useful Links</span>
+                <ul class="footer-bottom-link__list"><li class="footer-bottom-link__list-item">
+                        <a href="http://www.minsvyaz.ru/en/" class="footer-bottom-link" target="_blank">Ministry of Telecom and Mass Communications of the Russian Federation</a>
+                    </li><li class="footer-bottom-link__list-item">
+                        <a href="http://минобрнауки.рф/" class="footer-bottom-link" target="_blank">Ministry of Science and Education of the Russian Federation</a>
+                    </li></ul>
+            </div>
+        </div>
+    </div>
+</div></div></div>
+<button onclick="topFunction()" id="topBtn" title="Go to top">
+    <i class="icon-ic_arrow"></i>
+</button>
+<section class="cookie-popup">
+    <div class="cookie-popup__wrap">
+        <button class="cookie-popup__close icon-ic_close"></button>
+        <h2 class="cookie-popup__title">We use cookies</h2>
+        <p class="cookie-popup__subtitle">
+            This website uses cookies to ensure you get best experience on our website. By continuing to use this site, you agree to this cookie usage. You can learn more in the 
+            <a target="_blank" href="/public/files/Consent_to_the_processing_of_PD_for_UI.pdf" class="cookie-popup__link">privacy policy</a>.        </p>
+        <button class="cookie-popup__button">
+            Got it!        </button>
+
+    </div>
+</section>
+</body>
+
+</html>

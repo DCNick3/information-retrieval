@@ -1,0 +1,543 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Регистрация нового пользователя</title>
+
+<!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-W22QSMB');</script>
+
+<!-- End Google Tag Manager -->
+
+    <!--[if lt IE 9]>
+    <script src="/bitrix/templates/get-in-auth/js/ie/html5shiv/es5-shim.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/ie/html5shiv/html5shiv.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/ie/html5shiv/html5shiv-printshiv.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/ie/respond/respond.min.js"></script><![endif]-->
+    <script src="/bitrix/templates/get-in-auth/js/libs.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/jquery.validate.min.js"></script>
+    <script src="/bitrix/templates/get-in-auth/js/app.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/bitrix/js/main/core/css/core.css?15513402303963" type="text/css" rel="stylesheet" />
+
+
+
+<link href="/bitrix/templates/get-in-auth/components/bitrix/system.auth.authorize/.default/style.css?150935611634" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/get-in-auth/components/bitrix/main.register/.default/style.css?148543593361" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/get-in-auth/components/bitrix/system.auth.forgotpasswd/.default/style.css?150935611643" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/get-in-auth/components/bitrix/system.auth.changepasswd/.default/style.css?150935611643" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?1593178423544313"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1643014814','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'02642ece6294016d788b92e1afe546fa'});</script>
+
+
+
+
+<script type="text/javascript" src="/bitrix/templates/get-in-auth/components/bitrix/main.register/.default/script.js?15893787131033"></script>
+<script type="text/javascript" src="/bitrix/templates/get-in-auth/components/bitrix/system.auth.authorize/.default/script.js?1510043077792"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "7e226904b958c3676b56b5d2836ab54e"]); _ba.push(["host", "apply.innopolis.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/bitrix/templates/get-in-auth/css/base.css">
+
+    <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=QPVKcIQpoQJHJKAdDtM0bTUDUx5yMC86Ei3FSVA8iKgiJsPZ8dKDhlexPWV3l1Faq8AW1pKN7RTYPNRh9UbVy2LofaVks1TK7QVejGzdeIQaMHcJPoQGq06FV7kxZNLDTjEK7Vw6B5kEQhPMC7bzJeyJ*9UI7VQMpIdRLEqDLXc-&pixel_id=1000009725';</script>
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W22QSMB"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+<header id="cnt-header" class="cnt-header-login">
+    <div class="cnt-header-navigation type-dash">
+        <div class="cnt-header-information type-dash">
+            <div class="container">
+                <div class="cnt-header-information_brand float-left">
+                    <a href="/" class="link-display-block"><img src="/bitrix/templates/get-in-auth/img/logo-2.png" alt="Университет Иннополис"></a>
+                </div>
+                <div class="cnt-header-information_cnt float-right type-login">
+                    <div class="mod-contacts inline-contacts display-inline-block-middle">
+                        <div class="mod-contacts_cnt float-left">
+                            <div class="mod-contacts_cnt_l float-left"><span aria-hidden="true" class="fa fa-phone"></span>
+                            </div>
+                            <div class="mod-contacts_cnt_r">+7 (843) 203-92-53 (доб. 191)</div>
+                        </div>
+                        <div class="mod-contacts_cnt float-left">
+                            <div class="mod-contacts_cnt_l float-left"><span aria-hidden="true" class="fa fa-envelope-alt"></span>
+                            </div>
+                            <div class="mod-contacts_cnt_r">admissions@innopolis.ru</div>
+                        </div>
+                    </div>
+                    <div class="mod-language display-inline-block-middle pos-relative dropdown">
+						<div id="dLanguageLabel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button" class="mod-language_cnt dropdown-toggle __event-dropdown-click">ru <span aria-hidden="true" class="fa fa-angle-down"></span></div>
+										<ul aria-labelledby="dLanguageLabel" class="mod-dropdown-menu dropdown-menu">
+														<li><a href="/en/get-in/tests/" title="English version">en</a></li>
+												<li><a href="/get-in/tests/" title="dovuz.innopolis.university">ru</a></li>
+						</ul>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="cnt-login display-table">
+    <div class="display-table-cell">
+        <div class="container">
+            <div class="row row-padding-0 display-table">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table-cell hidden-xs">
+                    <!-- word-->
+                    <div class="cnt-login_word">
+                        <h1 class="h-uppercase h-bold h-font-size-30">ЛИЧНЫЙ КАБИНЕТ</h1>
+
+                                                    <p class="p lead-24 h-addition-border color-6 h-addition-border-width-2">участника грантового конкурса</p>
+                            <p class="p font-size-16"></p>
+                            <p class="p font-size-16 font-family-bold">Открыт приём заявок на участие в грантовом конкурсе для поступающих в 2022 году по программам бакалавриата, магистратуры, аспирантуры.</p><p class="p font-size-16">Для участия в Конкурсе на получение образовательного гранта зарегистрируй личный кабинет, заполни в нем заявку (анкета, документы, тесты), отправь на рассмотрение и пройди на второй этап грантового конкурса. Стань победителем и получи 100% или частичный грант для учебы в Университете Иннополис.</p><p class="p font-size-16"Подробности читай в разделе "Анкета" и "FAQ" после регистрации.</p><p class="p font-size-16 font-family-bold">Подробности читай в разделе "Анкета" и "FAQ" после регистрации.
+</p>                                            </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 display-table-cell">
+                    <h1 class="h-uppercase h-bold h-font-size-30 visible-xs-block">ЛИЧНЫЙ КАБИНЕТ</h1>
+                    <!-- form-->
+                    <div class="cnt-login_form">
+                        <div class="cnt-login_form_tab-header clearfix">
+                            <ul class="list-unstyled clearfix float-right">
+                                <li class="active"><a href="#login-form-tab-1" data-toggle="tab">РЕГИСТРАЦИЯ</a></li>
+                                <li><a href="#login-form-tab-2" data-toggle="tab">ВХОД</a></li>
+                            </ul>
+                        </div>
+                        <div class="tab-content">
+                            <div id="login-form-tab-1" class="tab-pane active">
+                                	<script src="https://www.google.com/recaptcha/api.js"></script>
+
+<h2 class="h3 h-addition-border h-addition-border-width-2 type-2 color-7">Регистрация</h2>
+<form method="post" action="/get-in/tests/" name="regform" enctype="multipart/form-data" data-js_target="">
+									<input type="hidden" name="REGISTER[LOGIN]" value="61ee6a9e27e13">
+																		<div class="form-group">
+							<input size="30" type="text" name="REGISTER[NAME]" value="" placeholder="Ваше имя" class="form-control type-2" required>
+						</div>	
+																					<div class="form-group">
+							<input size="30" type="text" name="REGISTER[PERSONAL_MOBILE]" value="" placeholder="Ваш номер телефона" class="form-control type-2" required>
+						</div>	
+															<div class="form-group">
+						<input size="30" type="email" name="REGISTER[EMAIL]" value="" placeholder="Электронная почта" class="form-control type-2" required>
+					</div>
+												<div class="form-group form-group-pass"><span aria-hidden="true" class="fa fa-pass"></span>
+						<input size="30" type="password" name="REGISTER[PASSWORD]" id="loginFormField3" value="" autocomplete="off" class="form-control type-2" placeholder="Придумайте себе пароль" required>
+					</div>
+												<input type="hidden" name="REGISTER[CONFIRM_PASSWORD]" value="61ee6a9e27e2a">
+																		<div class="form-group select-style-type-2">
+							<select name="REGISTER[UF_USER_TYPE]" title=""   class="__event-select" required>
+								<option value="" disabled selected>Выберите программу обучения</option>
+																																												<option value="CS-1 2015" >Бакалавриат Информатика и вычислительная техника</option>
+																																				<option value="MSBD 2016" >Магистратура Анализ данных и искусственный интеллект</option>
+																																				<option value="MSSSNE 2016" >Магистратура Компьютерная безопасность и сети</option>
+																																				<option value="MSTE 2021" >Магистратура Технологическое предпринимательство</option>
+																																				<option value="MSR 2016" >Магистратура Робототехника и компьютерное зрение</option>
+																																				<option value="MSIT-SE 2015" >Магистратура Управление разработкой программного обеспечения</option>
+																																				<option value="PHD" >Аспирантура Информатика и вычислительная техника</option>
+																																									</select>
+						</div>
+																	<div class="form-group">
+						<input size="30" type="text" name="UF_REFERER" value="" placeholder="Откуда вы о нас узнали?" class="form-control type-2">
+					</div>
+												<input size="30" type="hidden" name="REGISTER[UF_FROM]" value="">
+												<div class="form-group select-style-type-2">
+						<select name="REGISTER[UF_CITIZENSHIP]" id="REGISTER[UF_CITIZENSHIP]" class="__event-select" required>
+							<option value="">Гражданство</option>
+															<option value="Австралия">Австралия</option>
+															<option value="Австрия">Австрия</option>
+															<option value="Азербайджан">Азербайджан</option>
+															<option value="Албания">Албания</option>
+															<option value="Алжир">Алжир</option>
+															<option value="Американские Виргинские острова">Американские Виргинские острова</option>
+															<option value="Ангилья">Ангилья</option>
+															<option value="Ангола">Ангола</option>
+															<option value="Андорра">Андорра</option>
+															<option value="Антарктида">Антарктида</option>
+															<option value="Антигуа и Барбуда">Антигуа и Барбуда</option>
+															<option value="Антильские острова">Антильские острова</option>
+															<option value="Арабские Эмираты">Арабские Эмираты</option>
+															<option value="Аргентина">Аргентина</option>
+															<option value="Армения">Армения</option>
+															<option value="Аруба">Аруба</option>
+															<option value="Афганистан">Афганистан</option>
+															<option value="Багамские острова">Багамские острова</option>
+															<option value="Бангладеш">Бангладеш</option>
+															<option value="Барбадос">Барбадос</option>
+															<option value="Бахрейн">Бахрейн</option>
+															<option value="Беларусь">Беларусь</option>
+															<option value="Белиз">Белиз</option>
+															<option value="Бельгия">Бельгия</option>
+															<option value="Бенин">Бенин</option>
+															<option value="Бермудские острова">Бермудские острова</option>
+															<option value="Болгария">Болгария</option>
+															<option value="Боливия">Боливия</option>
+															<option value="Босния и Герцеговина">Босния и Герцеговина</option>
+															<option value="Ботсвана">Ботсвана</option>
+															<option value="Бразилия">Бразилия</option>
+															<option value="Британские Виргинские острова">Британские Виргинские острова</option>
+															<option value="Британские территории в Индийском Океане">Британские территории в Индийском Океане</option>
+															<option value="Бруней">Бруней</option>
+															<option value="Буркина Фасо">Буркина Фасо</option>
+															<option value="Бурунди">Бурунди</option>
+															<option value="Бутан">Бутан</option>
+															<option value="Вануату">Вануату</option>
+															<option value="Ватикан">Ватикан</option>
+															<option value="Великобритания">Великобритания</option>
+															<option value="Венгрия">Венгрия</option>
+															<option value="Венесуэлла">Венесуэлла</option>
+															<option value="Восточный Тимор">Восточный Тимор</option>
+															<option value="Вьетнам">Вьетнам</option>
+															<option value="Габон">Габон</option>
+															<option value="Гаити">Гаити</option>
+															<option value="Гамбия">Гамбия</option>
+															<option value="Гана">Гана</option>
+															<option value="Гваделупа">Гваделупа</option>
+															<option value="Гватемала">Гватемала</option>
+															<option value="Гвиана">Гвиана</option>
+															<option value="Гвинея">Гвинея</option>
+															<option value="Гвинея-Биссау">Гвинея-Биссау</option>
+															<option value="Германия">Германия</option>
+															<option value="Гибралтар">Гибралтар</option>
+															<option value="Гондурас">Гондурас</option>
+															<option value="Гонконг">Гонконг</option>
+															<option value="Гренада">Гренада</option>
+															<option value="Гренландия">Гренландия</option>
+															<option value="Греция">Греция</option>
+															<option value="Грузия">Грузия</option>
+															<option value="Гуана">Гуана</option>
+															<option value="Дания">Дания</option>
+															<option value="Демократическая республика Конго">Демократическая республика Конго</option>
+															<option value="Джибути">Джибути</option>
+															<option value="Доминика">Доминика</option>
+															<option value="Доминиканская Республика">Доминиканская Республика</option>
+															<option value="Египет">Египет</option>
+															<option value="Замбия">Замбия</option>
+															<option value="Западная Сахара">Западная Сахара</option>
+															<option value="Зимбабве">Зимбабве</option>
+															<option value="Израиль">Израиль</option>
+															<option value="Индия">Индия</option>
+															<option value="Индонезия">Индонезия</option>
+															<option value="Иордания">Иордания</option>
+															<option value="Ирак">Ирак</option>
+															<option value="Иран">Иран</option>
+															<option value="Ирландия">Ирландия</option>
+															<option value="Исландия">Исландия</option>
+															<option value="Испания">Испания</option>
+															<option value="Италия">Италия</option>
+															<option value="Йемен">Йемен</option>
+															<option value="Кабо-Верде">Кабо-Верде</option>
+															<option value="Казахстан">Казахстан</option>
+															<option value="Каймановы острова">Каймановы острова</option>
+															<option value="Камбоджа">Камбоджа</option>
+															<option value="Камерун">Камерун</option>
+															<option value="Канада">Канада</option>
+															<option value="Катар">Катар</option>
+															<option value="Кения">Кения</option>
+															<option value="Кипр">Кипр</option>
+															<option value="Киргизия">Киргизия</option>
+															<option value="Кирибати">Кирибати</option>
+															<option value="Китай">Китай</option>
+															<option value="Кокосовые острова">Кокосовые острова</option>
+															<option value="Колумбия">Колумбия</option>
+															<option value="Коморос">Коморос</option>
+															<option value="Конго">Конго</option>
+															<option value="Корея (Северная)">Корея (Северная)</option>
+															<option value="Корея (Южная)">Корея (Южная)</option>
+															<option value="Коста Рика">Коста Рика</option>
+															<option value="Кот-Д`ивуар">Кот-Д`ивуар</option>
+															<option value="Куба">Куба</option>
+															<option value="Кувейт">Кувейт</option>
+															<option value="Лаос">Лаос</option>
+															<option value="Латвия">Латвия</option>
+															<option value="Лесото">Лесото</option>
+															<option value="Либерия">Либерия</option>
+															<option value="Ливан">Ливан</option>
+															<option value="Ливия">Ливия</option>
+															<option value="Литва">Литва</option>
+															<option value="Лихтенштейн">Лихтенштейн</option>
+															<option value="Люксембург">Люксембург</option>
+															<option value="Маврикий">Маврикий</option>
+															<option value="Мавритания">Мавритания</option>
+															<option value="Мадагаскар">Мадагаскар</option>
+															<option value="Майотта">Майотта</option>
+															<option value="Макао">Макао</option>
+															<option value="Македония">Македония</option>
+															<option value="Малави">Малави</option>
+															<option value="Малайзия">Малайзия</option>
+															<option value="Мали">Мали</option>
+															<option value="Мальдивы">Мальдивы</option>
+															<option value="Мальта">Мальта</option>
+															<option value="Мартиника">Мартиника</option>
+															<option value="Маршалские острова">Маршалские острова</option>
+															<option value="Мексика">Мексика</option>
+															<option value="Микронезия">Микронезия</option>
+															<option value="Мозамбик">Мозамбик</option>
+															<option value="Молдавия">Молдавия</option>
+															<option value="Монако">Монако</option>
+															<option value="Монголия">Монголия</option>
+															<option value="Монтсеррат">Монтсеррат</option>
+															<option value="Морокко">Морокко</option>
+															<option value="Мьянма">Мьянма</option>
+															<option value="Намибия">Намибия</option>
+															<option value="Науру">Науру</option>
+															<option value="Непал">Непал</option>
+															<option value="Нигер">Нигер</option>
+															<option value="Нигерия">Нигерия</option>
+															<option value="Нидерланды">Нидерланды</option>
+															<option value="Никарагуа">Никарагуа</option>
+															<option value="Ниуэ">Ниуэ</option>
+															<option value="Новая Зеландия">Новая Зеландия</option>
+															<option value="Новая Каледония">Новая Каледония</option>
+															<option value="Норвегия">Норвегия</option>
+															<option value="Оман">Оман</option>
+															<option value="Остров Буве">Остров Буве</option>
+															<option value="Остров Норфолк">Остров Норфолк</option>
+															<option value="Остров Питкэрн">Остров Питкэрн</option>
+															<option value="Остров Рождества">Остров Рождества</option>
+															<option value="Остров Св.Елены">Остров Св.Елены</option>
+															<option value="Острова Кука">Острова Кука</option>
+															<option value="Острова Сен-Пьер и Микелон">Острова Сен-Пьер и Микелон</option>
+															<option value="Острова Сент-Киттс и Невис">Острова Сент-Киттс и Невис</option>
+															<option value="Острова Тёркс и Кайкос">Острова Тёркс и Кайкос</option>
+															<option value="Острова Уоллис и Футуна">Острова Уоллис и Футуна</option>
+															<option value="Острова Херд и Макдоналд">Острова Херд и Макдоналд</option>
+															<option value="Острова Шпицберген и Ян-Майен">Острова Шпицберген и Ян-Майен</option>
+															<option value="Пакистан">Пакистан</option>
+															<option value="Палау">Палау</option>
+															<option value="Палестина">Палестина</option>
+															<option value="Панама">Панама</option>
+															<option value="Папуа Новая Гвинея">Папуа Новая Гвинея</option>
+															<option value="Парагвай">Парагвай</option>
+															<option value="Перу">Перу</option>
+															<option value="Польша">Польша</option>
+															<option value="Португалия">Португалия</option>
+															<option value="Пуэрто Рико">Пуэрто Рико</option>
+															<option value="Реюньон">Реюньон</option>
+															<option value="Россия">Россия</option>
+															<option value="Руанда">Руанда</option>
+															<option value="Румыния">Румыния</option>
+															<option value="США">США</option>
+															<option value="Самоа">Самоа</option>
+															<option value="Сан-Марино">Сан-Марино</option>
+															<option value="Санта-Лючия">Санта-Лючия</option>
+															<option value="Саудовская Аравия">Саудовская Аравия</option>
+															<option value="Свазиленд">Свазиленд</option>
+															<option value="Сейшеллы">Сейшеллы</option>
+															<option value="Сенегал">Сенегал</option>
+															<option value="Сент-Винсент и Гренадины">Сент-Винсент и Гренадины</option>
+															<option value="Сербия">Сербия</option>
+															<option value="Сингапур">Сингапур</option>
+															<option value="Сирия">Сирия</option>
+															<option value="Словакия">Словакия</option>
+															<option value="Словения">Словения</option>
+															<option value="Соломоновы острова">Соломоновы острова</option>
+															<option value="Сомали">Сомали</option>
+															<option value="Судан">Судан</option>
+															<option value="Суринам">Суринам</option>
+															<option value="Сьерра-Леоне">Сьерра-Леоне</option>
+															<option value="Таджикистан">Таджикистан</option>
+															<option value="Таиланд">Таиланд</option>
+															<option value="Тайвань">Тайвань</option>
+															<option value="Танзания">Танзания</option>
+															<option value="Того">Того</option>
+															<option value="Токелау">Токелау</option>
+															<option value="Тонга">Тонга</option>
+															<option value="Тринидад и Тобаго">Тринидад и Тобаго</option>
+															<option value="Тувалу">Тувалу</option>
+															<option value="Тунис">Тунис</option>
+															<option value="Туркменистан">Туркменистан</option>
+															<option value="Турция">Турция</option>
+															<option value="Уганда">Уганда</option>
+															<option value="Узбекистан">Узбекистан</option>
+															<option value="Украина">Украина</option>
+															<option value="Уругвай">Уругвай</option>
+															<option value="Фарерские острова">Фарерские острова</option>
+															<option value="Фижи">Фижи</option>
+															<option value="Филиппины">Филиппины</option>
+															<option value="Финляндия">Финляндия</option>
+															<option value="Фолклендские острова">Фолклендские острова</option>
+															<option value="Франция">Франция</option>
+															<option value="Французская Полинезия">Французская Полинезия</option>
+															<option value="Хорватия">Хорватия</option>
+															<option value="Центральноафриканская Республика">Центральноафриканская Республика</option>
+															<option value="Чад">Чад</option>
+															<option value="Черногория">Черногория</option>
+															<option value="Чехия">Чехия</option>
+															<option value="Чили">Чили</option>
+															<option value="Швейцария">Швейцария</option>
+															<option value="Швеция">Швеция</option>
+															<option value="Шри-Ланка">Шри-Ланка</option>
+															<option value="Эквадор">Эквадор</option>
+															<option value="Экваториальная Гвинея">Экваториальная Гвинея</option>
+															<option value="Эль Сальвадор">Эль Сальвадор</option>
+															<option value="Эритрея">Эритрея</option>
+															<option value="Эстония">Эстония</option>
+															<option value="Эфиопия">Эфиопия</option>
+															<option value="ЮАР">ЮАР</option>
+															<option value="Южная Георгия и Южные Сандвичевы острова">Южная Георгия и Южные Сандвичевы острова</option>
+															<option value="Южные Французские территории">Южные Французские территории</option>
+															<option value="Ямайка">Ямайка</option>
+															<option value="Япония">Япония</option>
+													</select>
+					</div>
+
+					<!-- <div class="form-group">
+						<input size="30" type="text" name="REGISTER[UF_CITIZENSHIP]" value="" placeholder="Гражданство" class="form-control type-2" required>
+					</div> -->
+							
+		<div class="form-item">
+			<div class="g-recaptcha" data-sitekey="6LcLKhoUAAAAABDqG_IR2awG5j1U12sQbo73zNVB"></div>
+		</div>
+		<br>
+		<div class="form-group text-center">
+		<input type="submit" name="register_submit_button" value="Регистрация" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170"/>
+	</div>
+	<p class="a-color-1 font-size-12">
+		Нажимая на&nbsp;кнопку &laquo;Регистрация&raquo; Вы&nbsp;даете согласие на&nbsp;обработку своих персональных данных в&nbsp;соответствии со&nbsp;ст.&nbsp;9&nbsp;Федерального закона от&nbsp;27&nbsp;июля 2006&nbsp;г. N&nbsp;152-ФЗ &laquo;О&nbsp;персональных данных&raquo;	</p>
+</form>
+                            </div>
+                            <div id="login-form-tab-2" class="tab-pane">
+                                <div class="forgot-password" style="display: none">
+	<h2 class="h3">Восстановить</h2>
+
+			<p class="p font-size-16 h-addition-border h-addition-border-width-2 type-2 color-7">Для восстановления пароля введите свой email, необходимая информация будет отправлена вам по электронной почте.</p>
+		<form name="bform" method="post" target="_top" action="/get-in/tests/?auth=forgotpasswd&forgot_password=yes">
+			<input type="hidden" name="backurl" value="/get-in/tests/" />			<input type="hidden" name="AUTH_FORM" value="Y">
+			<input type="hidden" name="TYPE" value="SEND_PWD">
+			<div class="form-group"><input type="text" name="USER_EMAIL" maxlength="255" class="form-control type-2 focus" placeholder="Email адрес"/></div>
+
+			<div class="form-group text-center">
+				<input type="submit" name="send_account_info" value="Выслать" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170" />
+			</div>
+			<div class="form-group text-center">
+				<a href="#" onclick="$('.forgot-password').slideUp();$('.system-auth-form').slideDown();" class="a-underline a-color-1 font-size-12">Войти в кабинет</a>
+			</div>
+		</form>	
+		</div><div class="change-password" style="display: none">
+	<h2 class="h3">Новый пароль</h2>
+
+		
+		<p class="p font-size-16 h-addition-border h-addition-border-width-2 type-2 color-7">Чтобы установить новый пароль введите email и контрольную строку, которая была отправлена вам по электронной почте.</p>	
+		<form method="post" action="" name="bform">
+							<input type="hidden" name="backurl" value="/get-in/tests/" />
+						<input type="hidden" name="AUTH_FORM" value="Y">
+			<input type="hidden" name="TYPE" value="CHANGE_PWD">
+			<div class="form-group"><input type="text" name="USER_LOGIN" maxlength="50" value="" class="form-control type-2 focus" placeholder="Email адрес"/></div>
+			<div class="form-group"><input type="text" name="USER_CHECKWORD" maxlength="50" value="" class="form-control type-2 focus" placeholder="Контрольная строка"/></div>
+			<div class="form-group"><input type="password" name="USER_PASSWORD" maxlength="50" value="" class="form-control type-2 focus" placeholder="Новый пароль" /></div>
+			<div class="form-group"><input type="password" name="USER_CONFIRM_PASSWORD" maxlength="50" value="" class="form-control type-2 focus" placeholder="Введите новый пароль еще раз"  /></div>
+
+			<div class="form-group text-center">
+				<input type="submit" name="change_pwd" value="Установить" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170"/>
+			</div>
+
+			<div class="form-group text-center">
+				<a href="#" onclick="$('.forgot-password').slideDown();$('.change-password').slideUp();" class="a-underline a-color-1 font-size-12">Получить контрольную строку</a>
+			</div>
+			<div class="form-group text-center">
+				<a href="#" onclick="$('.system-auth-form').slideDown();$('.change-password').slideUp();" class="a-underline a-color-1 font-size-12">Войти в кабинет</a>
+			</div>
+		</form>
+		</div><div class="system-auth-form">
+	<h2 class="h3">ВХОД</h2>
+
+	<p class="p font-size-16 h-addition-border h-addition-border-width-2 type-2 color-7">Если вы уже зарегистрировались, войдите в личный кабинет, используя свой адрес электронной почты и пароль.</p>
+
+		<form name="form_auth" method="post" target="_top" action="/get-in/tests/?login=yes" data-ajax-key="650894debd06da2f10f4d94a78ad9236">
+		<p class="p f-help-error"></p>
+		<input type="hidden" name="AUTH_FORM" value="Y" />
+		<input type="hidden" name="TYPE" value="AUTH" />
+					<input type="hidden" name="backurl" value="/get-in/tests/" />
+				
+		<div class="form-group">
+			<input type="text" id="loginFormField2" name="USER_LOGIN" maxlength="255" value="" placeholder="Логин" class="form-control type-2 focus">
+		</div>
+				<div class="form-group form-group-pass">
+			<span aria-hidden="true" class="fa fa-pass"></span>
+			<input type="password" id="loginFormField3" name="USER_PASSWORD" maxlength="255" placeholder="Пароль" class="form-control type-2">
+					</div>
+					<div class="form-group">
+				<div class="checkbox type-2">
+					<input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" />
+					<label for="USER_REMEMBER">
+						<div class="icheckbox_square"></div>
+						Запомнить меня					</label>
+				</div>
+			</div>
+				<div class="form-group text-center">
+			<input type="submit" name="Login" value="Войти" class="btn btn-color-7 btn-bold btn-uppercase btn-width-170"/>
+		</div>
+					<div class="form-group text-center">
+				<a href="#" onclick="$('.forgot-password').slideDown();$('.system-auth-form').slideUp();" class="a-underline a-color-1 font-size-12">Забыли свой пароль?</a>
+			</div>
+			</form>
+	<script type="text/javascript">
+					try{document.form_auth.USER_LOGIN.focus();}catch(e){}
+			</script>	
+</div>
+
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    <!-- Код тега ремаркетинга Google -->
+    <div style="display: none;">
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 988049744;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+            <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/988049744/?value=0&amp;guid=ON&amp;script=0"/>
+            </div>
+        </noscript>        
+    </div>
+    <!-- Код тега ремаркетинга Google -->
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(33825874, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/33825874" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+</body>
+</html>

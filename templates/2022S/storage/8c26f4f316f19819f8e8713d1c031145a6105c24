@@ -1,0 +1,273 @@
+<!DOCTYPE html><html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="referrer" content="always"><meta name="solr:type" content="page"><meta property="og:site_name" content="Ministry of Digital Development, Communications and Mass Media of the Russian Federation"/><meta property="og:image" content="https://minsvyaz.ru/uploaded/images/cover_eng_9Iw9s8S.jpg"/><link rel="image_src" href="https://minsvyaz.ru/uploaded/images/cover_eng_9Iw9s8S.jpg"/><meta property="og:locale" content="en_EN"/><meta property="og:url" name="mrc__share_url" content="https://minsvyaz.ru/en/"/><meta property="type" content="article"/><meta property="og:type" content="article"/><link rel="stylesheet" href="/static/CACHE/css/74b0fb5a5728.css" type="text/css" /><link rel="stylesheet" href="/static/CACHE/css/43f08412ca7f.css" type="text/css" media="all" /><link rel="stylesheet" href="/static/CACHE/css/e22af41d9902.css" type="text/css" media="print" /><link rel="stylesheet" href="/static/CACHE/css/58527fd8adf3.css" type="text/css" /><link rel="stylesheet" href="/static/CACHE/css/87ad64468f00.css" type="text/css" media="all" /><link rel="stylesheet" href="/static/CACHE/css/594f9a9c6f99.css" type="text/css" /><style>
+                @media (max-width: 768px) {
+                    #gosmonitor_widget_wrapper_main {
+                        display: none!important;
+                    }
+                }
+                .without_hover, .without_hover span {
+                    pointer-events: none!important;
+                }
+            </style><link href="/static/css/icons.css" rel="stylesheet"><link rel="shortcut icon" href="/static/img/favicon.ico"><script type="text/javascript" src="https://gosmonitor.ru/widget.js?id=212"></script><!--[if lt IE 9]><script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script><script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><![endif]--><!--[if lt IE 8]><link href="/static/css/bootstrap-ie7.css" rel="stylesheet"><![endif]--><script type="text/javascript" language="JavaScript">
+            var _govWidgetLocales = {
+                'ru': 'ru-RU',
+                'en': 'en-EN'
+            };
+
+            _govWidget = {
+                
+                    logoLink: '/en/',
+                
+                fixed: true,
+                cssFixed: true,
+                locale: _govWidgetLocales['en'],
+                
+                    localSearch: "/en/search/?term=%query%&rel=relative&start_date=&end_date=",
+                
+
+                menu: {
+                    
+                        "About Ministry": {
+                            link: "/en/ministry/common/", active: location.href.search("ministry") >= 0
+                        },
+                        "Events": {
+                            link: "/en/events/list/", active: location.href.search("events") >= 0
+                        },
+                        "Activity": {
+                            link: "/en/activity/statistic/", active: location.href.search("activity") >= 0
+                        },
+                        "Contacts": {
+                            link: "/en/contacts/", active: location.href.search("contacts") >= 0
+                        },
+                        "Send message": {
+                            link: "/en/appeals/license/", active: location.href.search("appeals") >= 0
+                        }
+                    
+                },
+                changeLang: function (lang) {
+
+                    window.location = '/ru/';
+                }
+            };
+        </script><link rel="stylesheet" type="text/css" href="/static/css/styles.css" media="all"><meta name="sputnik-verification" content="pLAOb4Ir4k0ei6t1"/><title>
+        
+            Ministry of Digital Development, Communications and Mass Media of the Russian Federation
+        </title></head><body class="inner " data-other-version="/set_lang/ru/" style="margin-top: 60px;"><!-- Sputnik Metrika --><script type="text/javascript">
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+})(document, "script", document.location.protocol);
+</script><!-- /Sputnik Metrika --><div class="nav-bar"><div class="nav-bar__wrap"><div class="header__form"><form id="form" action="/en/search/" method="get" class="form"><div class="search-field column"><div class="search-field-wrap column-wrap"><div class="input-holder" id="inputHolder"><div class="formel-wrapper"><input name="term" id="search" type="text" class="search-field-input" placeholder="Search" autocomplete="off"><button type="submit" class="search-submit" id="searchSubmit">Find</button></div><div class="btn__close"></div></div></div></div></form></div><a class="nav-bar-logo" href="/"></a><div role="main" class="nav-bar__flex"><div class="main-menulink" id="menu_menulink"><span class="arrow"></span><span class="main-text" id="mainMenuText">Menu</span><span class="main-textaligner"></span></div><ul id="menu_list" class="nav-bar-list"><li class="nav-bar-list__item"><a class="" href="/en/ministry/common/">About Ministry</a></li><li class="nav-bar-list__item"><a class="" href="/en/events/list/">Events</a></li><li class="nav-bar-list__item"><a class="" href="/en/activity/">Activity</a></li><li class="nav-bar-list__item"><a class="" href="/en/documents/">Documents</a></li><li class="nav-bar-list__item"><a class="" href="/en/contacts/">Contacts</a></li><li class="menu_toggle_dots"><span>...</span></li></ul></div><div class="nav-bar-append nav-bar-icons"><a class="lang-button" id="langButton" href="/set_lang/ru/">Рус</a><div
+                class="vision-button"
+                style="background-image: url('/static/img/icons/vision.svg');"
+                data-widget="vision"
+            ></div><div class="search-button" id="searchButton"></div></div></div><div class="dropdown_menu" id="dropdown_menu"><ul id="dropdown_menu_list" class="col"></ul></div></div>
+
+
+    <script src='https://pos.gosuslugi.ru/bin/script.min.js'></script>
+<style>
+#js-show-iframe-wrapper{position:relative;display:flex;align-items:center;justify-content:center;width:100%;min-width:293px;max-width:100%;background:linear-gradient(138.4deg,#38bafe 26.49%,#2d73bc 79.45%);color:#fff;cursor:pointer}#js-show-iframe-wrapper .pos-banner-fluid *{box-sizing:border-box}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2{display:block;width:240px;min-height:56px;font-size:18px;line-height:24px;cursor:pointer;background:#0d4cd3;color:#fff;border:none;border-radius:8px;outline:0}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:hover{background:#1d5deb}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:focus{background:#2a63ad}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2:active{background:#2a63ad}@-webkit-keyframes fadeInFromNone{0%{display:none;opacity:0}1%{display:block;opacity:0}100%{display:block;opacity:1}}@keyframes fadeInFromNone{0%{display:none;opacity:0}1%{display:block;opacity:0}100%{display:block;opacity:1}}@font-face{font-family:LatoWebLight;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Light.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:LatoWeb;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Regular.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:LatoWebBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Lato/fonts/Lato-Bold.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:RobotoWebLight;src:url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Light.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Light.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Light.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:RobotoWebRegular;src:url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Regular.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Regular.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Regular.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:RobotoWebBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Bold.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Bold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Roboto/Roboto-Bold.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:ScadaWebRegular;src:url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Regular.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Regular.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Regular.ttf) format("truetype");font-style:normal;font-weight:400}@font-face{font-family:ScadaWebBold;src:url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Bold.woff2) format("woff2"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Bold.woff) format("woff"),url(https://pos.gosuslugi.ru/bin/fonts/Scada/Scada-Bold.ttf) format("truetype");font-style:normal;font-weight:400}
+</style>
+
+<style>
+#js-show-iframe-wrapper{background:#fffaf1}#js-show-iframe-wrapper .pos-banner-fluid .pos-banner-btn_2{width:var(--pos-banner-fluid-3__button-width);min-height:var(--pos-banner-fluid-3__button-min-height);background:#1d5deb;font-size:var(--pos-banner-fluid-3__button-font-size);font-family:RobotoWeb,sans-serif;font-weight:400;padding:0;line-height:1.2}#js-show-iframe-wrapper .bf-3{position:relative;display:grid;grid-template-columns:var(--pos-banner-fluid-3__grid-template-columns);grid-template-rows:var(--pos-banner-fluid-3__grid-template-rows);width:100%;max-width:var(--pos-banner-fluid-3__max-width);box-sizing:border-box}#js-show-iframe-wrapper .bf-3__decor{background:var(--pos-banner-fluid-3__bg-url) var(--pos-banner-fluid-3__bg-position) no-repeat;background-size:var(--pos-banner-fluid-3__bg-size)}#js-show-iframe-wrapper .bf-3__content{display:flex;align-items:center;flex-direction:var(--pos-banner-fluid-3__content-flex-direction);padding:var(--pos-banner-fluid-3__content-padding)}#js-show-iframe-wrapper .bf-3__description{display:flex;flex-direction:column;margin:var(--pos-banner-fluid-3__description-margin)}#js-show-iframe-wrapper .bf-3__text{margin:var(--pos-banner-fluid-3__text-margin);font-size:var(--pos-banner-fluid-3__text-font-size);line-height:1.2;font-family:ScadaWeb,sans-serif;font-weight:700;color:#0b1f33}#js-show-iframe-wrapper .bf-3__text_small{margin-bottom:0;font-size:var(--pos-banner-fluid-3__text-small-size);line-height:1.2;font-family:RobotoWeb,sans-serif;font-weight:400}#js-show-iframe-wrapper .bf-3__btn-wrap{width:var(--pos-banner-fluid-3__button-wrap-width);max-width:var(--pos-banner-fluid-3__button-wrap-max-width)}
+</style >
+<div id='js-show-iframe-wrapper'>
+  <div class='pos-banner-fluid bf-3'>
+    <div class='bf-3__decor'></div >
+
+    <div class='bf-3__content'>
+
+      <div class='bf-3__description'>
+          <span class='bf-3__text'>
+            Проблемы с госуслугами, медленный интернет или плохая связь?
+          </span >
+        <span class='bf-3__text bf-3__text_small'>
+            Напишите об этом&nbsp;— Минцифры поможет с решением
+          </span >
+      </div >
+
+      <div class='bf-3__btn-wrap'>
+        <!-- pos-banner-btn_2 не удалять; другие классы не добавлять -->
+        <button
+          class='pos-banner-btn_2'
+          type='button'
+        >Написать
+        </button >
+      </div >
+
+    </div >
+
+  </div >
+</div >
+<script>
+
+(function(){
+  "use strict";function ownKeys(e,t){var n=Object.keys(e);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(e);if(t)r=r.filter(function(t){return Object.getOwnPropertyDescriptor(e,t).enumerable});n.push.apply(n,r)}return n}function _objectSpread(e){for(var t=1;t<arguments.length;t++){var n=null!=arguments[t]?arguments[t]:{};if(t%2)ownKeys(Object(n),true).forEach(function(t){_defineProperty(e,t,n[t])});else if(Object.getOwnPropertyDescriptors)Object.defineProperties(e,Object.getOwnPropertyDescriptors(n));else ownKeys(Object(n)).forEach(function(t){Object.defineProperty(e,t,Object.getOwnPropertyDescriptor(n,t))})}return e}function _defineProperty(e,t,n){if(t in e)Object.defineProperty(e,t,{value:n,enumerable:true,configurable:true,writable:true});else e[t]=n;return e}var POS_PREFIX_3="--pos-banner-fluid-3__",posOptionsInitialBanner3={"grid-template-columns":"100%","grid-template-rows":"110px auto","max-width":"100%","description-margin":"0 0 16px 0","text-font-size":"16px","text-small-size":"14px","text-margin":"0 0 6px 0","button-font-size":"10px","button-width":"100%","button-min-height":"34px","button-wrap-width":"100%","button-wrap-max-width":"350px","bg-url":"url('https://pos.gosuslugi.ru/bin/banner-fluid/3/banner-fluid-bg-3-small.svg')","bg-size":"contain","bg-position":"center","content-padding":"12px 20px 15px 20px","content-flex-direction":"column"},setStyles=function(e,t){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:POS_PREFIX_3;Object.keys(e).forEach(function(r){t.style.setProperty(n+r,e[r])})},removeStyles=function(e,t){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:POS_PREFIX_3;Object.keys(e).forEach(function(e){t.style.removeProperty(n+e)})};function changePosBannerOnResize(){var e=document.documentElement,t=_objectSpread({},posOptionsInitialBanner3),n=document.getElementById("js-show-iframe-wrapper"),r=n?n.offsetWidth:document.body.offsetWidth;if(r>623)t["grid-template-columns"]="205px 1fr",t["grid-template-rows"]="100%",t["max-width"]="720px",t["bg-size"]="cover",t["bg-position"]="right center",t["content-padding"]="14px 24px 14px 32px",t["content-flex-direction"]="row",t["description-margin"]="0 28px 0 0",t["text-margin"]="0 0 8px 0",t["button-width"]="100px",t["button-wrap-width"]="auto",t["button-wrap-max-width"]="auto";if(r>965)t["grid-template-columns"]="302px 1fr",t["max-width"]="965px",t["content-padding"]="32px 38px 32px 54px",t["description-margin"]="0 34px 0 0",t["text-font-size"]="20px",t["text-small-size"]="16px",t["button-font-size"]="16px",t["button-width"]="152px",t["button-min-height"]="52px";setStyles(t,e)}changePosBannerOnResize(),window.addEventListener("resize",changePosBannerOnResize),window.onunload=function(){var e=document.documentElement,t=_objectSpread({},posOptionsInitialBanner3);window.removeEventListener("resize",changePosBannerOnResize),removeStyles(t,e)};
+})()
+</script>
+ <script>Widget("https://pos.gosuslugi.ru/form", 38)</script>
+    <header role="banner"><div class="container b-header"><div class="row-fluid solo30 clearfix"><div class="col-sm-12 nohpadding"><span class="logo logo-font"><span>Ministry of Digital Development, Communications and Mass Media of the Russian Federation</span></span><span class="pull-right text-right hidden-xs toplinks"><a href="None" class="links-font"
+                               target="_blank">The goals of the Ministry 2012-2018</a><br></span></div></div></div><div class="printonly"><img src="/static/img/logo-print.png" alt="Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации" title="Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации"></div></header><main role="main"><div class="container main-page-block"><h1 class="accessibility-hidden">Main events</h1><div class="row-fluid"><div class="negative-margins"><div class="col-sm-8 col-md-6 col-lg-6 "><h3 class="visible-mob">Main events</h3><div class="row-fluid"><a href="/en/events/40758/"
+                           class="visible-lg visible-md visible-sm "><img src="/preview/r/f4a23d8cf35ef10ec276b4624394a4f1/477/x/477/uploaded/images/cover_eng.jpg"
+                                 alt="Russia has nominated its candidate for the post of Secretary-General of the International Telecommunication Union"
+                                 title="Russia has nominated its candidate for the post of Secretary-General of the International Telecommunication Union"
+                                 width="100%"/></a></div><div class="row-fluid solo date-font mp-event-date hidden-mob">
+                        7 April 2021, 15.54
+                    </div><div class="row-fluid solo mp-event-title"><a href="/en/events/40758/"
+                           class="h1-font-regular "><span>Russia has nominated its candidate for the post of Secretary-General of the International Telecommunication Union</span></a><div class="date-font visible-mob">7 April 2021, 15.54</div></div><div class="row-fluid hidden-mob"><div class="col-lg-12"><div class="negative-margins"><a href="/en/events/list/" class="links-font all-events"
+                               style="font-size: 15px;">All events</a></div></div></div></div><div class="col-sm-4 col-md-3 col-lg-3 events-list __main"><div class="row-fluid  "><a href="/en/events/34346/"
+                           class="item-font ">Alexey Volin Discussed Collaboration in the Field of Media with ASEAN Countries</a><div class="date-font">27 Nov. 2015, 11.38</div></div><div class="row-fluid solo upperline "><a href="/en/events/34343/"
+                           class="item-font ">Public Authorities Should Consider Applications Directed via the System of Prejudicial Appealing</a><div class="date-font">26 Nov. 2015, 10.56</div></div><div class="row-fluid solo upperline "><a href="/en/events/34340/"
+                           class="item-font ">Availability of SIEC Will be Increased for Participants of Electronic Cooperation</a><div class="date-font">25 Nov. 2015, 9.30</div></div><div class="row-fluid solo upperline "><a href="/en/events/34334/"
+                           class="item-font ">Russia Started Creating Into-Telecommunication for FIFA World Cup 2018</a><div class="date-font">24 Nov. 2015, 15.01</div></div></div><div class="row-fluid visible-mob"><div class="col-lg-12"><a href="/en/events/list/" class="links-font all-events"
+                       style="font-size: 15px;">All events</a></div></div><div class="col-sm-12 col-lg-3 col-md-3"><div class="row-fluid bordered-box clearfix"><div class="col-lg-12 bordered-box-container"><h3>Featured</h3><ul class="link-list"><li><a href="/en/ministry/structure/" class="links1-font"
+                                               >
+                                                Structure of the Ministry
+                                            </a></li><li><a href="/en/contacts/media/" class="links1-font"
+                                               >
+                                                Contacts for press
+                                            </a></li></ul></div></div></div></div></div></div>
+
+    
+
+<div class="container-fluid gray hidden-xs main-page-block hidden-mob mp-socialtapes">
+    <div class="container">
+        <div class="row-fluid clearfix">
+            <div class="negative-margins">
+                <h3 class="col-md-9 col-sm-6">Socialmedia</h3>
+
+                <div class="col-md-3 col-sm-6 text-gray">
+                    Find us in social media:&nbsp;&nbsp;
+                    <a href="https://twitter.com/minsvyaz_news" target="_blank" rel="nofollow"
+                       class="fa-stack text-gray">
+                        <i class="fa fa-twitter fa-stack-1x"></i>
+                    </a>
+                    <a href="https://www.facebook.com/minsvyaz?fref=ts" target="_blank" rel="nofollow" class="fa-stack text-gray">
+                        <i class="fa fa-facebook fa-stack-1x"></i>
+                    </a>
+                    
+                    <a href="https://www.instagram.com/minsvyaz_official" target="_blank" rel="nofollow"
+                       class="fa-stack text-gray">
+                        <i class="fa fa-instagram fa-stack-1x"></i>
+                    </a>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row-fluid solo30 clearfix">
+            <div class="negative-margins">
+                
+                    
+                        <div class="col-lg-3 col-md-3 col-sm-4 hidden-xs">
+                    
+                <div class="date-font">6 years, 1 month ago</div>
+                <div class="links2-font"><p>The Internet must be both free and safe, and users must be protected from potential threats <a href="https://t.co/PvattmYTVF" rel="nofollow">https://t.co/PvattmYTVF</a> <a href="https://t.co/3Qc4MHFr2O" rel="nofollow">https://t.co/3Qc4MHFr2O</a></p>
+</div>
+                <a href="http://twitter.com/MedvedevRussiaE" target="_blank" class="links-item">
+                                <span class="text-gray social-icon-fixed-width">
+                                    <span class="fa fa-twitter"></span>
+                                </span>
+                    
+                        Prime Minister of Russia
+                    
+                </a>
+                </div>
+                
+                    
+                        <div class="col-lg-3 col-md-3 col-sm-4 hidden-xs">
+                    
+                <div class="date-font">6 years, 2 months ago</div>
+                <div class="links2-font"><p>RT <a href="https://twitter.com/telegram:" rel="nofollow" target="_blank">@telegram:</a> This week we blocked 78 ISIS-related channels across 12 languages. More info on our official channel: <a href="https://t.co/69Yhn2MCrK" rel="nofollow">https://t.co/69Yhn2MCrK</a></p>
+</div>
+                <a href="http://twitter.com/nnikiforov" target="_blank" class="links-item">
+                                <span class="text-gray social-icon-fixed-width">
+                                    <span class="fa fa-twitter"></span>
+                                </span>
+                    
+                        nnikiforov
+                    
+                </a>
+                </div>
+                
+                    
+                        <div class="col-lg-3 col-md-3 col-sm-4 hidden-xs">
+                    
+                <div class="date-font">6 years, 3 months ago</div>
+                <div class="links2-font">Russia to Install 48 Glonass Navigation Stations in 36 Countries
+Read more: https://t.co/Wn5VpV5Ddl</div>
+                <a href="http://twitter.com/@mission_russian" target="_blank" class="links-item">
+                                <span class="text-gray social-icon-fixed-width">
+                                    <span class="fa fa-twitter"></span>
+                                </span>
+                    
+                        @mission_russian
+                    
+                </a>
+                </div>
+                
+                    
+                        <div class="col-lg-3 col-md-3 col-sm-4 hidden-sm hidden-xs">
+                    
+                <div class="date-font">6 years, 3 months ago</div>
+                <div class="links2-font">Renewed <a href="https://twitter.com/hashtag/Russia" target="_blank" rel="nofollow">#Russia</a> - <a href="https://twitter.com/hashtag/Iran" target="_blank" rel="nofollow">#Iran</a> cooperation in communications, defense sectors: <a href="https://t.co/3WeEJ8C11x" rel="nofollow">https://t.co/3WeEJ8C11x</a></div>
+                <a href="http://twitter.com/SteppeDispatch " target="_blank" class="links-item">
+                                <span class="text-gray social-icon-fixed-width">
+                                    <span class="fa fa-twitter"></span>
+                                </span>
+                    
+                        SteppeDispatch 
+                    
+                </a>
+                </div>
+                
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid main-page-block"><div class="bigmap container-fluid"><div id="bigmap"></div><div class="closemap">Close map</div></div><div class="container nohpadding otherblock mp-contacts"><div class="negative-margins"><div class="col-sm-4 hidden-xs contacts"><h3 class="coord">
+                        Contact information
+                    </h3><div class="arrows"><a href="/en/contacts/" class="links1-font col-sm-12 desktoponly type-block"><span class=" glyphicon icon-leftarrow"></span>All contacts
+                        </a><a href="/en/contacts/media/" class="links1-font col-sm-12 desktoponly type-block"><span class=" glyphicon icon-leftarrow"></span>Press centre
+                        </a><a href="/en/contacts/letter/" class="links1-font col-sm-12 desktoponly type-block"><span class=" glyphicon icon-leftarrow"></span>Letter to the site editors
+                        </a></div></div><div class="col-sm-8 col-xs-12 coord"><div class="item-font col-sm-12 map">
+                            Address:&nbsp; <a href="#" class="links3-font type-inlineblock"
+                                                                     id="map">Presnenskaya Embankment 10, building 2,  Moscow, 125039, Russian Federation  </a></div><div class="col-sm-6 col-xs-12 item-font spravka">
+                            
+                                References
+                                <span class="item1-font type-block">+7 (495) 771-80-00, ext. 8121</span><span class="upperline solo10 type-inlineblock">
+                            Department of external communications
+                        </span><span class="item1-font type-block">
+                                +7 (495) 771-80-00, ext. 8885
+                            </span></div><div class="col-sm-6 col-xs-12 item-font spravka">
+                            
+                                Info
+                                <span class="item1-font type-block">+7 (495) 771-81-00</span></div></div><a href="/en/contacts/" class="col-xs-12 nodesktop type-block solo"
+                   style="padding-bottom: 20px;">All contacts</a></div></div></div></main>
+
+
+<div class="container-fluid gray b-footer"><div class="container"><div class="row-fluid clearfix nohpadding nohpadding-mobile"><div class="col-md-4 col-sm-12 solo50"><a href="/en/" class="logo logo-font logo-en"><span>Ministry of Digital Development, Communications and Mass Media of the Russian Federation</span></a><div class="b-footer-address">
+                                Address:
+                                <a href="/en/contacts/">Presnenskaya Embankment 10, building 2,  Moscow, 125039, Russian Federation  </a></div>
+                        
+                        
+                            Reference: +7 (495) 771-81-00
+                        
+                        <div><a href="/en/search/" class="f-icons"><span class="f-search"></span></a><a href="/set_lang/ru/" class="f-icons">Рус</a><a href="/en/subscription/#rss" class="f-icons"><span class="f-rss"></span></a></div></div><div class="col-md-8 col-sm-12 solo50"><nav role="navigation"><div class="col-md-4 col-sm-4"><div class="footer"><ul><li><a href="/en/ministry/common/"
+                                               class="links-font">About Ministry</a></li><li><a href="/opendata/"
+                                                   class="links-font">Open data</a></li><li><a href="/en/subscription/"
+                                                   class="links-font">Subscription</a></li></ul></div></div><div class="col-md-4 col-sm-4"><div class="footer"><ul><li><a href="/en/contacts/"
+                                               class="links-font">Contacts</a></li><li><a href="/en/contacts/media/"
+                                               class="links-font">Press centre</a></li></ul></div></div><div class="col-md-4 col-sm-4"><div class="footer"><ul><li><a href="/en/pages/about/"
+                                               class="links-font">About the site</a></li><li><a href="/en/contacts/letter/"
+                                               class="links-font">Report an issue</a></li><li><a href="https://cnt.sputnik.ru/report/894092"
+                                               class="links-font">Attendance statistics</a></li></ul></div></div></nav></div></div><footer role="contentinfo"><div class="row-fluid"><div class="col-md-12 topborder"></div></div></footer></div></div><div class="printonly"><p>
+                Официальный интернет-ресурс Министерства цифрового развития, связи и массовых коммуникаций Российской Федерации. Свидетельство о регистрации СМИ Эл № ФС77-32622 от 22 июля 2008 г.
+            </p></div><script type="text/javascript" src="/static/CACHE/js/2eaffab22a5c.js"></script><script type="text/javascript" src="/static/CACHE/js/825267418a03.js"></script><script>
+            window.mks = window.mks || {};
+            
+                window.mks.address = '125039, г. Москва, Пресненская наб., д.10, стр.2, IQ-квартал';
+            
+        </script><script type="text/javascript" src="https://api-maps.yandex.ru/2.1/?apikey=2bdda94f-6251-4f37-b87a-504a8db49c0a&lang=ru-RU"></script><script src="/static/js/jquery.cookie.js"></script><script src="/static/js/apps/index.js"></script></body></html>

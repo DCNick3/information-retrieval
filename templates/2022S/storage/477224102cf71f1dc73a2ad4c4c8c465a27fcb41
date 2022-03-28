@@ -1,0 +1,70 @@
+<!doctype html><!--[if lt IE 7 ]> <html lang="en" class="lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7 ]>    <html lang="en" class="lt-ie10 lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8 ]>    <html lang="en" class="lt-ie10 lt-ie9"> <![endif]--><!--[if IE 9 ]>    <html lang="en" class="lt-ie10"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="description" content="Affordable and convenient language certification from Duolingo."><meta name="viewport" content="width=device-width,maximum-scale=1,initial-scale=1,minimum-scale=1,user-scalable=yes"><meta name="google" value="notranslate"><meta content="https://d23cwzsbkjbm45.cloudfront.net/static/images/testcenter/favicon.png" itemprop="image"><meta name="google-site-verification" content="huJpx9Nqa6VBPiBR9lDBAgSPB835YHozn6sPzr-7n2s"><meta name="ahrefs-site-verification" content="25a3b0226b2078b3e2fc7cafb4af51fdb016a98aa95f3fb05f015db8f4906e0e"><meta property="fb:app_id" content="234536436609303"><meta name="facebook-domain-verification" content="3nxcgx99hvbagv2dwwncapohp6yiqb"><meta property="og:title" content="Duolingo English Test"><meta property="og:description" content="Affordable and convenient language certification from Duolingo."><meta property="og:type" content="website"><meta property="og:url" content="https://englishtest.duolingo.com/"><meta property="og:image" content="https://d23cwzsbkjbm45.cloudfront.net/static/images/testcenter/splash/test_takers/universities.png"><link rel="shortcut icon" href="https://d23cwzsbkjbm45.cloudfront.net/static/images/testcenter/favicon.ico"><title>Duolingo English Test</title><link rel="stylesheet" href="https://d23cwzsbkjbm45.cloudfront.net/static/css/nodeVendor_reactjs-popup_testcenter_5d3a5540f414a6c99772.css"><link rel="stylesheet" href="https://d23cwzsbkjbm45.cloudfront.net/static/css/main_testcenter_78b3d1cdc979756ae7c7.css"> <script>(function(){if("undefined"==typeof Symbol||"undefined"==typeof Proxy)return!1;try{return new Function("(a = 0) => a")(),new Function("class MyEvent extends Event{}")(),!1===new Function("return new Boolean(Symbol.match)")()?!1:(new Function("new.target")(),new Function('class ಠ_ಠ extends Array {constructor(j = "a", ...c) {const q = (({u: e}) => {return { [`s${c}`]: Symbol(j) };})({});super(j, q, ...c);}}new Promise((f) => {const a = function* (){return "𠮷".match(/./u)[0].length === 2 || true;};for (let vre of a()) {const [uw, as, he, re] = [new Set(), new WeakSet(), new Map(), new WeakMap()];break;}f(new Proxy({}, {get: (han, h) => h in han ? han[h] : "42".repeat(0o10)}));}).then(bi => new ಠ_ಠ(bi.rd));')(),!0)}catch(n){return!1}})()||(window.location.href="/errors/not-supported.html")</script><script>(function(w,d,s,l,i){ /*Window, Document, Script, dataLayer, GTM ID */
+        w[l]=w[l]||[];
+        w[l].push(
+          {
+            'gtm.start': new Date().getTime(),
+            event:'gtm.js'
+          }
+        );
+        var loc = w.location;
+        w[l].push(
+          {
+          /* The landing page window URL without the fragment. */
+            'originalLocation': loc.protocol + '//' + loc.host + loc.pathname + loc.search
+          }
+        );
+        var f = d.getElementsByTagName(s)[0];
+        var j = d.createElement(s);
+        var dl = l!='dataLayer' ? '&l=' + l : '';
+        j.async=true;
+        j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+        f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-5DGPVNT');</script></head> <body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DGPVNT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div id="fb-root"></div><div id="app" onclick=""></div><script src="https://js.stripe.com/v2/"></script><script>
+        var duo = duo || {};
+
+        duo.in_china = false;
+        duo.ui_language = 'en';
+        duo.supported_ui_languages = ['de', 'en', 'es', 'fr', 'hi', 'hu', 'id', 'it', 'ja', 'ko', 'pt', 'ru', 'th', 'tr', 'vi', 'zs', 'zt'];
+        duo.zendesk_language = 'en-us';
+        duo.languages = JSON.parse('{"zs": {"label": "\u4e2d\u6587", "locale": "zh-CN"}, "zt": {"label": "\u4e2d\u6587 (\u7e41\u9ad4)", "locale": "zh-CN"}, "en": {"label": "English", "locale": "en-US"}, "fr": {"label": "Fran\u00e7ais", "locale": "fr-FR"}, "de": {"label": "Deutsch", "locale": "de-DE"}, "hi": {"label": "\u0939\u093f\u0902\u0926\u0940", "locale": "hi-IN"}, "hu": {"label": "Magyar", "locale": "hu-HU"}, "id": {"label": "Bahasa Indonesia", "locale": "id-ID"}, "it": {"label": "Italiano", "locale": "it-IT"}, "ja": {"label": "\u65e5\u672c\u8a9e", "locale": "ja-JP"}, "ko": {"label": "\ud55c\uad6d\uc5b4", "locale": "ko-KR"}, "pt": {"label": "Portugu\u00eas", "locale": "pt-BR"}, "ru": {"label": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439", "locale": "ru-RU"}, "es": {"label": "Espa\u00f1ol", "locale": "es-ES"}, "th": {"label": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22", "locale": "th-TH"}, "tr": {"label": "T\u00fcrk\u00e7e", "locale": "tr-TR"}, "vi": {"label": "Ti\u1ebfng Vi\u1ec7t", "locale": "vi-VN"}}');
+        duo.language_plural_rules = JSON.parse('{"de": "(n != 1) ? 1 : 0", "en": "(n != 1) ? 1 : 0", "es": "(n != 1) ? 1 : 0", "fr": "(n > 1) ? 1 : 0", "hi": "(n != 1) ? 1 : 0", "hu": "(n != 1) ? 1 : 0", "id": "0", "it": "(n != 1) ? 1 : 0", "ja": "0", "ko": "0", "pt": "(n != 1) ? 1 : 0", "ru": "n % 10 === 1 && n % 100 !== 11 ? 0 : n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 10 || n % 100 >= 20) ? 1 : 2", "th": "0", "tr": "(n > 1) ? 1 : 0", "vi": "0", "zt": "0", "zs": "0"}');
+        duo.detectedCountry = 'RU';
+        duo.ip = '188.130.155.148';
+        duo.isBlockedCountry = false;
+        duo.states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "District of Columbia", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa", "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan", "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire", "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma", "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas", "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"];
+        duo.state_abbrevs = ["AK", "AL", "AR", "AZ", "CA", "CO", "CT", "DC", "DE", "FL", "GA", "HI", "IA", "ID", "IL", "IN", "KS", "KY", "LA", "MA", "MD", "ME", "MI", "MN", "MO", "MS", "MT", "NC", "ND", "NE", "NH", "NJ", "NM", "NV", "NY", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VA", "VT", "WA", "WI", "WV", "WY"];
+        duo.scoreConcordances = [['Duolingo English Test', 'TOEFL iBT', 'IELTS', 'CEFR'], [100, null, null, 'C2'], [99, 120, 9, 'C2'], [98, 119, 9, 'C2'], [97, 118, 8.5, 'C2'], [96, 117, 8.5, 'C2'], [95, 116, 8.5, 'C2'], [94, 115, 8.5, 'C2'], [93, 115, 8, 'C2'], [92, 114, 8, 'C2'], [91, 113, 8, 'C2'], [90, 112, 8, 'C1'], [89, 112, 8, 'C1'], [88, 111, 8, 'C1'], [87, 110, 8, 'C1'], [86, 109, 7.5, 'C1'], [85, 109, 7.5, 'C1'], [84, 108, 7.5, 'C1'], [83, 108, 7.5, 'C1'], [82, 107, 7.5, 'C1'], [81, 106, 7.5, 'C1'], [80, 105, 7.5, 'C1'], [79, 105, 7.5, 'C1'], [78, 104, 7, 'C1'], [77, 103, 7, 'C1'], [76, 103, 7, 'C1'], [75, 102, 7, 'C1'], [74, 101, 7, 'C1'], [73, 101, 7, 'C1'], [72, 100, 7, 'C1'], [71, 99, 7, 'C1'], [70, 98, 7, 'B2'], [69, 98, 7, 'B2'], [68, 97, 6.5, 'B2'], [67, 96, 6.5, 'B2'], [66, 95, 6.5, 'B2'], [65, 95, 6.5, 'B2'], [64, 94, 6.5, 'B2'], [63, 93, 6.5, 'B2'], [62, 92, 6.5, 'B2'], [61, 92, 6.5, 'B2'], [60, 91, 6, 'B2'], [59, 90, 6, 'B2'], [58, 89, 6, 'B2'], [57, 88, 6, 'B2'], [56, 87, 6, 'B2'], [55, 86, 6, 'B2'], [54, 85, 6, 'B2'], [53, 84, 6, 'B2'], [52, 84, 6, 'B2'], [51, 83, 6, 'B2'], [50, 82, 6, 'B1'], [49, 81, 5.5, 'B1'], [48, 80, 5.5, 'B1'], [47, 79, 5.5, 'B1'], [46, 78, 5.5, 'B1'], [45, 77, 5.5, 'B1'], [44, 76, 5.5, 'B1'], [43, 75, 5.5, 'B1'], [42, 74, 5.5, 'B1'], [41, 73, 5.5, 'B1'], [40, 72, 5.5, 'B1'], [39, 71, 5.5, 'B1'], [38, 70, 5, 'B1'], [37, 69, 5, 'B1'], [36, 68, 5, 'B1'], [35, 67, 5, 'B1'], [34, 67, 5, 'B1'], [33, 66, 5, 'B1'], [32, 65, 5, 'B1'], [31, 64, 5, 'B1'], [30, 63, 5, 'A2'], [29, 62, 4.5, 'A2'], [28, 61, 4.5, 'A2'], [27, 60, 4.5, 'A2'], [26, 60, 4.5, 'A2'], [25, null, null, 'A2'], [24, null, null, 'A2'], [23, null, null, 'A2'], [22, null, null, 'A2'], [21, null, null, 'A2'], [20, null, null, 'A2'], [19, null, null, 'A2'], [18, null, null, 'A2'], [17, null, null, 'A2'], [16, null, null, 'A2'], [15, null, null, 'A2'], [14, null, null, 'A2'], [13, null, null, 'A2'], [12, null, null, 'A2'], [11, null, null, 'A2'], [10, null, null, 'A1'], [9, null, null, 'A1'], [8, null, null, 'A1'], [7, null, null, 'A1'], [6, null, null, 'A1'], [5, null, null, 'A1'], [4, null, null, 'A1'], [3, null, null, 'A1'], [2, null, null, 'A1'], [1, null, null, 'A1'], [0, null, null, 'A1']];
+        duo.test_name = 'Duolingo English Test';
+        duo.literacy_subscore_name = 'Literacy';
+        duo.conversation_subscore_name = 'Conversation';
+        duo.comprehension_subscore_name = 'Comprehension';
+        duo.production_subscore_name = 'Production';
+        duo.subscoreNames = {
+            literacy: 'Literacy',
+            conversation: 'Conversation',
+            comprehension: 'Comprehension',
+            production: 'Production',
+        }
+        duo.static_root = 'https://d23cwzsbkjbm45.cloudfront.net/static';
+        duo.paypal_client_id = 'AY3sODpmn65BNegjtTFTq0zhHGXlp8GPJdcCEwGuQ-7lOGfUvwsB5YztjUwope7uStj4I8NA5rkh4xXK';
+        duo.prod_cdn = 'https://d23cwzsbkjbm45.cloudfront.net';
+        duo.test_price_cents = 4900;
+        duo.review_period = 48;
+        duo.resubmitDays = 14;
+        duo.RETAKE_WINDOW = 30;
+        duo.RETAKE_MAX_TESTS = 2;
+        duo.credit_days = 21
+        duo.track_mixpanel = true;
+        duo.show_price_in_test_taker_home = false;
+        duo.show_price_in_score_estimate = false;
+        duo.environment = 'master';
+        duo.code_version = 'c961adaf675159190e0075af8d1624b1317774fa';
+        duo.disable_practice_warning = false;
+        duo.disable_hdyhau = true;
+        duo.disable_buy = true;
+        duo.threshold_for_keyboard_detection = 200
+
+        duo.minutes = duo.minutes || {};
+        duo.minutes.onboarding = 5;
+        duo.minutes.test = 45;
+        duo.minutes.interview = 10;</script><script></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/runtime_testcenter_a3aea2c3cd42f2680047.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_react-modal_testcenter_3430da6d5e10f5999508.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_reactjs-popup_testcenter_ad55137e0f92c468637e.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_react-dom_testcenter_b21e1f2276e714e3c01a.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_react-is_testcenter_bf7b6744b515c5e04bf0.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_react_testcenter_39d5114c61d4a1e7dea2.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_backbone_testcenter_a66865c73d1c05568099.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_jquery_testcenter_a3d3432ea6c8fa4e23a7.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_mustache_testcenter_3a1b26639a5650dec7d2.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_react-lifecycles-compat_testcenter_9bf8839041905967955b.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_react-to-print_testcenter_a2e553de84453c6fdfd5.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/nodeVendor_underscore_testcenter_ad99d61a7191da00871a.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/libVendor~main_testcenter_a8cb160671a1031f76bc.js"></script><script src="https://d23cwzsbkjbm45.cloudfront.net/static/js/main_testcenter_ba633f1aaacd4484a69c.js"></script><script>!function(e){var n,o="facebook-jssdk";e.getElementById(o)||((n=e.createElement("script")).id=o,n.async=!0,n.src="//connect.facebook.net/en_US/sdk.js",e.getElementsByTagName("head")[0].appendChild(n))}(document),window.fbAsyncInit=function(){FB.init({appId:"234536436609303",cookie:!0,oauth:!0,xfbml:!0,version:"v2.0"})}</script><script>piAId="209162",piCId="1262",function(){function t(){var t=document.createElement("script");t.type="text/javascript",t.src=("https:"==document.location.protocol?"https://pi":"http://cdn")+".pardot.com/pd.js";var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}window.attachEvent?window.attachEvent("onload",t):window.addEventListener("load",t,!1)}()</script></body></body></html>

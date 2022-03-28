@@ -1,0 +1,156 @@
+[
+{
+	"title" 	: "Introduction to multithreading",
+	"id"		: "5001",
+	"parentId" 	: null,
+	"tags"		: ["parallel", "iu", "summer school", "lock", "synchronized", "atomic", "java", "thread"],
+	"author"	: "Stanislav Protasov",
+	"url"		: "https://yadi.sk/i/HnPbI1z-3QkmDv",
+	"description"	: "Mutlithreading and multicore programming. Synchroniation patterns (in Java): locks, synchronized, atomics",
+	"contentType"	: "video",
+	"image"		: ""
+},
+{
+	"title" 	: "Introduction to multithreading",
+	"id"		: "5002",
+	"parentId" 	: "5001",
+	"tags"		: ["parallel", "iu", "summer school", "lock", "synchronized", "atomic", "java", "thread"],
+	"author"	: "Stanislav Protasov",
+	"url"		: "https://yadi.sk/d/VHO55x2m3QkmMg",
+	"description"	: "Mutlithreading and multicore programming. Synchroniation patterns (in Java): locks, synchronized, atomics",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title" 	: "Problems of multithread programming",
+	"id"		: "5003",
+	"parentId" 	:  null,
+	"tags"		: ["parallel", "iu", "summer school", "ABA problem", "lock", "deadlock","race condition", "java"],
+	"author"	: "Stanislav Protasov",
+	"url"		: "https://yadi.sk/i/EL_u_ebO3QkmPr",
+	"description"	: "Problems specific to multithread programs: data race condition, ABA, lost wakup, abandoned locks, livelocks and deadlocks",
+	"contentType"	: "video",
+	"image"		: ""
+},
+{
+	"title" 	: "Problems of multithread programming",
+	"id"		: "5004",
+	"parentId" 	: "5003",
+	"tags"		: ["parallel", "iu", "summer school", "ABA problem", "lock", "deadlock","race condition", "java"],
+	"author"	: "Stanislav Protasov",
+	"url"		: "https://yadi.sk/d/JUGya70W3QkmRe",
+	"description"	: "Problems specific to multithread programs: data race condition, ABA, lost wakup, abandoned locks, livelocks and deadlocks",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title" 	: "Искусственный интеллект: что это?",
+	"id"		: "5006",
+	"parentId" 	: null,
+	"tags"		: ["AI", "ML"],
+	"author"	: "Stanislav Protasov",
+	"url"		: "/files/ai-junior.zip",
+	"description"	: "Презентация о видах искусственного интеллекта и о том, как наш мозг даёт идеи для развития ИИ",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title" 	: "Using Deep Features for Video Scene Detection and Annotation",
+	"id"		: "5007",
+	"parentId" 	: null,
+	"tags"		: ["AI", "ML", "CV", "paper"],
+	"author"	: "Stanislav Protasov",
+	"url"		: "/files/deep-features-video.pdf",
+	"description"	: "This paper concerns scene detection and annotation, and specifically, the task of video structure mining for video indexing using deep features. The paper proposes and implements a pipeline that consists of feature extraction and filtering, shot clustering and labeling stages. This is a pre-print of an article published in 'Signal Image and Video Processing' (SIVP). The final authenticated version is available online at <a href='http://dx.doi.org/10.1007/s11760-018-1244-6' target='_blank'>http://dx.doi.org/10.1007/s11760-018-1244-6</a>",
+	"contentType"	: "article",
+	"image"		: ""
+},
+{
+	"title"		: "Introduction to AI",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6000",
+	"parentId"	: null,
+	"tags"		: ["Practical AI"],
+	"url"		: "/files/PAI/0-PAI-2018-intro.pdf",
+	"description"	: "AI history and applications",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title"		: "Practical AI: knowledge",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6001",
+	"parentId"	: null,
+	"tags"		: ["Practical AI", "expert systems", "CLIPS"],
+	"url"		: "/files/PAI/1-PAI-2018-knowledge.pdf",
+	"description"	: "Representing knowledge in AI systems. Production systems, math systems, ontologies, Bayesian networks",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title"		: "Practical AI: text processing",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6002",
+	"parentId"	: null,
+	"tags"		: ["Practical AI", "NLP"],
+	"url"		: "/files/PAI/2-PAI-2018-text.pdf",
+	"description"	: "Context-free grammas, syntax analysis, distributional semantics, text embedding with SVD and word2vec",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title"		: "Practical AI: speech processing",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6003",
+	"parentId"	: null,
+	"tags"		: ["Practical AI", "speech", "NLP"],
+	"url"		: "/files/PAI/3-PAI-2018-voice.pdf",
+	"description"	: "Speech2text and text2speech approaches",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title"		: "Practical AI: classic computer vision",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6004",
+	"parentId"	: null,
+	"tags"		: ["Practical AI", "CV", "opencv"],
+	"url"		: "/files/PAI/4-PAI-2018-CV.pdf",
+	"description"	: "Dealing with images using classic computer vision pipelines",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title"		: "Practical AI: computer vision with machine learning",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6005",
+	"parentId"	: null,
+	"tags"		: ["Practical AI", "CV", "ML"],
+	"url"		: "/files/PAI/5-PAI-2018-CVML.pdf",
+	"description"	: "Solving computer vision tasks with machine learning techniques. Considering Harris detectors, SIFT and YOLO.",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title"		: "Practical AI: machine learning",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6006",
+	"parentId"	: null,
+	"tags"		: ["Practical AI", "ML", "SVM", "ANN"],
+	"url"		: "/files/PAI/6-PAI-2018-ML.pdf",
+	"description"	: "Hands-on experience with ML for everyday life. Major ML pipeline. Well-known problems. Comparing fully-connected and convolutional networks.",
+	"contentType"	: "presentation",
+	"image"		: ""
+},
+{
+	"title"		: "Source code for 'Practical AI' course",
+	"author"	: "Stanislav Protasov",
+	"id"		: "6007",
+	"parentId"	: null,
+	"tags"		: ["Practical AI"],
+	"url"		: "https://github.com/str-anger/practical-ai",
+	"description"	: "Code snippets, demos and labs for the course",
+	"contentType"	: "code",
+	"image"		: ""
+}
+]
